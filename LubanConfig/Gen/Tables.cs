@@ -5,41 +5,35 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-/*
-{name}.cs
-Create By Ben
-*/
-
 using Bright.Serialization;
-using SimpleJSON;
+
 
 
 namespace cfg
 { 
-   
-public sealed partial class Tables
+public partial class Tables
 {
     public localization.TBLocalization TBLocalization {get; }
-    public item.TbItem TbItem {get; }
+    public launch.TBLaunch TBLaunch {get; }
 
-    public Tables(System.Func<string, JSONNode> loader)
+    public Tables(System.Func<string, ByteBuf> loader)
     {
         var tables = new System.Collections.Generic.Dictionary<string, object>();
         TBLocalization = new localization.TBLocalization(loader("localization_tblocalization")); 
         tables.Add("localization.TBLocalization", TBLocalization);
-        TbItem = new item.TbItem(loader("item_tbitem")); 
-        tables.Add("item.TbItem", TbItem);
-        PostInit();
+        TBLaunch = new launch.TBLaunch(loader("launch_tblaunch")); 
+        tables.Add("launch.TBLaunch", TBLaunch);
 
+        PostInit();
         TBLocalization.Resolve(tables); 
-        TbItem.Resolve(tables); 
+        TBLaunch.Resolve(tables); 
         PostResolve();
     }
 
     public void TranslateText(System.Func<string, string, string> translator)
     {
         TBLocalization.TranslateText(translator); 
-        TbItem.TranslateText(translator); 
+        TBLaunch.TranslateText(translator); 
     }
     
     partial void PostInit();

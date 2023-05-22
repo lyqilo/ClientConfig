@@ -5,41 +5,28 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-/*
-{name}.cs
-Create By Ben
-*/
-
 using Bright.Serialization;
 using System.Collections.Generic;
-using SimpleJSON;
-
 
 
 namespace cfg.localization
-{ 
-
+{
 public sealed partial class LocalizationConfig :  Bright.Config.BeanBase 
 {
-    public LocalizationConfig(JSONNode _json) 
+    public LocalizationConfig(ByteBuf _buf) 
     {
-        { if(!_json["id"].IsString) { throw new SerializationException(); }  Id = _json["id"]; }
-        { if(!_json["chinese"].IsString) { throw new SerializationException(); }  Chinese = _json["chinese"]; }
-        { if(!_json["english"].IsString) { throw new SerializationException(); }  English = _json["english"]; }
+        Id = _buf.ReadString();
+        Chinese = _buf.ReadString();
+        English = _buf.ReadString();
+        Spanish = _buf.ReadString();
+        Portuguese = _buf.ReadString();
+        French = _buf.ReadString();
         PostInit();
     }
 
-    public LocalizationConfig(string id, string chinese, string english ) 
+    public static LocalizationConfig DeserializeLocalizationConfig(ByteBuf _buf)
     {
-        this.Id = id;
-        this.Chinese = chinese;
-        this.English = english;
-        PostInit();
-    }
-
-    public static LocalizationConfig DeserializeLocalizationConfig(JSONNode _json)
-    {
-        return new localization.LocalizationConfig(_json);
+        return new localization.LocalizationConfig(_buf);
     }
 
     /// <summary>
@@ -54,6 +41,18 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// 英语
     /// </summary>
     public string English { get; private set; }
+    /// <summary>
+    /// 西班牙语
+    /// </summary>
+    public string Spanish { get; private set; }
+    /// <summary>
+    /// 葡萄牙语
+    /// </summary>
+    public string Portuguese { get; private set; }
+    /// <summary>
+    /// 法语
+    /// </summary>
+    public string French { get; private set; }
 
     public const int __ID__ = 244974800;
     public override int GetTypeId() => __ID__;
@@ -73,10 +72,14 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         + "Id:" + Id + ","
         + "Chinese:" + Chinese + ","
         + "English:" + English + ","
+        + "Spanish:" + Spanish + ","
+        + "Portuguese:" + Portuguese + ","
+        + "French:" + French + ","
         + "}";
     }
     
     partial void PostInit();
     partial void PostResolve();
 }
+
 }

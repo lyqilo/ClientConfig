@@ -5,45 +5,39 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-/*
-{name}.cs
-Create By Ben
-*/
-
 using Bright.Serialization;
 using System.Collections.Generic;
-using SimpleJSON;
 
 
-
-namespace cfg.item
-{ 
-
-public sealed partial class TbItem
+namespace cfg.launch
 {
-    private readonly Dictionary<int, item.Item> _dataMap;
-    private readonly List<item.Item> _dataList;
+   
+public partial class TBLaunch
+{
+    private readonly Dictionary<int, launch.LaunchConfig> _dataMap;
+    private readonly List<launch.LaunchConfig> _dataList;
     
-    public TbItem(JSONNode _json)
+    public TBLaunch(ByteBuf _buf)
     {
-        _dataMap = new Dictionary<int, item.Item>();
-        _dataList = new List<item.Item>();
+        _dataMap = new Dictionary<int, launch.LaunchConfig>();
+        _dataList = new List<launch.LaunchConfig>();
         
-        foreach(JSONNode _row in _json.Children)
+        for(int n = _buf.ReadSize() ; n > 0 ; --n)
         {
-            var _v = item.Item.DeserializeItem(_row);
+            launch.LaunchConfig _v;
+            _v = launch.LaunchConfig.DeserializeLaunchConfig(_buf);
             _dataList.Add(_v);
-            _dataMap.Add(_v.Id, _v);
+            _dataMap.Add(_v.ID, _v);
         }
         PostInit();
     }
 
-    public Dictionary<int, item.Item> DataMap => _dataMap;
-    public List<item.Item> DataList => _dataList;
+    public Dictionary<int, launch.LaunchConfig> DataMap => _dataMap;
+    public List<launch.LaunchConfig> DataList => _dataList;
 
-    public item.Item GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : null;
-    public item.Item Get(int key) => _dataMap[key];
-    public item.Item this[int key] => _dataMap[key];
+    public launch.LaunchConfig GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : null;
+    public launch.LaunchConfig Get(int key) => _dataMap[key];
+    public launch.LaunchConfig this[int key] => _dataMap[key];
 
     public void Resolve(Dictionary<string, object> _tables)
     {
@@ -61,7 +55,6 @@ public sealed partial class TbItem
             v.TranslateText(translator);
         }
     }
-    
     
     partial void PostInit();
     partial void PostResolve();
