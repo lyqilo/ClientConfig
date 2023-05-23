@@ -15,6 +15,7 @@ public partial class Tables
 {
     public localization.TBLocalization TBLocalization {get; }
     public launch.TBLaunch TBLaunch {get; }
+    public game.TBGame TBGame {get; }
 
     public Tables(System.Func<string, ByteBuf> loader)
     {
@@ -23,10 +24,13 @@ public partial class Tables
         tables.Add("localization.TBLocalization", TBLocalization);
         TBLaunch = new launch.TBLaunch(loader("launch_tblaunch")); 
         tables.Add("launch.TBLaunch", TBLaunch);
+        TBGame = new game.TBGame(loader("game_tbgame")); 
+        tables.Add("game.TBGame", TBGame);
 
         PostInit();
         TBLocalization.Resolve(tables); 
         TBLaunch.Resolve(tables); 
+        TBGame.Resolve(tables); 
         PostResolve();
     }
 
@@ -34,6 +38,7 @@ public partial class Tables
     {
         TBLocalization.TranslateText(translator); 
         TBLaunch.TranslateText(translator); 
+        TBGame.TranslateText(translator); 
     }
     
     partial void PostInit();

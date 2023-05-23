@@ -16,6 +16,7 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     public LocalizationConfig(ByteBuf _buf) 
     {
         Id = _buf.ReadString();
+        Type = _buf.ReadString();
         Chinese = _buf.ReadString();
         English = _buf.ReadString();
         Spanish = _buf.ReadString();
@@ -33,6 +34,10 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// 这是id
     /// </summary>
     public string Id { get; private set; }
+    /// <summary>
+    /// 类型(默认文本，可以添加Audio,Texture)
+    /// </summary>
+    public string Type { get; private set; }
     /// <summary>
     /// 中文
     /// </summary>
@@ -70,6 +75,7 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     {
         return "{ "
         + "Id:" + Id + ","
+        + "Type:" + Type + ","
         + "Chinese:" + Chinese + ","
         + "English:" + English + ","
         + "Spanish:" + Spanish + ","
