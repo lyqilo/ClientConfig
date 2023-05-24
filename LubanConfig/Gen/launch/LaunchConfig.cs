@@ -25,6 +25,7 @@ public sealed partial class LaunchConfig :  Bright.Config.BeanBase
         ScriptResName = _buf.ReadString();
         LaunchResName = _buf.ReadString();
         VideoName = _buf.ReadString();
+        Language = _buf.ReadString();
         PostInit();
     }
 
@@ -73,6 +74,10 @@ public sealed partial class LaunchConfig :  Bright.Config.BeanBase
     /// 启动视频
     /// </summary>
     public string VideoName { get; private set; }
+    /// <summary>
+    /// 默认语言
+    /// </summary>
+    public string Language { get; private set; }
 
     public const int __ID__ = -1751845040;
     public override int GetTypeId() => __ID__;
@@ -99,6 +104,7 @@ public sealed partial class LaunchConfig :  Bright.Config.BeanBase
         + "ScriptResName:" + ScriptResName + ","
         + "LaunchResName:" + LaunchResName + ","
         + "VideoName:" + VideoName + ","
+        + "Language:" + Language + ","
         + "}";
     }
     
