@@ -10,13 +10,13 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module03.NiuNiu.Module03Panel",
     "luaRootName": "Module03Panel",
     "driveType": "Lua",
     "downFiles": [
-      "module06"
+      "module03"
     ]
   },
   {
@@ -30,17 +30,37 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module06.OneWPBY.OneWPBYEntry",
     "luaRootName": "OneWPBYEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module16"
+      "module06"
     ]
   },
   {
     "ID": 3,
+    "scenName": "module13",
+    "uiName": "功夫熊猫",
+    "gameName": "功夫熊猫",
+    "clientId": 13,
+    "otherClientId": 0,
+    "BL": [
+      "1,10,100,10000"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "",
+    "rootName": "",
+    "luaPath": "Module13.gfxm.Module13Entry",
+    "luaRootName": "Module13Entry",
+    "driveType": "Lua",
+    "downFiles": [
+      "module13"
+    ]
+  },
+  {
+    "ID": 4,
     "scenName": "module16",
     "uiName": "纸牌老虎机",
     "gameName": "纸牌老虎机",
@@ -50,17 +70,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module16.ZhiPai.Module16Entry",
     "luaRootName": "Module16Entry",
     "driveType": "Lua",
     "downFiles": [
-      "module17"
+      "module16"
     ]
   },
   {
-    "ID": 4,
+    "ID": 5,
     "scenName": "module17",
     "uiName": "楚河汉界",
     "gameName": "楚河汉界",
@@ -70,17 +90,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module17.xiangqi.xiangqi_InitProt",
     "luaRootName": "xiangqi_InitProt",
     "driveType": "Lua",
     "downFiles": [
-      "module18"
+      "module17"
     ]
   },
   {
-    "ID": 5,
+    "ID": 6,
     "scenName": "module18",
     "uiName": "水浒传",
     "gameName": "水浒传",
@@ -90,17 +110,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module18.SHZ.shzpanel",
     "luaRootName": "SHZPanel",
     "driveType": "Lua",
     "downFiles": [
-      "module19"
+      "module18"
     ]
   },
   {
-    "ID": 6,
+    "ID": 7,
     "scenName": "module19",
     "uiName": "21点",
     "gameName": "Blackjack",
@@ -110,17 +130,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module19.Point21_2D.Point21ScenCtrlPanel",
     "luaRootName": "Point21ScenCtrlPanel",
     "driveType": "Lua",
     "downFiles": [
-      "module20"
+      "module19"
     ]
   },
   {
-    "ID": 7,
+    "ID": 8,
     "scenName": "module20",
     "uiName": "百家乐",
     "gameName": "Baccarat",
@@ -130,17 +150,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module20.Game_Baccara.MainPanel",
     "luaRootName": "MainPanel",
     "driveType": "Lua",
     "downFiles": [
-      "module22"
+      "module20"
     ]
   },
   {
-    "ID": 8,
+    "ID": 9,
     "scenName": "module22",
     "uiName": "水果777",
     "gameName": "Fruit slot 777",
@@ -156,11 +176,11 @@
     "luaRootName": " ",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module24"
+      "module22"
     ]
   },
   {
-    "ID": 9,
+    "ID": 10,
     "scenName": "module24",
     "uiName": "龙珠探宝",
     "gameName": "Dragon Legend",
@@ -170,17 +190,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module24.SerialIndiana.MainPanel",
     "luaRootName": "MainPanel",
     "driveType": "Lua",
     "downFiles": [
-      "module25"
+      "module24"
     ]
   },
   {
-    "ID": 10,
+    "ID": 11,
     "scenName": "module25",
     "uiName": "草莓老虎机",
     "gameName": "草莓老虎机",
@@ -196,11 +216,11 @@
     "luaRootName": " ",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module27"
+      "module25"
     ]
   },
   {
-    "ID": 11,
+    "ID": 12,
     "scenName": "module27",
     "uiName": "财神到",
     "gameName": "Fartune Gods",
@@ -210,17 +230,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module27.CaiShenDao.Module27Entry",
     "luaRootName": "Module27Entry",
     "driveType": "Lua",
     "downFiles": [
-      "module28"
+      "module27"
     ]
   },
   {
-    "ID": 12,
+    "ID": 13,
     "scenName": "module28",
     "uiName": "福临门",
     "gameName": "Fulinmen",
@@ -231,16 +251,16 @@
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.Fulinmen.UIEntry",
-    "rootName": " ",
+    "rootName": "",
     "luaPath": " ",
     "luaRootName": " ",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module32"
+      "module28"
     ]
   },
   {
-    "ID": 13,
+    "ID": 14,
     "scenName": "module32",
     "uiName": "点球大战",
     "gameName": "Soccer",
@@ -250,17 +270,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module32.Football.MainPanel",
     "luaRootName": "MainPanel",
     "driveType": "Lua",
     "downFiles": [
-      "module33"
+      "module32"
     ]
   },
   {
-    "ID": 14,
+    "ID": 15,
     "scenName": "module33",
     "uiName": "虎啸龙吟",
     "gameName": "DragonAndTiger",
@@ -270,17 +290,17 @@
       "1,10,100,10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": " ",
-    "rootName": " ",
+    "StartScriptName": "",
+    "rootName": "",
     "luaPath": "Module33.longhudou.longhudou_InitProt",
     "luaRootName": "longhudou_InitProt",
     "driveType": "Lua",
     "downFiles": [
-      "module38"
+      "module33"
     ]
   },
   {
-    "ID": 15,
+    "ID": 16,
     "scenName": "module38",
     "uiName": "战国史记",
     "gameName": "战国史记",
@@ -296,11 +316,11 @@
     "luaRootName": "MainPanel",
     "driveType": "Lua",
     "downFiles": [
-      "module39"
+      "module38"
     ]
   },
   {
-    "ID": 16,
+    "ID": 17,
     "scenName": "module39",
     "uiName": "淘金者",
     "gameName": "Gold Digger",
@@ -316,11 +336,11 @@
     "luaRootName": "",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module40"
+      "module39"
     ]
   },
   {
-    "ID": 17,
+    "ID": 18,
     "scenName": "module40",
     "uiName": "跳高高",
     "gameName": "High Jump",
@@ -336,11 +356,11 @@
     "luaRootName": "",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module41"
+      "module40"
     ]
   },
   {
-    "ID": 18,
+    "ID": 19,
     "scenName": "module41",
     "uiName": "金瓶梅",
     "gameName": "Pretty Bride",
@@ -356,11 +376,11 @@
     "luaRootName": "JPMEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module42"
+      "module41"
     ]
   },
   {
-    "ID": 19,
+    "ID": 20,
     "scenName": "module42",
     "uiName": "月光宝盒",
     "gameName": "Moonlight Box",
@@ -376,11 +396,11 @@
     "luaRootName": "",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module43"
+      "module42"
     ]
   },
   {
-    "ID": 20,
+    "ID": 21,
     "scenName": "module43",
     "uiName": "百人牛牛",
     "gameName": "TBcattle vs100",
@@ -396,11 +416,11 @@
     "luaRootName": "Game71Panel",
     "driveType": "Lua",
     "downFiles": [
-      "module44"
+      "module43"
     ]
   },
   {
-    "ID": 21,
+    "ID": 22,
     "scenName": "module44",
     "uiName": "乐高大电影",
     "gameName": "Lego Movie",
@@ -416,11 +436,11 @@
     "luaRootName": "LGDDYEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module45"
+      "module44"
     ]
   },
   {
-    "ID": 22,
+    "ID": 23,
     "scenName": "module45",
     "uiName": "五龙争霸",
     "gameName": "五龙争霸",
@@ -436,11 +456,11 @@
     "luaRootName": "WLZBEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module46"
+      "module45"
     ]
   },
   {
-    "ID": 23,
+    "ID": 24,
     "scenName": "module46",
     "uiName": "萌宠大作战",
     "gameName": "萌宠大作战",
@@ -456,11 +476,11 @@
     "luaRootName": "MCDZZEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module47"
+      "module46"
     ]
   },
   {
-    "ID": 24,
+    "ID": 25,
     "scenName": "module47",
     "uiName": "幸运水果机",
     "gameName": "幸运水果机",
@@ -476,11 +496,11 @@
     "luaRootName": "XYSGJEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module48"
+      "module47"
     ]
   },
   {
-    "ID": 25,
+    "ID": 26,
     "scenName": "module48",
     "uiName": "福星高照",
     "gameName": "福星高照",
@@ -496,11 +516,11 @@
     "luaRootName": "FXGZEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module49"
+      "module48"
     ]
   },
   {
-    "ID": 26,
+    "ID": 27,
     "scenName": "module49",
     "uiName": "武士斩杀",
     "gameName": "Samurai",
@@ -516,11 +536,11 @@
     "luaRootName": "WSZSEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module50"
+      "module49"
     ]
   },
   {
-    "ID": 27,
+    "ID": 28,
     "scenName": "module50",
     "uiName": "上海滩",
     "gameName": "上海滩",
@@ -536,11 +556,11 @@
     "luaRootName": "SHTEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module51"
+      "module50"
     ]
   },
   {
-    "ID": 28,
+    "ID": 29,
     "scenName": "module51",
     "uiName": "水果小玛丽",
     "gameName": "Fruit Mary",
@@ -556,11 +576,11 @@
     "luaRootName": "SGXMLEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module52"
+      "module51"
     ]
   },
   {
-    "ID": 29,
+    "ID": 30,
     "scenName": "module52",
     "uiName": "十二生肖",
     "gameName": "十二生肖",
@@ -576,11 +596,11 @@
     "luaRootName": "SESXEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module53"
+      "module52"
     ]
   },
   {
-    "ID": 30,
+    "ID": 31,
     "scenName": "module53",
     "uiName": "街机赛马",
     "gameName": "街机赛马",
@@ -596,11 +616,11 @@
     "luaRootName": "JJPMEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module54"
+      "module53"
     ]
   },
   {
-    "ID": 31,
+    "ID": 32,
     "scenName": "module54",
     "uiName": "埃及大冒险",
     "gameName": "Egypt Treasure",
@@ -616,11 +636,11 @@
     "luaRootName": "AJDMXEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module55"
+      "module54"
     ]
   },
   {
-    "ID": 32,
+    "ID": 33,
     "scenName": "module55",
     "uiName": "通比牛牛",
     "gameName": "TBcattle",
@@ -636,11 +656,11 @@
     "luaRootName": "Module55Panel",
     "driveType": "Lua",
     "downFiles": [
-      "module56"
+      "module55"
     ]
   },
   {
-    "ID": 33,
+    "ID": 34,
     "scenName": "module56",
     "uiName": "金鼠迎春",
     "gameName": "金鼠迎春",
@@ -656,11 +676,11 @@
     "luaRootName": "JSYCEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module57"
+      "module56"
     ]
   },
   {
-    "ID": 34,
+    "ID": 35,
     "scenName": "module57",
     "uiName": "冰球突破",
     "gameName": "Ice Hockey",
@@ -676,11 +696,11 @@
     "luaRootName": "BQTPEntry",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module58"
+      "module57"
     ]
   },
   {
-    "ID": 35,
+    "ID": 36,
     "scenName": "module58",
     "uiName": "金猪送福",
     "gameName": "Golden piggy",
@@ -696,11 +716,11 @@
     "luaRootName": "JZSFEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module59"
+      "module58"
     ]
   },
   {
-    "ID": 36,
+    "ID": 37,
     "scenName": "module59",
     "uiName": "竹子熊猫",
     "gameName": "Fortune Panda",
@@ -716,11 +736,11 @@
     "luaRootName": "XMZZEntry",
     "driveType": "Lua",
     "downFiles": [
-      "module60"
+      "module59"
     ]
   },
   {
-    "ID": 37,
+    "ID": 38,
     "scenName": "module60",
     "uiName": "街头劲舞",
     "gameName": "街头劲舞",
@@ -736,11 +756,11 @@
     "luaRootName": "JWEntry",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module61"
+      "module60"
     ]
   },
   {
-    "ID": 38,
+    "ID": 39,
     "scenName": "module61",
     "uiName": "偷窥",
     "gameName": "Peeking",
@@ -756,11 +776,11 @@
     "luaRootName": "TouKuiEntry",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module62,prefab"
+      "module61"
     ]
   },
   {
-    "ID": 39,
+    "ID": 40,
     "scenName": "module62",
     "uiName": "龙腾捕鱼",
     "gameName": "3D Fishing",
@@ -776,11 +796,12 @@
     "luaRootName": "LTBYEntry",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module63"
+      "module62",
+      "prefab"
     ]
   },
   {
-    "ID": 40,
+    "ID": 41,
     "scenName": "module63",
     "uiName": "麻将胡了",
     "gameName": "Mahjong ways",
@@ -796,11 +817,11 @@
     "luaRootName": "",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module65,crashconfig,crashaudio"
+      "module63"
     ]
   },
   {
-    "ID": 41,
+    "ID": 42,
     "scenName": "module65",
     "uiName": "Crash",
     "gameName": "Crash",
@@ -815,6 +836,10 @@
     "luaPath": "",
     "luaRootName": "",
     "driveType": "ILRuntime",
-    "downFiles": []
+    "downFiles": [
+      "module65",
+      "crashconfig",
+      "crashaudio"
+    ]
   }
 ]
