@@ -5,36 +5,62 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+
+/*
+GameConfig.cs
+Create By Ben
+*/
+
 using Bright.Serialization;
 using System.Collections.Generic;
-
+using SimpleJSON;
 
 namespace cfg.game
-{
+{ 
+
 public sealed partial class GameConfig :  Bright.Config.BeanBase 
 {
-    public GameConfig(ByteBuf _buf) 
+    public GameConfig(JSONNode _json) 
     {
-        ID = _buf.ReadInt();
-        ScenName = _buf.ReadString();
-        UiName = _buf.ReadString();
-        GameName = _buf.ReadString();
-        ClientId = _buf.ReadInt();
-        OtherClientId = _buf.ReadInt();
-        {int n0 = System.Math.Min(_buf.ReadSize(), _buf.Size);BL = new System.Collections.Generic.List<string>(n0);for(var i0 = 0 ; i0 < n0 ; i0++) { string _e0;  _e0 = _buf.ReadString(); BL.Add(_e0);}}
-        Orientation = _buf.ReadString();
-        StartScriptName = _buf.ReadString();
-        RootName = _buf.ReadString();
-        LuaPath = _buf.ReadString();
-        LuaRootName = _buf.ReadString();
-        DriveType = _buf.ReadString();
-        {int n0 = System.Math.Min(_buf.ReadSize(), _buf.Size);DownFiles = new System.Collections.Generic.List<string>(n0);for(var i0 = 0 ; i0 < n0 ; i0++) { string _e0;  _e0 = _buf.ReadString(); DownFiles.Add(_e0);}}
+        { if(!_json["ID"].IsNumber) { throw new SerializationException(); }  ID = _json["ID"]; }
+        { if(!_json["scenName"].IsString) { throw new SerializationException(); }  ScenName = _json["scenName"]; }
+        { if(!_json["uiName"].IsString) { throw new SerializationException(); }  UiName = _json["uiName"]; }
+        { if(!_json["gameName"].IsString) { throw new SerializationException(); }  GameName = _json["gameName"]; }
+        { if(!_json["clientId"].IsNumber) { throw new SerializationException(); }  ClientId = _json["clientId"]; }
+        { if(!_json["otherClientId"].IsNumber) { throw new SerializationException(); }  OtherClientId = _json["otherClientId"]; }
+        { var __json0 = _json["BL"]; if(!__json0.IsArray) { throw new SerializationException(); } BL = new System.Collections.Generic.List<string>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { string __v0;  { if(!__e0.IsString) { throw new SerializationException(); }  __v0 = __e0; }  BL.Add(__v0); }   }
+        { if(!_json["Orientation"].IsString) { throw new SerializationException(); }  Orientation = _json["Orientation"]; }
+        { if(!_json["StartScriptName"].IsString) { throw new SerializationException(); }  StartScriptName = _json["StartScriptName"]; }
+        { if(!_json["rootName"].IsString) { throw new SerializationException(); }  RootName = _json["rootName"]; }
+        { if(!_json["luaPath"].IsString) { throw new SerializationException(); }  LuaPath = _json["luaPath"]; }
+        { if(!_json["luaRootName"].IsString) { throw new SerializationException(); }  LuaRootName = _json["luaRootName"]; }
+        { if(!_json["driveType"].IsString) { throw new SerializationException(); }  DriveType = _json["driveType"]; }
+        { var __json0 = _json["downFiles"]; if(!__json0.IsArray) { throw new SerializationException(); } DownFiles = new System.Collections.Generic.List<string>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { string __v0;  { if(!__e0.IsString) { throw new SerializationException(); }  __v0 = __e0; }  DownFiles.Add(__v0); }   }
         PostInit();
     }
 
-    public static GameConfig DeserializeGameConfig(ByteBuf _buf)
+    public GameConfig(int ID, string scenName, string uiName, string gameName, int clientId, int otherClientId, System.Collections.Generic.List<string> BL, string Orientation, string StartScriptName, string rootName, string luaPath, string luaRootName, string driveType, System.Collections.Generic.List<string> downFiles ) 
     {
-        return new game.GameConfig(_buf);
+        this.ID = ID;
+        this.ScenName = scenName;
+        this.UiName = uiName;
+        this.GameName = gameName;
+        this.ClientId = clientId;
+        this.OtherClientId = otherClientId;
+        this.BL = BL;
+        this.Orientation = Orientation;
+        this.StartScriptName = StartScriptName;
+        this.RootName = rootName;
+        this.LuaPath = luaPath;
+        this.LuaRootName = luaRootName;
+        this.DriveType = driveType;
+        this.DownFiles = downFiles;
+        PostInit();
+    }
+
+    public static GameConfig DeserializeGameConfig(JSONNode _json)
+    {
+        return new game.GameConfig(_json);
     }
 
     /// <summary>
@@ -129,5 +155,4 @@ public sealed partial class GameConfig :  Bright.Config.BeanBase
     partial void PostInit();
     partial void PostResolve();
 }
-
 }

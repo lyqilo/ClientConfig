@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 1,
+    "DNS": [
+      "http://192.168.0.108:8080"
+    ],
+    "CdnDirectoryName": "MagicWealthRes",
+    "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",
+    "LaunchPackageName": "Launch",
+    "LobbyPackageName": "Lobby",
+    "GamePackageName": "Game",
+    "ScriptResName": "Hotfix.dll",
+    "LaunchResName": "Launch",
+    "VideoName": "",
+    "Language": "English",
+    "platformId": 9
+  }
+]

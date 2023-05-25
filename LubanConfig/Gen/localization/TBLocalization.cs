@@ -5,27 +5,33 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+
+/*
+TBLocalization.cs
+Create By Ben
+*/
+
 using Bright.Serialization;
 using System.Collections.Generic;
+using SimpleJSON;
 
 
 namespace cfg.localization
-{
-   
-public partial class TBLocalization
+{ 
+
+public sealed partial class TBLocalization
 {
     private readonly Dictionary<string, localization.LocalizationConfig> _dataMap;
     private readonly List<localization.LocalizationConfig> _dataList;
     
-    public TBLocalization(ByteBuf _buf)
+    public TBLocalization(JSONNode _json)
     {
         _dataMap = new Dictionary<string, localization.LocalizationConfig>();
         _dataList = new List<localization.LocalizationConfig>();
         
-        for(int n = _buf.ReadSize() ; n > 0 ; --n)
+        foreach(JSONNode _row in _json.Children)
         {
-            localization.LocalizationConfig _v;
-            _v = localization.LocalizationConfig.DeserializeLocalizationConfig(_buf);
+            var _v = localization.LocalizationConfig.DeserializeLocalizationConfig(_row);
             _dataList.Add(_v);
             _dataMap.Add(_v.Id, _v);
         }
@@ -55,6 +61,7 @@ public partial class TBLocalization
             v.TranslateText(translator);
         }
     }
+    
     
     partial void PostInit();
     partial void PostResolve();

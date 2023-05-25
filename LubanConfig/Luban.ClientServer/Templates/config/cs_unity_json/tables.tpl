@@ -1,15 +1,15 @@
-/*
-{name}.cs
-Create By Ben
-*/
-
-using Bright.Serialization;
-using SimpleJSON;
 {{
     name = x.name
     namespace = x.namespace
     tables = x.tables
 }}
+/*
+{{name}}.cs
+Create By Ben
+*/
+
+using Bright.Serialization;
+using SimpleJSON;
 
 {{cs_start_name_space_grace x.namespace}} 
    

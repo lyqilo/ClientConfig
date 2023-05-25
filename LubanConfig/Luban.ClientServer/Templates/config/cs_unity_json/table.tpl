@@ -1,12 +1,3 @@
-/*
-{name}.cs
-Create By Ben
-*/
-
-using Bright.Serialization;
-using System.Collections.Generic;
-using SimpleJSON;
-
 {{ 
     name = x.name
     key_type = x.key_ttype
@@ -14,6 +5,15 @@ using SimpleJSON;
     key_type2 =  x.key_ttype2
     value_type =  x.value_ttype
 }}
+/*
+{{name}}.cs
+Create By Ben
+*/
+
+using Bright.Serialization;
+using System.Collections.Generic;
+using SimpleJSON;
+
 
 {{cs_start_name_space_grace x.namespace_with_top_module}} 
 

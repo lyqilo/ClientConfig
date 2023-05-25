@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Launch_loading",
+    "type": "",
+    "chinese": "加载中",
+    "english": "Loading",
+    "spanish": "Chargement en cours",
+    "portuguese": "Carregando em",
+    "french": "Cargando en"
+  },
+  {
+    "id": "Launch_downloading",
+    "type": "",
+    "chinese": "下载中",
+    "english": "downloading",
+    "spanish": "Descargar en proceso",
+    "portuguese": "Download em andamento",
+    "french": "Téléchargement en cours"
+  },
+  {
+    "id": "Launch_health",
+    "type": "",
+    "chinese": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当.适度游戏益脑，沉迷游戏伤身。合理安排游戏，享受健康生活。",
+    "english": "Boycott bad games, no pirated games. Pay attention to self protection, beware of being cheated. Moderate games benefit the brain, addicted to games hurt the body. Reasonable arrangement of games, enjoy a healthy life.",
+    "spanish": "Resista el mal juego, rechace los juegos pirateados. ",
+    "portuguese": "Resistir a jogos ruins e rejeitar jogos pirateados. Cuidado com a auto-proteção. Cuidado com ser enganado. Jogos moderados são bons para o cérebro, jogos viciados machucam. Organizar jogos de forma razoável e desfrutar de uma vida saudável.",
+    "french": "Boicotear los malos juegos y rechazar la piratería. Cuidado con la autoprotección. Cuidado con las estafas. El juego moderado es bueno para el cerebro. La adicción al juego duele. Disfrute de una vida saludable con juegos razonables."
+  },
+  {
+    "id": "Launch_updateComplete",
+    "type": "",
+    "chinese": "更新完成",
+    "english": "update completed",
+    "spanish": "La actualización está completa",
+    "portuguese": "A atualização está concluída",
+    "french": "Mise à jour terminée"
+  },
+  {
+    "id": "Launch_updateFailed",
+    "type": "",
+    "chinese": "更新失败",
+    "english": "Update Failed",
+    "spanish": "La actualización falló",
+    "portuguese": "Falha na atualização",
+    "french": "La mise à jour échoue"
+  }
+]

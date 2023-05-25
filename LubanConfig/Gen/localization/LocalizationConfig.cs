@@ -5,29 +5,48 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+
+/*
+LocalizationConfig.cs
+Create By Ben
+*/
+
 using Bright.Serialization;
 using System.Collections.Generic;
-
+using SimpleJSON;
 
 namespace cfg.localization
-{
+{ 
+
 public sealed partial class LocalizationConfig :  Bright.Config.BeanBase 
 {
-    public LocalizationConfig(ByteBuf _buf) 
+    public LocalizationConfig(JSONNode _json) 
     {
-        Id = _buf.ReadString();
-        Type = _buf.ReadString();
-        Chinese = _buf.ReadString();
-        English = _buf.ReadString();
-        Spanish = _buf.ReadString();
-        Portuguese = _buf.ReadString();
-        French = _buf.ReadString();
+        { if(!_json["id"].IsString) { throw new SerializationException(); }  Id = _json["id"]; }
+        { if(!_json["type"].IsString) { throw new SerializationException(); }  Type = _json["type"]; }
+        { if(!_json["chinese"].IsString) { throw new SerializationException(); }  Chinese = _json["chinese"]; }
+        { if(!_json["english"].IsString) { throw new SerializationException(); }  English = _json["english"]; }
+        { if(!_json["spanish"].IsString) { throw new SerializationException(); }  Spanish = _json["spanish"]; }
+        { if(!_json["portuguese"].IsString) { throw new SerializationException(); }  Portuguese = _json["portuguese"]; }
+        { if(!_json["french"].IsString) { throw new SerializationException(); }  French = _json["french"]; }
         PostInit();
     }
 
-    public static LocalizationConfig DeserializeLocalizationConfig(ByteBuf _buf)
+    public LocalizationConfig(string id, string type, string chinese, string english, string spanish, string portuguese, string french ) 
     {
-        return new localization.LocalizationConfig(_buf);
+        this.Id = id;
+        this.Type = type;
+        this.Chinese = chinese;
+        this.English = english;
+        this.Spanish = spanish;
+        this.Portuguese = portuguese;
+        this.French = french;
+        PostInit();
+    }
+
+    public static LocalizationConfig DeserializeLocalizationConfig(JSONNode _json)
+    {
+        return new localization.LocalizationConfig(_json);
     }
 
     /// <summary>
@@ -87,5 +106,4 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     partial void PostInit();
     partial void PostResolve();
 }
-
 }

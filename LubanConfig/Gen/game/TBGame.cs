@@ -5,27 +5,33 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+
+/*
+TBGame.cs
+Create By Ben
+*/
+
 using Bright.Serialization;
 using System.Collections.Generic;
+using SimpleJSON;
 
 
 namespace cfg.game
-{
-   
-public partial class TBGame
+{ 
+
+public sealed partial class TBGame
 {
     private readonly Dictionary<int, game.GameConfig> _dataMap;
     private readonly List<game.GameConfig> _dataList;
     
-    public TBGame(ByteBuf _buf)
+    public TBGame(JSONNode _json)
     {
         _dataMap = new Dictionary<int, game.GameConfig>();
         _dataList = new List<game.GameConfig>();
         
-        for(int n = _buf.ReadSize() ; n > 0 ; --n)
+        foreach(JSONNode _row in _json.Children)
         {
-            game.GameConfig _v;
-            _v = game.GameConfig.DeserializeGameConfig(_buf);
+            var _v = game.GameConfig.DeserializeGameConfig(_row);
             _dataList.Add(_v);
             _dataMap.Add(_v.ID, _v);
         }
@@ -55,6 +61,7 @@ public partial class TBGame
             v.TranslateText(translator);
         }
     }
+    
     
     partial void PostInit();
     partial void PostResolve();
