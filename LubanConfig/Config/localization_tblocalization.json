@@ -43,5 +43,14 @@
     "spanish": "La actualización falló",
     "portuguese": "Falha na atualização",
     "french": "La mise à jour échoue"
+  },
+  {
+    "id": "10001",
+    "type": "",
+    "chinese": "切换账号",
+    "english": "Switch account",
+    "spanish": "Cambiar de cuenta",
+    "portuguese": "Troca de contas",
+    "french": "Changer de compte"
   }
 ]
