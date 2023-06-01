@@ -266,11 +266,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.CaiShengDao.UIEntry",
     "rootName": "",
     "luaPath": "Module27.CaiShenDao.Module27Entry",
     "luaRootName": "Module27Entry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module27"
     ]
@@ -611,11 +611,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.WSZS.UIEntry",
     "rootName": "",
     "luaPath": "Module49.wszs.WSZSEntry",
     "luaRootName": "WSZSEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module49"
     ]
@@ -818,11 +818,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.JZSF.UIEntry",
     "rootName": "",
     "luaPath": "Module58.JZSF.JZSFEntry",
     "luaRootName": "JZSFEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module58"
     ]
