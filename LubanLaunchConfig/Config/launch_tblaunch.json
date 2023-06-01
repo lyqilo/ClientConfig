@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "DNS": [
-      "http://8.222.205.176:18080"
+      "https://gamesgt.s3.ap-southeast-1.amazonaws.com"
     ],
     "CdnDirectoryName": "MagicWealthRes",
     "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",

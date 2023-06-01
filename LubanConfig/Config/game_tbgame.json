@@ -7,7 +7,10 @@
     "clientId": 3,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -27,7 +30,10 @@
     "clientId": 6,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -47,7 +53,10 @@
     "clientId": 13,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -67,7 +76,10 @@
     "clientId": 16,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -87,7 +99,10 @@
     "clientId": 17,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -107,7 +122,10 @@
     "clientId": 18,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -127,7 +145,10 @@
     "clientId": 19,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -147,7 +168,10 @@
     "clientId": 20,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -167,7 +191,10 @@
     "clientId": 22,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.SG777.SG777Entry",
@@ -187,7 +214,10 @@
     "clientId": 8,
     "otherClientId": 24,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -207,7 +237,10 @@
     "clientId": 25,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.CMLHJ.CMLHJEntry",
@@ -227,7 +260,10 @@
     "clientId": 27,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -247,7 +283,10 @@
     "clientId": 28,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.Fulinmen.UIEntry",
@@ -267,7 +306,10 @@
     "clientId": 32,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -287,7 +329,10 @@
     "clientId": 33,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -307,7 +352,10 @@
     "clientId": 38,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -327,7 +375,10 @@
     "clientId": 39,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.TJZ.TJZEntry",
@@ -347,7 +398,10 @@
     "clientId": 40,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.TGG.TGGEntry",
@@ -367,7 +421,10 @@
     "clientId": 41,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -387,7 +444,10 @@
     "clientId": 42,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.YGBH.YGBHEntry",
@@ -407,7 +467,10 @@
     "clientId": 43,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -427,7 +490,10 @@
     "clientId": 44,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -447,7 +513,10 @@
     "clientId": 45,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -467,7 +536,10 @@
     "clientId": 46,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -487,7 +559,10 @@
     "clientId": 47,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -507,7 +582,10 @@
     "clientId": 48,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -527,7 +605,10 @@
     "clientId": 49,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -547,7 +628,10 @@
     "clientId": 50,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -567,7 +651,10 @@
     "clientId": 21,
     "otherClientId": 51,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -587,7 +674,10 @@
     "clientId": 52,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -607,7 +697,10 @@
     "clientId": 53,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -627,7 +720,10 @@
     "clientId": 54,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -647,7 +743,10 @@
     "clientId": 55,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -667,7 +766,10 @@
     "clientId": 56,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -687,7 +789,10 @@
     "clientId": 57,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.BQTP.UIEntry",
@@ -707,7 +812,10 @@
     "clientId": 58,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -727,7 +835,10 @@
     "clientId": 59,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "",
@@ -747,7 +858,10 @@
     "clientId": 60,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.JTJW.JWEntry",
@@ -767,7 +881,10 @@
     "clientId": 61,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.TouKui.TouKuiEntry",
@@ -787,7 +904,10 @@
     "clientId": 62,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.LTBY.LTBYEntry",
@@ -808,7 +928,10 @@
     "clientId": 63,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Portrait",
     "StartScriptName": "Hotfix.MJHL.MJHLEntry",
@@ -828,7 +951,10 @@
     "clientId": 65,
     "otherClientId": 0,
     "BL": [
-      "1,10,100,10000"
+      "1",
+      "10",
+      "100",
+      "10000"
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.CrashRocket.UIEntry",

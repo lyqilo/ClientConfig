@@ -2,9 +2,9 @@
   {
     "ID": 1,
     "DNS": [
-      "http://54.179.40.244:18080"
+      "https://gamesgt.s3.ap-southeast-1.amazonaws.com"
     ],
-    "CdnDirectoryName": "MagicWealthRes",
+    "CdnDirectoryName": "MagicWealthTestRes",
     "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",
     "LaunchPackageName": "Launch",
     "LobbyPackageName": "Lobby",
