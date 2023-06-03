@@ -2,9 +2,9 @@
   {
     "ID": 1,
     "DNS": [
-      "https://gamesgt.s3.ap-southeast-1.amazonaws.com"
+      "https://slotapp.s3.amazonaws.com/resource"
     ],
-    "CdnDirectoryName": "MagicWealthTestRes",
+    "CdnDirectoryName": "GoldenTestRes",
     "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",
     "LaunchPackageName": "Launch",
     "LobbyPackageName": "Lobby",
@@ -13,6 +13,6 @@
     "LaunchResName": "Launch",
     "VideoName": "",
     "Language": "English",
-    "platformId": 9
+    "platformId": 18
   }
 ]
