@@ -1,56 +1,2333 @@
 [
   {
-    "id": "Launch_loading",
+    "id": "100001",
     "type": "",
     "chinese": "加载中",
     "english": "Loading",
-    "spanish": "Chargement en cours",
-    "portuguese": "Carregando em",
-    "french": "Cargando en"
+    "spanish": "Cargando",
+    "portuguese": "Carregamento",
+    "french": "Chargement"
   },
   {
-    "id": "Launch_downloading",
+    "id": "100002",
     "type": "",
     "chinese": "下载中",
     "english": "downloading",
-    "spanish": "Descargar en proceso",
-    "portuguese": "Download em andamento",
-    "french": "Téléchargement en cours"
+    "spanish": "descargando",
+    "portuguese": "download",
+    "french": "téléchargement"
   },
   {
-    "id": "Launch_health",
+    "id": "100003",
     "type": "",
     "chinese": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当.适度游戏益脑，沉迷游戏伤身。合理安排游戏，享受健康生活。",
     "english": "Boycott bad games, no pirated games. Pay attention to self protection, beware of being cheated. Moderate games benefit the brain, addicted to games hurt the body. Reasonable arrangement of games, enjoy a healthy life.",
-    "spanish": "Resista el mal juego, rechace los juegos pirateados. ",
-    "portuguese": "Resistir a jogos ruins e rejeitar jogos pirateados. Cuidado com a auto-proteção. Cuidado com ser enganado. Jogos moderados são bons para o cérebro, jogos viciados machucam. Organizar jogos de forma razoável e desfrutar de uma vida saudável.",
-    "french": "Boicotear los malos juegos y rechazar la piratería. Cuidado con la autoprotección. Cuidado con las estafas. El juego moderado es bueno para el cerebro. La adicción al juego duele. Disfrute de una vida saludable con juegos razonables."
+    "spanish": "Boicotea los juegos malos, nada de juegos piratas. Presta atención a la autoprotección, ten cuidado con las trampas. Los juegos moderados benefician al cerebro, la adicción a los juegos perjudica al cuerpo. Ordena razonablemente los juegos, disfruta de una vida sana.",
+    "portuguese": "Não jogue jogos ruins, não jogue jogos piratas. Preste atenção à autoproteção, cuidado para não ser enganado. Os jogos moderados beneficiam o cérebro, o vício em jogos prejudica o corpo. Organize os jogos de forma razoável e desfrute de uma vida saudável.",
+    "french": "Boycottez les mauvais jeux, pas de jeux piratés. Veillez à vous protéger, méfiez-vous de la tromperie. Les jeux modérés sont bénéfiques pour le cerveau, la dépendance aux jeux est néfaste pour le corps. Une organisation raisonnable des jeux permet de mener une vie saine."
   },
   {
-    "id": "Launch_updateComplete",
+    "id": "100004",
     "type": "",
     "chinese": "更新完成",
     "english": "update completed",
-    "spanish": "La actualización está completa",
-    "portuguese": "A atualização está concluída",
-    "french": "Mise à jour terminée"
+    "spanish": "actualización completada",
+    "portuguese": "atualização concluída",
+    "french": "mise à jour terminée"
   },
   {
-    "id": "Launch_updateFailed",
+    "id": "100005",
     "type": "",
     "chinese": "更新失败",
     "english": "Update Failed",
-    "spanish": "La actualización falló",
+    "spanish": "Actualización fallida",
     "portuguese": "Falha na atualização",
-    "french": "La mise à jour échoue"
+    "french": "Échec de la mise à jour"
   },
   {
-    "id": "10001",
+    "id": "100006",
+    "type": "",
+    "chinese": "登录则表示您已满18岁且同意T&C隐私协议",
+    "english": "By logging in,you confirm that you are 18+ and agree to our T&C provacy policy",
+    "spanish": "Al iniciar sesión, confirmas que eres mayor de 18 años y aceptas nuestra política de privacidad.",
+    "portuguese": "Ao fazer o login, você confirma que tem mais de 18 anos e concorda com nossa política de privacidade de T&C",
+    "french": "En vous connectant, vous confirmez que vous avez plus de 18 ans et que vous acceptez nos conditions générales d'utilisation et notre politique de confidentialité."
+  },
+  {
+    "id": "100007",
+    "type": "",
+    "chinese": "游客登录",
+    "english": "Guest",
+    "spanish": "Invitado",
+    "portuguese": "Convidado",
+    "french": "Invité"
+  },
+  {
+    "id": "100008",
+    "type": "",
+    "chinese": "手机登录",
+    "english": "Phone",
+    "spanish": "Teléfono",
+    "portuguese": "Telefone",
+    "french": "Téléphone"
+  },
+  {
+    "id": "101001",
+    "type": "",
+    "chinese": "登录",
+    "english": "Login",
+    "spanish": "Inicio de sesión",
+    "portuguese": "Login",
+    "french": "Connexion"
+  },
+  {
+    "id": "101002",
+    "type": "",
+    "chinese": "注册账号",
+    "english": "Register",
+    "spanish": "Regístrese en",
+    "portuguese": "Registro",
+    "french": "Registre"
+  },
+  {
+    "id": "101003",
+    "type": "",
+    "chinese": "游戏账号：",
+    "english": "Game account:",
+    "spanish": "Cuenta de juego:",
+    "portuguese": "Conta do jogo:",
+    "french": "Compte de jeu :"
+  },
+  {
+    "id": "101004",
+    "type": "",
+    "chinese": "密码：",
+    "english": "Game password:",
+    "spanish": "Contraseña del juego:",
+    "portuguese": "Senha do jogo:",
+    "french": "Mot de passe du jeu :"
+  },
+  {
+    "id": "101005",
+    "type": "",
+    "chinese": "账号或手机号：",
+    "english": "Account or Phone(no+63&0)",
+    "spanish": "Cuenta o Teléfono(no+63&0)",
+    "portuguese": "Conta ou telefone (no+63&0)",
+    "french": "Compte ou téléphone (no+63&0)"
+  },
+  {
+    "id": "101006",
+    "type": "",
+    "chinese": "忘记密码",
+    "english": "Forgot password",
+    "spanish": "Contraseña olvidada",
+    "portuguese": "Esqueci minha senha",
+    "french": "Mot de passe oublié"
+  },
+  {
+    "id": "102001",
+    "type": "",
+    "chinese": "确认",
+    "english": "Confirm",
+    "spanish": "Confirme",
+    "portuguese": "Confirmar",
+    "french": "Confirmer"
+  },
+  {
+    "id": "102002",
+    "type": "",
+    "chinese": "游戏账号：",
+    "english": "Game account:",
+    "spanish": "Cuenta de juego:",
+    "portuguese": "Conta do jogo:",
+    "french": "Compte de jeu :"
+  },
+  {
+    "id": "102003",
+    "type": "",
+    "chinese": "邮箱",
+    "english": "Email:",
+    "spanish": "Correo electrónico:",
+    "portuguese": "E-mail:",
+    "french": "Courriel :"
+  },
+  {
+    "id": "102004",
+    "type": "",
+    "chinese": "手机号码：",
+    "english": "Phone number:",
+    "spanish": "Número de teléfono:",
+    "portuguese": "Número de telefone:",
+    "french": "Numéro de téléphone :"
+  },
+  {
+    "id": "102005",
+    "type": "",
+    "chinese": "密码：",
+    "english": "Password:",
+    "spanish": "Contraseña:",
+    "portuguese": "Senha:",
+    "french": "Mot de passe :"
+  },
+  {
+    "id": "102006",
+    "type": "",
+    "chinese": "确认密码：",
+    "english": "Repeat password:",
+    "spanish": "Repite la contraseña:",
+    "portuguese": "Repetir a senha:",
+    "french": "Répéter le mot de passe :"
+  },
+  {
+    "id": "102007",
+    "type": "",
+    "chinese": "验证码：",
+    "english": "PhoneCode:",
+    "spanish": "Código de teléfono:",
+    "portuguese": "PhoneCode:",
+    "french": "Code téléphonique :"
+  },
+  {
+    "id": "102008",
+    "type": "",
+    "chinese": "邀请码（选填）：",
+    "english": "Invitation Code(optional):",
+    "spanish": "Código de invitación (opcional):",
+    "portuguese": "Código do convite (opcional):",
+    "french": "Code d'invitation (facultatif) :"
+  },
+  {
+    "id": "102009",
+    "type": "",
+    "chinese": "真实姓名（选填）：",
+    "english": "Real Name(optional):",
+    "spanish": "Nombre real (opcional):",
+    "portuguese": "Nome real (opcional):",
+    "french": "Nom réel (facultatif) :"
+  },
+  {
+    "id": "102010",
+    "type": "",
+    "chinese": "xxxxxx@xxx.com",
+    "english": "xxxxxx@xxx.com",
+    "spanish": "xxxxxx@xxx.com",
+    "portuguese": "xxxxxx@xxx.com",
+    "french": "xxxxxx@xxx.com"
+  },
+  {
+    "id": "102011",
+    "type": "",
+    "chinese": "获取验证码",
+    "english": "get code",
+    "spanish": "obtener código",
+    "portuguese": "obter código",
+    "french": "obtenir le code"
+  },
+  {
+    "id": "102012",
+    "type": "",
+    "chinese": "输入邀请码",
+    "english": "Enter invitation code",
+    "spanish": "Introduzca el código de invitación",
+    "portuguese": "Digite o código do convite",
+    "french": "Saisir le code d'invitation"
+  },
+  {
+    "id": "102013",
+    "type": "",
+    "chinese": "输入真实姓名",
+    "english": "FirstName,MiddleName,LastName",
+    "spanish": "Nombre,Segundo nombre,Apellido",
+    "portuguese": "FirstName, MiddleName, LastName",
+    "french": "Prénom, Second prénom, Nom de famille"
+  },
+  {
+    "id": "102014",
+    "type": "",
+    "chinese": "真实姓名将用于验证支付相关信息。错误的信息可能会导致支付订单失败。请确认您的信息！",
+    "english": "The real name will be used for information verification of recharge and withdrawal.Wrong information may cause the order to fail.Please confirm your info.",
+    "spanish": "El nombre real se utilizará para la verificación de la información de recarga y retirada.La información incorrecta puede hacer que el pedido falle.Por favor, confirme su información.",
+    "portuguese": "O nome real será usado para verificação das informações de recarga e saque. Informações incorretas podem fazer com que o pedido não seja atendido.",
+    "french": "Le nom réel sera utilisé pour la vérification de l'information de recharge et de retrait."
+  },
+  {
+    "id": "103001",
+    "type": "",
+    "chinese": "验证码错误",
+    "english": "Verification code error",
+    "spanish": "Error de código de verificación",
+    "portuguese": "Erro no código de verificação",
+    "french": "Erreur du code de vérification"
+  },
+  {
+    "id": "103002",
+    "type": "",
+    "chinese": "发送验证码失败，请检查你的手机号",
+    "english": "Failed to send verification code. Please check your mobile number",
+    "spanish": "No se ha podido enviar el código de verificación. Por favor, compruebe su número de móvil",
+    "portuguese": "Falha ao enviar o código de verificação. Verifique seu número de celular",
+    "french": "Le code de vérification n'a pas été envoyé. Veuillez vérifier votre numéro de téléphone portable"
+  },
+  {
+    "id": "103003",
+    "type": "",
+    "chinese": "账号名已被注册",
+    "english": "Account name has been registered, please log in directly",
+    "spanish": "El nombre de cuenta ha sido registrado, por favor conéctese directamente",
+    "portuguese": "O nome da conta foi registrado, faça o login diretamente",
+    "french": "Le nom du compte a été enregistré, veuillez vous connecter directement"
+  },
+  {
+    "id": "103004",
+    "type": "",
+    "chinese": "设备已注册",
+    "english": "The current device is fully registered. Please change the device and try to register again!",
+    "spanish": "El dispositivo actual está totalmente registrado. Cambie el dispositivo e intente registrarse de nuevo.",
+    "portuguese": "O dispositivo atual está totalmente registrado. Troque o dispositivo e tente se registrar novamente!",
+    "french": "L'appareil actuel est entièrement enregistré. Veuillez changer d'appareil et réessayer de vous enregistrer !"
+  },
+  {
+    "id": "103005",
+    "type": "",
+    "chinese": "邀请人未绑定手机",
+    "english": "This user is not bound phone and cannot use the invitation code",
+    "spanish": "Este usuario no tiene teléfono vinculado y no puede utilizar el código de invitación",
+    "portuguese": "Este usuário não tem telefone vinculado e não pode usar o código de convite",
+    "french": "Cet utilisateur n'est pas lié au téléphone et ne peut pas utiliser le code d'invitation."
+  },
+  {
+    "id": "103006",
+    "type": "",
+    "chinese": "邀请码错误",
+    "english": "Please check the invitation code",
+    "spanish": "Compruebe el código de invitación",
+    "portuguese": "Verifique o código do convite",
+    "french": "Veuillez vérifier le code d'invitation"
+  },
+  {
+    "id": "103007",
+    "type": "",
+    "chinese": "账号已被限制登录，请联系管理员",
+    "english": "The account has been restricted to login. Please contact the administrator!",
+    "spanish": "Se ha restringido el acceso a la cuenta. Póngase en contacto con el administrador.",
+    "portuguese": "A conta foi restringida para login. Entre em contato com o administrador!",
+    "french": "Le compte n'est pas autorisé à se connecter. Veuillez contacter l'administrateur !"
+  },
+  {
+    "id": "103008",
+    "type": "",
+    "chinese": "账号已被注册",
+    "english": "The account has been registered",
+    "spanish": "La cuenta ha sido registrada",
+    "portuguese": "A conta foi registrada",
+    "french": "Le compte a été enregistré"
+  },
+  {
+    "id": "103009",
+    "type": "",
+    "chinese": "账号或密码错误",
+    "english": "Account or password error",
+    "spanish": "Error de cuenta o contraseña",
+    "portuguese": "Erro de conta ou senha",
+    "french": "Erreur de compte ou de mot de passe"
+  },
+  {
+    "id": "103010",
+    "type": "",
+    "chinese": "已绑定账号无法进行游客登录",
+    "english": "The bound account cannot be logged in with tourists",
+    "spanish": "La cuenta vinculada no puede iniciar sesión con turistas",
+    "portuguese": "A conta vinculada não pode ser conectada com turistas",
+    "french": "Le compte lié ne peut pas être connecté avec des touristes"
+  },
+  {
+    "id": "104001",
+    "type": "",
+    "chinese": "手机号：",
+    "english": "Phone:",
+    "spanish": "Teléfono:",
+    "portuguese": "Telefone:",
+    "french": "Téléphone :"
+  },
+  {
+    "id": "104002",
+    "type": "",
+    "chinese": "密码：",
+    "english": "Password:",
+    "spanish": "Contraseña:",
+    "portuguese": "Senha:",
+    "french": "Mot de passe :"
+  },
+  {
+    "id": "104003",
+    "type": "",
+    "chinese": "确认密码：",
+    "english": "Repeat password:",
+    "spanish": "Repite la contraseña:",
+    "portuguese": "Repetir a senha:",
+    "french": "Répéter le mot de passe :"
+  },
+  {
+    "id": "104004",
+    "type": "",
+    "chinese": "验证码：",
+    "english": "Phone code:",
+    "spanish": "Código telefónico:",
+    "portuguese": "Código telefônico:",
+    "french": "Code téléphonique :"
+  },
+  {
+    "id": "104005",
+    "type": "",
+    "chinese": "确认",
+    "english": "Confirm",
+    "spanish": "Confirme",
+    "portuguese": "Confirmar",
+    "french": "Confirmer"
+  },
+  {
+    "id": "104006",
+    "type": "",
+    "chinese": "获取验证码",
+    "english": "get code",
+    "spanish": "obtener código",
+    "portuguese": "obter código",
+    "french": "obtenir le code"
+  },
+  {
+    "id": "201001",
+    "type": "",
+    "chinese": "ID：",
+    "english": "ID:",
+    "spanish": "ID:",
+    "portuguese": "ID:",
+    "french": "ID :"
+  },
+  {
+    "id": "201002",
+    "type": "",
+    "chinese": "购买",
+    "english": "BUY",
+    "spanish": "COMPRAR",
+    "portuguese": "COMPRAR",
+    "french": "ACHETER"
+  },
+  {
+    "id": "201003",
+    "type": "",
+    "chinese": "优惠",
+    "english": "SALE",
+    "spanish": "VENTA",
+    "portuguese": "VENDA",
+    "french": "VENTE"
+  },
+  {
+    "id": "201004",
+    "type": "",
+    "chinese": "在线奖励",
+    "english": "ONLINE",
+    "spanish": "EN LÍNEA",
+    "portuguese": "ONLINE",
+    "french": "EN LIGNE"
+  },
+  {
+    "id": "201005",
+    "type": "",
+    "chinese": "绑定手机",
+    "english": "BIND",
+    "spanish": "BIND",
+    "portuguese": "BIND",
+    "french": "BIND"
+  },
+  {
+    "id": "201006",
+    "type": "",
+    "chinese": "免费金币",
+    "english": "FREE CONIS",
+    "spanish": "CONIS LIBRE",
+    "portuguese": "FREE CONIS",
+    "french": "CONIS LIBRE"
+  },
+  {
+    "id": "201007",
+    "type": "",
+    "chinese": "联系我们",
+    "english": "CONTACT US",
+    "spanish": "CONTACTO",
+    "portuguese": "ENTRE EM CONTATO CONOSCO",
+    "french": "CONTACTEZ-NOUS"
+  },
+  {
+    "id": "201008",
+    "type": "",
+    "chinese": "公告",
+    "english": "NEWS",
+    "spanish": "NOTICIAS",
+    "portuguese": "NOTÍCIAS",
+    "french": "NOUVELLES"
+  },
+  {
+    "id": "201009",
+    "type": "",
+    "chinese": "排行榜",
+    "english": "RANK",
+    "spanish": "RANK",
+    "portuguese": "RANK",
+    "french": "RANK"
+  },
+  {
+    "id": "201010",
+    "type": "",
+    "chinese": "分享代理",
+    "english": "SHARE",
+    "spanish": "COMPARTIR",
+    "portuguese": "COMPARTILHAR",
+    "french": "PARTAGER"
+  },
+  {
+    "id": "201011",
+    "type": "",
+    "chinese": "邮箱",
+    "english": "INBOX",
+    "spanish": "CONTENEDOR",
+    "portuguese": "INBOX",
+    "french": "INBOX"
+  },
+  {
+    "id": "201012",
+    "type": "",
+    "chinese": "幸运转盘",
+    "english": "LUCKY SPIN",
+    "spanish": "LUCKY SPIN",
+    "portuguese": "LUCKY SPIN",
+    "french": "LUCKY SPIN"
+  },
+  {
+    "id": "202001",
+    "type": "",
+    "chinese": "个人中心",
+    "english": "Personal information",
+    "spanish": "Información personal",
+    "portuguese": "Informações pessoais",
+    "french": "Informations personnelles"
+  },
+  {
+    "id": "202002",
+    "type": "",
+    "chinese": "切换头像",
+    "english": "Avatar selsction",
+    "spanish": "Selección de avatar",
+    "portuguese": "Seleção de avatar",
+    "french": "Fonctionnement d'Avatar"
+  },
+  {
+    "id": "202003",
+    "type": "",
+    "chinese": "头像选择",
+    "english": "change avatar",
+    "spanish": "cambiar avatar",
+    "portuguese": "alterar o avatar",
+    "french": "changer d'avatar"
+  },
+  {
+    "id": "202004",
     "type": "",
     "chinese": "切换账号",
     "english": "Switch account",
     "spanish": "Cambiar de cuenta",
-    "portuguese": "Troca de contas",
+    "portuguese": "Mudar de conta",
     "french": "Changer de compte"
+  },
+  {
+    "id": "202005",
+    "type": "",
+    "chinese": "OK",
+    "english": "OK",
+    "spanish": "OK",
+    "portuguese": "OK",
+    "french": "OK"
+  },
+  {
+    "id": "202006",
+    "type": "",
+    "chinese": "ON",
+    "english": "ON",
+    "spanish": "EN",
+    "portuguese": "ON",
+    "french": "ON"
+  },
+  {
+    "id": "202007",
+    "type": "",
+    "chinese": "OFF",
+    "english": "OFF",
+    "spanish": "OFF",
+    "portuguese": "DESLIGADO",
+    "french": "OFF"
+  },
+  {
+    "id": "202008",
+    "type": "",
+    "chinese": "昵称：",
+    "english": "NickName:",
+    "spanish": "NickName:",
+    "portuguese": "NickName:",
+    "french": "Nom de Nick :"
+  },
+  {
+    "id": "202009",
+    "type": "",
+    "chinese": "ID：",
+    "english": "ID:",
+    "spanish": "ID:",
+    "portuguese": "ID:",
+    "french": "ID :"
+  },
+  {
+    "id": "202010",
+    "type": "",
+    "chinese": "手机号：",
+    "english": "Phone:",
+    "spanish": "Teléfono:",
+    "portuguese": "Telefone:",
+    "french": "Téléphone :"
+  },
+  {
+    "id": "202011",
+    "type": "",
+    "chinese": "邮箱：",
+    "english": "Email:",
+    "spanish": "Correo electrónico:",
+    "portuguese": "E-mail:",
+    "french": "Courriel :"
+  },
+  {
+    "id": "202012",
+    "type": "",
+    "chinese": "切换账号",
+    "english": "Switch account",
+    "spanish": "Cambiar de cuenta",
+    "portuguese": "Mudar de conta",
+    "french": "Changer de compte"
+  },
+  {
+    "id": "202013",
+    "type": "",
+    "chinese": "当前账号：",
+    "english": "Current account:",
+    "spanish": "Cuenta corriente:",
+    "portuguese": "Conta corrente:",
+    "french": "Compte courant :"
+  },
+  {
+    "id": "203001",
+    "type": "",
+    "chinese": "提示",
+    "english": "Tips",
+    "spanish": "Consejos",
+    "portuguese": "Dicas",
+    "french": "Conseils"
+  },
+  {
+    "id": "203002",
+    "type": "",
+    "chinese": "是否退出游戏？",
+    "english": "Whether to quit the game?",
+    "spanish": "¿Dejar el juego?",
+    "portuguese": "Se deve sair do jogo?",
+    "french": "Faut-il quitter le jeu ?"
+  },
+  {
+    "id": "203003",
+    "type": "",
+    "chinese": "确认",
+    "english": "Confirm",
+    "spanish": "Confirme",
+    "portuguese": "Confirmar",
+    "french": "Confirmer"
+  },
+  {
+    "id": "204001",
+    "type": "",
+    "chinese": "商城",
+    "english": "STORE",
+    "spanish": "TIENDA",
+    "portuguese": "LOJA",
+    "french": "MAGASIN"
+  },
+  {
+    "id": "204002",
+    "type": "",
+    "chinese": "充值",
+    "english": "Recharge",
+    "spanish": "Recarga",
+    "portuguese": "Recarga",
+    "french": "Recharge"
+  },
+  {
+    "id": "204003",
+    "type": "",
+    "chinese": "兑换",
+    "english": "Exchange",
+    "spanish": "Intercambio",
+    "portuguese": "Câmbio",
+    "french": "Échange"
+  },
+  {
+    "id": "204004",
+    "type": "",
+    "chinese": "记录",
+    "english": "Record",
+    "spanish": "Registro",
+    "portuguese": "Registro",
+    "french": "Enregistrer"
+  },
+  {
+    "id": "204005",
+    "type": "",
+    "chinese": "有任何问题？",
+    "english": "Any question?",
+    "spanish": "¿Alguna pregunta?",
+    "portuguese": "Alguma dúvida?",
+    "french": "Des questions ?"
+  },
+  {
+    "id": "204006",
+    "type": "",
+    "chinese": "联系我们",
+    "english": "Contact Us",
+    "spanish": "Póngase en contacto con nosotros",
+    "portuguese": "Entre em contato conosco",
+    "french": "Nous contacter"
+  },
+  {
+    "id": "204007",
+    "type": "",
+    "chinese": "我的金币：",
+    "english": "My Gold:",
+    "spanish": "Mi Oro:",
+    "portuguese": "Meu ouro:",
+    "french": "Mon or :"
+  },
+  {
+    "id": "204008",
+    "type": "",
+    "chinese": "金币比例：",
+    "english": "Exchange:",
+    "spanish": "Intercambio:",
+    "portuguese": "Intercâmbio:",
+    "french": "Échange :"
+  },
+  {
+    "id": "204009",
+    "type": "",
+    "chinese": "选择支付渠道：",
+    "english": "Choose Pay Channel:",
+    "spanish": "Seleccione Canal de pago:",
+    "portuguese": "Selecione Pay Channel (Canal pago):",
+    "french": "Choisissez Pay Channel :"
+  },
+  {
+    "id": "204010",
+    "type": "",
+    "chinese": "支付渠道正在维护，请选择其它渠道",
+    "english": "Payment chanel maintenance choose another channel",
+    "spanish": "Mantenimiento del canal de pago elija otro canal",
+    "portuguese": "Manutenção do canal de pagamento escolha outro canal",
+    "french": "Entretien de la chaîne de paiement choisir un autre canal"
+  },
+  {
+    "id": "204011",
+    "type": "",
+    "chinese": "基本金币",
+    "english": "Get",
+    "spanish": "Visite",
+    "portuguese": "Obter",
+    "french": "Obtenir"
+  },
+  {
+    "id": "204012",
+    "type": "",
+    "chinese": "额外获得",
+    "english": "Extra",
+    "spanish": "Extra",
+    "portuguese": "Extra",
+    "french": "Extra"
+  },
+  {
+    "id": "204013",
+    "type": "",
+    "chinese": "总共获得",
+    "english": "Total Get",
+    "spanish": "Total Get",
+    "portuguese": "Obtenção total",
+    "french": "Total Obtenir"
+  },
+  {
+    "id": "204014",
+    "type": "",
+    "chinese": "输入充值金额：",
+    "english": "Enter Recharge Amount:",
+    "spanish": "Introduzca el importe de la recarga:",
+    "portuguese": "Insira o valor da recarga:",
+    "french": "Saisir le montant de la recharge :"
+  },
+  {
+    "id": "204015",
+    "type": "",
+    "chinese": "充值",
+    "english": "Recharge",
+    "spanish": "Recarga",
+    "portuguese": "Recarga",
+    "french": "Recharge"
+  },
+  {
+    "id": "204016",
+    "type": "",
+    "chinese": "我的金币：",
+    "english": "My Gold:",
+    "spanish": "Mi Oro:",
+    "portuguese": "Meu ouro:",
+    "french": "Mon or :"
+  },
+  {
+    "id": "204017",
+    "type": "",
+    "chinese": "金币比例：",
+    "english": "Exchange:",
+    "spanish": "Intercambio:",
+    "portuguese": "Intercâmbio:",
+    "french": "Échange :"
+  },
+  {
+    "id": "204018",
+    "type": "",
+    "chinese": "可兑换：",
+    "english": "Exchangeable:",
+    "spanish": "Intercambiable:",
+    "portuguese": "Pode ser trocado:",
+    "french": "Échangeable :"
+  },
+  {
+    "id": "204019",
+    "type": "",
+    "chinese": "设置你的现金钱包：",
+    "english": "Set up you Cash Wallet:",
+    "spanish": "Configura tu Cash Wallet:",
+    "portuguese": "Configure sua carteira de dinheiro:",
+    "french": "Créez votre porte-monnaie électronique :"
+  },
+  {
+    "id": "204020",
+    "type": "",
+    "chinese": "手机号：",
+    "english": "Phone:",
+    "spanish": "Teléfono:",
+    "portuguese": "Telefone:",
+    "french": "Téléphone :"
+  },
+  {
+    "id": "204021",
+    "type": "",
+    "chinese": "姓名：",
+    "english": "Name:",
+    "spanish": "Nombre:",
+    "portuguese": "Nome:",
+    "french": "Nom :"
+  },
+  {
+    "id": "204022",
+    "type": "",
+    "chinese": "选择兑换金额：",
+    "english": "Choose Exchange Amount:",
+    "spanish": "Seleccione Importe del canje:",
+    "portuguese": "Selecione Exchange Amount:",
+    "french": "Sélectionnez Montant de l'échange :"
+  },
+  {
+    "id": "204023",
+    "type": "",
+    "chinese": "前名",
+    "english": "FirstName",
+    "spanish": "Nombre",
+    "portuguese": "FirstName",
+    "french": "Prénom"
+  },
+  {
+    "id": "204024",
+    "type": "",
+    "chinese": "中名",
+    "english": "MiddleName",
+    "spanish": "Segundo nombre",
+    "portuguese": "Nome do meio",
+    "french": "Nom du milieu"
+  },
+  {
+    "id": "204025",
+    "type": "",
+    "chinese": "后名",
+    "english": "LastName",
+    "spanish": "Apellido",
+    "portuguese": "Sobrenome",
+    "french": "Nom de famille"
+  },
+  {
+    "id": "204026",
+    "type": "",
+    "chinese": "钱包管理",
+    "english": "Used Wallet",
+    "spanish": "Cartera usada",
+    "portuguese": "Carteira usada",
+    "french": "Portefeuille usagé"
+  },
+  {
+    "id": "204027",
+    "type": "",
+    "chinese": "将获得：",
+    "english": "You Will Get:",
+    "spanish": "Usted recibirá:",
+    "portuguese": "Você receberá:",
+    "french": "Vous recevrez :"
+  },
+  {
+    "id": "204028",
+    "type": "",
+    "chinese": "兑换手续费：",
+    "english": "Exchange Fee:",
+    "spanish": "Tasa de intercambio:",
+    "portuguese": "Taxa de câmbio:",
+    "french": "Frais d'échange :"
+  },
+  {
+    "id": "204029",
+    "type": "",
+    "chinese": "钱包管理：",
+    "english": "Bank Manager",
+    "spanish": "Director de banco",
+    "portuguese": "Gerente de banco",
+    "french": "Directeur de banque"
+  },
+  {
+    "id": "204030",
+    "type": "",
+    "chinese": "钱包账号：",
+    "english": "Bank Account",
+    "spanish": "Cuenta bancaria",
+    "portuguese": "Conta bancária",
+    "french": "Compte bancaire"
+  },
+  {
+    "id": "204031",
+    "type": "",
+    "chinese": "姓名：",
+    "english": "Holder Name",
+    "spanish": "Nombre del titular",
+    "portuguese": "Nome do titular",
+    "french": "Nom du titulaire"
+  },
+  {
+    "id": "204032",
+    "type": "",
+    "chinese": "钱包：",
+    "english": "Wallet",
+    "spanish": "Cartera",
+    "portuguese": "Carteira",
+    "french": "Portefeuille"
+  },
+  {
+    "id": "204033",
+    "type": "",
+    "chinese": "操作",
+    "english": "Hande",
+    "spanish": "Hande",
+    "portuguese": "Hande",
+    "french": "Hande"
+  },
+  {
+    "id": "204034",
+    "type": "",
+    "chinese": "这是你可以兑换的总金额。每次在我们游戏中赢得金币，你的总赢会增加。当你进行兑换时需要足够的总赢和金币。每兑换200PHP，你需要消耗200金币和200*1.5=300总赢。",
+    "english": "This is the amount you can withdraw in channel.Each time you win coins in our games, your Total Win will increase.When you want to withdrawal, you need enough coins and Total Win.For every 200 PHP exchanged:1. you need 200*1 gold coins to exchange2. You need to accumulate 200*1*1.5=300 Total Win in our games",
+    "spanish": "Esta es la cantidad que puedes retirar en el canal.Cada vez que ganes monedas en nuestros juegos, tu Ganancia Total aumentará.Cuando quieras retirar, necesitas suficientes monedas y Ganancia Total.Por cada 200 PHP canjeados:1. Necesitas 200*1 monedas de oro para canjear2. Por cada 200 PHP canjeados:1. necesitas 200*1 monedas de oro para canjear2. necesitas acumular 200*1*1.5=300 Ganancias Totales en nuestros juegos",
+    "portuguese": "Esse é o valor que você pode sacar no canal. Sempre que você ganhar moedas em nossos jogos, seu Total de Ganhos aumentará. Quando quiser sacar, você precisará de moedas suficientes e do Total de Ganhos. Para cada 200 PHP trocados:1. você precisa de 200*1 moedas de ouro para trocar2. Você precisa acumular 200*1*1,5=300 ganhos totais em nossos jogos",
+    "french": "C'est le montant que vous pouvez retirer dans le canal.Chaque fois que vous gagnez des pièces dans nos jeux, votre gain total augmentera.Lorsque vous voulez retirer, vous avez besoin de suffisamment de pièces et de gain total.Pour chaque 200 PHP échangés:1. vous avez besoin de 200*1 pièces d'or à échanger2. Vous devez accumuler 200*1*1.5=300 Total Win dans nos jeux."
+  },
+  {
+    "id": "204035",
+    "type": "",
+    "chinese": "时间",
+    "english": "Time",
+    "spanish": "Tiempo",
+    "portuguese": "Tempo",
+    "french": "L'heure"
+  },
+  {
+    "id": "204036",
+    "type": "",
+    "chinese": "金额",
+    "english": "Amount",
+    "spanish": "Importe",
+    "portuguese": "Valor",
+    "french": "Montant"
+  },
+  {
+    "id": "204037",
+    "type": "",
+    "chinese": "结果",
+    "english": "Results",
+    "spanish": "Resultados",
+    "portuguese": "Resultados",
+    "french": "Résultats"
+  },
+  {
+    "id": "204038",
+    "type": "",
+    "chinese": "反馈",
+    "english": "Feedback",
+    "spanish": "Comentarios",
+    "portuguese": "Feedback",
+    "french": "Retour d'information"
+  },
+  {
+    "id": "204039",
+    "type": "",
+    "chinese": "充值",
+    "english": "Recharge",
+    "spanish": "Recarga",
+    "portuguese": "Recarga",
+    "french": "Recharge"
+  },
+  {
+    "id": "204040",
+    "type": "",
+    "chinese": "兑换",
+    "english": "Exchange",
+    "spanish": "Intercambio",
+    "portuguese": "Câmbio",
+    "french": "Échange"
+  },
+  {
+    "id": "204041",
+    "type": "",
+    "chinese": "获得金币",
+    "english": "Get Gold",
+    "spanish": "Conseguir oro",
+    "portuguese": "Obter ouro",
+    "french": "Obtenir de l'or"
+  },
+  {
+    "id": "204042",
+    "type": "",
+    "chinese": "失败",
+    "english": "Failed",
+    "spanish": "Fallido",
+    "portuguese": "Falha",
+    "french": "Échec"
+  },
+  {
+    "id": "204043",
+    "type": "",
+    "chinese": "成功",
+    "english": "Sucessd",
+    "spanish": "Éxito",
+    "portuguese": "Bem-sucedido",
+    "french": "Réussite"
+  },
+  {
+    "id": "204044",
+    "type": "",
+    "chinese": "等待",
+    "english": "Waiting",
+    "spanish": "En espera",
+    "portuguese": "Em espera",
+    "french": "Attente"
+  },
+  {
+    "id": "205001",
+    "type": "",
+    "chinese": "金额",
+    "english": "Amount",
+    "spanish": "Importe",
+    "portuguese": "Valor",
+    "french": "Montant"
+  },
+  {
+    "id": "205002",
+    "type": "",
+    "chinese": "奖励",
+    "english": "Bonus",
+    "spanish": "Bono",
+    "portuguese": "Bônus",
+    "french": "Bonus"
+  },
+  {
+    "id": "205003",
+    "type": "",
+    "chinese": "总共获得",
+    "english": "Total Get",
+    "spanish": "Total Get",
+    "portuguese": "Obtenção total",
+    "french": "Total Obtenir"
+  },
+  {
+    "id": "206001",
+    "type": "",
+    "chinese": "幸运机会",
+    "english": "LUCKY CHANCE",
+    "spanish": "LUCKY CHANCE",
+    "portuguese": "SORTE",
+    "french": "LUCKY CHANCE"
+  },
+  {
+    "id": "206002",
+    "type": "",
+    "chinese": "随机充值金额",
+    "english": "RANDOM AMOUNT",
+    "spanish": "IMPORTE ALEATORIO",
+    "portuguese": "VALOR ALEATÓRIO",
+    "french": "MONTANT ALÉATOIRE"
+  },
+  {
+    "id": "206003",
+    "type": "",
+    "chinese": "随机额外奖励",
+    "english": "RANDOM EXTRA BONUS",
+    "spanish": "BONIFICACIÓN EXTRA ALEATORIA",
+    "portuguese": "BÔNUS EXTRA ALEATÓRIO",
+    "french": "BONUS SUPPLÉMENTAIRE ALÉATOIRE"
+  },
+  {
+    "id": "206004",
+    "type": "",
+    "chinese": "每日一次机会",
+    "english": "One chance per day",
+    "spanish": "Una oportunidad al día",
+    "portuguese": "Uma chance por dia",
+    "french": "Une chance par jour"
+  },
+  {
+    "id": "206005",
+    "type": "",
+    "chinese": "获得【】充值机会",
+    "english": "Get[]to recharge",
+    "spanish": "Obtener[]para recargar",
+    "portuguese": "Obter[]para recarregar",
+    "french": "Get[]to recharge"
+  },
+  {
+    "id": "206006",
+    "type": "",
+    "chinese": "获得【】额外奖励",
+    "english": "Get extra bonus[]",
+    "spanish": "Consigue una bonificación extra[]",
+    "portuguese": "Obtenha bônus extra[]",
+    "french": "Obtenir un bonus supplémentaire[]"
+  },
+  {
+    "id": "206007",
+    "type": "",
+    "chinese": "点击转动查看奖励机会",
+    "english": "Click spin! to see your bouns",
+    "spanish": "Pulsa ¡Gira! para ver tus rebotes",
+    "portuguese": "Clique em girar! para ver seus bouns",
+    "french": "Cliquez sur spin ! pour voir vos bouns"
+  },
+  {
+    "id": "206008",
+    "type": "",
+    "chinese": "转动",
+    "english": "SPIN",
+    "spanish": "GIRAR",
+    "portuguese": "SPIN",
+    "french": "SPIN"
+  },
+  {
+    "id": "206009",
+    "type": "",
+    "chinese": "获得",
+    "english": "Get",
+    "spanish": "Visite",
+    "portuguese": "Obter",
+    "french": "Obtenir"
+  },
+  {
+    "id": "206010",
+    "type": "",
+    "chinese": "额外获得",
+    "english": "Extra+",
+    "spanish": "Extra+",
+    "portuguese": "Extra+",
+    "french": "Extra+"
+  },
+  {
+    "id": "206011",
+    "type": "",
+    "chinese": "只要【】！",
+    "english": "Only [] now!",
+    "spanish": "¡Ahora sólo []!",
+    "portuguese": "Somente [] agora!",
+    "french": "Seulement [] maintenant !"
+  },
+  {
+    "id": "206012",
+    "type": "",
+    "chinese": "今日已完成",
+    "english": "see you tomorrow",
+    "spanish": "hasta mañana",
+    "portuguese": "Até amanhã",
+    "french": "à demain"
+  },
+  {
+    "id": "207001",
+    "type": "",
+    "chinese": "冰球突破",
+    "english": "Ice Hockey",
+    "spanish": "Hockey sobre hielo",
+    "portuguese": "Hóquei no gelo",
+    "french": "Hockey sur glace"
+  },
+  {
+    "id": "207002",
+    "type": "",
+    "chinese": "跳高高",
+    "english": "High Jump",
+    "spanish": "Salto de altura",
+    "portuguese": "Salto em altura",
+    "french": "Saut en hauteur"
+  },
+  {
+    "id": "207003",
+    "type": "",
+    "chinese": "埃及大冒险",
+    "english": "Egypt Treasure",
+    "spanish": "Tesoro de Egipto",
+    "portuguese": "Tesouro do Egito",
+    "french": "Trésor d'Egypte"
+  },
+  {
+    "id": "207004",
+    "type": "",
+    "chinese": "水果小玛丽",
+    "english": "Fruit Mary",
+    "spanish": "Fruta María",
+    "portuguese": "Fruta Maria",
+    "french": "Fruit Mary"
+  },
+  {
+    "id": "207005",
+    "type": "",
+    "chinese": "武士斩杀",
+    "english": "Samurai",
+    "spanish": "Samurai",
+    "portuguese": "Samurai",
+    "french": "Samouraï"
+  },
+  {
+    "id": "207006",
+    "type": "",
+    "chinese": "点球大战",
+    "english": "Soccer",
+    "spanish": "Fútbol",
+    "portuguese": "Futebol",
+    "french": "Football"
+  },
+  {
+    "id": "207007",
+    "type": "",
+    "chinese": "熊猫竹子",
+    "english": "Fortune Panda",
+    "spanish": "Panda de la fortuna",
+    "portuguese": "Fortune Panda",
+    "french": "Panda de la fortune"
+  },
+  {
+    "id": "207008",
+    "type": "",
+    "chinese": "月光宝盒",
+    "english": "Moonlight Box",
+    "spanish": "Caja de luz de luna",
+    "portuguese": "Caixa do luar",
+    "french": "Boîte à lumière"
+  },
+  {
+    "id": "207009",
+    "type": "",
+    "chinese": "乐高大电影",
+    "english": "Lego Movie",
+    "spanish": "La Lego Película",
+    "portuguese": "Filme Lego",
+    "french": "Lego Movie"
+  },
+  {
+    "id": "207010",
+    "type": "",
+    "chinese": "金瓶梅",
+    "english": "Pretty Bride",
+    "spanish": "Novia guapa",
+    "portuguese": "Noiva bonita",
+    "french": "Jolie mariée"
+  },
+  {
+    "id": "207011",
+    "type": "",
+    "chinese": "财神到",
+    "english": "Fartune Gods",
+    "spanish": "Dioses de Fartune",
+    "portuguese": "Deuses de Fartune",
+    "french": "Dieux de la fartune"
+  },
+  {
+    "id": "207012",
+    "type": "",
+    "chinese": "虎啸龙吟",
+    "english": "DragonAndTiger",
+    "spanish": "DragonAndTiger",
+    "portuguese": "DragonAndTiger",
+    "french": "Dragon et tigre"
+  },
+  {
+    "id": "207013",
+    "type": "",
+    "chinese": "多福多寿",
+    "english": "duofuduoshou",
+    "spanish": "duofuduoshou",
+    "portuguese": "duofuduoshou",
+    "french": "duofuduoshou"
+  },
+  {
+    "id": "207014",
+    "type": "",
+    "chinese": "淘金者",
+    "english": "Gold Digger",
+    "spanish": "Buscador de oro",
+    "portuguese": "Garimpeiro",
+    "french": "Chercheur d'or"
+  },
+  {
+    "id": "207015",
+    "type": "",
+    "chinese": "水果777",
+    "english": "Fruit slot 777",
+    "spanish": "Tragaperras 777",
+    "portuguese": "Caça-níqueis de frutas 777",
+    "french": "Fente à fruits 777"
+  },
+  {
+    "id": "207016",
+    "type": "",
+    "chinese": "龙珠探宝",
+    "english": "Dragon Legend",
+    "spanish": "Leyenda del Dragón",
+    "portuguese": "Lenda do Dragão",
+    "french": "Légende du dragon"
+  },
+  {
+    "id": "207017",
+    "type": "",
+    "chinese": "金猪送福",
+    "english": "Golden piggy",
+    "spanish": "Cerdito dorado",
+    "portuguese": "Porquinho dourado",
+    "french": "Cochon d'or"
+  },
+  {
+    "id": "207018",
+    "type": "",
+    "chinese": "麻将胡了",
+    "english": "Mahjong ways",
+    "spanish": "Formas de Mahjong",
+    "portuguese": "Formas de Mahjong",
+    "french": "Modes de jeu du mahjong"
+  },
+  {
+    "id": "207019",
+    "type": "",
+    "chinese": "3D捕鱼",
+    "english": "3D Fishing",
+    "spanish": "Pesca 3D",
+    "portuguese": "Pesca 3D",
+    "french": "Pêche en 3D"
+  },
+  {
+    "id": "207020",
+    "type": "",
+    "chinese": "小火箭",
+    "english": "Crash",
+    "spanish": "Crash",
+    "portuguese": "Colisão",
+    "french": "Crash"
+  },
+  {
+    "id": "207021",
+    "type": "",
+    "chinese": "初级场",
+    "english": "PRIMARY",
+    "spanish": "PRIMARIO",
+    "portuguese": "PRIMÁRIO",
+    "french": "PRIMAIRE"
+  },
+  {
+    "id": "207022",
+    "type": "",
+    "chinese": "中级场",
+    "english": "INTERMEDIATE",
+    "spanish": "INTERMEDIO",
+    "portuguese": "INTERMEDIÁRIO",
+    "french": "INTERMEDIAIRE"
+  },
+  {
+    "id": "207023",
+    "type": "",
+    "chinese": "高级场",
+    "english": "ADVANCED",
+    "spanish": "AVANZADO",
+    "portuguese": "AVANÇADO",
+    "french": "AVANCÉ"
+  },
+  {
+    "id": "207024",
+    "type": "",
+    "chinese": "大师场",
+    "english": "MAESTRO",
+    "spanish": "MAESTRO",
+    "portuguese": "MAESTRO",
+    "french": "MAESTRO"
+  },
+  {
+    "id": "207025",
+    "type": "",
+    "chinese": "入场限制：",
+    "english": "condition：",
+    "spanish": "condición：",
+    "portuguese": "condição：",
+    "french": "condition："
+  },
+  {
+    "id": "207026",
+    "type": "",
+    "chinese": "开始游戏",
+    "english": "Start",
+    "spanish": "Inicio",
+    "portuguese": "Início",
+    "french": "Démarrage"
+  },
+  {
+    "id": "208001",
+    "type": "",
+    "chinese": "邮件",
+    "english": "MESSAGE",
+    "spanish": "MENSAJE",
+    "portuguese": "MENSAGEM",
+    "french": "MESSAGE"
+  },
+  {
+    "id": "209001",
+    "type": "",
+    "chinese": "分享代理",
+    "english": "INVITE",
+    "spanish": "INVITE",
+    "portuguese": "CONVITE",
+    "french": "INVITE"
+  },
+  {
+    "id": "209002",
+    "type": "",
+    "chinese": "分享和绑定",
+    "english": "Share & Bind",
+    "spanish": "Compartir y encuadernar",
+    "portuguese": "Compartilhar e vincular",
+    "french": "Partager et lier"
+  },
+  {
+    "id": "209003",
+    "type": "",
+    "chinese": "邀请奖励",
+    "english": "Invitation Reward",
+    "spanish": "Invitación Recompensa",
+    "portuguese": "Recompensa por convite",
+    "french": "Invitation Récompense"
+  },
+  {
+    "id": "209004",
+    "type": "",
+    "chinese": "充值返利",
+    "english": "Recharge Reward",
+    "spanish": "Recompensa por recarga",
+    "portuguese": "Recompensa de recarga",
+    "french": "Prime de recharge"
+  },
+  {
+    "id": "209005",
+    "type": "",
+    "chinese": "你的邀请人",
+    "english": "Your invitee",
+    "spanish": "Su invitado",
+    "portuguese": "Seu convidado",
+    "french": "Votre invité"
+  },
+  {
+    "id": "209006",
+    "type": "",
+    "chinese": "你邀请的用户",
+    "english": "Friends you invite",
+    "spanish": "Amigos a los que invita",
+    "portuguese": "Amigos que você convida",
+    "french": "Les amis que vous invitez"
+  },
+  {
+    "id": "209007",
+    "type": "",
+    "chinese": "输入邀请码",
+    "english": "Enter Invite code",
+    "spanish": "Introduzca el código de invitación",
+    "portuguese": "Inserir código de convite",
+    "french": "Saisir le code d'invitation"
+  },
+  {
+    "id": "209008",
+    "type": "",
+    "chinese": "可分享到：",
+    "english": "share on：",
+    "spanish": "compartir en：",
+    "portuguese": "compartilhar em：",
+    "french": "partager sur："
+  },
+  {
+    "id": "209009",
+    "type": "",
+    "chinese": "游戏下载二维码",
+    "english": "Game download QR",
+    "spanish": "Descarga del juego QR",
+    "portuguese": "Download do jogo QR",
+    "french": "Téléchargement du jeu QR"
+  },
+  {
+    "id": "209010",
+    "type": "",
+    "chinese": "游戏下载链接",
+    "english": "Game download link",
+    "spanish": "Enlace de descarga del juego",
+    "portuguese": "Link para download do jogo",
+    "french": "Lien de téléchargement du jeu"
+  },
+  {
+    "id": "209011",
+    "type": "",
+    "chinese": "邀请码",
+    "english": "My Invite code",
+    "spanish": "Mi código de invitación",
+    "portuguese": "Meu código de convite",
+    "french": "Mon code d'invitation"
+  },
+  {
+    "id": "209012",
+    "type": "",
+    "chinese": "绑定",
+    "english": "Bind",
+    "spanish": "Encuadernar",
+    "portuguese": "Vinculação",
+    "french": "Relier"
+  },
+  {
+    "id": "209013",
+    "type": "",
+    "chinese": "保存二维码",
+    "english": "Save QR image",
+    "spanish": "Guardar imagen QR",
+    "portuguese": "Salvar imagem QR",
+    "french": "Enregistrer l'image QR"
+  },
+  {
+    "id": "209014",
+    "type": "",
+    "chinese": "图片已保存",
+    "english": "Image saved",
+    "spanish": "Imagen guardada",
+    "portuguese": "Imagem salva",
+    "french": "Image sauvegardée"
+  },
+  {
+    "id": "209015",
+    "type": "",
+    "chinese": "链接已复制",
+    "english": "Link saved",
+    "spanish": "Enlace guardado",
+    "portuguese": "Link salvo",
+    "french": "Lien sauvegardé"
+  },
+  {
+    "id": "209016",
+    "type": "",
+    "chinese": "邀请码已复制",
+    "english": "Code saved",
+    "spanish": "Código guardado",
+    "portuguese": "Código salvo",
+    "french": "Code sauvegardé"
+  },
+  {
+    "id": "209017",
+    "type": "",
+    "chinese": "用户已被邀请",
+    "english": "You have been invited and cannot be invited again",
+    "spanish": "Ha sido invitado y no puede ser invitado de nuevo",
+    "portuguese": "Você foi convidado e não pode ser convidado novamente",
+    "french": "Vous avez été invité et vous ne pouvez pas être invité à nouveau"
+  },
+  {
+    "id": "209018",
+    "type": "",
+    "chinese": "邀请码绑定错误",
+    "english": "Please check the invitation code",
+    "spanish": "Compruebe el código de invitación",
+    "portuguese": "Verifique o código do convite",
+    "french": "Veuillez vérifier le code d'invitation"
+  },
+  {
+    "id": "209019",
+    "type": "",
+    "chinese": "没有奖励可领取",
+    "english": "No rewards currently available",
+    "spanish": "Actualmente no hay recompensas disponibles",
+    "portuguese": "Não há prêmios disponíveis no momento",
+    "french": "Aucune récompense n'est actuellement disponible"
+  },
+  {
+    "id": "209020",
+    "type": "",
+    "chinese": "使用二维码和链接将游戏分享给你的朋友。让你的朋友在游戏中绑定你的邀请码。你将会获得邀请奖励和充值奖励",
+    "english": "Share the game with your friends using the QR code and link.Let your friends bind your invitation code in the game.You will get invitation bonus and recharge bonus",
+    "spanish": "Comparte el juego con tus amigos utilizando el código QR y el enlace.Deja que tus amigos vinculen tu código de invitación en el juego.Obtendrás bonificación por invitación y bonificación por recarga.",
+    "portuguese": "Compartilhe o jogo com seus amigos usando o código QR e o link. Deixe que seus amigos vinculem seu código de convite no jogo. Você receberá bônus de convite e bônus de recarga.",
+    "french": "Partagez le jeu avec vos amis en utilisant le code QR et le lien. Laissez vos amis lier votre code d'invitation dans le jeu. Vous obtiendrez un bonus d'invitation et un bonus de recharge."
+  },
+  {
+    "id": "209021",
+    "type": "",
+    "chinese": "邀请【】人",
+    "english": "invite [] friend",
+    "spanish": "invitar [] amigo",
+    "portuguese": "convidar [] amigo",
+    "french": "inviter [] ami"
+  },
+  {
+    "id": "209022",
+    "type": "",
+    "chinese": "让你的朋友在游戏中绑定你的邀请码。你的邀请人数将会增加\n当你的邀请人数满足条件，你可以点击领取奖励。",
+    "english": "Let your friends bind your invitation code in the game.Your number of invites will increase.When your number of invitations meets the criteria, you can click to receive the reward.",
+    "spanish": "Deja que tus amigos vinculen tu código de invitación en el juego.Tu número de invitaciones aumentará.Cuando tu número de invitaciones cumpla los criterios, podrás hacer clic para recibir la recompensa.",
+    "portuguese": "Permita que seus amigos vinculem seu código de convite no jogo. Seu número de convites aumentará. Quando o número de convites atender aos critérios, você poderá clicar para receber a recompensa.",
+    "french": "Laissez vos amis lier votre code d'invitation dans le jeu.Votre nombre d'invitations augmentera.Lorsque votre nombre d'invitations répond aux critères, vous pouvez cliquer pour recevoir la récompense."
+  },
+  {
+    "id": "209023",
+    "type": "",
+    "chinese": "领取",
+    "english": "Get",
+    "spanish": "Visite",
+    "portuguese": "Obter",
+    "french": "Obtenir"
+  },
+  {
+    "id": "209024",
+    "type": "",
+    "chinese": "我的邀请码",
+    "english": "My Invite code",
+    "spanish": "Mi código de invitación",
+    "portuguese": "Meu código de convite",
+    "french": "Mon code d'invitation"
+  },
+  {
+    "id": "209025",
+    "type": "",
+    "chinese": "我的邀请人数",
+    "english": "Invite number",
+    "spanish": "Número de invitación",
+    "portuguese": "Número do convite",
+    "french": "Nombre d'invitations"
+  },
+  {
+    "id": "209026",
+    "type": "",
+    "chinese": "总获得返利",
+    "english": "Total Reward",
+    "spanish": "Recompensa total",
+    "portuguese": "Recompensa total",
+    "french": "Récompense totale"
+  },
+  {
+    "id": "209027",
+    "type": "",
+    "chinese": "今日返利",
+    "english": "Today Reward",
+    "spanish": "Recompensa de hoy",
+    "portuguese": "Prêmio de hoje",
+    "french": "Récompense d'aujourd'hui"
+  },
+  {
+    "id": "209028",
+    "type": "",
+    "chinese": "返利记录",
+    "english": "Dividend Record",
+    "spanish": "Registro de dividendos",
+    "portuguese": "Registro de dividendos",
+    "french": "Enregistrement des dividendes"
+  },
+  {
+    "id": "209029",
+    "type": "",
+    "chinese": "当前可领取返利",
+    "english": "Current cumulative rewards",
+    "spanish": "Recompensas acumuladas actuales",
+    "portuguese": "Prêmios cumulativos atuais",
+    "french": "Récompenses cumulées actuelles"
+  },
+  {
+    "id": "209030",
+    "type": "",
+    "chinese": "充值金额",
+    "english": "Recharge",
+    "spanish": "Recarga",
+    "portuguese": "Recarga",
+    "french": "Recharge"
+  },
+  {
+    "id": "209031",
+    "type": "",
+    "chinese": "我的返利",
+    "english": "My Dividend",
+    "spanish": "Mi dividendo",
+    "portuguese": "Meus dividendos",
+    "french": "Mon dividende"
+  },
+  {
+    "id": "209032",
+    "type": "",
+    "chinese": "记录显示最近50条",
+    "english": "Records show the last 50 entries",
+    "spanish": "Los registros muestran las últimas 50 entradas",
+    "portuguese": "Os registros mostram as últimas 50 entradas",
+    "french": "Les enregistrements montrent les 50 dernières entrées"
+  },
+  {
+    "id": "209033",
+    "type": "",
+    "chinese": "绑定后你的朋友每充值500php,你将会获得一笔金币返利。你邀请的朋友每充值500PHP，你会得到3%的金币返利。总共15金币。你邀请的朋友可以邀请其他人。你朋友邀请的人每充值500PHP，你会得到1.5%的金币返利。总共7.5金币。",
+    "english": "For every 500php your friend recharges after the bind.You will get 3% gold rebate for every 500PHP you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500PHP recharge of your friend's invited person.Total 7.5 gold.",
+    "spanish": "Por cada 500PHP que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500PHP que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500PHP de la persona invitada por tu amigo.Total 7.5 oro.",
+    "portuguese": "Para cada 500php que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
+    "french": "Vous obtiendrez 3% de remise en or pour chaque 500PHP que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500PHP de la personne invitée par votre ami.Total 7,5 gold."
+  },
+  {
+    "id": "210001",
+    "type": "",
+    "chinese": "排行榜",
+    "english": "LEADERBOARD",
+    "spanish": "TABLERO LÍDER",
+    "portuguese": "QUADRO DE LÍDERES",
+    "french": "LEADERBOARD"
+  },
+  {
+    "id": "210002",
+    "type": "",
+    "chinese": "大富翁排行榜",
+    "english": "Rich Ranking",
+    "spanish": "Clasificación",
+    "portuguese": "Classificação rica",
+    "french": "Riche classement"
+  },
+  {
+    "id": "210003",
+    "type": "",
+    "chinese": "大赢家排行榜",
+    "english": "Winner Ranking",
+    "spanish": "Clasificación de ganadores",
+    "portuguese": "Classificação do vencedor",
+    "french": "Classement des gagnants"
+  },
+  {
+    "id": "210004",
+    "type": "",
+    "chinese": "未上榜",
+    "english": "NO RANKING",
+    "spanish": "SIN RANKING",
+    "portuguese": "SEM RANKING",
+    "french": "PAS DE CLASSEMENT"
+  },
+  {
+    "id": "211001",
+    "type": "",
+    "chinese": "幸运大转盘",
+    "english": "LUCKY SPIN",
+    "spanish": "LUCKY SPIN",
+    "portuguese": "LUCKY SPIN",
+    "french": "LUCKY SPIN"
+  },
+  {
+    "id": "211002",
+    "type": "",
+    "chinese": "转动",
+    "english": "SPIN",
+    "spanish": "GIRAR",
+    "portuguese": "SPIN",
+    "french": "SPIN"
+  },
+  {
+    "id": "211003",
+    "type": "",
+    "chinese": "大赢家",
+    "english": "Winners",
+    "spanish": "Ganadores",
+    "portuguese": "Vencedores",
+    "french": "Vainqueurs"
+  },
+  {
+    "id": "211004",
+    "type": "",
+    "chinese": "个人记录",
+    "english": "Spinning record",
+    "spanish": "Disco giratorio",
+    "portuguese": "Registro giratório",
+    "french": "Enregistrement de l'essorage"
+  },
+  {
+    "id": "211005",
+    "type": "",
+    "chinese": "赢得了【】金币",
+    "english": "won【】gold",
+    "spanish": "won【】gold",
+    "portuguese": "ganhou【】ouro",
+    "french": "gagné【】gold"
+  },
+  {
+    "id": "211006",
+    "type": "",
+    "chinese": "本次转动获得【】",
+    "english": "You has won【】gold",
+    "spanish": "Usted ha ganado 【】gold",
+    "portuguese": "Você ganhou【】ouro",
+    "french": "Vous avez gagné【】gold"
+  },
+  {
+    "id": "211007",
+    "type": "",
+    "chinese": "今日剩余转动次数：",
+    "english": "Number of spins lefe today：",
+    "spanish": "Número de giros lefe hoy：",
+    "portuguese": "Número de rotações lefe hoje：",
+    "french": "Nombre de tours effectués aujourd'hui："
+  },
+  {
+    "id": "211008",
+    "type": "",
+    "chinese": "未使用得转动次数将在每天24：00重置",
+    "english": "The number of unused spins will be reset at 24：00",
+    "spanish": "El número de giros no utilizados se restablecerá en 24：00",
+    "portuguese": "O número de giros não utilizados será redefinido para 24：00",
+    "french": "Le nombre de tours inutilisés est remis à 24：00."
+  },
+  {
+    "id": "211009",
+    "type": "",
+    "chinese": "你可以在活动中的这些活动得到转动次数。登录奖励：可获得随机转动次数，每日一次；在线奖励：完成在线时间可获得转动次数；下注奖励：每下注一定数量金币可获得一次转动次数；",
+    "english": "You can get the number of spins in these activities in the activity.Login reward: you can get random spins, once a day；Online reward: you can get spins for completing online time；Bet reward: Every time you bet a certain amount of coins, you will get one spin；The number of unused spins will be reset at 24:00；",
+    "spanish": "Puedes conseguir el número de tiradas en estas actividades en la actividad.Recompensa de inicio de sesión: puedes conseguir tiradas aleatorias, una vez al día；Recompensa online: puedes conseguir tiradas por completar tiempo online；Recompensa de apuesta: Cada vez que apuestes una cierta cantidad de monedas, conseguirás una tirada；El número de tiradas no utilizadas se reiniciará a las 24:00；",
+    "portuguese": "Você pode obter o número de giros nessas atividades na atividade.Recompensa de login: você pode obter giros aleatórios, uma vez por dia；Recompensa online: você pode obter giros para completar o tempo online；Recompensa de aposta: Toda vez que você apostar uma certa quantidade de moedas, você receberá um giro；O número de giros não utilizados será redefinido às 24:00；",
+    "french": "Récompense de connexion : vous pouvez obtenir des tours aléatoires, une fois par jour；Récompense en ligne : vous pouvez obtenir des tours pour avoir complété le temps en ligne；Récompense de pari : Chaque fois que vous misez un certain montant de pièces, vous obtenez un tour；Le nombre de tours inutilisés sera réinitialisé à 24:00；."
+  },
+  {
+    "id": "212001",
+    "type": "",
+    "chinese": "客服",
+    "english": "Customer Service",
+    "spanish": "Atención al cliente",
+    "portuguese": "Atendimento ao cliente",
+    "french": "Service clientèle"
+  },
+  {
+    "id": "212002",
+    "type": "",
+    "chinese": "点击选择客服渠道",
+    "english": "Click to select the service channel you want to consult",
+    "spanish": "Haga clic para seleccionar el canal de servicio que desea consultar",
+    "portuguese": "Clique para selecionar o canal de serviço que você deseja consultar",
+    "french": "Cliquez sur pour sélectionner le canal de service que vous souhaitez consulter"
+  },
+  {
+    "id": "212003",
+    "type": "",
+    "chinese": "在线客服",
+    "english": "Online",
+    "spanish": "En línea",
+    "portuguese": "Online",
+    "french": "En ligne"
+  },
+  {
+    "id": "212004",
+    "type": "",
+    "chinese": "在viber上联系客服",
+    "english": "Add customer service on Viber for consultation",
+    "spanish": "Añade un servicio de atención al cliente en Viber para realizar consultas",
+    "portuguese": "Adicionar o serviço de atendimento ao cliente no Viber para consulta",
+    "french": "Ajouter le service clientèle sur Viber pour une consultation"
+  },
+  {
+    "id": "212005",
+    "type": "",
+    "chinese": "复制图片",
+    "english": "Copy Image",
+    "spanish": "Copiar imagen",
+    "portuguese": "Copiar imagem",
+    "french": "Copier l'image"
+  },
+  {
+    "id": "212006",
+    "type": "",
+    "chinese": "复制账号",
+    "english": "Copy Account",
+    "spanish": "Copiar cuenta",
+    "portuguese": "Copiar conta",
+    "french": "Compte de copie"
+  },
+  {
+    "id": "213001",
+    "type": "",
+    "chinese": "紧急公告",
+    "english": "Special Notice",
+    "spanish": "Aviso especial",
+    "portuguese": "Aviso especial",
+    "french": "Avis spécial"
+  },
+  {
+    "id": "213002",
+    "type": "",
+    "chinese": "游戏公告",
+    "english": "Game Notes",
+    "spanish": "Notas de juego",
+    "portuguese": "Notas do jogo",
+    "french": "Notes de match"
+  },
+  {
+    "id": "213003",
+    "type": "",
+    "chinese": "欢迎来到GTGAME！我们致力于创造最好完最有趣的真金赌场游戏！请阅读下方的提示，有任何问题请随时联系客服！",
+    "english": "Welcome to GTGAME! We are dedicated to creating the best and most fun real money casino games!Please read the following tips and contact customer service any time with any questions!",
+    "spanish": "¡Bienvenido a GTGAME! Nos dedicamos a crear los mejores y más divertidos juegos de casino con dinero real. Por favor, lea los siguientes consejos y póngase en contacto con el servicio de atención al cliente si tiene alguna pregunta.",
+    "portuguese": "Bem-vindo ao GTGAME! Nós nos dedicamos a criar os melhores e mais divertidos jogos de cassino com dinheiro real! Leia as dicas a seguir e entre em contato com o atendimento ao cliente sempre que tiver alguma dúvida!",
+    "french": "Bienvenue sur GTGAME ! Nous sommes dédiés à la création des meilleurs et des plus amusants jeux de casino en argent réel ! Veuillez lire les conseils suivants et contacter le service clientèle à tout moment pour toute question !"
+  },
+  {
+    "id": "213004",
+    "type": "",
+    "chinese": "绑定你的手机",
+    "english": "BIND  YOUR  PHONE",
+    "spanish": "VINCULA TU TELÉFONO",
+    "portuguese": "VINCULAR SEU TELEFONE",
+    "french": "LIER VOTRE TÉLÉPHONE"
+  },
+  {
+    "id": "213005",
+    "type": "",
+    "chinese": "获得5金币奖励",
+    "english": "Get 5 gold reward after binding",
+    "spanish": "Consigue 5 de oro de recompensa después de atar",
+    "portuguese": "Receber 5 prêmios de ouro após a vinculação",
+    "french": "Obtenez une récompense de 5 pièces d'or après la liaison"
+  },
+  {
+    "id": "213006",
+    "type": "",
+    "chinese": "使用手机号登录已保护你的账号",
+    "english": "Use phone number to login to avoid losing your account",
+    "spanish": "Utiliza el número de teléfono para iniciar sesión y evitar perder tu cuenta",
+    "portuguese": "Use o número de telefone para fazer login e evitar a perda de sua conta",
+    "french": "Utiliser le numéro de téléphone pour se connecter afin d'éviter de perdre son compte"
+  },
+  {
+    "id": "213007",
+    "type": "",
+    "chinese": "解锁更多使用的服务和功能",
+    "english": "Unlock more useful function and service channels",
+    "spanish": "Desbloquear canales de funciones y servicios más útiles",
+    "portuguese": "Desbloquear canais de serviços e funções mais úteis",
+    "french": "Débloquer des fonctions et des canaux de service plus utiles"
+  },
+  {
+    "id": "213008",
+    "type": "",
+    "chinese": "绑定",
+    "english": "BIND",
+    "spanish": "BIND",
+    "portuguese": "BIND",
+    "french": "BIND"
+  },
+  {
+    "id": "213009",
+    "type": "",
+    "chinese": "每日签到",
+    "english": "Daily Login Reward",
+    "spanish": "Recompensa por inicio de sesión diario",
+    "portuguese": "Recompensa de login diário",
+    "french": "Récompense de connexion quotidienne"
+  },
+  {
+    "id": "213010",
+    "type": "",
+    "chinese": "登录游戏点击领取你的奖励",
+    "english": "Log in and click to get your reward",
+    "spanish": "Inicia sesión y haz clic para obtener tu recompensa",
+    "portuguese": "Faça login e clique para receber seu prêmio",
+    "french": "Connectez-vous et cliquez pour obtenir votre récompense"
+  },
+  {
+    "id": "213011",
+    "type": "",
+    "chinese": "在幸运转盘使用转盘次数",
+    "english": "Use the number of spins you get at the Lucky Spin",
+    "spanish": "Utiliza el número de tiradas que consigas en el Lucky Spin",
+    "portuguese": "Use o número de giros que você recebe no Lucky Spin",
+    "french": "Utilisez le nombre de tours que vous obtenez au Lucky Spin"
+  },
+  {
+    "id": "213012",
+    "type": "",
+    "chinese": "获得奖励",
+    "english": "GET REWARD",
+    "spanish": "OBTENER RECOMPENSA",
+    "portuguese": "OBTER RECOMPENSA",
+    "french": "OBTENIR UNE RÉCOMPENSE"
+  },
+  {
+    "id": "213013",
+    "type": "",
+    "chinese": "幸运转盘",
+    "english": "LUCKY SPIN",
+    "spanish": "LUCKY SPIN",
+    "portuguese": "LUCKY SPIN",
+    "french": "LUCKY SPIN"
+  },
+  {
+    "id": "213014",
+    "type": "",
+    "chinese": "打码返利",
+    "english": "Betting Reward",
+    "spanish": "Recompensa de apuestas",
+    "portuguese": "Prêmio de apostas",
+    "french": "Récompense pour les paris"
+  },
+  {
+    "id": "213015",
+    "type": "",
+    "chinese": "每日在游戏中下注获得免费金币返利",
+    "english": "Betting in the game to get free gold ",
+    "spanish": "Apostar en el juego para conseguir oro gratis",
+    "portuguese": "Apostar no jogo para obter ouro grátis",
+    "french": "Parier dans le jeu pour obtenir de l'or gratuit"
+  },
+  {
+    "id": "213016",
+    "type": "",
+    "chinese": "获得奖励",
+    "english": "GET REWARD",
+    "spanish": "OBTENER RECOMPENSA",
+    "portuguese": "OBTER RECOMPENSA",
+    "french": "OBTENIR UNE RÉCOMPENSE"
+  },
+  {
+    "id": "213017",
+    "type": "",
+    "chinese": "充值返利",
+    "english": "Recharge Rebate",
+    "spanish": "Reembolso por recarga",
+    "portuguese": "Desconto de recarga",
+    "french": "Remboursement de la recharge"
+  },
+  {
+    "id": "213018",
+    "type": "",
+    "chinese": "充值达到500获得40金币",
+    "english": "Recharge up to 500PHP to get 40 gold rebate",
+    "spanish": "Recarga hasta 500PHP para obtener 40 de oro de reembolso",
+    "portuguese": "Recarregue até 500PHP para obter um desconto de 40 gold",
+    "french": "Rechargez jusqu'à 500PHP pour bénéficier d'une remise de 40 or"
+  },
+  {
+    "id": "213019",
+    "type": "",
+    "chinese": "充值达到2000获得200金币",
+    "english": "2000PHP to get 200 gold rebate",
+    "spanish": "2000PHP para obtener 200 de reembolso de oro",
+    "portuguese": "2000PHP para obter 200 de desconto em ouro",
+    "french": "2000PHP pour obtenir une remise de 200 or"
+  },
+  {
+    "id": "213020",
+    "type": "",
+    "chinese": "充值达到10000获得1000金币",
+    "english": "10000PHP to get 1000 gold rebate",
+    "spanish": "10000PHP para obtener 1000 de oro de reembolso",
+    "portuguese": "10000PHP para obter 1000 descontos em ouro",
+    "french": "10000PHP pour obtenir une remise de 1000 or"
+  },
+  {
+    "id": "213021",
+    "type": "",
+    "chinese": "获得奖励",
+    "english": "GET REWARD",
+    "spanish": "OBTENER RECOMPENSA",
+    "portuguese": "OBTER RECOMPENSA",
+    "french": "OBTENIR UNE RÉCOMPENSE"
+  },
+  {
+    "id": "213022",
+    "type": "",
+    "chinese": "充值",
+    "english": "RECHARGE",
+    "spanish": "RECARGA",
+    "portuguese": "RECARREGAR",
+    "french": "RECHARGE"
+  },
+  {
+    "id": "213023",
+    "type": "",
+    "chinese": "分享代理",
+    "english": "Share & Agent",
+    "spanish": "Compartir y agente",
+    "portuguese": "Compartilhar e agente",
+    "french": "Action et agent"
+  },
+  {
+    "id": "213024",
+    "type": "",
+    "chinese": "每邀请一个用户获得一笔免费金币",
+    "english": "Get one free gold for each friend you invite",
+    "spanish": "Consigue un oro gratis por cada amigo que invites",
+    "portuguese": "Ganhe um ouro grátis para cada amigo que você convidar",
+    "french": "Obtenez un or gratuit pour chaque ami que vous invitez"
+  },
+  {
+    "id": "213025",
+    "type": "",
+    "chinese": "你邀请的用户每充值500PHP你将获得3%的返利金币",
+    "english": "You will get 3% rebate for every 500 PHP recharge of your invited friends",
+    "spanish": "Obtendrás un 3% de reembolso por cada recarga de 500 PHP de tus amigos invitados",
+    "portuguese": "Você receberá um desconto de 3% para cada recarga de 500 PHP de seus amigos convidados",
+    "french": "Vous obtiendrez 3 % de rabais pour chaque recharge de 500 PHP de vos amis invités."
+  },
+  {
+    "id": "213026",
+    "type": "",
+    "chinese": "你邀请的用户再邀请的玩家每充值500PHP你将获得1.5%的返利金币",
+    "english": "You will get 1.5% rebate for every 500 PHP recharge of your invited friend's invited friend",
+    "spanish": "Obtendrás un 1,5% de reembolso por cada recarga de 500 PHP del amigo invitado de tu amigo invitado",
+    "portuguese": "Você receberá 1,5% de desconto para cada recarga de 500 PHP do amigo convidado do seu amigo convidado",
+    "french": "Vous obtiendrez 1,5 % de réduction pour chaque recharge de 500 PHP de l'ami invité de votre ami invité."
+  },
+  {
+    "id": "213027",
+    "type": "",
+    "chinese": "前往邀请",
+    "english": "GO TO SHARE",
+    "spanish": "IR A COMPARTIR",
+    "portuguese": "IR PARA COMPARTILHAR",
+    "french": "ALLER A L'ACTION"
+  },
+  {
+    "id": "214001",
+    "type": "",
+    "chinese": "活动",
+    "english": "ACTIVITY",
+    "spanish": "ACTIVIDAD",
+    "portuguese": "ATIVIDADE",
+    "french": "ACTIVITÉ"
+  },
+  {
+    "id": "214002",
+    "type": "",
+    "chinese": "每日签到",
+    "english": "Login Reward",
+    "spanish": "Recompensa por inicio de sesión",
+    "portuguese": "Prêmio de login",
+    "french": "Récompense de connexion"
+  },
+  {
+    "id": "214003",
+    "type": "",
+    "chinese": "在线奖励",
+    "english": "Online Reward",
+    "spanish": "Recompensa en línea",
+    "portuguese": "Prêmio on-line",
+    "french": "Récompense en ligne"
+  },
+  {
+    "id": "214004",
+    "type": "",
+    "chinese": "充值返利",
+    "english": "Recharge Reward",
+    "spanish": "Recompensa por recarga",
+    "portuguese": "Recompensa de recarga",
+    "french": "Prime de recharge"
+  },
+  {
+    "id": "214005",
+    "type": "",
+    "chinese": "打码返利",
+    "english": "Betting Reward",
+    "spanish": "Recompensa de apuestas",
+    "portuguese": "Prêmio de apostas",
+    "french": "Récompense pour les paris"
+  },
+  {
+    "id": "214006",
+    "type": "",
+    "chinese": "天",
+    "english": "DAY",
+    "spanish": "DÍA",
+    "portuguese": "DIA",
+    "french": "JOUR"
+  },
+  {
+    "id": "214007",
+    "type": "",
+    "chinese": "完成7日后活动重置",
+    "english": "Every 7 days event reset",
+    "spanish": "Restablecimiento de eventos cada 7 días",
+    "portuguese": "Reinicialização do evento a cada 7 dias",
+    "french": "Tous les 7 jours, réinitialisation de l'événement"
+  },
+  {
+    "id": "214008",
+    "type": "",
+    "chinese": "未领取的奖励不会保留至下次重置",
+    "english": "uncollected rewards will not be available until the next reset",
+    "spanish": "las recompensas no cobradas no estarán disponibles hasta el próximo reinicio",
+    "portuguese": "as recompensas não coletadas não estarão disponíveis até a próxima reinicialização",
+    "french": "les récompenses non collectées ne seront pas disponibles avant la prochaine réinitialisation"
+  },
+  {
+    "id": "214009",
+    "type": "",
+    "chinese": "在线30分钟可领取奖励",
+    "english": "get rewards by online 30 minutes",
+    "spanish": "obtenga recompensas por 30 minutos en línea",
+    "portuguese": "Receba prêmios por 30 minutos on-line",
+    "french": "obtenir des récompenses en ligne 30 minutes"
+  },
+  {
+    "id": "214010",
+    "type": "",
+    "chinese": "在线60分钟并任意充值可领取",
+    "english": "get rewards by online 60 minutes and any recharge",
+    "spanish": "obtenga recompensas por 60 minutos en línea y cualquier recarga",
+    "portuguese": "ganhe prêmios por 60 minutos on-line e qualquer recarga",
+    "french": "obtenez des récompenses en ligne 60 minutes et n'importe quelle recharge"
+  },
+  {
+    "id": "214011",
+    "type": "",
+    "chinese": "在线120分钟并任意充值可领取",
+    "english": "get rewards by online 120 minutes and any recharge",
+    "spanish": "obtén recompensas por 120 minutos online y cualquier recarga",
+    "portuguese": "receba prêmios por 120 minutos on-line e qualquer recarga",
+    "french": "obtenez des récompenses en ligne 120 minutes et n'importe quelle recharge"
+  },
+  {
+    "id": "214012",
+    "type": "",
+    "chinese": "满足在线时长可领取在线奖励。每日充值可解锁更多在线奖励。活动每天24：00重置。",
+    "english": "Online rewards can be received if the daily online time accumulation meets the requirements. Complete today's recharge to unlock and receive more online rewards. Reward reset at 24:00 every day.",
+    "spanish": "Las recompensas en línea se pueden recibir si la acumulación diaria de tiempo en línea cumple los requisitos. Completa la recarga de hoy para desbloquear y recibir más recompensas en línea. Las recompensas se reinician a las 24:00 todos los días.",
+    "portuguese": "As recompensas on-line podem ser recebidas se o acúmulo diário de tempo on-line atender aos requisitos. Complete a recarga de hoje para desbloquear e receber mais recompensas on-line. Os prêmios são redefinidos às 24:00 todos os dias.",
+    "french": "Les récompenses en ligne peuvent être reçues si le temps en ligne accumulé quotidiennement remplit les conditions requises. Terminez la recharge d'aujourd'hui pour débloquer et recevoir plus de récompenses en ligne. Les récompenses sont réinitialisées à 24h00 tous les jours."
+  },
+  {
+    "id": "214013",
+    "type": "",
+    "chinese": "倒计时",
+    "english": "Waiting",
+    "spanish": "En espera",
+    "portuguese": "Em espera",
+    "french": "Attente"
+  },
+  {
+    "id": "214014",
+    "type": "",
+    "chinese": "重置",
+    "english": "Recharge",
+    "spanish": "Recarga",
+    "portuguese": "Recarga",
+    "french": "Recharge"
+  },
+  {
+    "id": "214015",
+    "type": "",
+    "chinese": "领取",
+    "english": "Collect",
+    "spanish": "Recoger",
+    "portuguese": "Coletar",
+    "french": "Collecter"
+  },
+  {
+    "id": "214016",
+    "type": "",
+    "chinese": "已领取",
+    "english": "Collected",
+    "spanish": "Recopilado",
+    "portuguese": "Coletânea",
+    "french": "Recueil"
+  },
+  {
+    "id": "214017",
+    "type": "",
+    "chinese": "今日充值",
+    "english": "Today Recharge",
+    "spanish": "Hoy Recarga",
+    "portuguese": "Recarga de hoje",
+    "french": "Recharge aujourd'hui"
+  },
+  {
+    "id": "214018",
+    "type": "",
+    "chinese": "每日充值达到任务数额即可获得奖励。已充值的金额不会累计到下一天。每日24:00后任务刷新，可再次充值领取奖励",
+    "english": "You will be rewarded for daily recharge up to the task amount.The recharged amounts will not accumulate to the next day.After 24:00 every day, you can recharge again to receive the reward.",
+    "spanish": "Se le recompensará por la recarga diaria hasta el importe de la tarea.Los importes recargados no se acumularán al día siguiente.Después de las 24:00 de cada día, puede recargar de nuevo para recibir la recompensa.",
+    "portuguese": "Você será recompensado pela recarga diária até o valor da tarefa. Os valores recarregados não serão acumulados para o dia seguinte. Após as 24 horas de cada dia, você poderá recarregar novamente para receber a recompensa.",
+    "french": "Les montants rechargés ne seront pas cumulés pour le jour suivant. Après 24:00 chaque jour, vous pouvez recharger à nouveau pour recevoir la récompense."
+  },
+  {
+    "id": "214019",
+    "type": "",
+    "chinese": "今日下注",
+    "english": "Today's bets",
+    "spanish": "Apuestas de hoy",
+    "portuguese": "Apostas de hoje",
+    "french": "Les paris du jour"
+  },
+  {
+    "id": "214020",
+    "type": "",
+    "chinese": "需要再下注【】获得奖励",
+    "english": "Need to bet [] more to receive awards",
+    "spanish": "Necesita apostar [] más para recibir premios",
+    "portuguese": "Precisa apostar [] mais para receber prêmios",
+    "french": "Il faut miser [] de plus pour recevoir des récompenses"
+  },
+  {
+    "id": "214021",
+    "type": "",
+    "chinese": "前往游戏",
+    "english": "GO TO PLAY",
+    "spanish": "IR A JUGAR",
+    "portuguese": "IR AO JOGO",
+    "french": "ALLER AU JEU"
+  },
+  {
+    "id": "214022",
+    "type": "",
+    "chinese": "每在游戏中下注1000金币你将获得一次转盘转动机会。每日不限完成次数。每日24：00活动重置，未领取的次数将清零。",
+    "english": "You can receive one spin for every 1000 total bets placed in all games.You can collect multiple times per day.Current progress will be reset at 24:00 every day. Unclaimed rewards will be recycled.",
+    "spanish": "Puedes recibir una tirada por cada 1000 apuestas totales realizadas en todos los juegos.Puedes cobrar varias veces al día.El progreso actual se reiniciará a las 24:00 de cada día. Las recompensas no reclamadas serán recicladas.",
+    "portuguese": "Você pode receber uma rodada para cada 1.000 apostas totais feitas em todos os jogos. Você pode coletar várias vezes por dia. O progresso atual será redefinido às 24:00 todos os dias. Os prêmios não reclamados serão reciclados.",
+    "french": "Vous pouvez recevoir un tour pour chaque 1000 mises totales placées dans tous les jeux.Vous pouvez collecter plusieurs fois par jour.La progression actuelle sera réinitialisée à 24:00 tous les jours. Les récompenses non réclamées seront recyclées."
   }
 ]

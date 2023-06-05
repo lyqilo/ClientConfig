@@ -7,7 +7,7 @@
 //------------------------------------------------------------------------------
 
 /*
-GlobalConfig.cs
+LanguageConfig.cs
 Create By Ben
 */
 
@@ -18,37 +18,37 @@ using SimpleJSON;
 namespace cfg.global
 { 
 
-public sealed partial class GlobalConfig :  Bright.Config.BeanBase 
+public sealed partial class LanguageConfig :  Bright.Config.BeanBase 
 {
-    public GlobalConfig(JSONNode _json) 
+    public LanguageConfig(JSONNode _json) 
     {
-        { if(!_json["id"].IsNumber) { throw new SerializationException(); }  Id = _json["id"]; }
-        { var __json0 = _json["Language"]; if(!__json0.IsArray) { throw new SerializationException(); } Language = new System.Collections.Generic.List<string>(__json0.Count); foreach(JSONNode __e0 in __json0.Children) { string __v0;  { if(!__e0.IsString) { throw new SerializationException(); }  __v0 = __e0; }  Language.Add(__v0); }   }
+        { if(!_json["id"].IsString) { throw new SerializationException(); }  Id = _json["id"]; }
+        { if(!_json["show"].IsString) { throw new SerializationException(); }  Show = _json["show"]; }
         PostInit();
     }
 
-    public GlobalConfig(int id, System.Collections.Generic.List<string> Language ) 
+    public LanguageConfig(string id, string show ) 
     {
         this.Id = id;
-        this.Language = Language;
+        this.Show = show;
         PostInit();
     }
 
-    public static GlobalConfig DeserializeGlobalConfig(JSONNode _json)
+    public static LanguageConfig DeserializeLanguageConfig(JSONNode _json)
     {
-        return new global.GlobalConfig(_json);
+        return new global.LanguageConfig(_json);
     }
 
     /// <summary>
-    /// 这是id
+    /// 语言
     /// </summary>
-    public int Id { get; private set; }
+    public string Id { get; private set; }
     /// <summary>
-    /// 名字
+    /// 语言显示
     /// </summary>
-    public System.Collections.Generic.List<string> Language { get; private set; }
+    public string Show { get; private set; }
 
-    public const int __ID__ = -122115760;
+    public const int __ID__ = -1337596283;
     public override int GetTypeId() => __ID__;
 
     public  void Resolve(Dictionary<string, object> _tables)
@@ -64,7 +64,7 @@ public sealed partial class GlobalConfig :  Bright.Config.BeanBase
     {
         return "{ "
         + "Id:" + Id + ","
-        + "Language:" + Bright.Common.StringUtil.CollectionToString(Language) + ","
+        + "Show:" + Show + ","
         + "}";
     }
     

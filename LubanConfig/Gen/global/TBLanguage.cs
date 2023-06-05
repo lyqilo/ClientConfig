@@ -7,7 +7,7 @@
 //------------------------------------------------------------------------------
 
 /*
-Config.cs
+TBLanguage.cs
 Create By Ben
 */
 
@@ -19,31 +19,31 @@ using SimpleJSON;
 namespace cfg.global
 { 
 
-public sealed partial class Config
+public sealed partial class TBLanguage
 {
-    private readonly Dictionary<int, global.GlobalConfig> _dataMap;
-    private readonly List<global.GlobalConfig> _dataList;
+    private readonly Dictionary<string, global.LanguageConfig> _dataMap;
+    private readonly List<global.LanguageConfig> _dataList;
     
-    public Config(JSONNode _json)
+    public TBLanguage(JSONNode _json)
     {
-        _dataMap = new Dictionary<int, global.GlobalConfig>();
-        _dataList = new List<global.GlobalConfig>();
+        _dataMap = new Dictionary<string, global.LanguageConfig>();
+        _dataList = new List<global.LanguageConfig>();
         
         foreach(JSONNode _row in _json.Children)
         {
-            var _v = global.GlobalConfig.DeserializeGlobalConfig(_row);
+            var _v = global.LanguageConfig.DeserializeLanguageConfig(_row);
             _dataList.Add(_v);
             _dataMap.Add(_v.Id, _v);
         }
         PostInit();
     }
 
-    public Dictionary<int, global.GlobalConfig> DataMap => _dataMap;
-    public List<global.GlobalConfig> DataList => _dataList;
+    public Dictionary<string, global.LanguageConfig> DataMap => _dataMap;
+    public List<global.LanguageConfig> DataList => _dataList;
 
-    public global.GlobalConfig GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : null;
-    public global.GlobalConfig Get(int key) => _dataMap[key];
-    public global.GlobalConfig this[int key] => _dataMap[key];
+    public global.LanguageConfig GetOrDefault(string key) => _dataMap.TryGetValue(key, out var v) ? v : null;
+    public global.LanguageConfig Get(string key) => _dataMap[key];
+    public global.LanguageConfig this[string key] => _dataMap[key];
 
     public void Resolve(Dictionary<string, object> _tables)
     {
