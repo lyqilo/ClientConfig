@@ -21,6 +21,7 @@ public sealed partial class Tables
 {
     public localization.TBLocalization TBLocalization {get; }
     public game.TBGame TBGame {get; }
+    public global.Config Config {get; }
 
     public Tables(System.Func<string, JSONNode> loader)
     {
@@ -29,10 +30,13 @@ public sealed partial class Tables
         tables.Add("localization.TBLocalization", TBLocalization);
         TBGame = new game.TBGame(loader("game_tbgame")); 
         tables.Add("game.TBGame", TBGame);
+        Config = new global.Config(loader("global_config")); 
+        tables.Add("global.Config", Config);
         PostInit();
 
         TBLocalization.Resolve(tables); 
         TBGame.Resolve(tables); 
+        Config.Resolve(tables); 
         PostResolve();
     }
 
@@ -40,6 +44,7 @@ public sealed partial class Tables
     {
         TBLocalization.TranslateText(translator); 
         TBGame.TranslateText(translator); 
+        Config.TranslateText(translator); 
     }
     
     partial void PostInit();
