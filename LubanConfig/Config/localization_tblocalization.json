@@ -3,10 +3,10 @@
     "id": "100001",
     "type": "",
     "chinese": "加载中",
-    "english": "Loading",
-    "spanish": "Cargando",
-    "portuguese": "Carregamento",
-    "french": "Chargement"
+    "english": "Loading...",
+    "spanish": "Cargando...",
+    "portuguese": "Carregamento...",
+    "french": "Chargement..."
   },
   {
     "id": "100002",
@@ -563,7 +563,7 @@
     "chinese": "OFF",
     "english": "OFF",
     "spanish": "OFF",
-    "portuguese": "DESLIGADO",
+    "portuguese": "OFF",
     "french": "OFF"
   },
   {
@@ -648,6 +648,15 @@
     "french": "Confirmer"
   },
   {
+    "id": "203004",
+    "type": "",
+    "chinese": "",
+    "english": "Cancel",
+    "spanish": "",
+    "portuguese": "",
+    "french": ""
+  },
+  {
     "id": "204001",
     "type": "",
     "chinese": "商城",
@@ -688,7 +697,7 @@
     "type": "",
     "chinese": "有任何问题？",
     "english": "Any question?",
-    "spanish": "¿Alguna pregunta?",
+    "spanish": "Alguna pregunta?",
     "portuguese": "Alguma dúvida?",
     "french": "Des questions ?"
   },
@@ -696,10 +705,10 @@
     "id": "204006",
     "type": "",
     "chinese": "联系我们",
-    "english": "Contact Us",
-    "spanish": "Póngase en contacto con nosotros",
-    "portuguese": "Entre em contato conosco",
-    "french": "Nous contacter"
+    "english": "<color=green><u>Contact Us</u></color>",
+    "spanish": "<color=green><u>Contacta con nosotros</u></color>",
+    "portuguese": "<color=green><u>Contato conosco</u></color>",
+    "french": "<color=green><u>Nous contacter</u></color>"
   },
   {
     "id": "204007",
@@ -987,7 +996,7 @@
     "english": "Feedback",
     "spanish": "Comentarios",
     "portuguese": "Feedback",
-    "french": "Retour d'information"
+    "french": "Rétroaction"
   },
   {
     "id": "204039",
@@ -1042,6 +1051,15 @@
     "spanish": "En espera",
     "portuguese": "Em espera",
     "french": "Attente"
+  },
+  {
+    "id": "204045",
+    "type": "",
+    "chinese": "",
+    "english": "Exchangeable",
+    "spanish": "",
+    "portuguese": "",
+    "french": ""
   },
   {
     "id": "205001",
@@ -1422,6 +1440,15 @@
     "french": "MESSAGE"
   },
   {
+    "id": "208002",
+    "type": "",
+    "chinese": "",
+    "english": "CLAIM",
+    "spanish": "",
+    "portuguese": "",
+    "french": ""
+  },
+  {
     "id": "209001",
     "type": "",
     "chinese": "分享代理",
@@ -1507,18 +1534,18 @@
     "type": "",
     "chinese": "游戏下载链接",
     "english": "Game download link",
-    "spanish": "Enlace de descarga del juego",
-    "portuguese": "Link para download do jogo",
-    "french": "Lien de téléchargement du jeu"
+    "spanish": "Enlace de descarga",
+    "portuguese": "link de Download",
+    "french": "Télécharger le lien"
   },
   {
     "id": "209011",
     "type": "",
     "chinese": "邀请码",
     "english": "My Invite code",
-    "spanish": "Mi código de invitación",
-    "portuguese": "Meu código de convite",
-    "french": "Mon code d'invitation"
+    "spanish": "Código de invitación",
+    "portuguese": "Código de convite",
+    "french": "Code d’invitation"
   },
   {
     "id": "209012",
@@ -1888,6 +1915,24 @@
     "spanish": "Copiar cuenta",
     "portuguese": "Copiar conta",
     "french": "Compte de copie"
+  },
+  {
+    "id": "212007",
+    "type": "",
+    "chinese": "",
+    "english": "Whatsapp",
+    "spanish": "",
+    "portuguese": "",
+    "french": ""
+  },
+  {
+    "id": "212008",
+    "type": "",
+    "chinese": "",
+    "english": "Viber",
+    "spanish": "",
+    "portuguese": "",
+    "french": ""
   },
   {
     "id": "213001",
@@ -2329,5 +2374,14 @@
     "spanish": "Puedes recibir una tirada por cada 1000 apuestas totales realizadas en todos los juegos.Puedes cobrar varias veces al día.El progreso actual se reiniciará a las 24:00 de cada día. Las recompensas no reclamadas serán recicladas.",
     "portuguese": "Você pode receber uma rodada para cada 1.000 apostas totais feitas em todos os jogos. Você pode coletar várias vezes por dia. O progresso atual será redefinido às 24:00 todos os dias. Os prêmios não reclamados serão reciclados.",
     "french": "Vous pouvez recevoir un tour pour chaque 1000 mises totales placées dans tous les jeux.Vous pouvez collecter plusieurs fois par jour.La progression actuelle sera réinitialisée à 24:00 tous les jours. Les récompenses non réclamées seront recyclées."
+  },
+  {
+    "id": "216001",
+    "type": "",
+    "chinese": "",
+    "english": "WIN",
+    "spanish": "",
+    "portuguese": "",
+    "french": ""
   }
 ]
