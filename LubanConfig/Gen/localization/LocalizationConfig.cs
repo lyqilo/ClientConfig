@@ -29,10 +29,12 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         { if(!_json["spanish"].IsString) { throw new SerializationException(); }  Spanish = _json["spanish"]; }
         { if(!_json["portuguese"].IsString) { throw new SerializationException(); }  Portuguese = _json["portuguese"]; }
         { if(!_json["french"].IsString) { throw new SerializationException(); }  French = _json["french"]; }
+        { if(!_json["indonesian"].IsString) { throw new SerializationException(); }  Indonesian = _json["indonesian"]; }
+        { if(!_json["malay"].IsString) { throw new SerializationException(); }  Malay = _json["malay"]; }
         PostInit();
     }
 
-    public LocalizationConfig(string id, string type, string chinese, string english, string spanish, string portuguese, string french ) 
+    public LocalizationConfig(string id, string type, string chinese, string english, string spanish, string portuguese, string french, string indonesian, string malay ) 
     {
         this.Id = id;
         this.Type = type;
@@ -41,6 +43,8 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         this.Spanish = spanish;
         this.Portuguese = portuguese;
         this.French = french;
+        this.Indonesian = indonesian;
+        this.Malay = malay;
         PostInit();
     }
 
@@ -77,6 +81,14 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// 法语
     /// </summary>
     public string French { get; private set; }
+    /// <summary>
+    /// 印尼語
+    /// </summary>
+    public string Indonesian { get; private set; }
+    /// <summary>
+    /// 馬來語
+    /// </summary>
+    public string Malay { get; private set; }
 
     public const int __ID__ = 244974800;
     public override int GetTypeId() => __ID__;
@@ -100,6 +112,8 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         + "Spanish:" + Spanish + ","
         + "Portuguese:" + Portuguese + ","
         + "French:" + French + ","
+        + "Indonesian:" + Indonesian + ","
+        + "Malay:" + Malay + ","
         + "}";
     }
     
