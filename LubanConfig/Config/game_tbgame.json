@@ -36,11 +36,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.WPBY.WPBYEntry",
     "rootName": "",
     "luaPath": "Module06.OneWPBY.OneWPBYEntry",
     "luaRootName": "OneWPBYEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module06"
     ]
