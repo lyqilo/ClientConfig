@@ -1342,6 +1342,138 @@
     "malay": "Exchangeable"
   },
   {
+    "id": "204046",
+    "type": "",
+    "chinese": "未输入PIX键",
+    "english": "PIX key is not entered",
+    "spanish": "No se ha introducido la clave PIX",
+    "portuguese": "A chave PIX não foi inserida",
+    "french": "La clé PIX n'est pas saisie",
+    "indonesian": "Tombol PIX tidak dimasukkan",
+    "malay": "Kekunci PIX tidak dimasukkan"
+  },
+  {
+    "id": "204047",
+    "type": "",
+    "chinese": "PIX键错误，应为11位数字",
+    "english": "PIX key is wrong, should be 11 digits",
+    "spanish": "La clave PIX es incorrecta, debería tener 11 dígitos",
+    "portuguese": "A chave PIX está incorreta, deve ter 11 dígitos",
+    "french": "La clé PIX est erronée, elle devrait être de 11 chiffres",
+    "indonesian": "Kunci PIX salah, seharusnya 11 digit",
+    "malay": "Kekunci PIX salah, sepatutnya 11 digit"
+  },
+  {
+    "id": "204048",
+    "type": "",
+    "chinese": "请输入PIX键",
+    "english": "Please enter your pixkey",
+    "spanish": "Por favor, introduzca su clave PIX",
+    "portuguese": "Digite sua chave PIX",
+    "french": "Veuillez saisir votre clé PIX",
+    "indonesian": "Silakan masukkan kunci pixkey Anda",
+    "malay": "Sila masukkan kekunci piks anda"
+  },
+  {
+    "id": "204049",
+    "type": "",
+    "chinese": "申请成功，请在记录中确认你的兑换进度",
+    "english": "Application is successful, please confirm your exchange progress in the record",
+    "spanish": "La solicitud se ha realizado correctamente, por favor confirme su progreso de intercambio en el registro",
+    "portuguese": "O pedido foi bem-sucedido, confirme o progresso da troca no registro",
+    "french": "La demande a été acceptée, veuillez confirmer la progression de l'échange dans l'enregistrement.",
+    "indonesian": "Permohonan berhasil, harap konfirmasi kemajuan penukaran Anda dalam catatan",
+    "malay": "Application is successful, please confirm your exchange progress in the record"
+  },
+  {
+    "id": "204050",
+    "type": "",
+    "chinese": "订单生成失败，请稍后再试",
+    "english": "Order generation failed, please try again later",
+    "spanish": "Error en la generación del pedido, inténtelo más tarde",
+    "portuguese": "Falha na geração do pedido, tente novamente mais tarde",
+    "french": "La génération de l'ordre a échoué, veuillez réessayer plus tard",
+    "indonesian": "Pembuatan pesanan gagal, silakan coba lagi nanti",
+    "malay": "Generasi perintah gagal, sila cuba lagi kemudian"
+  },
+  {
+    "id": "204051",
+    "type": "",
+    "chinese": "获取渠道配置失败",
+    "english": "Failed to get channel config",
+    "spanish": "No se ha podido obtener la configuración del canal",
+    "portuguese": "Falha ao obter a configuração do canal",
+    "french": "Échec de la configuration du canal",
+    "indonesian": "Gagal mendapatkan konfigurasi saluran",
+    "malay": "Gagal mendapatkan konfigurasi saluran"
+  },
+  {
+    "id": "204052",
+    "type": "",
+    "chinese": "支付通道维护中，请选择其它通道",
+    "english": "Payment chanel maintenance choose another channel",
+    "spanish": "Mantenimiento del canal de pago elija otro canal",
+    "portuguese": "Manutenção do canal de pagamento, escolha outro canal",
+    "french": "Maintenance du canal de paiement choisir un autre canal",
+    "indonesian": "Pemeliharaan saluran pembayaran pilih saluran lain",
+    "malay": "Penyelamatan saluran pembayaran pilih saluran lain"
+  },
+  {
+    "id": "204053",
+    "type": "",
+    "chinese": "服务器未响应",
+    "english": "server is not work",
+    "spanish": "El servidor no funciona",
+    "portuguese": "O servidor não está funcionando",
+    "french": "Le serveur ne fonctionne pas",
+    "indonesian": "server tidak berfungsi",
+    "malay": "pelayan tidak berfungsi"
+  },
+  {
+    "id": "204054",
+    "type": "",
+    "chinese": "金额错误无法兑换",
+    "english": "Wrong amount cannot be exchanged",
+    "spanish": "No se puede intercambiar la cantidad incorrecta",
+    "portuguese": "Não é possível trocar a quantia errada",
+    "french": "Impossible d'échanger un montant erroné",
+    "indonesian": "Jumlah yang salah tidak dapat ditukar",
+    "malay": "Jumlah yang salah tidak dapat ditukar"
+  },
+  {
+    "id": "204055",
+    "type": "",
+    "chinese": "金额不足无法兑换",
+    "english": "Not enough money to withdraw",
+    "spanish": "No hay suficiente dinero para retirar",
+    "portuguese": "Não há dinheiro suficiente para sacar",
+    "french": "Il n'y a pas assez d'argent à retirer",
+    "indonesian": "Uang tidak cukup untuk ditarik",
+    "malay": "Tidak cukup wang untuk menarik diri"
+  },
+  {
+    "id": "204056",
+    "type": "",
+    "chinese": "信息错误，请检查后重试",
+    "english": "Wrong information, please check and try again",
+    "spanish": "Información incorrecta, por favor compruebe y vuelva a intentarlo",
+    "portuguese": "Informações erradas, verifique e tente novamente",
+    "french": "Information erronée, veuillez vérifier et réessayer.",
+    "indonesian": "Informasi salah, mohon periksa dan coba lagi",
+    "malay": "Maklumat salah, sila periksa dan cuba lagi"
+  },
+  {
+    "id": "204057",
+    "type": "",
+    "chinese": "没有可用的兑换通道",
+    "english": "not find enable withdrawal channel",
+    "spanish": "no se encuentra habilitado el canal de retirada",
+    "portuguese": "Não foi possível encontrar o canal de saque habilitado",
+    "french": "Impossible de trouver le canal de retrait",
+    "indonesian": "tidak menemukan saluran penarikan yang diaktifkan",
+    "malay": "tidak menjumpai benarkan saluran tarik"
+  },
+  {
     "id": "205001",
     "type": "",
     "chinese": "金額",
@@ -3300,6 +3432,28 @@
     "malay": "Seterusnya"
   },
   {
+    "id": "301021",
+    "type": "",
+    "chinese": "",
+    "english": "YES",
+    "spanish": "SÍ",
+    "portuguese": "SIM",
+    "french": "OUI",
+    "indonesian": "YA",
+    "malay": "YES"
+  },
+  {
+    "id": "301022",
+    "type": "",
+    "chinese": "",
+    "english": "NO",
+    "spanish": "NO",
+    "portuguese": "NÃO",
+    "french": "NON",
+    "indonesian": "TIDAK",
+    "malay": "NO"
+  },
+  {
     "id": "328001",
     "type": "",
     "chinese": "在第一列不生效\n可代替特殊以外的圖示",
@@ -3423,6 +3577,61 @@
   {
     "id": "332004",
     "type": "",
+    "chinese": "恭喜获得射门机会！",
+    "english": "Cheer up!Get a Penalty Shot!",
+    "spanish": "¡Anímate! ¡Consigue un Penalti!",
+    "portuguese": "Anime-se! Ganhe um chute de pênalti!",
+    "french": "Remontez le moral ! Obtenez un tir de pénalité !",
+    "indonesian": "Bergembiralah! Dapatkan Tembakan Penalti!",
+    "malay": "Bergembiralah! Dapatkan tembakan hukuman!"
+  },
+  {
+    "id": "332005",
+    "type": "",
+    "chinese": "免费奖励翻倍",
+    "english": "Double the free bonus",
+    "spanish": "Duplica la bonificación gratuita",
+    "portuguese": "Dobre o bônus grátis",
+    "french": "Doublez le bonus gratuit",
+    "indonesian": "Gandakan bonus gratis",
+    "malay": "Gandakan bonus percuma"
+  },
+  {
+    "id": "332006",
+    "type": "",
+    "chinese": "未进球",
+    "english": "MISSING",
+    "spanish": "FALTA",
+    "portuguese": "ERRADO",
+    "french": "MANQUER",
+    "indonesian": "HILANG",
+    "malay": "MISSING"
+  },
+  {
+    "id": "332007",
+    "type": "",
+    "chinese": "遗憾",
+    "english": "pity",
+    "spanish": "lástima",
+    "portuguese": "pena",
+    "french": "pitié",
+    "indonesian": "kasihan",
+    "malay": "pity"
+  },
+  {
+    "id": "332008",
+    "type": "",
+    "chinese": "免费模式{0}次",
+    "english": "Free Mode   {0}  times",
+    "spanish": "Modo Libre {0} veces",
+    "portuguese": "Modo Livre {0} vezes",
+    "french": "Mode libre {0} fois",
+    "indonesian": "Mode Bebas {0} kali",
+    "malay": "Mod Bebas {0} kali"
+  },
+  {
+    "id": "332009",
+    "type": "",
     "chinese": "点击按钮开始射门",
     "english": "Click the button to start shooting",
     "spanish": "Pulsa el botón para empezar a disparar",
@@ -3509,6 +3718,17 @@
     "malay": "Permainan mini akan mencetuskan pembunuhan dan mendapatkan satu \nMuncul karunia \n"
   },
   {
+    "id": "349003",
+    "type": "",
+    "chinese": "进入迷你游戏后，当转动出现武士时，当前转动出的怪物会根据种类移动到斩杀路线上，同时增加斩杀奖金。每个武士图标会触发一次斩杀。武士将怪物全部斩杀或怪物数量过多会停止游戏，进行奖励结算。",
+    "english": "Upon entering the minigame, when a samurai appears by rotation, the monsters currently rotating out will move to the decapitation route depending on the type, while increasing the decapitation bonus. Each Samurai icon will trigger one decapitation. Samurai will kill all monsters or too many monsters will stop the game for bonus settlement.",
+    "spanish": "Al entrar en el minijuego, cuando aparezca un samurái por rotación, los monstruos que estén rotando en ese momento pasarán a la ruta de decapitación dependiendo del tipo, a la vez que aumentará la bonificación por decapitación. Cada icono de samurái desencadenará una decapitación. Samurai matará a todos los monstruos o demasiados monstruos detendrá el juego para la liquidación de bonificación.",
+    "portuguese": "Ao entrar no minijogo, quando um samurai aparecer por rotação, os monstros que estiverem saindo da rotação passarão para a rota de decapitação, dependendo do tipo, aumentando o bônus de decapitação. Cada ícone de samurai acionará uma decapitação. O samurai matará todos os monstros ou um número excessivo de monstros interromperá o jogo para a liquidação do bônus.",
+    "french": "En entrant dans le mini-jeu, lorsqu'un samouraï apparaît par rotation, les monstres en cours de rotation se déplacent vers la voie de décapitation en fonction du type, tout en augmentant le bonus de décapitation. Chaque icône de samouraï déclenche une décapitation. Les samouraïs tueront tous les monstres ou un trop grand nombre de monstres arrêtera le jeu pour le règlement du bonus.",
+    "indonesian": "Saat memasuki minigame, ketika seorang samurai muncul melalui rotasi, monster yang sedang berputar akan pindah ke rute pemenggalan tergantung pada jenisnya, sambil meningkatkan bonus pemenggalan. Setiap ikon Samurai akan memicu satu pemenggalan kepala. Samurai akan membunuh semua monster atau terlalu banyak monster akan menghentikan permainan untuk mendapatkan bonus.",
+    "malay": "Apabila memasuki permainan mini, apabila samurai muncul dengan putaran, raksasa yang sedang putar keluar akan bergerak ke laluan pemotongan bergantung pada jenis, sementara meningkatkan bonus pemotongan kepala. Setiap ikon Samurai akan memicu satu pemotongan kepala. Samurai akan membunuh semua raksasa atau terlalu banyak raksasa akan menghentikan permainan untuk penyelesaian bonus."
+  },
+  {
     "id": "354001",
     "type": "",
     "chinese": "可代替特殊和bonus以外的圖示",
@@ -3544,6 +3764,28 @@
   {
     "id": "354004",
     "type": "",
+    "chinese": "1、3、5线同时出现，触发埃及商会寻宝游戏。\n你将踏上埃及厅的旅程。掷骰子发现隐藏在每个区域的奖励！",
+    "english": "1,3,5 lines show up at the same time to trigger the Egyptian Chamber Scavenger Hunt.\nYou will go on a journey to the Egyptian Chamber.Roll the dice to discover the rewards which hidden in each area.",
+    "spanish": "1,3,5 líneas aparecen al mismo tiempo para desencadenar la Búsqueda del tesoro de la Cámara Egipcia.\nEmprenderás un viaje a la Cámara Egipcia.Tira los dados para descubrir las recompensas que se esconden en cada zona.",
+    "portuguese": "1,3,5 linhas aparecem ao mesmo tempo para acionar a Caça ao Tesouro da Câmara Egípcia.\nVocê fará uma viagem à Câmara Egípcia e lançará os dados para descobrir as recompensas que estão escondidas em cada área.",
+    "french": "Les lignes 1, 3, 5 apparaissent en même temps pour déclencher la chasse au trésor de la chambre égyptienne.\nLancez les dés pour découvrir les récompenses qui se cachent dans chaque zone.",
+    "indonesian": "1,3,5 garis muncul pada saat yang sama untuk memicu Perburuan Ruang Mesir.\nAnda akan melakukan perjalanan ke Kamar Mesir, lempar dadu untuk menemukan hadiah yang tersembunyi di setiap area.",
+    "malay": "1,3,5 baris muncul pada masa yang sama untuk memicu Pemburu Scavenger Kamar Mesir.\nYou will go on a journey to the Egyptian Chamber.Roll the dice to discover the rewards which hidden in each area. "
+  },
+  {
+    "id": "354005",
+    "type": "",
+    "chinese": "在最大机会游戏中获得比一般埃及大冒险游戏更多的奖励！选择三个宝箱抓紧赢大奖的机会！",
+    "english": "Get more rewards than the average Egyptian adventure game in Max Chance!Choose three treasure chests to grab your chance to win!",
+    "spanish": "Consigue más recompensas que en cualquier juego de aventuras egipcio en Max Chance¡Elige tres cofres del tesoro para tener la oportunidad de ganar!",
+    "portuguese": "Obtenha mais recompensas do que a média dos jogos de aventura egípcios no Max Chance! Escolha três baús de tesouro para ter a sua chance de ganhar!",
+    "french": "Obtenez plus de récompenses que la moyenne des jeux d'aventure égyptiens dans Max Chance ! Choisissez trois coffres au trésor pour saisir votre chance de gagner !",
+    "indonesian": "Dapatkan lebih banyak hadiah daripada game petualangan Mesir pada umumnya di Max Chance! Pilih tiga peti harta karun untuk meraih peluang Anda untuk menang!",
+    "malay": "Dapatkan lebih banyak hadiah daripada permainan petualangan Mesir rata-rata di Max Chance! Pilih tiga peti harta karun untuk ambil peluang untuk menang!"
+  },
+  {
+    "id": "354006",
+    "type": "",
     "chinese": "已是最小下注",
     "english": "Already a min bet！",
     "spanish": "Ya es una apuesta mínima！",
@@ -3553,7 +3795,7 @@
     "malay": "Sudah ada taruhan min"
   },
   {
-    "id": "354005",
+    "id": "354007",
     "type": "",
     "chinese": "长按自动",
     "english": "Hold to Auto Spin",
@@ -3564,7 +3806,7 @@
     "malay": "Pegang ke Putar Automatik"
   },
   {
-    "id": "354006",
+    "id": "354008",
     "type": "",
     "chinese": "取消",
     "english": "Cancel",
@@ -3575,7 +3817,7 @@
     "malay": "Cancel"
   },
   {
-    "id": "354007",
+    "id": "354009",
     "type": "",
     "chinese": "设置",
     "english": "Setting",
@@ -3586,7 +3828,7 @@
     "malay": "Tetapan"
   },
   {
-    "id": "354008",
+    "id": "354010",
     "type": "",
     "chinese": "提示：点击快速收分",
     "english": "tips:Click to receive coins fast",
@@ -3595,17 +3837,6 @@
     "french": "Conseils:Cliquez pour recevoir des pièces rapidement",
     "indonesian": "Tips: Klik untuk menerima koin dengan cepat",
     "malay": "tip:Klik untuk menerima koin cepat"
-  },
-  {
-    "id": "354009",
-    "type": "",
-    "chinese": "在最大机会游戏中获得比一般埃及大冒险游戏更多的奖励！选择三个宝箱抓紧赢大奖的机会！",
-    "english": "Get more rewards than the average Egyptian adventure game in Max Chance!Choose three treasure chests to grab your chance to win!",
-    "spanish": "Consigue más recompensas que en cualquier juego de aventuras egipcio en Max Chance¡Elige tres cofres del tesoro para tener la oportunidad de ganar!",
-    "portuguese": "Obtenha mais recompensas do que a média dos jogos de aventura egípcios no Max Chance! Escolha três baús de tesouro para ter a sua chance de ganhar!",
-    "french": "Obtenez plus de récompenses que la moyenne des jeux d'aventure égyptiens dans Max Chance ! Choisissez trois coffres au trésor pour saisir votre chance de gagner !",
-    "indonesian": "Dapatkan lebih banyak hadiah daripada game petualangan Mesir pada umumnya di Max Chance! Pilih tiga peti harta karun untuk meraih peluang Anda untuk menang!",
-    "malay": "Dapatkan lebih banyak hadiah daripada permainan petualangan Mesir rata-rata di Max Chance! Pilih tiga peti harta karun untuk ambil peluang untuk menang!"
   },
   {
     "id": "341001",
@@ -4006,6 +4237,50 @@
   {
     "id": "363004",
     "type": "",
+    "chinese": "在任何旋转期间，所有赢奖都将乘以卷轴上方所显示的乘数值，第一轮旋转以x1开始，持续赢奖将按倍数递增至最高x5",
+    "english": "During any spin, all wins will be multiplied by the multiplier value shown at the top of the reels, with the first spin starting at x1 and continuing wins increasing in multiplier increments up to a maximum of x5",
+    "spanish": "Durante cualquier tirada, todas las ganancias se multiplicarán por el valor del multiplicador que aparece en la parte superior de los rodillos. La primera tirada comienza en x1 y las ganancias continuas aumentan en incrementos del multiplicador hasta un máximo de x5.",
+    "portuguese": "Durante qualquer giro, todos os ganhos serão multiplicados pelo valor do multiplicador mostrado na parte superior das bobinas, com o primeiro giro começando em x1 e os ganhos contínuos aumentando em incrementos de multiplicador até um máximo de x5",
+    "french": "Lors d'un tour, tous les gains sont multipliés par la valeur du multiplicateur indiquée en haut des rouleaux. Le premier tour commence à x1 et les gains suivants augmentent par incréments de multiplicateur jusqu'à un maximum de x5.",
+    "indonesian": "Selama putaran apa pun, semua kemenangan akan dikalikan dengan nilai pengali yang ditampilkan di bagian atas gulungan, dengan putaran pertama dimulai dari x1 dan kemenangan yang terus meningkat dalam peningkatan pengali hingga maksimum x5",
+    "malay": "Semasa mana-mana pusingan, semua kemenangan akan didarab dengan nilai pendarab yang dipaparkan di atas gulung, dengan pusingan pertama bermula pada x1 dan kemenangan terus meningkat dalam tambahan pendarab sehingga maksimum x5"
+  },
+  {
+    "id": "363005",
+    "type": "",
+    "chinese": "中奖路奖金按照从最左至右转轴的顺序派发",
+    "english": "Winning path prizes are paid out in the order of spinning the reels from the far left to the right",
+    "spanish": "Los premios se pagan en el orden de giro de los rodillos, de izquierda a derecha.",
+    "portuguese": "Os prêmios do caminho vencedor são pagos na ordem em que as bobinas são giradas, da extrema esquerda para a direita",
+    "french": "Les gains sont payés dans l'ordre de rotation des rouleaux, de l'extrême gauche vers la droite.",
+    "indonesian": "Hadiah jalur kemenangan dibayarkan dalam urutan putaran gulungan dari paling kiri ke kanan",
+    "malay": "Hadiah laluan menang dibayar dalam urutan berputar gulung dari kiri jauh ke kanan"
+  },
+  {
+    "id": "363006",
+    "type": "",
+    "chinese": "中奖路的奖金计算方式是按照从卷轴的最左边到最右边，每个赢奖符号相邻的数目乘以该符号的中奖路数目",
+    "english": "The jackpot payout is calculated by multiplying the number of winning icon adjacent to each icon from the far left to the far right of the reels by the number of winning paths for that icon",
+    "spanish": "El pago del bote se calcula multiplicando el número de iconos ganadores adyacentes a cada icono desde el extremo izquierdo al extremo derecho de los rodillos por el número de caminos ganadores para ese icono.",
+    "portuguese": "O pagamento do jackpot é calculado multiplicando-se o número de ícones vencedores adjacentes a cada ícone, da extrema esquerda para a extrema direita das bobinas, pelo número de caminhos vencedores para aquele ícone.",
+    "french": "Le paiement du jackpot est calculé en multipliant le nombre d'icônes gagnantes adjacentes à chaque icône, de l'extrême gauche à l'extrême droite des rouleaux, par le nombre de chemins gagnants pour cette icône.",
+    "indonesian": "Pembayaran jackpot dihitung dengan mengalikan jumlah ikon kemenangan yang berdekatan dengan setiap ikon dari paling kiri ke paling kanan gulungan dengan jumlah jalur kemenangan untuk ikon tersebut",
+    "malay": "Pembayaran jackpot dihitung dengan darabkan bilangan ikon menang disebelah setiap ikon dari kiri jauh ke kanan jauh kereta dengan bilangan laluan menang bagi ikon itu"
+  },
+  {
+    "id": "363007",
+    "type": "",
+    "chinese": "当3个夺宝符号出现在卷轴的任意位置时，免费旋转模式奖杯触发并获得10次免费旋转",
+    "english": "The free spins mode trophy triggers and 10 free spins are awarded when 3 of the SCATTER signs appear anywhere on the reels",
+    "spanish": "El trofeo del modo de tiradas gratuitas se activa y se conceden 10 tiradas gratuitas cuando aparecen 3 signos SCATTER en cualquier lugar de los rodillos.",
+    "portuguese": "O troféu do modo de rodadas grátis é acionado e 10 rodadas grátis são concedidas quando 3 dos sinais SCATTER aparecem em qualquer lugar nos cilindros.",
+    "french": "Le trophée du mode tours gratuits se déclenche et 10 tours gratuits sont attribués lorsque 3 signes SCATTER apparaissent n'importe où sur les rouleaux.",
+    "indonesian": "Pemicu piala mode putaran gratis dan 10 putaran gratis diberikan ketika 3 dari tanda SCATTER muncul di mana saja di gulungan",
+    "malay": "Pemicu trofi mode putaran bebas dan 10 putaran bebas diberi apabila 3 tanda SCATTER muncul di mana-mana di atas kereta"
+  },
+  {
+    "id": "363008",
+    "type": "",
     "chinese": "2000种方式的获胜组合",
     "english": "2000 way winning combination",
     "spanish": "2000 combinaciones ganadoras",
@@ -4015,7 +4290,7 @@
     "malay": "2000 cara menang kombinasi"
   },
   {
-    "id": "363005",
+    "id": "363009",
     "type": "",
     "chinese": "规则",
     "english": "Rules",
@@ -4026,7 +4301,7 @@
     "malay": "Peraturan"
   },
   {
-    "id": "363006",
+    "id": "363010",
     "type": "",
     "chinese": "音效",
     "english": "Sound",
@@ -4037,7 +4312,7 @@
     "malay": "Bunyi"
   },
   {
-    "id": "363007",
+    "id": "363011",
     "type": "",
     "chinese": "离开",
     "english": "Exit",
@@ -4048,7 +4323,7 @@
     "malay": "Keluar"
   },
   {
-    "id": "363008",
+    "id": "363012",
     "type": "",
     "chinese": "返回",
     "english": "Back",
@@ -4059,7 +4334,7 @@
     "malay": "Kembali"
   },
   {
-    "id": "363009",
+    "id": "363013",
     "type": "",
     "chinese": "剩余免费",
     "english": "Left free",
@@ -4070,7 +4345,7 @@
     "malay": "Kiri bebas"
   },
   {
-    "id": "363010",
+    "id": "363014",
     "type": "",
     "chinese": "转动次数",
     "english": "Number of Spin",
@@ -4081,7 +4356,7 @@
     "malay": "Bilangan Putar"
   },
   {
-    "id": "363011",
+    "id": "363015",
     "type": "",
     "chinese": "金牌麻将符号在免费旋转中出现",
     "english": "Golden Mahjong symbols guamnteed to appear in free spins",
@@ -4092,7 +4367,7 @@
     "malay": "Simbol Mahjong Emas dibuat untuk muncul dalam pusingan bebas"
   },
   {
-    "id": "363012",
+    "id": "363016",
     "type": "",
     "chinese": "在免费游戏中赢得高达10倍的奖金乘数",
     "english": "Win up to 10x bonus multiplier in free spins",
@@ -4103,7 +4378,7 @@
     "malay": "Ganti hingga pengdarab bonus 10x dalam pusingan bebas"
   },
   {
-    "id": "363013",
+    "id": "363017",
     "type": "",
     "chinese": "获得免费游戏",
     "english": "Get free Spin",
@@ -4114,7 +4389,7 @@
     "malay": "Dapatkan putaran bebas"
   },
   {
-    "id": "363014",
+    "id": "363018",
     "type": "",
     "chinese": "金色麻将牌覆盖中心卷轴 所有的奖金倍数都将翻倍",
     "english": "Gold mahjong sign covers the center scroll All bonus multipliers will be doubled!",
@@ -4145,6 +4420,28 @@
     "french": "Au moins 1 dans chaque colonne en même temps pour obtenir 12 parties gratuites",
     "indonesian": "Setidaknya 1 di setiap kolom pada saat yang sama untuk mendapatkan 12 game gratis",
     "malay": "Pada masa yang sama, sekurang-kurangnya 1 dalam setiap lajur \nDapatkan 12 permainan percuma \n"
+  },
+  {
+    "id": "340003",
+    "type": "",
+    "chinese": "免费游戏所有得分，会额外乘上一个奖励倍数。奖励倍数从1倍开始，每1场免费游戏增加1倍，最多50场50倍，每场得分倍数+1。当6个金球时，每场得分倍数+2；当7个金球时，每场得分倍数+3。",
+    "english": "All points scored in free games are multiplied by an additional bonus multiplier. The bonus multiplier starts at 1x and increases by 1x for every 1 free game, up to 50x for 50 games, with +1 multiplier for each score. when 6 golden balls are scored, the multiplier is +2 for each score; when 7 golden balls are scored, the multiplier is +3 for each score.",
+    "spanish": "Todos los puntos conseguidos en las partidas gratuitas se multiplican por un multiplicador de bonificación adicional. El multiplicador de bonificación comienza en 1x y aumenta en 1x por cada 1 juego gratis, hasta 50x por 50 juegos, con +1 multiplicador por cada puntuación. cuando se anotan 6 bolas doradas, el multiplicador es +2 por cada puntuación; cuando se anotan 7 bolas doradas, el multiplicador es +3 por cada puntuación.",
+    "portuguese": "Todos os pontos marcados em jogos gratuitos são multiplicados por um multiplicador de bônus adicional. O multiplicador de bônus começa em 1x e aumenta em 1x para cada 1 jogo grátis, até 50x para 50 jogos, com +1 multiplicador para cada pontuação. Quando 6 bolas douradas são marcadas, o multiplicador é +2 para cada pontuação; quando 7 bolas douradas são marcadas, o multiplicador é +3 para cada pontuação.",
+    "french": "Tous les points marqués lors des parties gratuites sont multipliés par un multiplicateur de bonus supplémentaire. Le multiplicateur bonus commence à 1x et augmente de 1x pour chaque partie gratuite, jusqu'à 50x pour 50 parties, avec un multiplicateur de +1 pour chaque score. Lorsque 6 boules d'or sont marquées, le multiplicateur est de +2 pour chaque score ; lorsque 7 boules d'or sont marquées, le multiplicateur est de +3 pour chaque score.",
+    "indonesian": "Semua poin yang dicetak dalam permainan gratis dikalikan dengan pengali bonus tambahan. Pengali bonus mulai dari 1x dan meningkat 1x untuk setiap 1 game gratis, hingga 50x untuk 50 game, dengan pengali +1 untuk setiap skor. ketika 6 bola emas dicetak, pengali adalah +2 untuk setiap skor; ketika 7 bola emas dicetak, pengali adalah +3 untuk setiap skor.",
+    "malay": "All points scored in free games are multiplied by an additional bonus multiplier.  Pendarab bonus bermula pada 1x dan meningkat dengan 1x untuk setiap 1 permainan bebas, sehingga 50x untuk 50 permainan, dengan pengdarab +1 untuk setiap skor. apabila 6 bola emas dicatat, penambah ialah +2 untuk setiap skor; apabila 7 bola emas dicatat, penambah ialah +3 untuk setiap skor."
+  },
+  {
+    "id": "340005",
+    "type": "",
+    "chinese": "滚轮上由最左至右连续出现三个以上的相同图标，即可获得该图标的得分奖励！",
+    "english": "Three or more identical icons appearing in succession on the scroll wheel from far left to right will be rewarded with a score for that icon!",
+    "spanish": "Tres o más iconos idénticos que aparezcan sucesivamente en la rueda de desplazamiento de izquierda a derecha serán recompensados con una puntuación para ese icono.",
+    "portuguese": "Três ou mais ícones idênticos que aparecerem em sucessão na roda de rolagem, da extrema esquerda para a direita, serão recompensados com uma pontuação para esse ícone!",
+    "french": "Trois icônes identiques ou plus apparaissant successivement sur la roue de défilement de l'extrême gauche vers la droite seront récompensées par un score pour cette icône !",
+    "indonesian": "Tiga atau lebih ikon identik yang muncul secara berurutan pada roda gulir dari ujung kiri ke kanan akan diberi skor untuk ikon tersebut!",
+    "malay": "Tiga atau lebih ikon yang sama muncul berturut-turut pada roda scroll dari jauh kiri ke kanan akan dibalas dengan skor untuk ikon itu!"
   },
   {
     "id": "342001",
@@ -4191,6 +4488,28 @@
     "malay": "Permainan percuma untuk menetapkan seratus lokasi"
   },
   {
+    "id": "342005",
+    "type": "",
+    "chinese": "3个及以上特定图标中奖可触发拼图游戏的碎片收集，收集6个碎片完成拼图后，可以转动转盘获得千万大奖",
+    "english": "3 or more specific icons to win the prize can trigger the collection of pieces of the puzzle game, collect 6 pieces to complete the puzzle, you can turn the wheel to get the 10 million prize",
+    "spanish": "3 o más iconos específicos para ganar el premio pueden desencadenar la recogida de piezas del juego de puzzle, recoge 6 piezas para completar el puzzle, puedes girar la rueda para conseguir el premio de 10 millones",
+    "portuguese": "3 ou mais ícones específicos para ganhar o prêmio podem acionar a coleta de peças do jogo de quebra-cabeça, colete 6 peças para completar o quebra-cabeça, você pode girar a roda para ganhar o prêmio de 10 milhões",
+    "french": "3 icônes spécifiques ou plus pour gagner le prix peuvent déclencher la collecte des pièces du jeu de puzzle, collectez 6 pièces pour compléter le puzzle, vous pouvez faire tourner la roue pour obtenir le prix de 10 millions.",
+    "indonesian": "3 atau lebih ikon tertentu untuk memenangkan hadiah dapat memicu pengumpulan potongan-potongan permainan puzzle, kumpulkan 6 buah untuk menyelesaikan teka-teki, Anda dapat memutar roda untuk mendapatkan hadiah 10 juta",
+    "malay": "3 ikon atau lebih spesifik untuk memenangkan hadiah boleh memicu koleksi potongan permainan teka-teki, mengumpulkan 6 potongan untuk menyelesaikan teka-teki, anda boleh putar roda untuk mendapatkan hadiah 10 juta"
+  },
+  {
+    "id": "342006",
+    "type": "",
+    "chinese": "任意出现3个及以上wild可触发2种免费游戏，您可以选择其中一种继续游戏",
+    "english": "Any appearance of 3 or more wilds will trigger 2 free games, you can choose one of them to continue the game",
+    "spanish": "Cualquier aparición de 3 o más comodines desencadenará 2 juegos gratis, puedes elegir uno de ellos para continuar el juego",
+    "portuguese": "Qualquer aparecimento de 3 ou mais wilds acionará 2 jogos grátis, você pode escolher um deles para continuar o jogo.",
+    "french": "Toute apparition de 3 wilds ou plus déclenche 2 parties gratuites, vous pouvez choisir l'une d'entre elles pour continuer le jeu.",
+    "indonesian": "Setiap kemunculan 3 atau lebih wild akan memicu 2 permainan gratis, Anda dapat memilih salah satunya untuk melanjutkan permainan",
+    "malay": "Setiap penampilan 3 atau lebih liar akan memicu 2 permainan percuma, anda boleh pilih salah satu daripada mereka untuk teruskan permainan"
+  },
+  {
     "id": "344001",
     "type": "",
     "chinese": "出現3個或以上並連線獲得獎池派彩獎勵",
@@ -4226,6 +4545,61 @@
   {
     "id": "344004",
     "type": "",
+    "chinese": "倍率介绍",
+    "english": "Multiplier Rules",
+    "spanish": "Reglas del multiplicador",
+    "portuguese": "Regras do multiplicador",
+    "french": "Règles relatives aux multiplicateurs",
+    "indonesian": "Aturan Pengali",
+    "malay": "Peraturan Pendarab"
+  },
+  {
+    "id": "344005",
+    "type": "",
+    "chinese": "连线介绍",
+    "english": "Linking rules",
+    "spanish": "Reglas de enlace",
+    "portuguese": "Regras de vinculação",
+    "french": "Règles de liaison",
+    "indonesian": "Menghubungkan aturan",
+    "malay": "Peraturan pautan"
+  },
+  {
+    "id": "344006",
+    "type": "",
+    "chinese": "乐高小玛丽",
+    "english": "Lego Little Mary",
+    "spanish": "Lego Pequeña María",
+    "portuguese": "Lego Little Mary",
+    "french": "Lego Little Mary",
+    "indonesian": "Lego Little Mary",
+    "malay": "Lego Little Mary"
+  },
+  {
+    "id": "344007",
+    "type": "",
+    "chinese": "所有图形均需在任意一条线按照从左到右的顺序从第一个位置图案连续出现才能获得相应的奖励",
+    "english": "All graphics need to appear in any line in order from left to right from the first position pattern in succession to get the corresponding reward",
+    "spanish": "Todos los gráficos tienen que aparecer en cualquier línea en orden de izquierda a derecha desde el primer patrón de posición en sucesión para obtener la recompensa correspondiente",
+    "portuguese": "Todos os gráficos precisam aparecer em qualquer linha em ordem da esquerda para a direita a partir do padrão da primeira posição em sucessão para obter a recompensa correspondente",
+    "french": "Tous les graphiques doivent apparaître dans une ligne dans l'ordre de gauche à droite à partir du motif de la première position pour obtenir la récompense correspondante.",
+    "indonesian": "Semua gambar harus muncul di baris mana pun secara berurutan dari kiri ke kanan dari pola posisi pertama secara berurutan untuk mendapatkan hadiah yang sesuai",
+    "malay": "Semua grafik perlu muncul dalam mana-mana baris dalam tertib dari kiri ke kanan dari corak kedudukan pertama berturut-turut untuk mendapatkan hadiah yang sepadan"
+  },
+  {
+    "id": "344008",
+    "type": "",
+    "chinese": "出现5个连续的wild可玩乐高小玛丽3次，4个可玩2次，3个可玩1次。",
+    "english": "You can play LEGO Little Mary 3 times with 5 consecutive wilds, 2 times with 4, and 1 time with 3.",
+    "spanish": "Puede jugar a LEGO Little Mary 3 veces con 5 comodines consecutivos, 2 veces con 4 y 1 vez con 3.",
+    "portuguese": "Você pode jogar LEGO Little Mary 3 vezes com 5 wilds consecutivos, 2 vezes com 4 e 1 vez com 3.",
+    "french": "Vous pouvez jouer à LEGO Little Mary 3 fois avec 5 wilds consécutifs, 2 fois avec 4 et 1 fois avec 3.",
+    "indonesian": "Anda dapat memainkan LEGO Little Mary 3 kali dengan 5 simbol wild berturut-turut, 2 kali dengan 4, dan 1 kali dengan 3.",
+    "malay": "Anda boleh bermain LEGO Little Mary 3 kali dengan 5 liar berturut-turut, 2 kali dengan 4, dan 1 kali dengan 3."
+  },
+  {
+    "id": "344009",
+    "type": "",
     "chinese": "下注",
     "english": "Bet",
     "spanish": "Apuesta",
@@ -4235,7 +4609,7 @@
     "malay": "Taruhan"
   },
   {
-    "id": "344005",
+    "id": "344010",
     "type": "",
     "chinese": "分数",
     "english": "Score",
@@ -4246,7 +4620,7 @@
     "malay": "Skor"
   },
   {
-    "id": "344006",
+    "id": "344011",
     "type": "",
     "chinese": "次数",
     "english": "Times",
@@ -4332,6 +4706,83 @@
     "french": "Tour gratuit !",
     "indonesian": "Putar Gratis!",
     "malay": "Free Spin!"
+  },
+  {
+    "id": "322008",
+    "type": "",
+    "chinese": "2列连续的WILD得到15个免费游戏",
+    "english": "2 consecutive columns of WILD get 15 free games",
+    "spanish": "2 columnas consecutivas de WILD obtienen 15 juegos gratis",
+    "portuguese": "2 colunas consecutivas de WILD dão direito a 15 jogos grátis",
+    "french": "2 colonnes consécutives de WILD donnent droit à 15 parties gratuites",
+    "indonesian": "2 kolom berturut-turut untuk WILD mendapatkan 15 game gratis",
+    "malay": "2 lajur berturut-turut WILD dapat 15 permainan percuma"
+  },
+  {
+    "id": "322009",
+    "type": "",
+    "chinese": "3列连续的WILD得到30个免费游戏",
+    "english": "3 consecutive columns for WILD get 30 free games",
+    "spanish": "3 columnas consecutivas de WILD obtienen 30 juegos gratis",
+    "portuguese": "3 colunas consecutivas de WILD ganham 30 jogos grátis",
+    "french": "3 colonnes consécutives de WILD donnent droit à 30 parties gratuites",
+    "indonesian": "3 kolom berturut-turut untuk WILD mendapatkan 30 permainan gratis",
+    "malay": "3 lajur berturut-turut untuk WILD mendapatkan 30 permainan percuma"
+  },
+  {
+    "id": "322010",
+    "type": "",
+    "chinese": "4列连续的WILD获得50个免费游戏",
+    "english": "4 consecutive columns for WILD get 50 free games",
+    "spanish": "4 columnas consecutivas de WILD consiguen 50 juegos gratis",
+    "portuguese": "4 colunas consecutivas de WILD ganham 50 jogos grátis",
+    "french": "4 colonnes consécutives de WILD donnent droit à 50 parties gratuites.",
+    "indonesian": "4 kolom berturut-turut untuk WILD mendapatkan 50 game gratis",
+    "malay": "4 lajur berturut-turut untuk WILD mendapatkan 50 permainan percuma"
+  },
+  {
+    "id": "322011",
+    "type": "",
+    "chinese": "返回到游戏",
+    "english": "Back to Games",
+    "spanish": "Volver a Juegos",
+    "portuguese": "Voltar aos jogos",
+    "french": "Retour aux jeux",
+    "indonesian": "Kembali ke Permainan",
+    "malay": "Kembali ke Permainan"
+  },
+  {
+    "id": "322012",
+    "type": "",
+    "chinese": "<color=red>40X</color> 水果全盘奖",
+    "english": "<color=red>40X</color> Bonus on a Full Hand of Fruit",
+    "spanish": "<color=red>40X</color> Bonificación en una mano completa de fruta",
+    "portuguese": "<color=red>40X</color> Bônus em uma mão cheia de frutas",
+    "french": "<color=red>40X</color> Bonus sur une main pleine de fruits",
+    "indonesian": "<color=red>40X</color> Bonus untuk Satu Tangan Penuh Buah",
+    "malay": "<color=red>40X</color> Bonus pada Tangan Penuh Buah"
+  },
+  {
+    "id": "322013",
+    "type": "",
+    "chinese": "<color=red>300X</color> BAR全盘奖",
+    "english": "<color=red>300X</color> Bonus on a Full Hand of BAR",
+    "spanish": "<color=red>300X</color> Bonificación en una mano completa de BARRA",
+    "portuguese": "<color=red>300X</color> Bônus em uma mão inteira de BAR",
+    "french": "<color=red>300X</color> Bonus sur une main pleine de BAR",
+    "indonesian": "<color=red>300X</color> Bonus untuk satu tangan penuh BAR",
+    "malay": "<color=red>300X</color> Bonus pada Tangan Penuh dari BAR"
+  },
+  {
+    "id": "322014",
+    "type": "",
+    "chinese": "<color=red>700X</color> 全盘奖<color=red>7</color>奖金",
+    "english": "<color=red>700X</color> Bonus on a Full Hand of <color=red>7</color>",
+    "spanish": "<color=red>700X</color> Bonificación en una mano completa de <color=red>7</color>",
+    "portuguese": "<color=red>700X</color> Bônus em uma mão inteira de <color=red>7</color>",
+    "french": "<color=red>700X</color> Bonus sur une main pleine de <color=red>7</color>",
+    "indonesian": "<color=red>700X</color> Bonus untuk Tangan Penuh <color=red>7</color>",
+    "malay": "<color=red>700X</color> Bonus pada Tangan Penuh dari <color=red>7</color>"
   },
   {
     "id": "365001",
@@ -6510,6 +6961,116 @@
     "french": "Paiement de bonus lorsque vous en obtenez 5 à la suite.",
     "indonesian": "Pembayaran bonus ketika 5 berturut-turut tercapai",
     "malay": "Pembayaran bonus bila 5 berturut-turut dicapai"
+  },
+  {
+    "id": "324001",
+    "type": "",
+    "chinese": "你的档案记录将被保留7天，7天后将被清除。",
+    "english": "Your archive record will be kept for 7 days, after 7 days it will be clear",
+    "spanish": "Su registro de archivo se mantendrá durante 7 días, después de 7 días se borrará",
+    "portuguese": "Seu registro de arquivo será mantido por 7 dias e, após 7 dias, será apagado",
+    "french": "Vos archives seront conservées pendant 7 jours, après quoi elles seront effacées.",
+    "indonesian": "Catatan arsip Anda akan disimpan selama 7 hari, setelah 7 hari akan dihapus",
+    "malay": "Rekod arkib anda akan disimpan selama 7 hari, selepas 7 hari ia akan jelas"
+  },
+  {
+    "id": "324002",
+    "type": "",
+    "chinese": "倍数 [ 17] 宝石加额外的 [20-20000] x 累积奖",
+    "english": "Multiplier of [ 17] gems plus an additional [20-20000 ] x accumulation prize",
+    "spanish": "Multiplicador de [ 17] gemas más un premio adicional de [20-20000 ] x acumulación",
+    "portuguese": "Multiplicador de [ 17] gemas mais um adicional de [20-20000 ] x prêmio de acumulação",
+    "french": "Multiplicateur de [ 17] gemmes plus [20-20000 ] x prix d'accumulation supplémentaire",
+    "indonesian": "Pengganda [ 17] permata ditambah tambahan [20-20000] x hadiah akumulasi",
+    "malay": "Multiplier of [ 17] gems plus an additional [20-20000 ] x accumulation prize"
+  },
+  {
+    "id": "324003",
+    "type": "",
+    "chinese": "倍数 [ 14] 宝石加额外的 [20-20000] x 累积奖",
+    "english": "Multiplier of [ 14] gems plus an additional [20-20000 ] x accumulation prize",
+    "spanish": "Multiplicador de [ 14] gemas más un premio adicional de [20-20000 ] x acumulación",
+    "portuguese": "Multiplicador de [ 14] gemas mais um adicional de [20-20000 ] x prêmio de acumulação",
+    "french": "Multiplicateur de [ 14] pierres précieuses plus [20-20000 ] x prix d'accumulation supplémentaire",
+    "indonesian": "Pengali [ 14] permata ditambah tambahan [20-20000] x hadiah akumulasi",
+    "malay": "Pendarab dari [ 14] batu tambah hadiah tambahan [20-20000] x akumulasi"
+  },
+  {
+    "id": "324004",
+    "type": "",
+    "chinese": "倍数 [ 21] 宝石加额外的 [20-20000] x 累积奖",
+    "english": "Multiplier of [ 21] gems plus an additional [20-20000 ] x accumulation prize",
+    "spanish": "Multiplicador de [ 21] gemas más un premio adicional de [20-20000 ] x acumulación",
+    "portuguese": "Multiplicador de [ 21] gemas mais um adicional de [20-20000 ] x prêmio de acumulação",
+    "french": "Multiplicateur de [ 21] pierres précieuses plus un prix d'accumulation supplémentaire de [20-20000 ] x",
+    "indonesian": "Pengali dari [ 21] permata ditambah tambahan [20-20000] x hadiah akumulasi",
+    "malay": "Pendarab gempa [ 21] tambah hadiah tambahan [20-20000] x akumulasi"
+  },
+  {
+    "id": "324005",
+    "type": "",
+    "chinese": "累积奖",
+    "english": "Jackpot",
+    "spanish": "Bote",
+    "portuguese": "Prêmio máximo",
+    "french": "Jackpot",
+    "indonesian": "Jackpot",
+    "malay": "Jackpot"
+  },
+  {
+    "id": "324006",
+    "type": "",
+    "chinese": "投注线的数量",
+    "english": "Line",
+    "spanish": "Línea",
+    "portuguese": "Linha",
+    "french": "Ligne",
+    "indonesian": "Garis",
+    "malay": "Baris"
+  },
+  {
+    "id": "324007",
+    "type": "",
+    "chinese": "单线点数",
+    "english": "Line Bet",
+    "spanish": "Línea de apuesta",
+    "portuguese": "Aposta na linha",
+    "french": "Mise de la ligne",
+    "indonesian": "Taruhan Baris",
+    "malay": "Taruhan Baris"
+  },
+  {
+    "id": "324008",
+    "type": "",
+    "chinese": "总投注点数",
+    "english": "Total Bet",
+    "spanish": "Apuesta total",
+    "portuguese": "Aposta total",
+    "french": "Mise totale",
+    "indonesian": "Total Taruhan",
+    "malay": "Jumlah Taruhan"
+  },
+  {
+    "id": "324009",
+    "type": "",
+    "chinese": "点击任何区域，开始寻宝",
+    "english": "Click on any area to start treasure hunt",
+    "spanish": "Haga clic en cualquier área para iniciar la búsqueda del tesoro",
+    "portuguese": "Clique em qualquer área para iniciar a caça ao tesouro",
+    "french": "Cliquez sur n'importe quelle zone pour commencer la chasse au trésor",
+    "indonesian": "Klik di area mana saja untuk memulai perburuan harta karun",
+    "malay": "Klik pada mana-mana kawasan untuk mula memburu harta karun"
+  },
+  {
+    "id": "324010",
+    "type": "",
+    "chinese": "进入寻宝游戏",
+    "english": "Enter treasure hunting",
+    "spanish": "Entrar en la búsqueda del tesoro",
+    "portuguese": "Entrar na caça ao tesouro",
+    "french": "Entrer dans la chasse au trésor",
+    "indonesian": "Masuk ke perburuan harta karun",
+    "malay": "Masukkan pemburuan harta karun"
   },
   {
     "id": "348001",
