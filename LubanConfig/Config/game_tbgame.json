@@ -3,7 +3,7 @@
     "ID": 1,
     "scenName": "module03",
     "uiName": "开心牛牛",
-    "gameName": "抢庄牛牛",
+    "gameName": "207028",
     "clientId": 3,
     "otherClientId": 0,
     "BL": [
@@ -26,7 +26,7 @@
     "ID": 2,
     "scenName": "module06",
     "uiName": "万炮捕鱼",
-    "gameName": "Deep Sea Fishing",
+    "gameName": "207029",
     "clientId": 6,
     "otherClientId": 0,
     "BL": [
@@ -49,7 +49,7 @@
     "ID": 3,
     "scenName": "module13",
     "uiName": "功夫熊猫",
-    "gameName": "功夫熊猫",
+    "gameName": "207030",
     "clientId": 13,
     "otherClientId": 0,
     "BL": [
@@ -72,7 +72,7 @@
     "ID": 4,
     "scenName": "module16",
     "uiName": "纸牌老虎机",
-    "gameName": "纸牌老虎机",
+    "gameName": "207031",
     "clientId": 16,
     "otherClientId": 0,
     "BL": [
@@ -95,7 +95,7 @@
     "ID": 5,
     "scenName": "module17",
     "uiName": "楚河汉界",
-    "gameName": "楚河汉界",
+    "gameName": "207032",
     "clientId": 17,
     "otherClientId": 0,
     "BL": [
@@ -118,7 +118,7 @@
     "ID": 6,
     "scenName": "module18",
     "uiName": "水浒传",
-    "gameName": "水浒传",
+    "gameName": "207033",
     "clientId": 18,
     "otherClientId": 0,
     "BL": [
@@ -141,7 +141,7 @@
     "ID": 7,
     "scenName": "module19",
     "uiName": "21点",
-    "gameName": "Blackjack",
+    "gameName": "207034",
     "clientId": 19,
     "otherClientId": 0,
     "BL": [
@@ -164,7 +164,7 @@
     "ID": 8,
     "scenName": "module20",
     "uiName": "百家乐",
-    "gameName": "Baccarat",
+    "gameName": "207035",
     "clientId": 20,
     "otherClientId": 0,
     "BL": [
@@ -187,7 +187,7 @@
     "ID": 9,
     "scenName": "module22",
     "uiName": "水果777",
-    "gameName": "Fruit slot 777",
+    "gameName": "207015",
     "clientId": 22,
     "otherClientId": 0,
     "BL": [
@@ -210,7 +210,7 @@
     "ID": 10,
     "scenName": "module24",
     "uiName": "龙珠探宝",
-    "gameName": "Dragon Legend",
+    "gameName": "207016",
     "clientId": 8,
     "otherClientId": 24,
     "BL": [
@@ -233,7 +233,7 @@
     "ID": 11,
     "scenName": "module25",
     "uiName": "草莓老虎机",
-    "gameName": "草莓老虎机",
+    "gameName": "207031",
     "clientId": 25,
     "otherClientId": 0,
     "BL": [
@@ -256,7 +256,7 @@
     "ID": 12,
     "scenName": "module27",
     "uiName": "财神到",
-    "gameName": "Fartune Gods",
+    "gameName": "207011",
     "clientId": 27,
     "otherClientId": 0,
     "BL": [
@@ -279,7 +279,7 @@
     "ID": 13,
     "scenName": "module28",
     "uiName": "福临门",
-    "gameName": "Fulinmen",
+    "gameName": "207036",
     "clientId": 28,
     "otherClientId": 0,
     "BL": [
@@ -302,7 +302,7 @@
     "ID": 14,
     "scenName": "module32",
     "uiName": "点球大战",
-    "gameName": "Soccer",
+    "gameName": "207037",
     "clientId": 32,
     "otherClientId": 0,
     "BL": [
@@ -325,7 +325,7 @@
     "ID": 15,
     "scenName": "module33",
     "uiName": "虎啸龙吟",
-    "gameName": "DragonAndTiger",
+    "gameName": "207038",
     "clientId": 33,
     "otherClientId": 0,
     "BL": [
@@ -348,7 +348,7 @@
     "ID": 16,
     "scenName": "module38",
     "uiName": "战国史记",
-    "gameName": "战国史记",
+    "gameName": "207039",
     "clientId": 38,
     "otherClientId": 0,
     "BL": [
@@ -371,7 +371,7 @@
     "ID": 17,
     "scenName": "module39",
     "uiName": "淘金者",
-    "gameName": "Gold Digger",
+    "gameName": "207014",
     "clientId": 39,
     "otherClientId": 0,
     "BL": [
@@ -394,7 +394,7 @@
     "ID": 18,
     "scenName": "module40",
     "uiName": "跳高高",
-    "gameName": "High Jump",
+    "gameName": "207002",
     "clientId": 40,
     "otherClientId": 0,
     "BL": [
@@ -417,7 +417,7 @@
     "ID": 19,
     "scenName": "module41",
     "uiName": "金瓶梅",
-    "gameName": "Pretty Bride",
+    "gameName": "207010",
     "clientId": 41,
     "otherClientId": 0,
     "BL": [
@@ -440,7 +440,7 @@
     "ID": 20,
     "scenName": "module42",
     "uiName": "月光宝盒",
-    "gameName": "Moonlight Box",
+    "gameName": "207008",
     "clientId": 42,
     "otherClientId": 0,
     "BL": [
@@ -463,7 +463,7 @@
     "ID": 21,
     "scenName": "module43",
     "uiName": "百人牛牛",
-    "gameName": "TBcattle vs100",
+    "gameName": "207040",
     "clientId": 43,
     "otherClientId": 0,
     "BL": [
@@ -486,7 +486,7 @@
     "ID": 22,
     "scenName": "module44",
     "uiName": "乐高大电影",
-    "gameName": "Lego Movie",
+    "gameName": "207009",
     "clientId": 44,
     "otherClientId": 0,
     "BL": [
@@ -509,7 +509,7 @@
     "ID": 23,
     "scenName": "module45",
     "uiName": "五龙争霸",
-    "gameName": "五龙争霸",
+    "gameName": "207041",
     "clientId": 45,
     "otherClientId": 0,
     "BL": [
@@ -532,7 +532,7 @@
     "ID": 24,
     "scenName": "module46",
     "uiName": "萌宠大作战",
-    "gameName": "萌宠大作战",
+    "gameName": "207042",
     "clientId": 46,
     "otherClientId": 0,
     "BL": [
@@ -555,7 +555,7 @@
     "ID": 25,
     "scenName": "module47",
     "uiName": "幸运水果机",
-    "gameName": "幸运水果机",
+    "gameName": "207043",
     "clientId": 47,
     "otherClientId": 0,
     "BL": [
@@ -578,7 +578,7 @@
     "ID": 26,
     "scenName": "module48",
     "uiName": "福星高照",
-    "gameName": "福星高照",
+    "gameName": "207044",
     "clientId": 48,
     "otherClientId": 0,
     "BL": [
@@ -601,7 +601,7 @@
     "ID": 27,
     "scenName": "module49",
     "uiName": "武士斩杀",
-    "gameName": "Samurai",
+    "gameName": "207005",
     "clientId": 49,
     "otherClientId": 0,
     "BL": [
@@ -624,7 +624,7 @@
     "ID": 28,
     "scenName": "module50",
     "uiName": "上海滩",
-    "gameName": "上海滩",
+    "gameName": "207045",
     "clientId": 50,
     "otherClientId": 0,
     "BL": [
@@ -647,7 +647,7 @@
     "ID": 29,
     "scenName": "module51",
     "uiName": "水果小玛丽",
-    "gameName": "Fruit Mary",
+    "gameName": "207004",
     "clientId": 21,
     "otherClientId": 51,
     "BL": [
@@ -670,7 +670,7 @@
     "ID": 30,
     "scenName": "module52",
     "uiName": "十二生肖",
-    "gameName": "十二生肖",
+    "gameName": "207046",
     "clientId": 52,
     "otherClientId": 0,
     "BL": [
@@ -693,7 +693,7 @@
     "ID": 31,
     "scenName": "module53",
     "uiName": "街机赛马",
-    "gameName": "街机赛马",
+    "gameName": "207047",
     "clientId": 53,
     "otherClientId": 0,
     "BL": [
@@ -716,7 +716,7 @@
     "ID": 32,
     "scenName": "module54",
     "uiName": "埃及大冒险",
-    "gameName": "Egypt Treasure",
+    "gameName": "207003",
     "clientId": 54,
     "otherClientId": 0,
     "BL": [
@@ -739,7 +739,7 @@
     "ID": 33,
     "scenName": "module55",
     "uiName": "通比牛牛",
-    "gameName": "TBcattle",
+    "gameName": "207048",
     "clientId": 55,
     "otherClientId": 0,
     "BL": [
@@ -762,7 +762,7 @@
     "ID": 34,
     "scenName": "module56",
     "uiName": "金鼠迎春",
-    "gameName": "金鼠迎春",
+    "gameName": "207049",
     "clientId": 56,
     "otherClientId": 0,
     "BL": [
@@ -785,7 +785,7 @@
     "ID": 35,
     "scenName": "module57",
     "uiName": "冰球突破",
-    "gameName": "Ice Hockey",
+    "gameName": "207001",
     "clientId": 57,
     "otherClientId": 0,
     "BL": [
@@ -808,7 +808,7 @@
     "ID": 36,
     "scenName": "module58",
     "uiName": "金猪送福",
-    "gameName": "Golden piggy",
+    "gameName": "207017",
     "clientId": 58,
     "otherClientId": 0,
     "BL": [
@@ -831,7 +831,7 @@
     "ID": 37,
     "scenName": "module59",
     "uiName": "竹子熊猫",
-    "gameName": "Fortune Panda",
+    "gameName": "207007",
     "clientId": 59,
     "otherClientId": 0,
     "BL": [
@@ -854,7 +854,7 @@
     "ID": 38,
     "scenName": "module60",
     "uiName": "街头劲舞",
-    "gameName": "街头劲舞",
+    "gameName": "207050",
     "clientId": 60,
     "otherClientId": 0,
     "BL": [
@@ -877,7 +877,7 @@
     "ID": 39,
     "scenName": "module61",
     "uiName": "偷窥",
-    "gameName": "Peeking",
+    "gameName": "207027",
     "clientId": 61,
     "otherClientId": 0,
     "BL": [
@@ -900,7 +900,7 @@
     "ID": 40,
     "scenName": "module62",
     "uiName": "龙腾捕鱼",
-    "gameName": "3D Fishing",
+    "gameName": "207019",
     "clientId": 62,
     "otherClientId": 0,
     "BL": [
@@ -924,7 +924,7 @@
     "ID": 41,
     "scenName": "module63",
     "uiName": "麻将胡了",
-    "gameName": "Mahjong ways",
+    "gameName": "207018",
     "clientId": 63,
     "otherClientId": 0,
     "BL": [
@@ -947,7 +947,7 @@
     "ID": 42,
     "scenName": "module65",
     "uiName": "Crash",
-    "gameName": "Crash",
+    "gameName": "207020",
     "clientId": 65,
     "otherClientId": 0,
     "BL": [
