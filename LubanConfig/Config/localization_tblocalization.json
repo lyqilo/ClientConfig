@@ -99,6 +99,314 @@
     "malay": "Bahasa:"
   },
   {
+    "id": "100010",
+    "type": "",
+    "chinese": "網路連接失敗",
+    "english": "Network connection failure",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100011",
+    "type": "",
+    "chinese": "遊戲沒打開",
+    "english": "The Game is not Opening",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100012",
+    "type": "",
+    "chinese": "你還有遊戲在玩",
+    "english": "You still have a game to play!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100013",
+    "type": "",
+    "chinese": "您的帳戶在其他地方登錄了!",
+    "english": "Your account is logged in somewhere else!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100014",
+    "type": "",
+    "chinese": "更改頭像失敗",
+    "english": "Failed to change profile picture",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100015",
+    "type": "",
+    "chinese": "網路錯誤，請重試",
+    "english": "Network error, please try again",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100016",
+    "type": "",
+    "chinese": "請輸入手機號碼",
+    "english": "Please enter cell phone number",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100017",
+    "type": "",
+    "chinese": "手機號碼應為11位數字",
+    "english": "Cell phone number should be 11 digits",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100018",
+    "type": "",
+    "chinese": "請輸入正確的手機號碼",
+    "english": "Please enter the correct cell phone number",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100019",
+    "type": "",
+    "chinese": "費用金額錯了，請重新輸入",
+    "english": "The amount of the charge is wrong, please re-enter",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100020",
+    "type": "",
+    "chinese": "網路不可用",
+    "english": "Network unavailable！",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100021",
+    "type": "",
+    "chinese": "重新連接遊戲失敗",
+    "english": "Failed To Connect Game,Network Error!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100022",
+    "type": "",
+    "chinese": "連接遊戲失敗",
+    "english": "Failed To Reconnect Game",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100023",
+    "type": "",
+    "chinese": "重連遊戲失敗，即將回到大廳",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100024",
+    "type": "",
+    "chinese": "重連伺服器中…",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100025",
+    "type": "",
+    "chinese": "網路錯誤！重連遊戲失敗",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100026",
+    "type": "",
+    "chinese": "連接伺服器失敗",
+    "english": "Connect server failed",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100027",
+    "type": "",
+    "chinese": "請更換設備登錄遊戲!",
+    "english": "Please change your device to log in to the game！",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100028",
+    "type": "",
+    "chinese": "請重新啟動遊戲獲取登錄配置!\n\n",
+    "english": "Please restart the game to get the login configuration！",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100029",
+    "type": "",
+    "chinese": "請重新啟動遊戲獲取登錄配置!",
+    "english": "Please restart the game to obtain the login configuration！",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100030",
+    "type": "",
+    "chinese": "無法完成加載，請稍後再試",
+    "english": "Unable to finish loading, please try again later",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100031",
+    "type": "",
+    "chinese": "請下載最新版本的遊戲!",
+    "english": "Please download the latest version of the game！",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100032",
+    "type": "",
+    "chinese": "連接伺服器...",
+    "english": "Connecting server…",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100033",
+    "type": "",
+    "chinese": "重新連接：{0}...",
+    "english": "Reconnecting:{0}…",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100034",
+    "type": "",
+    "chinese": "重連中...",
+    "english": "Reconnecting……",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100035",
+    "type": "",
+    "chinese": "連接遊戲...",
+    "english": "Connect Game…",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100036",
+    "type": "",
+    "chinese": "重置網路",
+    "english": "Reseting Network Now",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "100037",
+    "type": "",
+    "chinese": "登錄中...",
+    "english": "Logging in……",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
     "id": "101001",
     "type": "",
     "chinese": "登錄",
@@ -165,15 +473,136 @@
     "malay": "Forgot password "
   },
   {
+    "id": "101007",
+    "type": "",
+    "chinese": "網路連接失敗",
+    "english": "Network connection failure",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101008",
+    "type": "",
+    "chinese": "獲取平臺配置錯誤",
+    "english": "Get platfom config error",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101009",
+    "type": "",
+    "chinese": "帳號或密碼錯誤",
+    "english": "The account or password is incorrect",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101010",
+    "type": "",
+    "chinese": "密碼格式錯誤",
+    "english": "Incorrect password format",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101011",
+    "type": "",
+    "chinese": "密碼不一致",
+    "english": "Inconsistent passwords",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101012",
+    "type": "",
+    "chinese": "註冊成功",
+    "english": "Successful registration",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101013",
+    "type": "",
+    "chinese": "綁定號碼",
+    "english": "phone number is bound",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101014",
+    "type": "",
+    "chinese": "驗證碼錯誤",
+    "english": "The verification code is incorrect",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101015",
+    "type": "",
+    "chinese": "密碼重置成功，請妥善保管",
+    "english": "The reset password is successful, please keep it safe",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101016",
+    "type": "",
+    "chinese": "電話未註冊",
+    "english": "Phone number is not registered",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "101017",
+    "type": "",
+    "chinese": "驗證碼不正確！",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
     "id": "102001",
     "type": "",
     "chinese": "確認",
-    "english": "Confirm",
-    "spanish": "Confirme",
-    "portuguese": "Confirmar",
-    "french": "Confirmer",
-    "indonesian": "Konfirmasi",
-    "malay": "Confirm "
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "102002",
@@ -317,6 +746,28 @@
     "french": "Le nom réel sera utilisé pour la vérification de l'information de recharge et de retrait.",
     "indonesian": "Nama asli akan digunakan untuk verifikasi informasi pengisian ulang dan penarikan dana, informasi yang salah dapat menyebabkan pesanan gagal, mohon konfirmasi informasi Anda.",
     "malay": "The real name will be used for information \nverification of recharge and \nwithdrawal.Wrong information may cause the \nPerintah untuk gagal. Please confirm info anda. \n"
+  },
+  {
+    "id": "102015",
+    "type": "",
+    "chinese": "請更換設備登錄遊戲!",
+    "english": "Please change your device to log in to the game!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "102016",
+    "type": "",
+    "chinese": "請重新啟動遊戲獲取登錄配置!",
+    "english": "Please restart the game to get the login configuration！",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "103001",
@@ -530,7 +981,7 @@
   {
     "id": "105001",
     "type": "",
-    "chinese": "用户不存在",
+    "chinese": "用戶不存在",
     "english": "User does not exist",
     "spanish": "El usuario no existe",
     "portuguese": "O usuário não existe",
@@ -541,7 +992,7 @@
   {
     "id": "105002",
     "type": "",
-    "chinese": "未绑定手机",
+    "chinese": "未綁定手機",
     "english": "Not bonded phone",
     "spanish": "Teléfono no vinculado",
     "portuguese": "Telefone não vinculado",
@@ -552,7 +1003,7 @@
   {
     "id": "105003",
     "type": "",
-    "chinese": "可兑换金额不足",
+    "chinese": "可兌換金額不足",
     "english": "Not enough exchangeable amount",
     "spanish": "Importe canjeable insuficiente",
     "portuguese": "Não há valor suficiente para troca",
@@ -563,7 +1014,7 @@
   {
     "id": "105004",
     "type": "",
-    "chinese": "总赢不足",
+    "chinese": "總贏不足",
     "english": "Total win is not enough",
     "spanish": "La ganancia total no es suficiente",
     "portuguese": "O ganho total não é suficiente",
@@ -574,7 +1025,7 @@
   {
     "id": "105005",
     "type": "",
-    "chinese": "充值失败，请尝试其它渠道",
+    "chinese": "充值失敗，請嘗試其他管道",
     "english": "Recharge failed, please try other channels",
     "spanish": "Fallo en la recarga, inténtelo por otros canales",
     "portuguese": "A recarga falhou, tente outros canais",
@@ -585,7 +1036,7 @@
   {
     "id": "105006",
     "type": "",
-    "chinese": "充值订单申请成功",
+    "chinese": "充值訂單申請成功",
     "english": "Recharge order request successful",
     "spanish": "Recarga solicitada con éxito",
     "portuguese": "Solicitação de ordem de recarga bem-sucedida",
@@ -596,7 +1047,7 @@
   {
     "id": "105007",
     "type": "",
-    "chinese": "兑换订单申请成功",
+    "chinese": "兌換訂單申請成功",
     "english": "Exchange order request successful",
     "spanish": "Solicitud de cambio de divisa aceptada",
     "portuguese": "Solicitação de ordem de troca bem-sucedida",
@@ -607,7 +1058,7 @@
   {
     "id": "105008",
     "type": "",
-    "chinese": "兑换失败，请尝试其它渠道",
+    "chinese": "兌換失敗，請嘗試其他管道",
     "english": "Exchange failed, please try other channels",
     "spanish": "Error en el intercambio, inténtelo por otros canales",
     "portuguese": "Falha na troca, tente outros canais",
@@ -618,7 +1069,7 @@
   {
     "id": "105009",
     "type": "",
-    "chinese": "服务器异常",
+    "chinese": "伺服器異常",
     "english": "Server Exception",
     "spanish": "Excepción del servidor",
     "portuguese": "Exceção do servidor",
@@ -629,7 +1080,7 @@
   {
     "id": "105010",
     "type": "",
-    "chinese": "首充活动只能参加一次",
+    "chinese": "首充活動只能參加一次",
     "english": "First charge event can only be played once",
     "spanish": "El primer evento de recarga sólo se puede reproducir una vez",
     "portuguese": "O primeiro evento de cobrança só pode ser reproduzido uma vez",
@@ -640,7 +1091,7 @@
   {
     "id": "105011",
     "type": "",
-    "chinese": "订单错误",
+    "chinese": "訂單錯誤",
     "english": "Order Error",
     "spanish": "Error de orden",
     "portuguese": "Erro de ordem",
@@ -794,7 +1245,7 @@
   {
     "id": "201024",
     "type": "",
-    "chinese": "VIP不能进行该操作",
+    "chinese": "VIP不能進行該操作",
     "english": "VIP cannot perform this operation",
     "spanish": "VIP no puede realizar esta operación",
     "portuguese": "O VIP não pode executar essa operação",
@@ -805,13 +1256,68 @@
   {
     "id": "201025",
     "type": "",
-    "chinese": "功能未开启，请耐心等待",
+    "chinese": "功能未開啟，請耐心等待",
     "english": "Function not yet open, please wait!",
     "spanish": "Función aún no abierta, por favor espere",
     "portuguese": "A função ainda não foi aberta, aguarde!",
     "french": "La fonction n'est pas encore ouverte, veuillez patienter !",
     "indonesian": "Fungsi belum terbuka, harap tunggu!",
     "malay": "Fungsi belum terbuka, sila tunggu!"
+  },
+  {
+    "id": "201026",
+    "type": "",
+    "chinese": "VIP不能進入 遊戲",
+    "english": "VIP Cannot enter game!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "201027",
+    "type": "",
+    "chinese": "查找遊戲配置失敗!",
+    "english": "find game config failed！",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "201028",
+    "type": "",
+    "chinese": "遊戲還沒打開",
+    "english": "Game not open yet",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "201029",
+    "type": "",
+    "chinese": "VIP不能進行該操作",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "201030",
+    "type": "",
+    "chinese": "沒打開",
+    "english": "no open!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "202001",
@@ -970,7 +1476,7 @@
   {
     "id": "202015",
     "type": "",
-    "chinese": "复制",
+    "chinese": "複製",
     "english": "Copy",
     "spanish": "Copiar",
     "portuguese": "Copiar",
@@ -981,7 +1487,7 @@
   {
     "id": "202016",
     "type": "",
-    "chinese": "绑定",
+    "chinese": "綁定",
     "english": "Bind",
     "spanish": "Encuadernar",
     "portuguese": "Encadernar",
@@ -1531,7 +2037,7 @@
   {
     "id": "204046",
     "type": "",
-    "chinese": "未输入PIX键",
+    "chinese": "未輸入PIX鍵",
     "english": "PIX key is not entered",
     "spanish": "No se ha introducido la clave PIX",
     "portuguese": "A chave PIX não foi inserida",
@@ -1542,7 +2048,7 @@
   {
     "id": "204047",
     "type": "",
-    "chinese": "PIX键错误，应为11位数字",
+    "chinese": "PIX鍵錯誤，應為11位數字",
     "english": "PIX key is wrong, should be 11 digits",
     "spanish": "La clave PIX es incorrecta, debería tener 11 dígitos",
     "portuguese": "A chave PIX está incorreta, deve ter 11 dígitos",
@@ -1553,7 +2059,7 @@
   {
     "id": "204048",
     "type": "",
-    "chinese": "请输入PIX键",
+    "chinese": "請輸入PIX鍵",
     "english": "Please enter your pixkey",
     "spanish": "Por favor, introduzca su clave PIX",
     "portuguese": "Digite sua chave PIX",
@@ -1564,7 +2070,7 @@
   {
     "id": "204049",
     "type": "",
-    "chinese": "申请成功，请在记录中确认你的兑换进度",
+    "chinese": "申請成功，請在記錄中確認你的兌換進度",
     "english": "Application is successful, please confirm your exchange progress in the record",
     "spanish": "La solicitud se ha realizado correctamente, por favor confirme su progreso de intercambio en el registro",
     "portuguese": "O pedido foi bem-sucedido, confirme o progresso da troca no registro",
@@ -1575,7 +2081,7 @@
   {
     "id": "204050",
     "type": "",
-    "chinese": "订单生成失败，请稍后再试",
+    "chinese": "訂單生成失敗，請稍後再試",
     "english": "Order generation failed, please try again later",
     "spanish": "Error en la generación del pedido, inténtelo más tarde",
     "portuguese": "Falha na geração do pedido, tente novamente mais tarde",
@@ -1586,7 +2092,7 @@
   {
     "id": "204051",
     "type": "",
-    "chinese": "获取渠道配置失败",
+    "chinese": "獲取管道配置失敗",
     "english": "Failed to get channel config",
     "spanish": "No se ha podido obtener la configuración del canal",
     "portuguese": "Falha ao obter a configuração do canal",
@@ -1597,7 +2103,7 @@
   {
     "id": "204052",
     "type": "",
-    "chinese": "支付通道维护中，请选择其它通道",
+    "chinese": "支付通道維護中，請選擇其他通道",
     "english": "Payment chanel maintenance choose another channel",
     "spanish": "Mantenimiento del canal de pago elija otro canal",
     "portuguese": "Manutenção do canal de pagamento, escolha outro canal",
@@ -1608,7 +2114,7 @@
   {
     "id": "204053",
     "type": "",
-    "chinese": "服务器未响应",
+    "chinese": "伺服器未回應",
     "english": "server is not work",
     "spanish": "El servidor no funciona",
     "portuguese": "O servidor não está funcionando",
@@ -1619,7 +2125,7 @@
   {
     "id": "204054",
     "type": "",
-    "chinese": "金额错误无法兑换",
+    "chinese": "金額錯誤無法兌換",
     "english": "Wrong amount cannot be exchanged",
     "spanish": "No se puede intercambiar la cantidad incorrecta",
     "portuguese": "Não é possível trocar a quantia errada",
@@ -1630,7 +2136,7 @@
   {
     "id": "204055",
     "type": "",
-    "chinese": "金额不足无法兑换",
+    "chinese": "金額不足無法兌換",
     "english": "Not enough money to withdraw",
     "spanish": "No hay suficiente dinero para retirar",
     "portuguese": "Não há dinheiro suficiente para sacar",
@@ -1641,7 +2147,7 @@
   {
     "id": "204056",
     "type": "",
-    "chinese": "信息错误，请检查后重试",
+    "chinese": "資訊錯誤，請檢查後重試",
     "english": "Wrong information, please check and try again",
     "spanish": "Información incorrecta, por favor compruebe y vuelva a intentarlo",
     "portuguese": "Informações erradas, verifique e tente novamente",
@@ -1652,13 +2158,46 @@
   {
     "id": "204057",
     "type": "",
-    "chinese": "没有可用的兑换通道",
+    "chinese": "沒有可用的兌換通道",
     "english": "not find enable withdrawal channel",
     "spanish": "no se encuentra habilitado el canal de retirada",
     "portuguese": "Não foi possível encontrar o canal de saque habilitado",
     "french": "Impossible de trouver le canal de retrait",
     "indonesian": "tidak menemukan saluran penarikan yang diaktifkan",
     "malay": "tidak menjumpai benarkan saluran tarik"
+  },
+  {
+    "id": "204058",
+    "type": "",
+    "chinese": "如果您無法收到OTP，請耐心等待或使用其他充值管道，如有任何問題請聯繫我們!",
+    "english": "If you cannot receive OTP, Please wait patiently or use other recharge channels Contact us if you have any questions!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "204059",
+    "type": "",
+    "chinese": "支付",
+    "english": "Only Pay",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "204060",
+    "type": "",
+    "chinese": "對不起\\r\\n此支付通道暫時關閉，請點擊上方切換到其他通道。",
+    "english": "Sorry\\r\\nThis payment channel is temporarily closed,please click above to switch to other channels.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "205001",
@@ -1696,7 +2235,7 @@
   {
     "id": "205004",
     "type": "",
-    "chinese": "订单发起失败，请重试",
+    "chinese": "訂單發起失敗，請重試",
     "english": "Order generation failed, please try again later",
     "spanish": "Error en la generación del pedido, inténtelo más tarde",
     "portuguese": "Falha na geração do pedido, tente novamente mais tarde",
@@ -1714,6 +2253,17 @@
     "french": "BRL",
     "indonesian": "BRL",
     "malay": "BRL"
+  },
+  {
+    "id": "205006",
+    "type": "",
+    "chinese": "第一",
+    "english": "FIRST CHARGE",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "206001",
@@ -1850,7 +2400,7 @@
   {
     "id": "206013",
     "type": "",
-    "chinese": "每日一次機會\\n獲得<color=#FDFF54>??????</color>BRL優惠充值\\n額外獲得金幣<color=#A6F0FD>??????</color>\\n點擊轉動查看獎勵！",
+    "chinese": "每日一次機會\\n獲得<color=#FDFF54>??????</color>BRL優惠充值\\n額外獲得金幣<color=#A6F0FD>??????</color>\\n點擊轉動查看獎勵！206013",
     "english": "One chance per day \\n Get <color=#FDFF54>??????</color>BRL to rechange \\nGetbonus<color=#A6F0FD>??????</color>\\nClick spin! to see your bouns",
     "spanish": "Una oportunidad al día \\nConsigue <color=#FDFF54>??????</color>BRL para cambiar \\nConsigue un bono<color=#A6F0FD>??????</color>\\n¡Haz clic en girar! para ver tus botes",
     "portuguese": "Uma chance por dia \\nObtenha <color=#FDFF54>??????</color>BRL para trocar \\nObtenha bônus<color=#A6F0FD>??????</color>\\nClique em girar! para ver seus ganhos",
@@ -1884,7 +2434,7 @@
     "id": "206016",
     "type": "",
     "chinese": "額外獲得",
-    "english": "Extra+",
+    "english": "Extra",
     "spanish": "Extra+",
     "portuguese": "Extra+",
     "french": "Extra+",
@@ -1917,7 +2467,7 @@
     "id": "207003",
     "type": "",
     "chinese": "埃及大冒險",
-    "english": "Egypt Treasure",
+    "english": "Egypt\\r\\nTreasure",
     "spanish": "Tesoro de Egipto",
     "portuguese": "Tesouro do Egito",
     "french": "Trésor d'Egypte",
@@ -1972,7 +2522,7 @@
     "id": "207008",
     "type": "",
     "chinese": "月光寶盒",
-    "english": "Moonlight Box",
+    "english": "moonlight\\r\\nbox",
     "spanish": "Caja de luz de luna",
     "portuguese": "Caixa do luar",
     "french": "Boîte à lumière",
@@ -2027,7 +2577,7 @@
     "id": "207013",
     "type": "",
     "chinese": "多福多壽",
-    "english": "duofuduoshou",
+    "english": "DUOFU\\r\\nDUOSHOU",
     "spanish": "duofuduoshou",
     "portuguese": "duofuduoshou",
     "french": "duofuduoshou",
@@ -2049,7 +2599,7 @@
     "id": "207015",
     "type": "",
     "chinese": "水果777",
-    "english": "Fruit slot 777",
+    "english": "FRUIT\\r\\nLSOT 777",
     "spanish": "Tragaperras 777",
     "portuguese": "Caça-níqueis de frutas 777",
     "french": "Fente à fruits 777",
@@ -2060,7 +2610,7 @@
     "id": "207016",
     "type": "",
     "chinese": "龍珠探寶",
-    "english": "Dragon Legend",
+    "english": "DRAGON\\r\\nLEGEND",
     "spanish": "Leyenda del Dragón",
     "portuguese": "Lenda do Dragão",
     "french": "Légende du dragon",
@@ -2191,7 +2741,7 @@
   {
     "id": "207028",
     "type": "",
-    "chinese": "抢庄牛牛",
+    "chinese": "搶莊牛牛",
     "english": "bull rush",
     "spanish": "bull rush",
     "portuguese": "bull rush",
@@ -2202,7 +2752,7 @@
   {
     "id": "207029",
     "type": "",
-    "chinese": "万炮捕鱼",
+    "chinese": "萬炮捕魚",
     "english": "Deep Sea Fishing",
     "spanish": "Pesca en alta mar",
     "portuguese": "Pesca em alto mar",
@@ -2213,7 +2763,7 @@
   {
     "id": "207030",
     "type": "",
-    "chinese": "功夫熊猫",
+    "chinese": "功夫熊貓",
     "english": "Kung Fu Panda",
     "spanish": "Kung Fu Panda",
     "portuguese": "Kung Fu Panda",
@@ -2224,7 +2774,7 @@
   {
     "id": "207031",
     "type": "",
-    "chinese": "纸牌老虎机",
+    "chinese": "紙牌老虎機",
     "english": "Poker Slots",
     "spanish": "Tragaperras de póquer",
     "portuguese": "Caça-níqueis de pôquer",
@@ -2235,7 +2785,7 @@
   {
     "id": "207032",
     "type": "",
-    "chinese": "楚河汉界",
+    "chinese": "楚河漢界",
     "english": "chu he han jie",
     "spanish": "chu he han jie",
     "portuguese": "chu he han jie",
@@ -2246,7 +2796,7 @@
   {
     "id": "207033",
     "type": "",
-    "chinese": "水浒传",
+    "chinese": "水滸傳",
     "english": "Water Margin",
     "spanish": "Margen de Agua",
     "portuguese": "Margem de água",
@@ -2257,7 +2807,7 @@
   {
     "id": "207034",
     "type": "",
-    "chinese": "21点",
+    "chinese": "21點",
     "english": "Blackjack",
     "spanish": "Blackjack",
     "portuguese": "Blackjack",
@@ -2268,7 +2818,7 @@
   {
     "id": "207035",
     "type": "",
-    "chinese": "百家乐",
+    "chinese": "百家樂",
     "english": "Baccarat",
     "spanish": "Baccarat",
     "portuguese": "Bacará",
@@ -2279,7 +2829,7 @@
   {
     "id": "207036",
     "type": "",
-    "chinese": "福临门",
+    "chinese": "福臨門",
     "english": "Fulinmen",
     "spanish": "Fulinmen",
     "portuguese": "Fulinmen",
@@ -2290,7 +2840,7 @@
   {
     "id": "207037",
     "type": "",
-    "chinese": "点球大战",
+    "chinese": "點球大戰",
     "english": "Soccer",
     "spanish": "Fútbol",
     "portuguese": "Futebol",
@@ -2301,7 +2851,7 @@
   {
     "id": "207038",
     "type": "",
-    "chinese": "虎啸龙吟",
+    "chinese": "虎嘯龍吟",
     "english": "DragonAndTiger",
     "spanish": "DragonAndTiger",
     "portuguese": "Dragão e Tigre",
@@ -2312,7 +2862,7 @@
   {
     "id": "207039",
     "type": "",
-    "chinese": "战国史记",
+    "chinese": "戰國史記",
     "english": "Warring States",
     "spanish": "Estados en Guerra",
     "portuguese": "Estados em Guerra",
@@ -2334,7 +2884,7 @@
   {
     "id": "207041",
     "type": "",
-    "chinese": "五龙争霸",
+    "chinese": "五龍爭霸",
     "english": "Five Dragons",
     "spanish": "Cinco Dragones",
     "portuguese": "Cinco dragões",
@@ -2345,7 +2895,7 @@
   {
     "id": "207042",
     "type": "",
-    "chinese": "萌宠大作战",
+    "chinese": "萌寵大作戰",
     "english": "Cute Pets",
     "spanish": "Mascotas",
     "portuguese": "Animais de estimação fofos",
@@ -2356,7 +2906,7 @@
   {
     "id": "207043",
     "type": "",
-    "chinese": "幸运水果机",
+    "chinese": "幸運水果機",
     "english": "Lucky Fruit",
     "spanish": "Fruta de la suerte",
     "portuguese": "Fruta da Sorte",
@@ -2378,7 +2928,7 @@
   {
     "id": "207045",
     "type": "",
-    "chinese": "上海滩",
+    "chinese": "上海灘",
     "english": "Mafia",
     "spanish": "Mafia",
     "portuguese": "Máfia",
@@ -2400,7 +2950,7 @@
   {
     "id": "207047",
     "type": "",
-    "chinese": "街机赛马",
+    "chinese": "街機賽馬",
     "english": "Arcade Racing",
     "spanish": "Carreras Arcade",
     "portuguese": "Corrida Arcade",
@@ -2433,7 +2983,7 @@
   {
     "id": "207050",
     "type": "",
-    "chinese": "街头劲舞",
+    "chinese": "街頭勁舞",
     "english": "Street Dance",
     "spanish": "Baile en la calle",
     "portuguese": "Dança de rua",
@@ -2444,7 +2994,7 @@
   {
     "id": "207054",
     "type": "",
-    "chinese": "你的金币不足，请充值",
+    "chinese": "你的金幣不足，請充值",
     "english": "Your gold coins are insufficient, please recharge",
     "spanish": "Tus monedas de oro son insuficientes, por favor recarga",
     "portuguese": "Suas moedas de ouro são insuficientes, por favor recarregue",
@@ -2455,7 +3005,7 @@
   {
     "id": "207055",
     "type": "",
-    "chinese": "游戏未开启",
+    "chinese": "遊戲未開啟",
     "english": "the game is not open",
     "spanish": "el juego no está abierto",
     "portuguese": "O jogo não está aberto",
@@ -2466,7 +3016,7 @@
   {
     "id": "207056",
     "type": "",
-    "chinese": "你有未完成的游戏",
+    "chinese": "你有未完成的遊戲",
     "english": "You still have the game not over!",
     "spanish": "¡Usted todavía tiene el juego no ha terminado!",
     "portuguese": "O jogo ainda não acabou!",
@@ -2873,7 +3423,7 @@
   {
     "id": "209035",
     "type": "",
-    "chinese": "绑定成功",
+    "chinese": "綁定成功",
     "english": "Bind Success",
     "spanish": "Éxito del enlace",
     "portuguese": "Sucesso na vinculação",
@@ -2884,7 +3434,7 @@
   {
     "id": "209036",
     "type": "",
-    "chinese": "邀请码错误",
+    "chinese": "邀請碼錯誤",
     "english": "Code is incorrect",
     "spanish": "El código es incorrecto",
     "portuguese": "O código está incorreto",
@@ -2895,7 +3445,7 @@
   {
     "id": "209037",
     "type": "",
-    "chinese": "邀请码已绑定",
+    "chinese": "邀請碼已綁定",
     "english": "Bind Failed,The code is already Binded",
     "spanish": "Error de vinculación, el código ya está vinculado",
     "portuguese": "Bind Failed (Falha na vinculação), o código já está vinculado",
@@ -2906,7 +3456,7 @@
   {
     "id": "209038",
     "type": "",
-    "chinese": "请先绑定手机",
+    "chinese": "請先綁定手機",
     "english": "You are not bound  phone",
     "spanish": "No está vinculado teléfono",
     "portuguese": "Você não está vinculado telefone",
@@ -2917,7 +3467,7 @@
   {
     "id": "209039",
     "type": "",
-    "chinese": "邀请人未绑定手机",
+    "chinese": "邀請人未綁定手機",
     "english": "The inviter is not bound phone",
     "spanish": "La persona que invita no tiene teléfono vinculado",
     "portuguese": "O autor do convite não está vinculado ao telefone",
@@ -2928,7 +3478,7 @@
   {
     "id": "209040",
     "type": "",
-    "chinese": "无法绑定你邀请的用户",
+    "chinese": "無法綁定你邀請的用戶",
     "english": "Can't bind the people you invite",
     "spanish": "No se puede vincular a las personas que invitas",
     "portuguese": "Não é possível vincular as pessoas que você convidou",
@@ -2939,7 +3489,7 @@
   {
     "id": "209041",
     "type": "",
-    "chinese": "图片保存失败",
+    "chinese": "圖片保存失敗",
     "english": "Image Save Failed",
     "spanish": "Error al guardar la imagen",
     "portuguese": "Image Save Failed (Falha ao salvar a imagem)",
@@ -2950,7 +3500,7 @@
   {
     "id": "209042",
     "type": "",
-    "chinese": "邀请码保存失败",
+    "chinese": "邀請碼保存失敗",
     "english": "Code Save Failed",
     "spanish": "Error al guardar el código",
     "portuguese": "Falha no salvamento do código",
@@ -2961,7 +3511,7 @@
   {
     "id": "209043",
     "type": "",
-    "chinese": "邀请码已保存",
+    "chinese": "邀請碼已保存",
     "english": "Code Saved",
     "spanish": "Código guardado",
     "portuguese": "Código salvo",
@@ -2972,7 +3522,7 @@
   {
     "id": "209044",
     "type": "",
-    "chinese": "连接保存失败",
+    "chinese": "連接保存失敗",
     "english": "Link Save Failed",
     "spanish": "Enlace Guardar Error",
     "portuguese": "Falha no salvamento do link",
@@ -2983,7 +3533,7 @@
   {
     "id": "209045",
     "type": "",
-    "chinese": "点击链接下载游戏最新版本游玩最新的slots，捕鱼和扑克游戏。你可以通过分享链接绑定邀请码获得3%的返利:{0}",
+    "chinese": "點擊鏈接下載遊戲最新版本遊玩最新的slots，捕魚和撲克遊戲。你可以通過分享鏈接綁定邀請碼獲得3%的返利:{0}",
     "english": "Click on the link to download the latest version of GTgame to play the latest games of slots, fishing and poker. You will get 3% rebate for sharing the link and binding the invitation code:{0}",
     "spanish": "Haz clic en el enlace para descargar la última versión de GTgame para jugar a los últimos juegos de tragaperras, pesca y póquer. Obtendrás un 3% de descuento por compartir el enlace y vincular el código de invitación:{0}",
     "portuguese": "Clique no link para baixar a versão mais recente do GTgame e jogar os últimos jogos de caça-níqueis, pesca e pôquer. Você receberá um desconto de 3% por compartilhar o link e vincular o código de convite:{0}",
@@ -3038,7 +3588,7 @@
   {
     "id": "210005",
     "type": "",
-    "chinese": "请等待",
+    "chinese": "請等待",
     "english": "wait…",
     "spanish": "Espera...",
     "portuguese": "esperar...",
@@ -3236,7 +3786,7 @@
   {
     "id": "212009",
     "type": "",
-    "chinese": "图片保存失败",
+    "chinese": "圖片保存失敗",
     "english": "Image Save Failed",
     "spanish": "Imagen Guardada Fallida",
     "portuguese": "Falha ao salvar a imagem",
@@ -3247,7 +3797,7 @@
   {
     "id": "212010",
     "type": "",
-    "chinese": "复制成功",
+    "chinese": "複製成功",
     "english": "Copy success",
     "spanish": "Copiar con éxito",
     "portuguese": "Sucesso na cópia",
@@ -3786,7 +4336,7 @@
   {
     "id": "214023",
     "type": "",
-    "chinese": "领取全部",
+    "chinese": "領取全部",
     "english": "Collect All",
     "spanish": "Recoger todo",
     "portuguese": "Coletar tudo",
@@ -3841,8 +4391,8 @@
   {
     "id": "215004",
     "type": "",
-    "chinese": "綁定手機獲得<size=50>{0}金幣",
-    "english": "Get <size=50>{0}gold by binding your phone now",
+    "chinese": "綁定手機獲得<color=#E55306>{0}</color>",
+    "english": "Get <color=#E55306>{0}</color> gold by binding your phone now",
     "spanish": "Consigue <size=50>{0}oro vinculando tu teléfono ahora",
     "portuguese": "Obtenha <size=50>{0}gold vinculando seu telefone agora",
     "french": "Obtenez <size=50>{0}de l'or en liant votre téléphone maintenant",
@@ -3885,7 +4435,7 @@
   {
     "id": "215008",
     "type": "",
-    "chinese": "输入你的手机号码",
+    "chinese": "輸入你的手機號碼",
     "english": "Enter your phone number",
     "spanish": "Introduzca su número de teléfono",
     "portuguese": "Digite seu número de telefone",
@@ -3896,7 +4446,7 @@
   {
     "id": "215009",
     "type": "",
-    "chinese": "输入验证码",
+    "chinese": "輸入驗證碼",
     "english": "Enter OTP",
     "spanish": "Introduzca la OTP",
     "portuguese": "Digite a OTP",
@@ -3907,7 +4457,7 @@
   {
     "id": "215010",
     "type": "",
-    "chinese": "验证码",
+    "chinese": "驗證碼",
     "english": "OTP",
     "spanish": "OTP",
     "portuguese": "OTP",
@@ -3918,7 +4468,7 @@
   {
     "id": "215011",
     "type": "",
-    "chinese": "设置密码",
+    "chinese": "設置密碼",
     "english": "Set Password",
     "spanish": "Establecer contraseña",
     "portuguese": "Definir senha",
@@ -3929,7 +4479,7 @@
   {
     "id": "215012",
     "type": "",
-    "chinese": "真实姓名将用于验证支付信息。错误的信息可能导致订单失败，请确认你的信息。",
+    "chinese": "真實姓名將用於驗證支付資訊。錯誤的資訊可能導致訂單失敗，請確認你的資訊。",
     "english": "The\u00A0real\u00A0name\u00A0will\u00A0be\u00A0used\u00A0for\u00A0information\u00A0verification\u00A0of\u00A0payment.\u00A0Wrong\u00A0information\u00A0may\u00A0cause\u00A0the\u00A0order\u00A0to\u00A0fail.\u00A0Please\u00A0confirm\u00A0your\u00A0info.",
     "spanish": "El nombre real se utilizará para la verificación de la información de pago. La información incorrecta puede causar que el pedido falle. Por favor, confirme su información.",
     "portuguese": "O nome real será usado para verificação das informações de pagamento. Informações incorretas podem fazer com que o pedido não seja atendido. Por favor, confirme suas informações.",
@@ -3940,7 +4490,7 @@
   {
     "id": "215013",
     "type": "",
-    "chinese": "提示：如果你无法接收验证码，请",
+    "chinese": "提示：如果你無法接收驗證碼，請",
     "english": "Tips:if you are unable to receive the SMS verification code,please ",
     "spanish": "Consejos:si no puede recibir el código de verificación SMS, por favor ",
     "portuguese": "Dicas: se você não conseguir receber o código de verificação por SMS, entre em ",
@@ -3951,7 +4501,7 @@
   {
     "id": "215014",
     "type": "",
-    "chinese": "联系我们",
+    "chinese": "聯繫我們",
     "english": "CONTACT US",
     "spanish": "CONTÁCTENOS",
     "portuguese": "ENTRE EM CONTATO CONOSCO",
@@ -3962,7 +4512,7 @@
   {
     "id": "215015",
     "type": "",
-    "chinese": "{0}s 后重试",
+    "chinese": "{0}s 後重試",
     "english": "{0}s again",
     "spanish": "{0} s de nuevo",
     "portuguese": "{0} s novamente",
@@ -3973,7 +4523,7 @@
   {
     "id": "215016",
     "type": "",
-    "chinese": "手机号码已绑定",
+    "chinese": "手機號碼已綁定",
     "english": "The phone number has been bound",
     "spanish": "El número de teléfono ha sido vinculado",
     "portuguese": "O número de telefone foi vinculado",
@@ -3984,7 +4534,7 @@
   {
     "id": "215017",
     "type": "",
-    "chinese": "未输入邮箱",
+    "chinese": "未輸入郵箱",
     "english": "E-mail is not entered",
     "spanish": "No se ha introducido el correo electrónico",
     "portuguese": "O e-mail não foi inserido",
@@ -3995,7 +4545,7 @@
   {
     "id": "215018",
     "type": "",
-    "chinese": "验证码错误",
+    "chinese": "驗證碼錯誤",
     "english": "Code input error",
     "spanish": "Error al introducir el código",
     "portuguese": "Erro de entrada de código",
@@ -4006,7 +4556,7 @@
   {
     "id": "215019",
     "type": "",
-    "chinese": "密码错误",
+    "chinese": "密碼錯誤",
     "english": "password input error",
     "spanish": "Error de introducción de contraseña",
     "portuguese": "Erro de entrada de senha",
@@ -4017,7 +4567,7 @@
   {
     "id": "215020",
     "type": "",
-    "chinese": "手机号已被注册",
+    "chinese": "手機號已被註冊",
     "english": "This phone is registered",
     "spanish": "Este teléfono está registrado",
     "portuguese": "Este telefone está registrado",
@@ -4028,7 +4578,7 @@
   {
     "id": "215021",
     "type": "",
-    "chinese": "邀请码错误",
+    "chinese": "邀請碼錯誤",
     "english": "Invitation code error",
     "spanish": "Error de código de invitación",
     "portuguese": "Erro de código de convite",
@@ -4039,7 +4589,7 @@
   {
     "id": "215022",
     "type": "",
-    "chinese": "邀请码已绑定",
+    "chinese": "邀請碼已綁定",
     "english": "Invitation code has been bound",
     "spanish": "Se ha vinculado el código de invitación",
     "portuguese": "O código do convite foi vinculado",
@@ -4050,7 +4600,7 @@
   {
     "id": "215023",
     "type": "",
-    "chinese": "未绑定手机",
+    "chinese": "未綁定手機",
     "english": "Unbound cell phone number",
     "spanish": "Número de teléfono móvil no vinculado",
     "portuguese": "Número de celular não vinculado",
@@ -4061,7 +4611,7 @@
   {
     "id": "215024",
     "type": "",
-    "chinese": "邀请人未绑定手机",
+    "chinese": "邀請人未綁定手機",
     "english": "The user to bind has not bound the phone",
     "spanish": "El usuario a vincular no ha vinculado el teléfono",
     "portuguese": "O usuário a ser vinculado não vinculou o telefone",
@@ -4072,7 +4622,7 @@
   {
     "id": "215025",
     "type": "",
-    "chinese": "无法绑定你邀请的用户",
+    "chinese": "無法綁定你邀請的用戶",
     "english": "Can't bind the person you invited",
     "spanish": "No se puede vincular a la persona invitada",
     "portuguese": "Não é possível vincular a pessoa que você convidou",
@@ -4083,7 +4633,7 @@
   {
     "id": "215026",
     "type": "",
-    "chinese": "手机绑定成功",
+    "chinese": "手機綁定成功",
     "english": "cell phone number binding success",
     "spanish": "Número de móvil vinculado correctamente",
     "portuguese": "Sucesso na vinculação do número de celular",
@@ -4183,7 +4733,7 @@
     "id": "301008",
     "type": "",
     "chinese": "免費遊戲",
-    "english": "free",
+    "english": "Free",
     "spanish": "Juego libre",
     "portuguese": "Jogo grátis",
     "french": "Jeu gratuit",
@@ -4237,7 +4787,7 @@
   {
     "id": "301013",
     "type": "",
-    "chinese": "下注失败",
+    "chinese": "下注失敗",
     "english": "Fail to bet",
     "spanish": "Apuesta fallida",
     "portuguese": "Falha na aposta",
@@ -4248,7 +4798,7 @@
   {
     "id": "301014",
     "type": "",
-    "chinese": "单线金币不正确",
+    "chinese": "單線金幣不正確",
     "english": "Single bet is incorrect",
     "spanish": "Apuesta única incorrecta",
     "portuguese": "A aposta única está incorreta",
@@ -4259,7 +4809,7 @@
   {
     "id": "301015",
     "type": "",
-    "chinese": "超过下注范围",
+    "chinese": "超過下注範圍",
     "english": "Over the betting range",
     "spanish": "Por encima del rango de apuesta",
     "portuguese": "Acima do intervalo de apostas",
@@ -4270,7 +4820,7 @@
   {
     "id": "301016",
     "type": "",
-    "chinese": "长按自动",
+    "chinese": "長按自動",
     "english": "Long press auto",
     "spanish": "Pulsación larga automática",
     "portuguese": "Pressione longamente o botão automático",
@@ -4281,7 +4831,7 @@
   {
     "id": "301017",
     "type": "",
-    "chinese": "由于您金币数不足，将自动返回到大厅",
+    "chinese": "由於您金幣數不足，將自動返回到大廳",
     "english": "Because your coin count is insufficient, you will be returned to the lobby",
     "spanish": "Debido a que su recuento de monedas es insuficiente, será devuelto al vestíbulo",
     "portuguese": "Como sua contagem de moedas é insuficiente, você voltará ao lobby",
@@ -4292,7 +4842,7 @@
   {
     "id": "301018",
     "type": "",
-    "chinese": "您的金币数不够，无法进入房间",
+    "chinese": "您的金幣數不夠，無法進入房間",
     "english": "You do not have enough gold coins to enter the room",
     "spanish": "No tiene suficientes monedas de oro para entrar en la sala",
     "portuguese": "Você não tem moedas de ouro suficientes para entrar na sala",
@@ -4314,7 +4864,7 @@
   {
     "id": "301020",
     "type": "",
-    "chinese": "下一页",
+    "chinese": "下一頁",
     "english": "Next",
     "spanish": "Siguiente",
     "portuguese": "Próximo",
@@ -4325,7 +4875,7 @@
   {
     "id": "301021",
     "type": "",
-    "chinese": "",
+    "chinese": "YES",
     "english": "YES",
     "spanish": "SÍ",
     "portuguese": "SIM",
@@ -4336,13 +4886,35 @@
   {
     "id": "301022",
     "type": "",
-    "chinese": "",
+    "chinese": "NO",
     "english": "NO",
     "spanish": "NO",
     "portuguese": "NÃO",
     "french": "NON",
     "indonesian": "TIDAK",
     "malay": "NO"
+  },
+  {
+    "id": "301023",
+    "type": "",
+    "chinese": "免費旋轉",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "301024",
+    "type": "",
+    "chinese": "複製成功",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "328001",
@@ -4378,6 +4950,28 @@
     "malay": "6 atau lebih muncul untuk memasuki permainan mini "
   },
   {
+    "id": "328004",
+    "type": "",
+    "chinese": "規則328004",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "328005",
+    "type": "",
+    "chinese": "規則328005",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
     "id": "357001",
     "type": "",
     "chinese": "在3，4，5列生效\n可代替特殊以外的圖示",
@@ -4391,8 +4985,8 @@
   {
     "id": "357002",
     "type": "",
-    "chinese": "出現3個獲得15次免費遊戲\n出現4個獲得20次免費遊戲\n出現5個獲得25次免費遊戲",
-    "english": "3 show up to get 15 free games\n4 show up to get 20 free games\n5 show up to get 25 free games",
+    "chinese": "出現3個獲得15次免費遊戲\n",
+    "english": "3 show up to get 15 free games",
     "spanish": "3 aparecen para conseguir 15 partidas gratis\n4 aparecen para conseguir 20 partidas gratis\n5 aparecen para conseguir 25 partidas gratis",
     "portuguese": "3 aparecem para ganhar 15 jogos grátis\n4 aparecem para ganhar 20 jogos grátis\n5 aparecem para obter 25 jogos grátis",
     "french": "3 se présenter pour obtenir 15 parties gratuites\n4 se présenter pour obtenir 20 parties gratuites\n5 se présenter pour obtenir 25 parties gratuites",
@@ -4402,7 +4996,7 @@
   {
     "id": "357003",
     "type": "",
-    "chinese": "单次免费旋转期间，玩家如果连续中奖，那么玩家将会在下一回合获得越来越多的倍数奖励。1连x2；2连x3；3连x4；4连x5；5连x10",
+    "chinese": "單次免費旋轉期間，玩家如果連續中獎，那麼玩家將會在下一回合獲得越來越多的倍數獎勵。1連x2；2連x3；3連x4；4連x5；5連x10",
     "english": "During a single free spin, players who win continuously will be rewarded with more and more multipliers in the next round. 1 combo x2; 2 combo x3; 3 combo x4; 4 combo x5; 5 combo x10",
     "spanish": "Durante una sola tirada gratis, los jugadores que ganen continuamente serán recompensados con más y más multiplicadores en la siguiente ronda. 1 combo x2; 2 combo x3; 3 combo x4; 4 combo x5; 5 combo x10",
     "portuguese": "Durante uma única rodada grátis, os jogadores que ganharem continuamente serão recompensados com mais e mais multiplicadores na próxima rodada. 1 combo x2; 2 combo x3; 3 combo x4; 4 combo x5; 5 combo x10",
@@ -4413,7 +5007,7 @@
   {
     "id": "357004",
     "type": "",
-    "chinese": "<color=#14609A>元素从左到右出现在连续的3列可获得奖励</color>\n<color=yellow>奖金 = (总下注 ÷50） × 元素倍数</color>",
+    "chinese": "<color=#14609A>元素從左到右出現在連續的3列可獲得獎勵</color>\n<color=yellow>獎金 = (總下注 ÷50） × 元素倍數</color>",
     "english": "<color=#14609A>Elements appear in 3 or more consecutive lines from left to right to win a prize</color>\n<color=yellow>Win Amount = (Total Bet ÷50） × Element Odds</color>",
     "spanish": "<color=#14609A>Los elementos aparecen en 3 o más líneas consecutivas de izquierda a derecha para ganar un premio</color>\n<color=yellow>Cantidad ganada = (Apuesta total ÷50） × Probabilidades del elemento</color>",
     "portuguese": "<color=#14609A>Os elementos aparecem em 3 ou mais linhas consecutivas da esquerda para a direita para ganhar um prêmio</color>\n<color=yellow>Valor do prêmio = (Aposta total ÷50） × Probabilidade do elemento</color>",
@@ -4424,13 +5018,57 @@
   {
     "id": "357005",
     "type": "",
-    "chinese": "玩家开始游戏后，运动员将随机撞击2,3,4其中一列，将该整列变为万能符号，SMASHING WILD中不再触发ROLLING REELS",
+    "chinese": "玩家開始遊戲後，運動員將隨機撞擊2,3,4其中一列，將該整列變為萬能符號，SMASHING WILD中不再觸發ROLLING REELS",
     "english": "After the player starts the game, the player will randomly hit one of the columns 2,3,4, turning the whole column into a universal symbol, and ROLLING REELS will no longer be triggered in SMASHING WILD",
     "spanish": "Después de que el jugador inicie el juego, el jugador golpeará aleatoriamente una de las columnas 2,3,4, convirtiendo toda la columna en un símbolo universal, y ROLLING REELS ya no se activará en SMASHING WILD",
     "portuguese": "Depois que o jogador iniciar o jogo, ele acertará aleatoriamente uma das colunas 2,3,4, transformando a coluna inteira em um símbolo universal, e o ROLLING REELS não será mais acionado no SMASHING WILD.",
     "french": "Après avoir commencé le jeu, le joueur frappera au hasard l'une des colonnes 2,3,4, transformant la colonne entière en symbole universel, et les ROLLING REELS ne seront plus déclenchés dans SMASHING WILD.",
     "indonesian": "Setelah pemain memulai permainan, pemain akan secara acak menekan salah satu kolom 2,3,4, mengubah seluruh kolom menjadi simbol universal, dan ROLLING REELS tidak akan lagi dipicu di SMASHING WILD",
     "malay": "Selepas pemain memulakan permainan, pemain akan secara rawak memukul salah satu lajur 2,3,4, mengubah seluruh lajur menjadi simbol universal, dan ROLLING REELS tidak lagi akan dipicu dalam SMASHING WILD"
+  },
+  {
+    "id": "357006",
+    "type": "",
+    "chinese": "出現4個獲得20次免費遊戲",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "357007",
+    "type": "",
+    "chinese": "出現5個獲得25次免費遊戲",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "357008",
+    "type": "",
+    "chinese": "跟蹤",
+    "english": "Times Track",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "357009",
+    "type": "",
+    "chinese": "免費旋轉",
+    "english": "Free Spin",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "332001",
@@ -4468,7 +5106,7 @@
   {
     "id": "332004",
     "type": "",
-    "chinese": "恭喜获得射门机会！",
+    "chinese": "恭喜獲得射門機會！",
     "english": "Cheer up!Get a Penalty Shot!",
     "spanish": "¡Anímate! ¡Consigue un Penalti!",
     "portuguese": "Anime-se! Ganhe um chute de pênalti!",
@@ -4479,7 +5117,7 @@
   {
     "id": "332005",
     "type": "",
-    "chinese": "免费奖励翻倍",
+    "chinese": "免費獎勵翻倍",
     "english": "Double the free bonus",
     "spanish": "Duplica la bonificación gratuita",
     "portuguese": "Dobre o bônus grátis",
@@ -4490,7 +5128,7 @@
   {
     "id": "332006",
     "type": "",
-    "chinese": "未进球",
+    "chinese": "未進球",
     "english": "MISSING",
     "spanish": "FALTA",
     "portuguese": "ERRADO",
@@ -4501,7 +5139,7 @@
   {
     "id": "332007",
     "type": "",
-    "chinese": "遗憾",
+    "chinese": "遺憾",
     "english": "pity",
     "spanish": "lástima",
     "portuguese": "pena",
@@ -4512,7 +5150,7 @@
   {
     "id": "332008",
     "type": "",
-    "chinese": "免费模式{0}次",
+    "chinese": "免費模式{0}次",
     "english": "Free Mode   {0}  times",
     "spanish": "Modo Libre {0} veces",
     "portuguese": "Modo Livre {0} vezes",
@@ -4523,7 +5161,7 @@
   {
     "id": "332009",
     "type": "",
-    "chinese": "点击按钮开始射门",
+    "chinese": "點擊按鈕開始射門",
     "english": "Click the button to start shooting",
     "spanish": "Pulsa el botón para empezar a disparar",
     "portuguese": "Clique no botão para começar a fotografar",
@@ -4563,6 +5201,28 @@
     "french": "3 ou plus apparaissent et se connectent pour obtenir un bonus de jackpot",
     "indonesian": "Muncul 3 atau lebih dan hubungkan untuk mendapatkan bonus jackpot",
     "malay": "3 atau lebih muncul dan berhubung untuk mendapatkan bonus terkumpul \nBonus \n"
+  },
+  {
+    "id": "321004",
+    "type": "",
+    "chinese": "你贏的",
+    "english": "Great！You Won Gold",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "321005",
+    "type": "",
+    "chinese": "免費遊戲中贏得",
+    "english": "You Won in Free Game",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "358001",
@@ -4611,7 +5271,7 @@
   {
     "id": "349003",
     "type": "",
-    "chinese": "进入迷你游戏后，当转动出现武士时，当前转动出的怪物会根据种类移动到斩杀路线上，同时增加斩杀奖金。每个武士图标会触发一次斩杀。武士将怪物全部斩杀或怪物数量过多会停止游戏，进行奖励结算。",
+    "chinese": "進入迷你遊戲後，當轉動出現武士時，當前轉動出的怪物會根據種類移動到斬殺路線上，同時增加斬殺獎金。每個武士圖示會觸發一次斬殺。武士將怪物全部斬殺或怪物數量過多會停止遊戲，進行獎勵結算。",
     "english": "Upon entering the minigame, when a samurai appears by rotation, the monsters currently rotating out will move to the decapitation route depending on the type, while increasing the decapitation bonus. Each Samurai icon will trigger one decapitation. Samurai will kill all monsters or too many monsters will stop the game for bonus settlement.",
     "spanish": "Al entrar en el minijuego, cuando aparezca un samurái por rotación, los monstruos que estén rotando en ese momento pasarán a la ruta de decapitación dependiendo del tipo, a la vez que aumentará la bonificación por decapitación. Cada icono de samurái desencadenará una decapitación. Samurai matará a todos los monstruos o demasiados monstruos detendrá el juego para la liquidación de bonificación.",
     "portuguese": "Ao entrar no minijogo, quando um samurai aparecer por rotação, os monstros que estiverem saindo da rotação passarão para a rota de decapitação, dependendo do tipo, aumentando o bônus de decapitação. Cada ícone de samurai acionará uma decapitação. O samurai matará todos os monstros ou um número excessivo de monstros interromperá o jogo para a liquidação do bônus.",
@@ -4655,7 +5315,7 @@
   {
     "id": "354004",
     "type": "",
-    "chinese": "1、3、5线同时出现，触发埃及商会寻宝游戏。\n你将踏上埃及厅的旅程。掷骰子发现隐藏在每个区域的奖励！",
+    "chinese": "1、3、5線同時出現，觸發埃及商會尋寶遊戲。\n你將踏上埃及廳的旅程。擲骰子發現隱藏在每個區域的獎勵！",
     "english": "1,3,5 lines show up at the same time to trigger the Egyptian Chamber Scavenger Hunt.\nYou will go on a journey to the Egyptian Chamber.Roll the dice to discover the rewards which hidden in each area.",
     "spanish": "1,3,5 líneas aparecen al mismo tiempo para desencadenar la Búsqueda del tesoro de la Cámara Egipcia.\nEmprenderás un viaje a la Cámara Egipcia.Tira los dados para descubrir las recompensas que se esconden en cada zona.",
     "portuguese": "1,3,5 linhas aparecem ao mesmo tempo para acionar a Caça ao Tesouro da Câmara Egípcia.\nVocê fará uma viagem à Câmara Egípcia e lançará os dados para descobrir as recompensas que estão escondidas em cada área.",
@@ -4666,7 +5326,7 @@
   {
     "id": "354005",
     "type": "",
-    "chinese": "在最大机会游戏中获得比一般埃及大冒险游戏更多的奖励！选择三个宝箱抓紧赢大奖的机会！",
+    "chinese": "在最大機會遊戲中獲得比一般埃及大冒險遊戲更多的獎勵！選擇三個寶箱抓緊贏大獎的機會！",
     "english": "Get more rewards than the average Egyptian adventure game in Max Chance!Choose three treasure chests to grab your chance to win!",
     "spanish": "Consigue más recompensas que en cualquier juego de aventuras egipcio en Max Chance¡Elige tres cofres del tesoro para tener la oportunidad de ganar!",
     "portuguese": "Obtenha mais recompensas do que a média dos jogos de aventura egípcios no Max Chance! Escolha três baús de tesouro para ter a sua chance de ganhar!",
@@ -4688,7 +5348,7 @@
   {
     "id": "354007",
     "type": "",
-    "chinese": "长按自动",
+    "chinese": "長按自動",
     "english": "Hold to Auto Spin",
     "spanish": "Hold to Auto Spin",
     "portuguese": "Manter para Giro Automático",
@@ -4710,7 +5370,7 @@
   {
     "id": "354009",
     "type": "",
-    "chinese": "设置",
+    "chinese": "設置",
     "english": "Setting",
     "spanish": "Configurar",
     "portuguese": "Configuração",
@@ -4721,7 +5381,7 @@
   {
     "id": "354010",
     "type": "",
-    "chinese": "提示：点击快速收分",
+    "chinese": "提示：點擊快速收分",
     "english": "tips:Click to receive coins fast",
     "spanish": "Consejos:Haz clic para recibir monedas rápidamente",
     "portuguese": "dicas:Clique para receber moedas rapidamente",
@@ -4765,7 +5425,7 @@
   {
     "id": "341004",
     "type": "",
-    "chinese": "总赢得",
+    "chinese": "總贏得",
     "english": "WIN",
     "spanish": "WIN",
     "portuguese": "WIN",
@@ -4787,13 +5447,24 @@
   {
     "id": "341006",
     "type": "",
-    "chinese": "下一页",
+    "chinese": "下一頁",
     "english": "next",
     "spanish": "siguiente",
     "portuguese": "próximo",
     "french": "suivant",
     "indonesian": "berikutnya",
     "malay": "berikutnya"
+  },
+  {
+    "id": "341007",
+    "type": "",
+    "chinese": "恭喜獲得免費5次",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "339001",
@@ -4816,6 +5487,50 @@
     "french": "5 Le lien déclenche le paiement du jackpot\n5 400x\n4 200x\n3 100x",
     "indonesian": "5 Tautan memicu pembayaran jackpot\n5 400x\n4 200x\n3 100x",
     "malay": "5 pautan mencetuskan pembayaran jackpot \n5 400x \n4 200x \n3 100x \n"
+  },
+  {
+    "id": "339003",
+    "type": "",
+    "chinese": "收集到足夠的金幣",
+    "english": "You collected enough gold",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "339004",
+    "type": "",
+    "chinese": "回收總金幣",
+    "english": "Total gold recovered",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "339005",
+    "type": "",
+    "chinese": "免費淘金熱",
+    "english": "Free Gold Rush",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "339006",
+    "type": "",
+    "chinese": "祝你好運",
+    "english": "Good Luck",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "359001",
@@ -4842,7 +5557,7 @@
   {
     "id": "359003",
     "type": "",
-    "chinese": "跳过",
+    "chinese": "跳過",
     "english": "SKIN",
     "spanish": "SALTAR",
     "portuguese": "PULAR",
@@ -4853,7 +5568,7 @@
   {
     "id": "359004",
     "type": "",
-    "chinese": "确认离开游戏？",
+    "chinese": "確認離開遊戲？",
     "english": "Confirm exit from the game?",
     "spanish": "¿Confirmar salida del juego?",
     "portuguese": "Confirmar a saída do jogo?",
@@ -4864,7 +5579,7 @@
   {
     "id": "359005",
     "type": "",
-    "chinese": "离开",
+    "chinese": "離開",
     "english": "LEFT",
     "spanish": "IZQUIERDA",
     "portuguese": "ESQUERDA",
@@ -4886,7 +5601,7 @@
   {
     "id": "359007",
     "type": "",
-    "chinese": "游戏规则",
+    "chinese": "遊戲規則",
     "english": "Game Rules",
     "spanish": "Reglas del juego",
     "portuguese": "Regras do jogo",
@@ -4897,7 +5612,7 @@
   {
     "id": "359008",
     "type": "",
-    "chinese": "特殊模式中无法离开游戏",
+    "chinese": "特殊模式中無法離開遊戲",
     "english": "Cannot leave the game in special mode",
     "spanish": "No se puede salir del juego en modo especial",
     "portuguese": "Não é possível sair do jogo no modo especial",
@@ -4974,7 +5689,7 @@
   {
     "id": "361007",
     "type": "",
-    "chinese": "偷窥",
+    "chinese": "偷窺",
     "english": "PEEKING  ",
     "spanish": "PEEKING  ",
     "portuguese": "PEEKING  ",
@@ -4985,7 +5700,7 @@
   {
     "id": "361008",
     "type": "",
-    "chinese": "游戏规则",
+    "chinese": "遊戲規則",
     "english": "Game Rules",
     "spanish": "Reglas del juego",
     "portuguese": "Regras do jogo",
@@ -4996,13 +5711,79 @@
   {
     "id": "361009",
     "type": "",
-    "chinese": "关闭",
+    "chinese": "關閉",
     "english": "Close",
     "spanish": "Cerrar",
     "portuguese": "Fechar",
     "french": "Fermer",
     "indonesian": "Tutup",
     "malay": "Tutup"
+  },
+  {
+    "id": "361010",
+    "type": "",
+    "chinese": "免費模式",
+    "english": "Free game mode",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "361011",
+    "type": "",
+    "chinese": "性感女生繁殖百搭",
+    "english": "Hot Schoolgirl Multiplier WILD",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "361012",
+    "type": "",
+    "chinese": "波霸擴散百搭",
+    "english": "Boba Staff Diffusion WILD",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "361013",
+    "type": "",
+    "chinese": "護士流動百搭",
+    "english": "Flirtatious Nurse Floating WILD",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "361014",
+    "type": "",
+    "chinese": "女警混合百搭",
+    "english": "Cold Pollce Woman Fixed WILD",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "361015",
+    "type": "",
+    "chinese": "這裏有四種免費類型來遊玩",
+    "english": "There ar 4 types of free games to play",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "327001",
@@ -5073,7 +5854,7 @@
   {
     "id": "327007",
     "type": "",
-    "chinese": "该次转动财神被视为3X WILD",
+    "chinese": "該次轉動財神被視為3X WILD",
     "english": "That spin is considered 3X WILD",
     "spanish": "Esa tirada se considera 3X WILD",
     "portuguese": "Essa rodada é considerada 3X WILD",
@@ -5084,13 +5865,35 @@
   {
     "id": "327008",
     "type": "",
-    "chinese": "该次转动所获得的奖励翻倍，盘中每有一个财神则额外增加一倍",
+    "chinese": "該次轉動所獲得的獎勵翻倍，盤中每有一個財神則額外增加一倍",
     "english": "Double the reward for that spin，1x for each God of Wealth in the tray",
     "spanish": "Duplica la recompensa de esa tirada，1x por cada Dios de la Riqueza en la bandeja",
     "portuguese": "Dobrar a recompensa para essa rodada: 1X para cada Deus da Riqueza na bandeja",
     "french": "Doublez la récompense pour ce tour，1x pour chaque dieu de la richesse dans le plateau",
     "indonesian": "Gandakan hadiah untuk putaran itu, 1x untuk setiap Dewa Kekayaan di baki",
     "malay": "Dua kali ganda balasan untuk pusingan yang satu kali ganda bagi tiap-tiap Tuhan yang kaya di dalam bak"
+  },
+  {
+    "id": "327009",
+    "type": "",
+    "chinese": "福滿堂",
+    "english": "Wealth Full House",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "327010",
+    "type": "",
+    "chinese": "財源滾滾",
+    "english": "Money Rolling in",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "363001",
@@ -5128,7 +5931,7 @@
   {
     "id": "363004",
     "type": "",
-    "chinese": "在任何旋转期间，所有赢奖都将乘以卷轴上方所显示的乘数值，第一轮旋转以x1开始，持续赢奖将按倍数递增至最高x5",
+    "chinese": "在任何旋轉期間，所有贏獎都將乘以卷軸上方所顯示的乘數值，第一輪旋轉以x1開始，持續贏獎將按倍數遞增至最高x5",
     "english": "During any spin, all wins will be multiplied by the multiplier value shown at the top of the reels, with the first spin starting at x1 and continuing wins increasing in multiplier increments up to a maximum of x5",
     "spanish": "Durante cualquier tirada, todas las ganancias se multiplicarán por el valor del multiplicador que aparece en la parte superior de los rodillos. La primera tirada comienza en x1 y las ganancias continuas aumentan en incrementos del multiplicador hasta un máximo de x5.",
     "portuguese": "Durante qualquer giro, todos os ganhos serão multiplicados pelo valor do multiplicador mostrado na parte superior das bobinas, com o primeiro giro começando em x1 e os ganhos contínuos aumentando em incrementos de multiplicador até um máximo de x5",
@@ -5139,7 +5942,7 @@
   {
     "id": "363005",
     "type": "",
-    "chinese": "中奖路奖金按照从最左至右转轴的顺序派发",
+    "chinese": "中獎路獎金按照從最左至右轉軸的順序派發",
     "english": "Winning path prizes are paid out in the order of spinning the reels from the far left to the right",
     "spanish": "Los premios se pagan en el orden de giro de los rodillos, de izquierda a derecha.",
     "portuguese": "Os prêmios do caminho vencedor são pagos na ordem em que as bobinas são giradas, da extrema esquerda para a direita",
@@ -5150,7 +5953,7 @@
   {
     "id": "363006",
     "type": "",
-    "chinese": "中奖路的奖金计算方式是按照从卷轴的最左边到最右边，每个赢奖符号相邻的数目乘以该符号的中奖路数目",
+    "chinese": "中獎路的獎金計算方式是按照從卷軸的最左邊到最右邊，每個贏獎符號相鄰的數目乘以該符號的中獎路數目",
     "english": "The jackpot payout is calculated by multiplying the number of winning icon adjacent to each icon from the far left to the far right of the reels by the number of winning paths for that icon",
     "spanish": "El pago del bote se calcula multiplicando el número de iconos ganadores adyacentes a cada icono desde el extremo izquierdo al extremo derecho de los rodillos por el número de caminos ganadores para ese icono.",
     "portuguese": "O pagamento do jackpot é calculado multiplicando-se o número de ícones vencedores adjacentes a cada ícone, da extrema esquerda para a extrema direita das bobinas, pelo número de caminhos vencedores para aquele ícone.",
@@ -5161,7 +5964,7 @@
   {
     "id": "363007",
     "type": "",
-    "chinese": "当3个夺宝符号出现在卷轴的任意位置时，免费旋转模式奖杯触发并获得10次免费旋转",
+    "chinese": "當3個奪寶符號出現在卷軸的任意位置時，免費旋轉模式獎盃觸發並獲得10次免費旋轉",
     "english": "The free spins mode trophy triggers and 10 free spins are awarded when 3 of the SCATTER signs appear anywhere on the reels",
     "spanish": "El trofeo del modo de tiradas gratuitas se activa y se conceden 10 tiradas gratuitas cuando aparecen 3 signos SCATTER en cualquier lugar de los rodillos.",
     "portuguese": "O troféu do modo de rodadas grátis é acionado e 10 rodadas grátis são concedidas quando 3 dos sinais SCATTER aparecem em qualquer lugar nos cilindros.",
@@ -5172,7 +5975,7 @@
   {
     "id": "363008",
     "type": "",
-    "chinese": "2000种方式的获胜组合",
+    "chinese": "2000種方式的獲勝組合",
     "english": "2000 way winning combination",
     "spanish": "2000 combinaciones ganadoras",
     "portuguese": "Combinação vencedora de 2000 maneiras",
@@ -5183,7 +5986,7 @@
   {
     "id": "363009",
     "type": "",
-    "chinese": "规则",
+    "chinese": "規則",
     "english": "Rules",
     "spanish": "Reglas",
     "portuguese": "Regras",
@@ -5205,7 +6008,7 @@
   {
     "id": "363011",
     "type": "",
-    "chinese": "离开",
+    "chinese": "離開",
     "english": "Exit",
     "spanish": "Salida",
     "portuguese": "Sair",
@@ -5227,7 +6030,7 @@
   {
     "id": "363013",
     "type": "",
-    "chinese": "剩余免费",
+    "chinese": "剩餘免費",
     "english": "Left free",
     "spanish": "Izquierda libre",
     "portuguese": "Esquerda livre",
@@ -5238,7 +6041,7 @@
   {
     "id": "363014",
     "type": "",
-    "chinese": "转动次数",
+    "chinese": "轉動次數",
     "english": "Number of Spin",
     "spanish": "Número de tiradas",
     "portuguese": "Número de giros",
@@ -5249,7 +6052,7 @@
   {
     "id": "363015",
     "type": "",
-    "chinese": "金牌麻将符号在免费旋转中出现",
+    "chinese": "金牌麻將符號在免費旋轉中出現",
     "english": "Golden Mahjong symbols guamnteed to appear in free spins",
     "spanish": "Símbolos Golden Mahjong guamnteados para aparecer en tiradas gratis",
     "portuguese": "Símbolos dourados de Mahjong garantidos para aparecer nas rodadas grátis",
@@ -5260,7 +6063,7 @@
   {
     "id": "363016",
     "type": "",
-    "chinese": "在免费游戏中赢得高达10倍的奖金乘数",
+    "chinese": "在免費遊戲中贏得高達10倍的獎金乘數",
     "english": "Win up to 10x bonus multiplier in free spins",
     "spanish": "Gana hasta 10 veces el multiplicador de bonificación en las tiradas gratuitas",
     "portuguese": "Ganhe até 10x o multiplicador de bônus nas rodadas grátis",
@@ -5271,7 +6074,7 @@
   {
     "id": "363017",
     "type": "",
-    "chinese": "获得免费游戏",
+    "chinese": "獲得免費遊戲",
     "english": "Get free Spin",
     "spanish": "Conseguir tiradas gratuitas",
     "portuguese": "Obter giro grátis",
@@ -5282,7 +6085,7 @@
   {
     "id": "363018",
     "type": "",
-    "chinese": "金色麻将牌覆盖中心卷轴 所有的奖金倍数都将翻倍",
+    "chinese": "金色麻將牌覆蓋中心卷軸 所有的獎金倍數都將翻倍",
     "english": "Gold mahjong sign covers the center scroll All bonus multipliers will be doubled!",
     "spanish": "El símbolo dorado de mahjong cubre el rollo central ¡Todos los multiplicadores de bonificación se duplicarán!",
     "portuguese": "O símbolo de mahjong dourado cobre o rolo central Todos os multiplicadores de bônus serão duplicados!",
@@ -5315,7 +6118,7 @@
   {
     "id": "340003",
     "type": "",
-    "chinese": "免费游戏所有得分，会额外乘上一个奖励倍数。奖励倍数从1倍开始，每1场免费游戏增加1倍，最多50场50倍，每场得分倍数+1。当6个金球时，每场得分倍数+2；当7个金球时，每场得分倍数+3。",
+    "chinese": "免費遊戲所有得分，會額外乘上一個獎勵倍數。獎勵倍數從1倍開始，每1場免費遊戲增加1倍，最多50場50倍，每場得分倍數+1。當6個金球時，每場得分倍數+2；當7個金球時，每場得分倍數+3。",
     "english": "All points scored in free games are multiplied by an additional bonus multiplier. The bonus multiplier starts at 1x and increases by 1x for every 1 free game, up to 50x for 50 games, with +1 multiplier for each score. when 6 golden balls are scored, the multiplier is +2 for each score; when 7 golden balls are scored, the multiplier is +3 for each score.",
     "spanish": "Todos los puntos conseguidos en las partidas gratuitas se multiplican por un multiplicador de bonificación adicional. El multiplicador de bonificación comienza en 1x y aumenta en 1x por cada 1 juego gratis, hasta 50x por 50 juegos, con +1 multiplicador por cada puntuación. cuando se anotan 6 bolas doradas, el multiplicador es +2 por cada puntuación; cuando se anotan 7 bolas doradas, el multiplicador es +3 por cada puntuación.",
     "portuguese": "Todos os pontos marcados em jogos gratuitos são multiplicados por um multiplicador de bônus adicional. O multiplicador de bônus começa em 1x e aumenta em 1x para cada 1 jogo grátis, até 50x para 50 jogos, com +1 multiplicador para cada pontuação. Quando 6 bolas douradas são marcadas, o multiplicador é +2 para cada pontuação; quando 7 bolas douradas são marcadas, o multiplicador é +3 para cada pontuação.",
@@ -5326,7 +6129,7 @@
   {
     "id": "340005",
     "type": "",
-    "chinese": "滚轮上由最左至右连续出现三个以上的相同图标，即可获得该图标的得分奖励！",
+    "chinese": "滾輪上由最左至右連續出現三個以上的相同圖示，即可獲得該圖示的得分獎勵！",
     "english": "Three or more identical icons appearing in succession on the scroll wheel from far left to right will be rewarded with a score for that icon!",
     "spanish": "Tres o más iconos idénticos que aparezcan sucesivamente en la rueda de desplazamiento de izquierda a derecha serán recompensados con una puntuación para ese icono.",
     "portuguese": "Três ou mais ícones idênticos que aparecerem em sucessão na roda de rolagem, da extrema esquerda para a direita, serão recompensados com uma pontuação para esse ícone!",
@@ -5381,7 +6184,7 @@
   {
     "id": "342005",
     "type": "",
-    "chinese": "3个及以上特定图标中奖可触发拼图游戏的碎片收集，收集6个碎片完成拼图后，可以转动转盘获得千万大奖",
+    "chinese": "3個及以上特定圖示中獎可觸發拼圖遊戲的碎片收集，收集6個碎片完成拼圖後，可以轉動轉盤獲得千萬大獎",
     "english": "3 or more specific icons to win the prize can trigger the collection of pieces of the puzzle game, collect 6 pieces to complete the puzzle, you can turn the wheel to get the 10 million prize",
     "spanish": "3 o más iconos específicos para ganar el premio pueden desencadenar la recogida de piezas del juego de puzzle, recoge 6 piezas para completar el puzzle, puedes girar la rueda para conseguir el premio de 10 millones",
     "portuguese": "3 ou mais ícones específicos para ganhar o prêmio podem acionar a coleta de peças do jogo de quebra-cabeça, colete 6 peças para completar o quebra-cabeça, você pode girar a roda para ganhar o prêmio de 10 milhões",
@@ -5392,13 +6195,79 @@
   {
     "id": "342006",
     "type": "",
-    "chinese": "任意出现3个及以上wild可触发2种免费游戏，您可以选择其中一种继续游戏",
+    "chinese": "任意出現3個及以上wild可觸發2種免費遊戲，您可以選擇其中一種繼續遊戲",
     "english": "Any appearance of 3 or more wilds will trigger 2 free games, you can choose one of them to continue the game",
     "spanish": "Cualquier aparición de 3 o más comodines desencadenará 2 juegos gratis, puedes elegir uno de ellos para continuar el juego",
     "portuguese": "Qualquer aparecimento de 3 ou mais wilds acionará 2 jogos grátis, você pode escolher um deles para continuar o jogo.",
     "french": "Toute apparition de 3 wilds ou plus déclenche 2 parties gratuites, vous pouvez choisir l'une d'entre elles pour continuer le jeu.",
     "indonesian": "Setiap kemunculan 3 atau lebih wild akan memicu 2 permainan gratis, Anda dapat memilih salah satunya untuk melanjutkan permainan",
     "malay": "Setiap penampilan 3 atau lebih liar akan memicu 2 permainan percuma, anda boleh pilih salah satu daripada mereka untuk teruskan permainan"
+  },
+  {
+    "id": "342007",
+    "type": "",
+    "chinese": "免費旋轉",
+    "english": "free spins",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "342008",
+    "type": "",
+    "chinese": "從以下選項中選擇",
+    "english": "Select from the following",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "342009",
+    "type": "",
+    "chinese": "紫霞仙子",
+    "english": "Zixia Fairy",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "342010",
+    "type": "",
+    "chinese": "白晶晶",
+    "english": "JingJing Bai",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "342011",
+    "type": "",
+    "chinese": "白晶晶模式5次免費機會",
+    "english": "JingJingBai Mode Get 5 Free Chances",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "342012",
+    "type": "",
+    "chinese": "紫霞模式5次免費機會",
+    "english": "ZiXia Mode Get 5 Free Chances",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "344001",
@@ -5436,7 +6305,7 @@
   {
     "id": "344004",
     "type": "",
-    "chinese": "倍率介绍",
+    "chinese": "倍率介紹",
     "english": "Multiplier Rules",
     "spanish": "Reglas del multiplicador",
     "portuguese": "Regras do multiplicador",
@@ -5447,7 +6316,7 @@
   {
     "id": "344005",
     "type": "",
-    "chinese": "连线介绍",
+    "chinese": "連線介紹",
     "english": "Linking rules",
     "spanish": "Reglas de enlace",
     "portuguese": "Regras de vinculação",
@@ -5458,7 +6327,7 @@
   {
     "id": "344006",
     "type": "",
-    "chinese": "乐高小玛丽",
+    "chinese": "樂高小瑪麗",
     "english": "Lego Little Mary",
     "spanish": "Lego Pequeña María",
     "portuguese": "Lego Little Mary",
@@ -5469,7 +6338,7 @@
   {
     "id": "344007",
     "type": "",
-    "chinese": "所有图形均需在任意一条线按照从左到右的顺序从第一个位置图案连续出现才能获得相应的奖励",
+    "chinese": "所有圖形均需在任意一條線按照從左到右的順序從第一個位置圖案連續出現才能獲得相應的獎勵",
     "english": "All graphics need to appear in any line in order from left to right from the first position pattern in succession to get the corresponding reward",
     "spanish": "Todos los gráficos tienen que aparecer en cualquier línea en orden de izquierda a derecha desde el primer patrón de posición en sucesión para obtener la recompensa correspondiente",
     "portuguese": "Todos os gráficos precisam aparecer em qualquer linha em ordem da esquerda para a direita a partir do padrão da primeira posição em sucessão para obter a recompensa correspondente",
@@ -5480,7 +6349,7 @@
   {
     "id": "344008",
     "type": "",
-    "chinese": "出现5个连续的wild可玩乐高小玛丽3次，4个可玩2次，3个可玩1次。",
+    "chinese": "出現5個連續的wild可玩樂高小瑪麗3次，4個可玩2次，3個可玩1次。",
     "english": "You can play LEGO Little Mary 3 times with 5 consecutive wilds, 2 times with 4, and 1 time with 3.",
     "spanish": "Puede jugar a LEGO Little Mary 3 veces con 5 comodines consecutivos, 2 veces con 4 y 1 vez con 3.",
     "portuguese": "Você pode jogar LEGO Little Mary 3 vezes com 5 wilds consecutivos, 2 vezes com 4 e 1 vez com 3.",
@@ -5502,7 +6371,7 @@
   {
     "id": "344010",
     "type": "",
-    "chinese": "分数",
+    "chinese": "分數",
     "english": "Score",
     "spanish": "Puntuación",
     "portuguese": "Pontuação",
@@ -5513,13 +6382,90 @@
   {
     "id": "344011",
     "type": "",
-    "chinese": "次数",
+    "chinese": "次數",
     "english": "Times",
     "spanish": "Veces",
     "portuguese": "Horários",
     "french": "Temps",
     "indonesian": "Kali",
     "malay": "Masa"
+  },
+  {
+    "id": "344012",
+    "type": "",
+    "chinese": "金幣",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "344013",
+    "type": "",
+    "chinese": "免費結算",
+    "english": "Free Spin Result",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "344014",
+    "type": "",
+    "chinese": "免費時間",
+    "english": "Free Spin times",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "344015",
+    "type": "",
+    "chinese": "恭喜你贏得",
+    "english": "Congratulations on your win",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "344016",
+    "type": "",
+    "chinese": "小瑪利贏得",
+    "english": "Little Mary won",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "344017",
+    "type": "",
+    "chinese": "繼續",
+    "english": "Continue",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "344018",
+    "type": "",
+    "chinese": "當外尾燈號的圖案與中輥的圖案相同時，即可獲得該圖案的頭獎",
+    "english": "When the pattern of the outer tail light number is thesame as the pattern of the middle roller, you can getthe jackpot of the pattern",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "322001",
@@ -5601,7 +6547,7 @@
   {
     "id": "322008",
     "type": "",
-    "chinese": "2列连续的WILD得到15个免费游戏",
+    "chinese": "2列連續的WILD得到15個免費遊戲",
     "english": "2 consecutive columns of WILD get 15 free games",
     "spanish": "2 columnas consecutivas de WILD obtienen 15 juegos gratis",
     "portuguese": "2 colunas consecutivas de WILD dão direito a 15 jogos grátis",
@@ -5612,7 +6558,7 @@
   {
     "id": "322009",
     "type": "",
-    "chinese": "3列连续的WILD得到30个免费游戏",
+    "chinese": "3列連續的WILD得到30個免費遊戲",
     "english": "3 consecutive columns for WILD get 30 free games",
     "spanish": "3 columnas consecutivas de WILD obtienen 30 juegos gratis",
     "portuguese": "3 colunas consecutivas de WILD ganham 30 jogos grátis",
@@ -5623,7 +6569,7 @@
   {
     "id": "322010",
     "type": "",
-    "chinese": "4列连续的WILD获得50个免费游戏",
+    "chinese": "4列連續的WILD獲得50個免費遊戲",
     "english": "4 consecutive columns for WILD get 50 free games",
     "spanish": "4 columnas consecutivas de WILD consiguen 50 juegos gratis",
     "portuguese": "4 colunas consecutivas de WILD ganham 50 jogos grátis",
@@ -5634,7 +6580,7 @@
   {
     "id": "322011",
     "type": "",
-    "chinese": "返回到游戏",
+    "chinese": "返回到遊戲",
     "english": "Back to Games",
     "spanish": "Volver a Juegos",
     "portuguese": "Voltar aos jogos",
@@ -5645,7 +6591,7 @@
   {
     "id": "322012",
     "type": "",
-    "chinese": "<color=red>40X</color> 水果全盘奖",
+    "chinese": "<color=red>40X</color> 水果全盤獎",
     "english": "<color=red>40X</color> Bonus on a Full Hand of Fruit",
     "spanish": "<color=red>40X</color> Bonificación en una mano completa de fruta",
     "portuguese": "<color=red>40X</color> Bônus em uma mão cheia de frutas",
@@ -5656,7 +6602,7 @@
   {
     "id": "322013",
     "type": "",
-    "chinese": "<color=red>300X</color> BAR全盘奖",
+    "chinese": "<color=red>300X</color> BAR全盤獎",
     "english": "<color=red>300X</color> Bonus on a Full Hand of BAR",
     "spanish": "<color=red>300X</color> Bonificación en una mano completa de BARRA",
     "portuguese": "<color=red>300X</color> Bônus em uma mão inteira de BAR",
@@ -5667,7 +6613,7 @@
   {
     "id": "322014",
     "type": "",
-    "chinese": "<color=red>700X</color> 全盘奖<color=red>7</color>奖金",
+    "chinese": "<color=red>700X</color> 全盤獎<color=red>7</color>獎金",
     "english": "<color=red>700X</color> Bonus on a Full Hand of <color=red>7</color>",
     "spanish": "<color=red>700X</color> Bonificación en una mano completa de <color=red>7</color>",
     "portuguese": "<color=red>700X</color> Bônus em uma mão inteira de <color=red>7</color>",
@@ -6158,6 +7104,138 @@
     "french": "Si le multiplicateur maximum est atteint par la fusée, l'éjection est déclenchée et le montant du gain est attribué.",
     "indonesian": "Jika pengali maksimum tercapai oleh roket, eject akan dipicu dan jumlah kemenangan akan diberikan",
     "malay": "Jika pengganda maksimum dicapai \nRoket, pop timbul akan dicetuskan, kemenangan \nJumlah keputusan \n"
+  },
+  {
+    "id": "365045",
+    "type": "",
+    "chinese": "為這場比賽下注……",
+    "english": "Place bets for the fight...",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365046",
+    "type": "",
+    "chinese": "LEFT\\nOFF",
+    "english": "LEFT\\nOFF",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365047",
+    "type": "",
+    "chinese": "遊戲的內容是在火箭爆炸前決定何時跳下火箭。",
+    "english": "The game is all about making the decision when to jump off the rocket before it explodes.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365048",
+    "type": "",
+    "chinese": "按資訊螢幕上的PLAY鍵進入遊戲。",
+    "english": "Press PLAY on the info screen to enter the moin game.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365049",
+    "type": "",
+    "chinese": "投注階段顯示倒計時，顯示下注的時間和下注開始的時間。",
+    "english": "The betting phase displays a countdown showing the time remoining to place a bet far the nextround and when it will begin.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365050",
+    "type": "",
+    "chinese": "如果設置了AUTO COLLECT，BET金額將默認為最低的BET金額。",
+    "english": "If AUT0 COLLECT is set, the BET amount will default to the lowest BET amount.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365051",
+    "type": "",
+    "chinese": "在飛行過程中點擊COLLECT按鈕將結束飛行中的賭注，並返回顯示的贏錢金額。",
+    "english": "Clicking the COLLECT button during the flight will end the in-flight bet and return the winnings amount displayed.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365052",
+    "type": "",
+    "chinese": "如果在飛行過程中點擊收集按鈕，自動收集值將被取消。",
+    "english": "If the Collect button is clicked during the flight, the automatic collection value will be cancelled.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365053",
+    "type": "",
+    "chinese": "如果收集發生在火箭爆炸的同時，贏的金額將被授予。",
+    "english": "If the collection occurs at the same time as the rocket explosion, the winning amount will be awarded.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365054",
+    "type": "",
+    "chinese": "如果火箭爆炸，賭注無人認領，將不會被退回。",
+    "english": "If the rocket explodes, the bet is unclaimed and will not be returned.",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365059",
+    "type": "",
+    "chinese": "等待...",
+    "english": "WAITING...",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "365060",
+    "type": "",
+    "chinese": "收集\\r\\nR${0}",
+    "english": "COLLECT\\r\\nR${0}",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
   },
   {
     "id": "362001",
@@ -6811,8 +7889,8 @@
   {
     "id": "362060",
     "type": "",
-    "chinese": "特殊",
-    "english": "Special",
+    "chinese": "<color=#5EFF6DFF>特殊</color>",
+    "english": "<color=#5EFF6DFF>（Special）</color>",
     "spanish": "Especial",
     "portuguese": "Especial",
     "french": "Spécial",
@@ -7042,8 +8120,8 @@
   {
     "id": "362081",
     "type": "",
-    "chinese": "捕獲將觸發3次旋轉。最高2000x獎勵",
-    "english": "The capture will trigger 3\n“Spins”.Maximum 2000 x reward",
+    "chinese": "捕獲將觸發3次旋轉。<color=#FFCB25FF>最高2000x獎勵</color>",
+    "english": "The capture will trigger 3 “Spins”.<color=#FFCB25FF>Maximum 2000 x reward</color>",
     "spanish": "La captura desencadenará 3\nMáximo 2000 x recompensa\".",
     "portuguese": "A captura acionará 3 \"Spins\".Máximo de 2000 x prêmio.",
     "french": "La capture d'un crabe étrange déclenche 3\nMaximum 2000 x récompense\".",
@@ -7174,8 +8252,8 @@
   {
     "id": "362093",
     "type": "",
-    "chinese": "普通",
-    "english": "Normal",
+    "chinese": "<color=#5EFF6DFF>普通</color>",
+    "english": "<color=#5EFF6DFF>（Normal）</color>",
     "spanish": "Normal",
     "portuguese": "Normal",
     "french": "Normal",
@@ -7777,6 +8855,270 @@
     "malay": "Sila hubungi kami di lobi permainan"
   },
   {
+    "id": "362155",
+    "type": "",
+    "chinese": "雷龍降臨",
+    "english": "Thunder Long Coming",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362156",
+    "type": "",
+    "chinese": "金龍降臨",
+    "english": "Golden Dragon Coming",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362157",
+    "type": "",
+    "chinese": "獎勵魚",
+    "english": "Bonus Fish",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362158",
+    "type": "",
+    "chinese": "重連...",
+    "english": "reconnecting...",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362159",
+    "type": "",
+    "chinese": "自動射擊",
+    "english": "Turn on AutoShoot",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362160",
+    "type": "",
+    "chinese": "自動鎖魚",
+    "english": "Turn on auto-lock fish",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362161",
+    "type": "",
+    "chinese": "狂暴射擊",
+    "english": "Open RageShoot",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362162",
+    "type": "",
+    "chinese": "分散射擊",
+    "english": "Open Scattershot",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362163",
+    "type": "",
+    "chinese": "狂暴技能在免費遊戲中無效",
+    "english": "Rage skill is invalid during free play",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362164",
+    "type": "",
+    "chinese": "提示",
+    "english": "Kind tips",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362165",
+    "type": "",
+    "chinese": "進入",
+    "english": "GoTo",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362166",
+    "type": "",
+    "chinese": "網路異常!",
+    "english": "Network exception!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362167",
+    "type": "",
+    "chinese": "只有會員可以打開，您可以通過充值任何優惠券獲得會員資格\\n<color=#FFCB25FF><size=20>啟用此功能後，發射子彈的速度會更快</size></color>",
+    "english": "Only members can open, you can get membership by topping up any coupon\\n<color=#FFCB25FF><size=20>Firing bullets can be faster when this feature is enabled</size></color>",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362168",
+    "type": "",
+    "chinese": "僅限會員使用，任何優惠券充值即可成為會員\n\n",
+    "english": "Members only, membership can be obtained by recharging any coupon",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362169",
+    "type": "",
+    "chinese": "只對<color=#FFEF62FF>會員開放</color>，可以通過充值任何優惠券獲得會員日\\n當會員日>= 7300天時，可以成為永久會員",
+    "english": "Only open for <color=#FFEF62FF>members</color>, you can get membership days by recharging any coupons\\n When the membership days >= 7300 days, you can become a permanent member",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362170",
+    "type": "",
+    "chinese": "你的VIP等級不足以在遊戲中獲得電池/金幣消耗來提升VIP等級",
+    "english": "Your VIP level is not enough to get a battery \\n in-game consumption of gold to raise the VIP level",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362171",
+    "type": "",
+    "chinese": "連接中...",
+    "english": "connecting...",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362172",
+    "type": "",
+    "chinese": "黃金爆炸",
+    "english": "Gold Explosion",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362173",
+    "type": "",
+    "chinese": "免費刮刮卡",
+    "english": "Free Scratch Cards",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362174",
+    "type": "",
+    "chinese": "數百萬獎金",
+    "english": "Millions of prize money",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362175",
+    "type": "",
+    "chinese": "一百萬美元頭獎",
+    "english": "Million dollar jackpot prize",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362176",
+    "type": "",
+    "chinese": "億萬富翁獎金",
+    "english": "Billionaire Prize Bonus",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362177",
+    "type": "",
+    "chinese": "所有",
+    "english": "All",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "362178",
+    "type": "",
+    "chinese": "不",
+    "english": "Not",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
     "id": "325001",
     "type": "",
     "chinese": "出現3個或更多草莓時開啟迷你遊戲。\n3個草莓1次機會\n4個草莓2次機會\n5個草莓3次機會",
@@ -7856,7 +9198,7 @@
   {
     "id": "324001",
     "type": "",
-    "chinese": "你的档案记录将被保留7天，7天后将被清除。",
+    "chinese": "你的檔案記錄將被保留7天，7天後將被清除。",
     "english": "Your archive record will be kept for 7 days, after 7 days it will be clear",
     "spanish": "Su registro de archivo se mantendrá durante 7 días, después de 7 días se borrará",
     "portuguese": "Seu registro de arquivo será mantido por 7 dias e, após 7 dias, será apagado",
@@ -7867,7 +9209,7 @@
   {
     "id": "324002",
     "type": "",
-    "chinese": "倍数 [ 17] 宝石加额外的 [20-20000] x 累积奖",
+    "chinese": "倍數 [ 17] 寶石加額外的 [20-20000] x 累積獎",
     "english": "Multiplier of [ 17] gems plus an additional [20-20000 ] x accumulation prize",
     "spanish": "Multiplicador de [ 17] gemas más un premio adicional de [20-20000 ] x acumulación",
     "portuguese": "Multiplicador de [ 17] gemas mais um adicional de [20-20000 ] x prêmio de acumulação",
@@ -7878,7 +9220,7 @@
   {
     "id": "324003",
     "type": "",
-    "chinese": "倍数 [ 14] 宝石加额外的 [20-20000] x 累积奖",
+    "chinese": "倍數 [ 14] 寶石加額外的 [20-20000] x 累積獎",
     "english": "Multiplier of [ 14] gems plus an additional [20-20000 ] x accumulation prize",
     "spanish": "Multiplicador de [ 14] gemas más un premio adicional de [20-20000 ] x acumulación",
     "portuguese": "Multiplicador de [ 14] gemas mais um adicional de [20-20000 ] x prêmio de acumulação",
@@ -7889,7 +9231,7 @@
   {
     "id": "324004",
     "type": "",
-    "chinese": "倍数 [ 21] 宝石加额外的 [20-20000] x 累积奖",
+    "chinese": "倍數 [ 21] 寶石加額外的 [20-20000] x 累積獎",
     "english": "Multiplier of [ 21] gems plus an additional [20-20000 ] x accumulation prize",
     "spanish": "Multiplicador de [ 21] gemas más un premio adicional de [20-20000 ] x acumulación",
     "portuguese": "Multiplicador de [ 21] gemas mais um adicional de [20-20000 ] x prêmio de acumulação",
@@ -7900,7 +9242,7 @@
   {
     "id": "324005",
     "type": "",
-    "chinese": "累积奖",
+    "chinese": "累積獎",
     "english": "Jackpot",
     "spanish": "Bote",
     "portuguese": "Prêmio máximo",
@@ -7911,7 +9253,7 @@
   {
     "id": "324006",
     "type": "",
-    "chinese": "投注线的数量",
+    "chinese": "投注線的數量",
     "english": "Line",
     "spanish": "Línea",
     "portuguese": "Linha",
@@ -7922,7 +9264,7 @@
   {
     "id": "324007",
     "type": "",
-    "chinese": "单线点数",
+    "chinese": "單線點數",
     "english": "Line Bet",
     "spanish": "Línea de apuesta",
     "portuguese": "Aposta na linha",
@@ -7933,7 +9275,7 @@
   {
     "id": "324008",
     "type": "",
-    "chinese": "总投注点数",
+    "chinese": "總投注點數",
     "english": "Total Bet",
     "spanish": "Apuesta total",
     "portuguese": "Aposta total",
@@ -7944,7 +9286,7 @@
   {
     "id": "324009",
     "type": "",
-    "chinese": "点击任何区域，开始寻宝",
+    "chinese": "點擊任何區域，開始尋寶",
     "english": "Click on any area to start treasure hunt",
     "spanish": "Haga clic en cualquier área para iniciar la búsqueda del tesoro",
     "portuguese": "Clique em qualquer área para iniciar a caça ao tesouro",
@@ -7955,7 +9297,7 @@
   {
     "id": "324010",
     "type": "",
-    "chinese": "进入寻宝游戏",
+    "chinese": "進入尋寶遊戲",
     "english": "Enter treasure hunting",
     "spanish": "Entrar en la búsqueda del tesoro",
     "portuguese": "Entrar na caça ao tesouro",
