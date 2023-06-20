@@ -841,11 +841,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.XMZZ.XMZZ_Entry",
     "rootName": "",
     "luaPath": "Module59.XMZZ.XMZZEntry",
     "luaRootName": "XMZZEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module59"
     ]
