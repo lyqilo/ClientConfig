@@ -967,5 +967,28 @@
       "crashconfig",
       "crashaudio"
     ]
+  },
+  {
+    "ID": 43,
+    "scenName": "module66",
+    "uiName": "德州扑克",
+    "gameName": "207020",
+    "clientId": 66,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "Hotfix.DZNZ_Model.DZNZ_Enter",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module66"
+    ]
   }
 ]
