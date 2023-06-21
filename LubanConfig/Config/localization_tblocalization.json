@@ -407,6 +407,17 @@
     "malay": "Daftar masuk..."
   },
   {
+    "id": "100038",
+    "type": "",
+    "chinese": "活動未開啟",
+    "english": "Event not open",
+    "spanish": "Evento no abierto",
+    "portuguese": "Evento não aberto",
+    "french": "L'événement n'est pas ouvert",
+    "indonesian": "Acara tidak terbuka",
+    "malay": "Aktiviti tidak dibuka"
+  },
+  {
     "id": "101001",
     "type": "",
     "chinese": "登錄",
@@ -2290,7 +2301,7 @@
   {
     "id": "205007",
     "type": "",
-    "chinese": "从三个首充礼包中选择一个进行购买",
+    "chinese": "從三個首充禮包中選擇一個進行購買",
     "english": "Choose one of the three first recharge packs to buy",
     "spanish": "Elija uno de los tres primeros paquetes de recarga para comprar",
     "portuguese": "Escolha um dos três primeiros pacotes de recarga para comprar",
@@ -2301,7 +2312,7 @@
   {
     "id": "205008",
     "type": "",
-    "chinese": "充值金额需要3倍打码量，赠送金额需要5倍打码量。",
+    "chinese": "充值金額需要3倍打碼量，贈送金額需要5倍打碼量。",
     "english": "The recharge amount requires 3 x the amount of bets, and the gift amount requires 5 x the amount of bets",
     "spanish": "El importe de recarga requiere 3 x la cantidad de apuestas, y el importe de regalo requiere 5 x la cantidad de apuestas",
     "portuguese": "O valor da recarga requer 3 x o valor das apostas, e o valor do presente requer 5 x o valor das apostas",
@@ -3743,12 +3754,12 @@
     "id": "211010",
     "type": "",
     "chinese": "積分",
-    "english": "wheel points",
-    "spanish": "puntos de la rueda",
-    "portuguese": "pontos da roda",
-    "french": "Points de roue",
-    "indonesian": "titik roda",
-    "malay": "titik roda"
+    "english": "PT",
+    "spanish": "PT",
+    "portuguese": "PT",
+    "french": "PT",
+    "indonesian": "PT",
+    "malay": "PT"
   },
   {
     "id": "211011",
@@ -3764,8 +3775,8 @@
   {
     "id": "211012",
     "type": "",
-    "chinese": "白銀轉盤",
-    "english": "Silver Wheel",
+    "chinese": "白銀",
+    "english": "Silver",
     "spanish": "Rueda de plata",
     "portuguese": "Roda prateada",
     "french": "Roue argentée",
@@ -3775,8 +3786,8 @@
   {
     "id": "211013",
     "type": "",
-    "chinese": "黃金轉盤",
-    "english": "Gold Wheel",
+    "chinese": "黃金",
+    "english": "Gold",
     "spanish": "Rueda de oro",
     "portuguese": "Roda dourada",
     "french": "Roue d'or",
@@ -3786,8 +3797,8 @@
   {
     "id": "211014",
     "type": "",
-    "chinese": "鑽石轉盤",
-    "english": "Diamond wheel",
+    "chinese": "鑽石",
+    "english": "Diamond",
     "spanish": "Rueda de diamantes",
     "portuguese": "Roda de diamante",
     "french": "Roue de diamant",
@@ -3809,7 +3820,7 @@
     "id": "211016",
     "type": "",
     "chinese": "玩家{0}贏得{1}金幣",
-    "english": "Player{0}Won{1}Coins",
+    "english": "Player{0} Won {1}",
     "spanish": "Jugador{0}Ganó{1} Monedas",
     "portuguese": "Jogador{0}Ganhou{1}Moedas",
     "french": "Joueur{0}Gagné{1}Pièces",
@@ -3831,7 +3842,7 @@
     "id": "211018",
     "type": "",
     "chinese": "消耗{0}積分贏得{1}金幣",
-    "english": "Use{0}Points Won{1}Coins",
+    "english": "Use{0}Points Won{1}",
     "spanish": "Usar{0}Puntos Ganados{1}Monedas",
     "portuguese": "Use{0}Pontos Ganhou{1}Moedas",
     "french": "Utiliser{0}Points Gagné{1}Pièces",
@@ -3842,12 +3853,34 @@
     "id": "211019",
     "type": "",
     "chinese": "轉盤分為3個等級，每個等級每天2次轉動機會，每次轉動根據等級消耗轉盤積分。每日充值金額按一比一獲得轉盤積分。積分會在第二天清零。\n轉盤獎勵會按照5倍計算需求打碼量。",
-    "english": "The wheel is divided into 3 levels, each level has 2 chances to spin every day, and each spin costs the wheel points according to the level. The daily recharge amount is one to one to get the wheel points. Points will be cleared on the next day.\nThe wheel rewards will be counted according to 5 x the amount of demand bets.",
-    "spanish": "La rueda está dividida en 3 niveles, cada nivel tiene 2 oportunidades de girar cada día, y cada giro cuesta los puntos de la rueda según el nivel. La cantidad de recarga diaria es de uno a uno para conseguir los puntos de la rueda. Los puntos se eliminarán al día siguiente.\nLas recompensas de la rueda se contarán según 5 x la cantidad de apuestas de demanda.",
-    "portuguese": "A roda é dividida em 3 níveis, cada nível tem 2 chances de girar todos os dias, e cada giro custa os pontos da roda de acordo com o nível. O valor da recarga diária é de um para um para obter os pontos da roda. Os pontos serão liberados no dia seguinte.\nAs recompensas da roda serão contadas de acordo com 5 x a quantidade de apostas de demanda.",
-    "french": "La roue est divisée en 3 niveaux, chaque niveau a 2 chances de tourner chaque jour, et chaque tour coûte des points de roue en fonction du niveau. Le montant de la recharge quotidienne est de un pour un pour obtenir les points de la roue. Les points seront effacés le jour suivant.\nLes récompenses de la roue seront comptabilisées en fonction de 5 x le montant des mises à la demande.",
-    "indonesian": "Roda dibagi menjadi 3 level, setiap level memiliki 2 kesempatan untuk berputar setiap hari, dan setiap putaran membutuhkan poin roda sesuai dengan levelnya. Jumlah pengisian ulang harian adalah satu banding satu untuk mendapatkan poin roda. Poin akan dihapus pada hari berikutnya.\nHadiah roda akan dihitung berdasarkan 5 x jumlah taruhan permintaan.",
-    "malay": "Roda dibahagi kepada 3 aras, setiap aras mempunyai 2 peluang untuk berputar setiap hari, dan setiap pusingan menghabiskan titik roda mengikut aras. Jumlah muatan semula sehari adalah satu hingga satu untuk mendapatkan titik roda. Titik akan dibersihkan pada hari berikutnya.\nHadiah roda akan dihitung mengikut 5 x jumlah taruhan permintaan. "
+    "english": "The wheel is divided into 3 levels, each level has 2 chances to spin every day, and each spin costs the PT according to the level. The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.\nThe wheel rewards will be counted according to 5 x the amount of demand bets.",
+    "spanish": "La rueda está dividida en 3 niveles, cada nivel tiene 2 oportunidades de girar cada día, y cada giro cuesta el PT según el nivel. La cantidad de recarga diaria es de uno a uno para conseguir el PT. Los puntos se recargarán al día siguiente.\nLas recompensas de la rueda se contarán según 5 x la cantidad de apuestas de demanda.",
+    "portuguese": "A roda é dividida em 3 níveis, cada nível tem 2 chances de girar todos os dias, e cada giro custa a PT de acordo com o nível. O valor da recarga diária é de um para um para obter o PT. Os pontos serão liberados no dia seguinte.\nAs recompensas da roda serão contadas de acordo com 5 x a quantidade de apostas de demanda.",
+    "french": "La roue est divisée en 3 niveaux, chaque niveau a 2 chances de tourner chaque jour, et chaque tour coûte le PT en fonction du niveau. Le montant de la recharge quotidienne est de un pour un pour obtenir le PT. Les points seront effacés le jour suivant.\nLes récompenses de la roue seront comptées en fonction de 5 x le montant des mises à la demande.",
+    "indonesian": "Roda ini dibagi menjadi 3 level, setiap level memiliki 2 kesempatan untuk berputar setiap hari, dan setiap putarannya akan dikenakan biaya PT sesuai dengan levelnya. Jumlah isi ulang harian adalah satu banding satu untuk mendapatkan PT. Poin akan dihapus pada hari berikutnya.\nHadiah roda akan dihitung berdasarkan 5 x jumlah taruhan permintaan.",
+    "malay": "Roda dibahagi kepada 3 aras, setiap aras mempunyai 2 peluang untuk berputar setiap hari, dan setiap berputar biaya PT mengikut aras. Jumlah muatan semula sehari adalah satu kepada satu untuk mendapatkan PT. Titik akan dibersihkan pada hari berikutnya.\nHadiah roda akan dihitung mengikut 5 x jumlah taruhan permintaan. "
+  },
+  {
+    "id": "211020",
+    "type": "",
+    "chinese": "轉盤積分不足",
+    "english": "Insufficient PT",
+    "spanish": "PT insuficiente",
+    "portuguese": "PT insuficiente",
+    "french": "PT insuffisant",
+    "indonesian": "PT tidak mencukupi",
+    "malay": "PT tidak cukup"
+  },
+  {
+    "id": "211021",
+    "type": "",
+    "chinese": "轉盤次數不足",
+    "english": "Insufficient number of spins",
+    "spanish": "Número insuficiente de tiradas",
+    "portuguese": "Número insuficiente de giros",
+    "french": "Nombre de tours insuffisant",
+    "indonesian": "Jumlah putaran tidak mencukupi",
+    "malay": "Bilangan putaran tidak cukup"
   },
   {
     "id": "212001",

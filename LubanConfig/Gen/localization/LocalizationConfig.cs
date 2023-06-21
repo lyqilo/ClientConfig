@@ -54,11 +54,11 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     }
 
     /// <summary>
-    /// 这是id
+    /// 這是id
     /// </summary>
     public string Id { get; private set; }
     /// <summary>
-    /// 类型(默认文本，可以添加Audio,Texture)
+    /// 類型(默認文本，可以添加Audio,Texture)
     /// </summary>
     public string Type { get; private set; }
     /// <summary>
@@ -66,19 +66,19 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// </summary>
     public string Chinese { get; private set; }
     /// <summary>
-    /// 英语
+    /// 英語
     /// </summary>
     public string English { get; private set; }
     /// <summary>
-    /// 西班牙语
+    /// 西班牙語
     /// </summary>
     public string Spanish { get; private set; }
     /// <summary>
-    /// 葡萄牙语
+    /// 葡萄牙語
     /// </summary>
     public string Portuguese { get; private set; }
     /// <summary>
-    /// 法语
+    /// 法語
     /// </summary>
     public string French { get; private set; }
     /// <summary>
