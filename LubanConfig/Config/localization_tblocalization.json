@@ -2288,6 +2288,28 @@
     "malay": "Muat Pertama"
   },
   {
+    "id": "205007",
+    "type": "",
+    "chinese": "从三个首充礼包中选择一个进行购买",
+    "english": "Choose one of the three first recharge packs to buy",
+    "spanish": "Elija uno de los tres primeros paquetes de recarga para comprar",
+    "portuguese": "Escolha um dos três primeiros pacotes de recarga para comprar",
+    "french": "Choisissez l'un des trois premiers packs de recharge à acheter",
+    "indonesian": "Pilih salah satu dari tiga paket isi ulang pertama yang akan dibeli",
+    "malay": "Pilih salah satu dari tiga pakej muat semula pertama untuk dibeli"
+  },
+  {
+    "id": "205008",
+    "type": "",
+    "chinese": "充值金额需要3倍打码量，赠送金额需要5倍打码量。",
+    "english": "The recharge amount requires 3 x the amount of bets, and the gift amount requires 5 x the amount of bets",
+    "spanish": "El importe de recarga requiere 3 x la cantidad de apuestas, y el importe de regalo requiere 5 x la cantidad de apuestas",
+    "portuguese": "O valor da recarga requer 3 x o valor das apostas, e o valor do presente requer 5 x o valor das apostas",
+    "french": "Le montant de la recharge nécessite 3 x le montant des mises, et le montant du cadeau nécessite 5 x le montant des mises.",
+    "indonesian": "Jumlah isi ulang membutuhkan 3 x jumlah taruhan, dan jumlah hadiah membutuhkan 5 x jumlah taruhan",
+    "malay": "Jumlah muatan semula memerlukan 3 x jumlah taruhan, dan jumlah hadiah memerlukan 5 x jumlah taruhan"
+  },
+  {
     "id": "206001",
     "type": "",
     "chinese": "幸運機會",
