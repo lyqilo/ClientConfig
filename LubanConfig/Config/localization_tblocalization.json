@@ -1353,15 +1353,26 @@
     "malay": "Jangan terbuka!"
   },
   {
+    "id": "201031",
+    "type": "",
+    "chinese": "签到有礼",
+    "english": "Login",
+    "spanish": "Conéctese",
+    "portuguese": "Login",
+    "french": "Connexion",
+    "indonesian": "Masuk",
+    "malay": "Login"
+  },
+  {
     "id": "202001",
     "type": "",
     "chinese": "個人中心",
-    "english": "Personal\\nInformation",
-    "spanish": "Información\\nPersonal",
-    "portuguese": "Informações\\nPessoais",
-    "french": "Informations\\nPersonnelles",
-    "indonesian": "Informasi\\nPribadi",
-    "malay": "Maklumat\\nPeribadi "
+    "english": "Personal\nInformation",
+    "spanish": "Información\nPersonal",
+    "portuguese": "Informações\nPessoais",
+    "french": "Informations\nPersonnelles",
+    "indonesian": "Informasi\nPribadi",
+    "malay": "Maklumat\nPeribadi "
   },
   {
     "id": "202002",
