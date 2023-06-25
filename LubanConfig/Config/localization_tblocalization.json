@@ -58,12 +58,12 @@
     "id": "100006",
     "type": "",
     "chinese": "登錄則表示您已滿18歲且同意T&C隱私協議",
-    "english": "By logging in,you confirm that you are 18+ and agree to our T&C provacy policy",
+    "english": "By logging in,you confirm that you are 18+ and agree to our T&C provacy policy.",
     "spanish": "Al iniciar sesión, confirmas que eres mayor de 18 años y aceptas nuestra política de privacidad.",
-    "portuguese": "Ao fazer o login, você confirma que tem mais de 18 anos e concorda com nossa política de privacidade de T&C",
+    "portuguese": "Ao fazer o login, você confirma que tem mais de 18 anos e concorda com nossa política de privacidade de T&C.",
     "french": "En vous connectant, vous confirmez que vous avez plus de 18 ans et que vous acceptez nos conditions générales d'utilisation et notre politique de confidentialité.",
-    "indonesian": "Dengan masuk, Anda mengonfirmasi bahwa Anda berusia 18+ dan menyetujui kebijakan S&K kami",
-    "malay": "By logging in, you confirm that you are 18+ Dan bersetuju dengan dasar T&C pro vacy kami "
+    "indonesian": "Dengan masuk, Anda mengonfirmasi bahwa Anda berusia 18+ dan menyetujui kebijakan S&K kami.",
+    "malay": "By logging in, you confirm that you are 18+ Dan bersetuju dengan dasar T&C pro vacy kami."
   },
   {
     "id": "100007",
@@ -464,13 +464,13 @@
   {
     "id": "101005",
     "type": "",
-    "chinese": "帳號或手機號：",
-    "english": "Account or Phone(no+63&0)",
-    "spanish": "Cuenta o Teléfono(no+63&0)",
-    "portuguese": "Conta ou telefone (no+63&0)",
-    "french": "Compte ou téléphone (no+63&0)",
-    "indonesian": "Akun atau Telepon (no+63&0)",
-    "malay": "Akaun atau Telefon (no+63&0) "
+    "chinese": "輸入你的手機號碼",
+    "english": "Enter your phone number",
+    "spanish": "Introduzca su número de teléfono",
+    "portuguese": "Digite seu número de telefone",
+    "french": "Entrez votre numéro de téléphone",
+    "indonesian": "Masukkan nomor telepon Anda",
+    "malay": "Masukkan nombor telefon anda"
   },
   {
     "id": "101006",
@@ -3102,6 +3102,17 @@
     "malay": "Mengumpul"
   },
   {
+    "id": "208003",
+    "type": "",
+    "chinese": "已領取",
+    "english": "Collected",
+    "spanish": "Recopilado",
+    "portuguese": "Coletânea",
+    "french": "Recueil",
+    "indonesian": "Dikumpulkan",
+    "malay": "Dikumpulkan"
+  },
+  {
     "id": "209001",
     "type": "",
     "chinese": "分享代理",
@@ -3456,13 +3467,13 @@
   {
     "id": "209033",
     "type": "",
-    "chinese": "綁定後你的朋友每充值500php,你將會獲得一筆金幣返利。你邀請的朋友每充值500PHP，你會得到3%的金幣返利。總共15金幣。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500PHP，你會得到1.5%的金幣返利。總共7.5金幣。",
-    "english": "For every 500php your friend recharges after the bind.You will get 3% gold rebate for every 500PHP you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500PHP recharge of your friend's invited person.Total 7.5 gold.",
-    "spanish": "Por cada 500PHP que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500PHP que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500PHP de la persona invitada por tu amigo.Total 7.5 oro.",
-    "portuguese": "Para cada 500php que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
-    "french": "Vous obtiendrez 3% de remise en or pour chaque 500PHP que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500PHP de la personne invitée par votre ami.Total 7,5 gold.",
-    "indonesian": "Untuk setiap 500php yang diisi ulang oleh teman Anda setelah pengikatan, Anda akan mendapatkan potongan harga 3% emas untuk setiap 500php yang Anda ajak teman Anda isi ulang, total 15 emas, dan teman yang Anda ajak dapat mengundang orang lain. Anda akan mendapatkan potongan harga 1,5% emas untuk setiap isi ulang 500PHP dari orang yang diundang oleh teman Anda, total 7,5 emas.",
-    "malay": "Forever y500php recharges rakan anda selepas \nAnda akan mendapat 3% gold rebate for \nEvery 500PHP you inite your friends to top \nup.Total 15 gold.The friends you invite can \nInvite other people. You will get 1.5% gold \nrebate forever y500PHP recharge of your \nfriend's invited person. Total 7.5 gold. \n"
+    "chinese": "綁定後你的朋友每充值500BRL,你將會獲得一筆金幣返利。你邀請的朋友每充值500BRL，你會得到3%的金幣返利。總共15金幣。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500BRL，你會得到1.5%的金幣返利。總共7.5金幣。",
+    "english": "For every 500BRL your friend recharges after the bind.You will get 3% gold rebate for every 500BRL you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500BRL recharge of your friend's invited person.Total 7.5 gold.",
+    "spanish": "Por cada 500BRL que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500BRL que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500BRL de la persona invitada por tu amigo.Total 7.5 oro.",
+    "portuguese": "Para cada 500BRL que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500BRL que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 BRL da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
+    "french": "Vous obtiendrez 3% de remise en or pour chaque 500BRL que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500BRL de la personne invitée par votre ami.Total 7,5 gold.",
+    "indonesian": "Untuk setiap 500BRL yang diisi ulang oleh teman Anda setelah pengikatan, Anda akan mendapatkan potongan harga 3% emas untuk setiap 500BRL yang Anda ajak teman Anda isi ulang, total 15 emas, dan teman yang Anda ajak dapat mengundang orang lain. Anda akan mendapatkan potongan harga 1,5% emas untuk setiap isi ulang 500BRL dari orang yang diundang oleh teman Anda, total 7,5 emas.",
+    "malay": "Forever y500BRL recharges rakan anda selepas \nAnda akan mendapat 3% gold rebate for \nEvery 500BRL you inite your friends to top \nup.Total 15 gold.The friends you invite can \nInvite other people. You will get 1.5% gold \nrebate forever y500BRL recharge of your \nfriend's invited person. Total 7.5 gold. \n"
   },
   {
     "id": "209034",
@@ -4347,13 +4358,13 @@
   {
     "id": "214006",
     "type": "",
-    "chinese": "天",
-    "english": "DAY",
-    "spanish": "DÍA",
-    "portuguese": "DIA",
-    "french": "JOUR",
-    "indonesian": "HARI",
-    "malay": "HARI "
+    "chinese": "第{0}天",
+    "english": "DAY{0}",
+    "spanish": "DÍA{0}",
+    "portuguese": "DIA{0}",
+    "french": "JOUR{0}",
+    "indonesian": "HARI{0}",
+    "malay": "HARI{0}"
   },
   {
     "id": "214007",
@@ -4543,6 +4554,50 @@
     "malay": "Selesai"
   },
   {
+    "id": "214025",
+    "type": "",
+    "chinese": "解锁后7日登录可领{0}BRL",
+    "english": "Unlocked 7 days after login to receive {0}BRL",
+    "spanish": "Desbloqueado 7 días después de iniciar sesión para recibir {0}BRL",
+    "portuguese": "Desbloqueado 7 dias após o login para receber {0}BRL",
+    "french": "Débloqué 7 jours après la connexion pour recevoir {0}BRL",
+    "indonesian": "Tidak terkunci 7 hari setelah login untuk menerima {0}BRL",
+    "malay": "Tidak dikunci 7 hari selepas daftar masuk untuk menerima {0}BRL"
+  },
+  {
+    "id": "214026",
+    "type": "",
+    "chinese": "解锁需要充值：{0}",
+    "english": "Unlock need to recharge: {0}",
+    "spanish": "Desbloquear necesidad de recargar: {0}",
+    "portuguese": "O desbloqueio precisa ser recarregado: {0}",
+    "french": "Déverrouillage nécessaire pour recharger : {0}",
+    "indonesian": "Buka kunci perlu diisi ulang: {0}",
+    "malay": "Buka kunci perlu muat semula: {0}"
+  },
+  {
+    "id": "214027",
+    "type": "",
+    "chinese": "解锁后每日登录可领取当日奖励，领取满7日后，在下一天充值达到解锁额度可再次开启。",
+    "english": "After unlocking, you can log in every day to receive the reward of the day, after receiving 7 days, you can open it again by recharging the unlocked amount on the next day.",
+    "spanish": "Después de desbloquear, puedes iniciar sesión cada día para recibir la recompensa del día, después de recibirla 7 días, puedes abrirla de nuevo recargando la cantidad desbloqueada al día siguiente.",
+    "portuguese": "Após o desbloqueio, você pode fazer login todos os dias para receber a recompensa do dia; depois de receber 7 dias, você pode abri-lo novamente recarregando o valor desbloqueado no dia seguinte.",
+    "french": "Après le déverrouillage, vous pouvez vous connecter tous les jours pour recevoir la récompense du jour, après avoir reçu 7 jours, vous pouvez l'ouvrir à nouveau en rechargeant le montant déverrouillé le jour suivant.",
+    "indonesian": "Setelah membuka kunci, Anda dapat masuk setiap hari untuk menerima hadiah hari itu, setelah menerima 7 hari, Anda dapat membukanya lagi dengan mengisi ulang jumlah yang tidak terkunci pada hari berikutnya.",
+    "malay": "Selepas membuka, anda boleh log masuk setiap hari untuk menerima hadiah hari, selepas menerima 7 hari, anda boleh membukanya lagi dengan mengisi semula jumlah yang tidak dikunci pada hari berikutnya."
+  },
+  {
+    "id": "214028",
+    "type": "",
+    "chinese": "签到获得的金币按5倍计算需求打码量",
+    "english": "The coins obtained by signing in will be counted as 5 x the required bet",
+    "spanish": "Las monedas obtenidas al iniciar sesión se contarán como 5 x la apuesta requerida",
+    "portuguese": "As moedas obtidas ao fazer login serão contadas como 5 x a aposta necessária",
+    "french": "Les pièces obtenues en vous connectant seront comptées comme 5 x la mise requise.",
+    "indonesian": "Koin yang diperoleh dengan masuk akan dihitung sebagai 5 x taruhan yang diperlukan",
+    "malay": "Koin yang diperoleh dengan menandatangani akan dihitung sebagai 5 x taruhan yang diperlukan"
+  },
+  {
     "id": "215001",
     "type": "",
     "chinese": "輸入邀請碼 (選填)",
@@ -4580,11 +4635,11 @@
     "type": "",
     "chinese": "綁定手機獲得<color=#E55306>{0}</color>",
     "english": "Get <color=#E55306>{0}</color> gold by binding your phone now",
-    "spanish": "Consigue <size=50>{0}oro vinculando tu teléfono ahora",
-    "portuguese": "Obtenha <size=50>{0}gold vinculando seu telefone agora",
-    "french": "Obtenez <size=50>{0}de l'or en liant votre téléphone maintenant",
-    "indonesian": "Dapatkan <size=50>{0}emas dengan mengikat ponsel Anda sekarang",
-    "malay": "Dapatkan <size=50>{0}emas dengan mengikat telefon anda sekarang"
+    "spanish": "Consigue <color=#E55306>{0}</color> oro vinculando tu teléfono ahora",
+    "portuguese": "Obtenha <color=#E55306>{0}</color> gold vinculando seu telefone agora",
+    "french": "Obtenez <color=#E55306>{0}</color> de l'or en liant votre téléphone maintenant",
+    "indonesian": "Dapatkan <color=#E55306>{0}</color> dengan mengikat ponsel Anda sekarang",
+    "malay": "Dapatkan <color=#E55306>{0}</color> emas dengan mengikat telefon anda sekarang"
   },
   {
     "id": "215005",
@@ -7334,7 +7389,7 @@
     "portuguese": "ESQUERDA\\nOFF",
     "french": "LEFT\\nOFF",
     "indonesian": "KIRI\\nOFF",
-    "malay": "Constellation name (optional)"
+    "malay": "KIRI\\nOFF"
   },
   {
     "id": "365047",
