@@ -4105,13 +4105,13 @@
   {
     "id": "213009",
     "type": "",
-    "chinese": "每日簽到",
-    "english": "Daily Login Reward",
-    "spanish": "Recompensa por inicio de sesión diario",
-    "portuguese": "Recompensa de login diário",
-    "french": "Récompense de connexion quotidienne",
-    "indonesian": "Hadiah Login Harian",
-    "malay": "Daily Login Reward "
+    "chinese": "签到有礼",
+    "english": "Sign-in",
+    "spanish": "Regístrese",
+    "portuguese": "Registro",
+    "french": "S'inscrire",
+    "indonesian": "Masuk",
+    "malay": "Daftar Masuk"
   },
   {
     "id": "213010",
@@ -4589,13 +4589,13 @@
   {
     "id": "214027",
     "type": "",
-    "chinese": "解锁后每日登录可领取当日奖励，领取满7日后，在下一天充值达到解锁额度可再次开启。",
-    "english": "After unlocking, you can log in every day to receive the reward of the day, after receiving 7 days, you can open it again by recharging the unlocked amount on the next day.",
-    "spanish": "Después de desbloquear, puedes iniciar sesión cada día para recibir la recompensa del día, después de recibirla 7 días, puedes abrirla de nuevo recargando la cantidad desbloqueada al día siguiente.",
-    "portuguese": "Após o desbloqueio, você pode fazer login todos os dias para receber a recompensa do dia; depois de receber 7 dias, você pode abri-lo novamente recarregando o valor desbloqueado no dia seguinte.",
-    "french": "Après le déverrouillage, vous pouvez vous connecter tous les jours pour recevoir la récompense du jour, après avoir reçu 7 jours, vous pouvez l'ouvrir à nouveau en rechargeant le montant déverrouillé le jour suivant.",
-    "indonesian": "Setelah membuka kunci, Anda dapat masuk setiap hari untuk menerima hadiah hari itu, setelah menerima 7 hari, Anda dapat membukanya lagi dengan mengisi ulang jumlah yang tidak terkunci pada hari berikutnya.",
-    "malay": "Selepas membuka, anda boleh log masuk setiap hari untuk menerima hadiah hari, selepas menerima 7 hari, anda boleh membukanya lagi dengan mengisi semula jumlah yang tidak dikunci pada hari berikutnya."
+    "chinese": "解锁后每日登录可领取当日奖励。",
+    "english": "After unlocking, you can log in every day to receive the reward of the day.",
+    "spanish": "Después de desbloquear, puedes iniciar sesión cada día para recibir la recompensa del día.",
+    "portuguese": "Após o desbloqueio, você pode fazer login todos os dias para receber a recompensa do dia.",
+    "french": "Après le déverrouillage, vous pouvez vous connecter tous les jours pour recevoir la récompense du jour.",
+    "indonesian": "Setelah membuka kunci, Anda dapat masuk setiap hari untuk menerima hadiah hari itu.",
+    "malay": "Selepas membuka, anda boleh log masuk setiap hari untuk menerima hadiah hari."
   },
   {
     "id": "214028",
