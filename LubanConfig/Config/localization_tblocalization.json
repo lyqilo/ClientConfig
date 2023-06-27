@@ -2501,11 +2501,11 @@
     "type": "",
     "chinese": "額外獲得",
     "english": "Extra",
-    "spanish": "Extra+",
-    "portuguese": "Extra+",
-    "french": "Extra+",
-    "indonesian": "Ekstra+",
-    "malay": "Tambahan+"
+    "spanish": "Extra",
+    "portuguese": "Extra",
+    "french": "Extra",
+    "indonesian": "Ekstra",
+    "malay": "Tambahan"
   },
   {
     "id": "207001",
@@ -2523,11 +2523,11 @@
     "type": "",
     "chinese": "跳高高",
     "english": "High Jump",
-    "spanish": "Salto de\naltura",
-    "portuguese": "Salto em\naltura",
-    "french": "Saut en\nhauteur",
-    "indonesian": "Lompat\nTinggi",
-    "malay": "HighJump "
+    "spanish": "Salto de altura",
+    "portuguese": "Salto em altura",
+    "french": "Saut en hauteur",
+    "indonesian": "Lompat Tinggi",
+    "malay": "High Jump "
   },
   {
     "id": "207003",
@@ -4980,7 +4980,7 @@
     "portuguese": "Pular",
     "french": "Sauter",
     "indonesian": "Lewati",
-    "malay": "Melompat "
+    "malay": "Melompat"
   },
   {
     "id": "301008",
@@ -5898,24 +5898,24 @@
   {
     "id": "361001",
     "type": "",
-    "chinese": "可代替特殊以外的圖示\n5 2000x\n4 500x\n3 50x",
-    "english": "Can replace icons other than special\n5 2000x\n4 500x\n3 50x",
-    "spanish": "Puede sustituir a iconos que no sean especiales\n5 2000x\n4 500x\n3 50x",
-    "portuguese": "Pode substituir ícones que não sejam especiais\n5 2000x\n4 500x\n3 50x",
-    "french": "Peut remplacer les icônes autres que les icônes spéciales\n5 2000x\n4 500x\n3 50x",
-    "indonesian": "Dapat menggantikan ikon selain yang spesial\n5 2000x\n4 500x\n3 50x",
-    "malay": "Boleh menggantikan ikon selain daripada ikon khas \n5 2000x \n4 500x \n3 50x \n"
+    "chinese": "可代替特殊以外的圖示",
+    "english": "Can replace icons other than special",
+    "spanish": "Puede sustituir a iconos que no sean especiales",
+    "portuguese": "Pode substituir ícones que não sejam especiais",
+    "french": "Peut remplacer les icônes autres que les icônes spéciales",
+    "indonesian": "Dapat menggantikan ikon selain yang spesial",
+    "malay": "Boleh menggantikan ikon selain daripada ikon khas \n"
   },
   {
     "id": "361002",
     "type": "",
-    "chinese": "出現3個或以上進入免費遊戲\n5 100x\n4 10x\n3 5x",
-    "english": "3 or more appear to enter the free game\n5 100x\n4 10x\n3 5x",
-    "spanish": "Aparecen 3 o más para entrar en el juego gratis\n5 100x\n4 10x\n3 5x",
-    "portuguese": "3 ou mais aparecem para entrar no jogo grátis\n5 100x\n4 10x\n3 5x",
-    "french": "3 ou plus apparaissent pour accéder au jeu gratuit\n5 100x\n4 10x\n3 5x",
-    "indonesian": "3 atau lebih muncul untuk memasuki permainan gratis\n5 100x\n4 10x\n3 5x",
-    "malay": "3 atau lebih muncul untuk memasuki permainan percuma \n5 100x \n4 10x \n3 5x \n"
+    "chinese": "出現3個或以上進入免費遊戲\n",
+    "english": "3 or more appear to enter the free game",
+    "spanish": "Aparecen 3 o más para entrar en el juego gratis",
+    "portuguese": "3 ou mais aparecem para entrar no jogo grátis",
+    "french": "3 ou plus apparaissent pour accéder au jeu gratuit",
+    "indonesian": "3 atau lebih muncul untuk memasuki permainan gratis",
+    "malay": "3 atau lebih muncul untuk memasuki permainan percuma \n"
   },
   {
     "id": "361003",
