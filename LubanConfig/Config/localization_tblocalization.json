@@ -1375,6 +1375,72 @@
     "malay": "Login"
   },
   {
+    "id": "201032",
+    "type": "",
+    "chinese": "金币不足,无法游玩",
+    "english": "Not enough coins, can't play",
+    "spanish": "Sin monedas suficientes, no se puede jugar",
+    "portuguese": "Sem moedas suficientes, não consigo jogar",
+    "french": "Pas assez de pièces, impossible de jouer",
+    "indonesian": "Tidak cukup koin, tidak bisa bermain",
+    "malay": "Tidak cukup koin, tidak boleh bermain"
+  },
+  {
+    "id": "201033",
+    "type": "",
+    "chinese": "绑定手机可获得免费金币",
+    "english": "Binding your phone can get free coins",
+    "spanish": "Vinculación de su teléfono puede obtener monedas gratis",
+    "portuguese": "A vinculação de seu telefone pode obter moedas grátis",
+    "french": "Lier votre téléphone permet d'obtenir des pièces gratuites",
+    "indonesian": "Mengikat ponsel Anda bisa mendapatkan koin gratis",
+    "malay": "Mengikat telefon anda boleh mendapatkan syiling percuma"
+  },
+  {
+    "id": "201034",
+    "type": "",
+    "chinese": "首充礼包可获得最高50%免费金币",
+    "english": "First charge gift can get top 50% free coins",
+    "spanish": "Primer regalo de carga puede obtener la parte superior 50% monedas gratis",
+    "portuguese": "O presente de primeira carga pode obter 50% de moedas grátis",
+    "french": "Le cadeau de première charge permet d'obtenir 50 % de pièces gratuites",
+    "indonesian": "Hadiah biaya pertama bisa mendapatkan 50% koin gratis teratas",
+    "malay": "Hadiah bayaran pertama boleh mendapatkan 50% wang percuma terbaik"
+  },
+  {
+    "id": "201035",
+    "type": "",
+    "chinese": "更多福利活动正在更新中，敬请期待！",
+    "english": "More events are being updated, please wait!",
+    "spanish": "Se están actualizando más eventos, ¡espera!",
+    "portuguese": "Mais eventos estão sendo atualizados, aguarde!",
+    "french": "D'autres événements sont en cours de mise à jour, veuillez patienter !",
+    "indonesian": "Lebih banyak acara sedang diperbarui, harap tunggu!",
+    "malay": "Lebih banyak peristiwa sedang dikemaskini, sila tunggu!"
+  },
+  {
+    "id": "201036",
+    "type": "",
+    "chinese": "充值",
+    "english": "Recharge",
+    "spanish": "Recarga",
+    "portuguese": "Recarga",
+    "french": "Recharger",
+    "indonesian": "Isi ulang",
+    "malay": "Muat Semula"
+  },
+  {
+    "id": "201037",
+    "type": "",
+    "chinese": "绑定手机",
+    "english": "Bind Phone",
+    "spanish": "Vincular",
+    "portuguese": "Vincular",
+    "french": "Lier",
+    "indonesian": "Mengikat",
+    "malay": "Ikat"
+  },
+  {
     "id": "202001",
     "type": "",
     "chinese": "個人中心",
