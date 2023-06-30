@@ -2334,24 +2334,24 @@
   {
     "id": "204061",
     "type": "",
-    "chinese": "使用付款碼在PIX完成訂單",
-    "english": "Use code to complete your order at PIX",
-    "spanish": "Utilice el código para completar su pedido en PIX",
-    "portuguese": "Use o código para concluir seu pedido no PIX",
-    "french": "Utilisez le code pour compléter votre commande chez PIX",
-    "indonesian": "Gunakan kode untuk menyelesaikan pesanan Anda di PIX",
-    "malay": "Use code to complete your order at PIX"
+    "chinese": "訂單資訊",
+    "english": "Order Info",
+    "spanish": "Pedir INFO",
+    "portuguese": "Info sobre \npedidos",
+    "french": "Commander",
+    "indonesian": "Info Pesanan",
+    "malay": "Maklumat\nPerintah"
   },
   {
     "id": "204062",
     "type": "",
-    "chinese": "請在30分鐘內完成訂單",
-    "english": "Please complete your order within 30 minutes",
-    "spanish": "Complete su pedido en 30 minutos",
-    "portuguese": "Por favor, conclua seu pedido em até 30 minutos",
-    "french": "Veuillez compléter votre commande dans les 30 minutes",
-    "indonesian": "Harap selesaikan pesanan Anda dalam waktu 30 menit",
-    "malay": "Sila selesaikan perintah anda dalam 30 minit"
+    "chinese": "使用付款碼在PIX完成訂單\n請在30分鐘內完成訂單",
+    "english": "Use code to complete your order at PIX\nPlease complete your order within 30 minutes",
+    "spanish": "Utilice el código para completar su pedido en PIX\nComplete su pedido en 30 minutos",
+    "portuguese": "Use o código para concluir seu pedido no PIX\nPor favor, conclua seu pedido em até 30 minutos",
+    "french": "Utilisez le code pour compléter votre commande chez PIX\nVeuillez compléter votre commande dans les 30 minutes",
+    "indonesian": "Gunakan kode untuk menyelesaikan pesanan Anda di PIX\nHarap selesaikan pesanan Anda dalam waktu 30 menit",
+    "malay": "Use code to complete your order at PIX\nSila selesaikan perintah anda dalam 30 minit"
   },
   {
     "id": "204063",
@@ -2374,6 +2374,17 @@
     "french": "Enregistrer le QR",
     "indonesian": "Simpan QR",
     "malay": "Simpan QR"
+  },
+  {
+    "id": "204065",
+    "type": "",
+    "chinese": "支付管道",
+    "english": "Payment\nChannels",
+    "spanish": "Canales\nde pago",
+    "portuguese": "Canais\nde pagamento",
+    "french": "Canaux\nde paiement",
+    "indonesian": "Saluran\nPembayaran",
+    "malay": "Saluran\nBayaran"
   },
   {
     "id": "205001",
