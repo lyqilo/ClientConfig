@@ -1366,7 +1366,7 @@
   {
     "id": "201031",
     "type": "",
-    "chinese": "签到有礼",
+    "chinese": "簽到有禮",
     "english": "Login",
     "spanish": "Conéctese",
     "portuguese": "Login",
@@ -1377,7 +1377,7 @@
   {
     "id": "201032",
     "type": "",
-    "chinese": "金币不足,无法游玩",
+    "chinese": "金幣不足,無法遊玩",
     "english": "Not enough coins, can't play",
     "spanish": "Sin monedas suficientes, no se puede jugar",
     "portuguese": "Sem moedas suficientes, não consigo jogar",
@@ -1388,7 +1388,7 @@
   {
     "id": "201033",
     "type": "",
-    "chinese": "绑定手机可获得免费金币",
+    "chinese": "綁定手機可獲得免費金幣",
     "english": "Binding your phone can get free coins",
     "spanish": "Vinculación de su teléfono puede obtener monedas gratis",
     "portuguese": "A vinculação de seu telefone pode obter moedas grátis",
@@ -1399,7 +1399,7 @@
   {
     "id": "201034",
     "type": "",
-    "chinese": "首充礼包可获得最高50%免费金币",
+    "chinese": "首充禮包可獲得最高50%免費金幣",
     "english": "First charge gift can get top 50% free coins",
     "spanish": "Primer regalo de carga puede obtener la parte superior 50% monedas gratis",
     "portuguese": "O presente de primeira carga pode obter 50% de moedas grátis",
@@ -1410,7 +1410,7 @@
   {
     "id": "201035",
     "type": "",
-    "chinese": "更多福利活动正在更新中，敬请期待！",
+    "chinese": "更多福利活動正在更新中，敬請期待！",
     "english": "More events are being updated, please wait!",
     "spanish": "Se están actualizando más eventos, ¡espera!",
     "portuguese": "Mais eventos estão sendo atualizados, aguarde!",
@@ -1432,7 +1432,7 @@
   {
     "id": "201037",
     "type": "",
-    "chinese": "绑定手机",
+    "chinese": "綁定手機",
     "english": "Bind Phone",
     "spanish": "Vincular",
     "portuguese": "Vincular",
@@ -1615,6 +1615,17 @@
     "french": "Relier",
     "indonesian": "Mengikat",
     "malay": "Ikat"
+  },
+  {
+    "id": "202017",
+    "type": "",
+    "chinese": "昵稱過長請重新輸入",
+    "english": "Nickname is too long, please retype",
+    "spanish": "El apodo es demasiado largo, por favor, escríbalo de nuevo",
+    "portuguese": "O apelido é muito longo, por favor, digite-o novamente",
+    "french": "Le pseudonyme est trop long, veuillez le retaper",
+    "indonesian": "Nama panggilan terlalu panjang, harap ketik ulang",
+    "malay": "Nama panggilan terlalu panjang, sila jenis semula"
   },
   {
     "id": "203001",
@@ -2319,6 +2330,50 @@
     "french": "Désolé\nCe canal de paiement est temporairement fermé, veuillez cliquer ci-dessus pour passer à d'autres canaux.",
     "indonesian": "Maaf\nSaluran pembayaran ini ditutup sementara, silakan klik di atas untuk beralih ke saluran lain.",
     "malay": "Maaf\nSaluran pembayaran ini ditutup sementara, sila klik di atas untuk tukar ke saluran lain. "
+  },
+  {
+    "id": "204061",
+    "type": "",
+    "chinese": "使用付款碼在PIX完成訂單",
+    "english": "Use code to complete your order at PIX",
+    "spanish": "Utilice el código para completar su pedido en PIX",
+    "portuguese": "Use o código para concluir seu pedido no PIX",
+    "french": "Utilisez le code pour compléter votre commande chez PIX",
+    "indonesian": "Gunakan kode untuk menyelesaikan pesanan Anda di PIX",
+    "malay": "Use code to complete your order at PIX"
+  },
+  {
+    "id": "204062",
+    "type": "",
+    "chinese": "請在30分鐘內完成訂單",
+    "english": "Please complete your order within 30 minutes",
+    "spanish": "Complete su pedido en 30 minutos",
+    "portuguese": "Por favor, conclua seu pedido em até 30 minutos",
+    "french": "Veuillez compléter votre commande dans les 30 minutes",
+    "indonesian": "Harap selesaikan pesanan Anda dalam waktu 30 menit",
+    "malay": "Sila selesaikan perintah anda dalam 30 minit"
+  },
+  {
+    "id": "204063",
+    "type": "",
+    "chinese": "複製付款碼",
+    "english": "Copy the payment code",
+    "spanish": "Copie el código de pago",
+    "portuguese": "Copie o código de pagamento",
+    "french": "Copier le code de paiement",
+    "indonesian": "Salin kode pembayaran",
+    "malay": "Salin kod pembayaran"
+  },
+  {
+    "id": "204064",
+    "type": "",
+    "chinese": "保存二維碼",
+    "english": "Save the QR",
+    "spanish": "Guardar el QR",
+    "portuguese": "Salvar o QR",
+    "french": "Enregistrer le QR",
+    "indonesian": "Simpan QR",
+    "malay": "Simpan QR"
   },
   {
     "id": "205001",
@@ -4182,7 +4237,7 @@
   {
     "id": "213009",
     "type": "",
-    "chinese": "签到有礼",
+    "chinese": "簽到有禮",
     "english": "Sign-in",
     "spanish": "Regístrese",
     "portuguese": "Registro",
@@ -4644,7 +4699,7 @@
   {
     "id": "214025",
     "type": "",
-    "chinese": "解锁后7日登录可领{0}BRL",
+    "chinese": "解鎖後7日登錄可領{0}BRL",
     "english": "Unlocked 7 days after login to receive {0}BRL",
     "spanish": "Desbloqueado 7 días después de iniciar sesión para recibir {0}BRL",
     "portuguese": "Desbloqueado 7 dias após o login para receber {0}BRL",
@@ -4655,7 +4710,7 @@
   {
     "id": "214026",
     "type": "",
-    "chinese": "解锁需要充值：{0}",
+    "chinese": "解鎖需要充值：{0}",
     "english": "Unlock need to recharge: {0}",
     "spanish": "Desbloquear necesidad de recargar: {0}",
     "portuguese": "O desbloqueio precisa ser recarregado: {0}",
@@ -4666,7 +4721,7 @@
   {
     "id": "214027",
     "type": "",
-    "chinese": "解锁后每日登录可领取当日奖励。",
+    "chinese": "解鎖後每日登錄可領取當日獎勵。",
     "english": "After unlocking, you can log in every day to receive the reward of the day.",
     "spanish": "Después de desbloquear, puedes iniciar sesión cada día para recibir la recompensa del día.",
     "portuguese": "Após o desbloqueio, você pode fazer login todos os dias para receber a recompensa do dia.",
@@ -4677,7 +4732,7 @@
   {
     "id": "214028",
     "type": "",
-    "chinese": "签到获得的金币按8倍计算需求打码量",
+    "chinese": "簽到獲得的金幣按8倍計算需求打碼量",
     "english": "The coins obtained by signing in will be counted as 8 x the required bet",
     "spanish": "Las monedas obtenidas al iniciar sesión se contarán como 8 x la apuesta requerida",
     "portuguese": "As moedas obtidas ao fazer login serão contadas como 8 x a aposta necessária",
@@ -5744,7 +5799,7 @@
   {
     "id": "354011",
     "type": "",
-    "chinese": "恭喜发财",
+    "chinese": "恭喜發財",
     "english": "Lucky",
     "spanish": "Contento",
     "portuguese": "Feliz",
@@ -5843,7 +5898,7 @@
   {
     "id": "341008",
     "type": "",
-    "chinese": "免费获得",
+    "chinese": "免費獲得",
     "english": "Free win",
     "spanish": "",
     "portuguese": "",
@@ -6855,7 +6910,7 @@
   {
     "id": "344019",
     "type": "",
-    "chinese": "赢大奖！",
+    "chinese": "贏大獎！",
     "english": "Start to win rewards",
     "spanish": "Empieza a ganar recompensas",
     "portuguese": "Comece a ganhar prêmios",
@@ -6866,7 +6921,7 @@
   {
     "id": "344020",
     "type": "",
-    "chinese": "下回好运！",
+    "chinese": "下回好運！",
     "english": "Good luck next time",
     "spanish": "Buena suerte la próxima vez",
     "portuguese": "Boa sorte na próxima vez",
@@ -6888,7 +6943,7 @@
   {
     "id": "344022",
     "type": "",
-    "chinese": "再来一次",
+    "chinese": "再來一次",
     "english": "Sad, try again",
     "spanish": "Triste, inténtalo de nuevo",
     "portuguese": "Triste, tente novamente",
@@ -9737,7 +9792,7 @@
   {
     "id": "324011",
     "type": "",
-    "chinese": "由于您7天之内未曾进入龙珠探宝，您的进度及龙珠等级已被清空，请您重新探宝。",
+    "chinese": "由於您7天之內未曾進入龍珠探寶，您的進度及龍珠等級已被清空，請您重新探寶。",
     "english": "Since you have not entered the Dragonball treasure exploration within 7 days, your progress and Dragonball level have been cleared, please explore the treasure again.",
     "spanish": "Dado que no has entrado en la exploración del tesoro Dragonball en 7 días, tu progreso y nivel Dragonball han sido borrados, por favor explora el tesoro de nuevo.",
     "portuguese": "Como você não entrou na exploração do tesouro de Dragonball em 7 dias, seu progresso e o nível de Dragonball foram apagados.",
