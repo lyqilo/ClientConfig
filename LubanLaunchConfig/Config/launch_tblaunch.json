@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "DNS": [
-      "https://gamesgt.s3.ap-southeast-1.amazonaws.com"
+      "https://awsgamesres.s3.amazonaws.com"
     ],
     "CdnDirectoryName": "CandyVegasRes",
     "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",
