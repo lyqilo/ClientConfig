@@ -1144,6 +1144,17 @@
     "malay": "Jumlah taruhan yang diminta belum selesai"
   },
   {
+    "id": "105014",
+    "type": "",
+    "chinese": "有訂單已發起，請等待一會再發起新訂單",
+    "english": "An order has been raised, please wait a while before raising a new order",
+    "spanish": "Se ha cursado un pedido, espere un poco antes de cursar un nuevo pedido",
+    "portuguese": "Um pedido foi feito, aguarde um pouco antes de fazer um novo pedido",
+    "french": "Une commande a été passée, veuillez attendre un peu avant de passer une nouvelle commande",
+    "indonesian": "Pesanan telah diajukan, harap tunggu beberapa saat sebelum mengajukan pesanan baru",
+    "malay": "Perintah telah ditangkap, sila tunggu sebentar sebelum menaikkan perintah baru"
+  },
+  {
     "id": "201001",
     "type": "",
     "chinese": "ID：",
