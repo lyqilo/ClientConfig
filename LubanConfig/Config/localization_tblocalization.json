@@ -1388,13 +1388,13 @@
   {
     "id": "201032",
     "type": "",
-    "chinese": "金幣不足,無法遊玩",
-    "english": "Not enough coins, can't play",
-    "spanish": "Sin monedas suficientes, no se puede jugar",
-    "portuguese": "Sem moedas suficientes, não consigo jogar",
-    "french": "Pas assez de pièces, impossible de jouer",
-    "indonesian": "Tidak cukup koin, tidak bisa bermain",
-    "malay": "Tidak cukup koin, tidak boleh bermain"
+    "chinese": "金幣不足",
+    "english": "Not enough coins",
+    "spanish": "Sin monedas suficientes",
+    "portuguese": "Sem moedas suficientes",
+    "french": "Pas assez de pièces",
+    "indonesian": "Tidak cukup koin",
+    "malay": "Tidak cukup koin"
   },
   {
     "id": "201033",
