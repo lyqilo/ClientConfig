@@ -1144,17 +1144,6 @@
     "malay": "Jumlah taruhan yang diminta belum selesai"
   },
   {
-    "id": "105014",
-    "type": "",
-    "chinese": "有訂單已發起，請等待一會再發起新訂單",
-    "english": "An order has been raised, please wait a while before raising a new order",
-    "spanish": "Se ha cursado un pedido, espere un poco antes de cursar un nuevo pedido",
-    "portuguese": "Um pedido foi feito, aguarde um pouco antes de fazer um novo pedido",
-    "french": "Une commande a été passée, veuillez attendre un peu avant de passer une nouvelle commande",
-    "indonesian": "Pesanan telah diajukan, harap tunggu beberapa saat sebelum mengajukan pesanan baru",
-    "malay": "Perintah telah ditangkap, sila tunggu sebentar sebelum menaikkan perintah baru"
-  },
-  {
     "id": "201001",
     "type": "",
     "chinese": "ID：",
@@ -2348,7 +2337,7 @@
     "chinese": "訂單資訊",
     "english": "Order Info",
     "spanish": "Pedir INFO",
-    "portuguese": "Info sobre \npedidos",
+    "portuguese": "Info pedidos",
     "french": "Commander",
     "indonesian": "Info Pesanan",
     "malay": "Maklumat\nPerintah"
@@ -2368,21 +2357,21 @@
     "id": "204063",
     "type": "",
     "chinese": "複製付款碼",
-    "english": "Copy the payment code",
-    "spanish": "Copie el código de pago",
-    "portuguese": "Copie o código de pagamento",
-    "french": "Copier le code de paiement",
-    "indonesian": "Salin kode pembayaran",
-    "malay": "Salin kod pembayaran"
+    "english": "Copy Code",
+    "spanish": "Copiar código",
+    "portuguese": "Copiar código",
+    "french": "Copier le code",
+    "indonesian": "Salin Kode",
+    "malay": "Salin Kod"
   },
   {
     "id": "204064",
     "type": "",
     "chinese": "保存二維碼",
-    "english": "Save the QR",
-    "spanish": "Guardar el QR",
-    "portuguese": "Salvar o QR",
-    "french": "Enregistrer le QR",
+    "english": "Save QR",
+    "spanish": "Guardar QR",
+    "portuguese": "Salvar QR",
+    "french": "Sauver QR",
     "indonesian": "Simpan QR",
     "malay": "Simpan QR"
   },
@@ -2390,12 +2379,12 @@
     "id": "204065",
     "type": "",
     "chinese": "支付管道",
-    "english": "Payment\nChannels",
-    "spanish": "Canales\nde pago",
-    "portuguese": "Canais\nde pagamento",
-    "french": "Canaux\nde paiement",
-    "indonesian": "Saluran\nPembayaran",
-    "malay": "Saluran\nBayaran"
+    "english": "Channels",
+    "spanish": "Canales",
+    "portuguese": "Canais",
+    "french": "Canaux",
+    "indonesian": "Saluran",
+    "malay": "Saluran"
   },
   {
     "id": "205001",
