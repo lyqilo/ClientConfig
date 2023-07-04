@@ -616,6 +616,17 @@
     "malay": "Kod pengesahan salah!"
   },
   {
+    "id": "101018",
+    "type": "",
+    "chinese": "連接FB",
+    "english": "Connect",
+    "spanish": "Conectar",
+    "portuguese": "Conectar",
+    "french": "Connecter",
+    "indonesian": "Hubungkan",
+    "malay": "Hubungkan"
+  },
+  {
     "id": "102001",
     "type": "",
     "chinese": "確認",
@@ -10360,5 +10371,27 @@
     "french": "Tous les graphiques doivent être alignés dans l'ordre de gauche à droite à partir de la première position pour obtenir la récompense correspondante.",
     "indonesian": "Semua grafik harus berada di baris mana pun dalam urutan kiri ke kanan dari pola posisi pertama secara berurutan untuk mendapatkan hadiah yang sesuai",
     "malay": "Semua grafik perlu berada dalam mana-mana baris dalam tertib kiri ke kanan dari corak kedudukan pertama berturut-turut untuk mendapatkan hadiah yang sepadan"
+  },
+  {
+    "id": "500001",
+    "type": "",
+    "chinese": "欢迎来到GT游戏世界\n通过福利活动和充值获取金币游玩我们的各种赌场经典游戏。积累你的金币，通过PIX快速服务兑换你的奖励，成为GT大赢家！",
+    "english": "Welcome to the world of GT games\nPlay our various casino classics with benefits and top-ups for coins. Accumulate your coins and redeem your rewards through PIX Express Service to become a GT winner!",
+    "spanish": " Bienvenido al mundo de los juegos GT\nJuegue a nuestros diversos clásicos de casino con ventajas y recargas de monedas. Acumula tus monedas y canjea tus recompensas a través del Servicio PIX Express para convertirte en un ganador GT!",
+    "portuguese": "Bem-vindo ao mundo dos jogos GT\nJogue nossos vários clássicos de cassino com benefícios e recargas de moedas. Acumule suas moedas e resgate suas recompensas por meio do serviço PIX Express para se tornar um vencedor GT!",
+    "french": "Bienvenue dans le monde des jeux GT\nJouez à nos différents jeux de casino classiques avec des avantages et des recharges de pièces. Accumulez vos pièces et échangez vos récompenses par le biais du service PIX Express pour devenir un gagnant GT !",
+    "indonesian": "Selamat datang di dunia game GT\nMainkan berbagai permainan kasino klasik kami dengan berbagai keuntungan dan top-up koin. Kumpulkan koin Anda dan tukarkan hadiah Anda melalui Layanan PIX Express untuk menjadi pemenang GT!",
+    "malay": "Selamat datang di dunia game GT\nMainkan berbagai permainan kasino klasik kami dengan berbagai keuntungan dan top-up koin. Kumpulkan koin Anda dan tukarkan hadiah Anda melalui Layanan PIX Express untuk menjadi pemenang GT!"
+  },
+  {
+    "id": "500002",
+    "type": "",
+    "chinese": "用户您好：\n为保证服务器的运行稳定和服务质量，服务器将于2小时后进行维护工作，预计维护时间为1小时，请用户留意游戏时间，必免造成不必要的损失，维护期间给您带来的不便，敬请谅解。",
+    "english": "Hello user:\nTo ensure the stability of the server operation and quality of service, the server will be 2 hours after the maintenance work, the maintenance time is expected to be 1 hour, please pay attention to the game time, must not cause unnecessary losses, please forgive me for the maintenance period to bring you trouble.",
+    "spanish": "Hola usuario:\nPara garantizar la estabilidad del funcionamiento del servidor y la calidad del servicio, el servidor será de 2 horas después de los trabajos de mantenimiento, el tiempo de mantenimiento se espera que sea de 1 hora, por favor, preste atención a la hora de juego, no debe causar pérdidas innecesarias, por favor perdóname por el período de mantenimiento para traerle problemas.",
+    "portuguese": "Olá, usuário:\nPara garantir a estabilidade da operação do servidor e a qualidade do serviço, o servidor estará 2 horas após o trabalho de manutenção, o tempo de manutenção é esperado para ser de 1 hora, por favor, preste atenção ao tempo de jogo, não deve causar perdas desnecessárias, por favor, perdoe-me pelo período de manutenção para lhe trazer problemas.",
+    "french": "Bonjour à tous les utilisateurs :\nPour assurer la stabilité du fonctionnement du serveur et la qualité du service, le serveur sera 2 heures après le travail de maintenance, le temps de maintenance est prévu d'être 1 heure, s'il vous plaît faire attention au temps de jeu, ne doit pas causer des pertes inutiles, s'il vous plaît pardonnez-moi pour la période de maintenance de vous apporter des ennuis.",
+    "indonesian": "Halo pengguna:\nUntuk memastikan stabilitas operasi server dan kualitas layanan, server akan menjadi 2 jam setelah pekerjaan pemeliharaan, waktu pemeliharaan diharapkan 1 jam, harap perhatikan waktu permainan, tidak boleh menyebabkan kerugian yang tidak perlu, mohon maafkan saya karena periode pemeliharaan membuat Anda kesulitan.",
+    "malay": "Halo pengguna:\nUntuk memastikan stabilitas operasi server dan kualitas layanan, server akan menjadi 2 jam setelah pekerjaan pemeliharaan, waktu pemeliharaan diharapkan 1 jam, harap perhatikan waktu permainan, tidak boleh menyebabkan kerugian yang tidak perlu, mohon maafkan saya karena periode pemeliharaan membuat Anda kesulitan."
   }
 ]
