@@ -4774,6 +4774,72 @@
     "malay": "Koin yang diperoleh dengan menandatangani akan dihitung sebagai 8 x taruhan yang diperlukan"
   },
   {
+    "id": "214029",
+    "type": "",
+    "chinese": "領取",
+    "english": "Collect",
+    "spanish": "Coleta",
+    "portuguese": "Coleta",
+    "french": "Coleta",
+    "indonesian": "Kumpulkan",
+    "malay": "Kumpulkan"
+  },
+  {
+    "id": "214030",
+    "type": "",
+    "chinese": "已領取",
+    "english": "Claimed",
+    "spanish": "Reclamado",
+    "portuguese": "Reclamado",
+    "french": "Reclamado",
+    "indonesian": "Diklaim",
+    "malay": "Diklaim"
+  },
+  {
+    "id": "214031",
+    "type": "",
+    "chinese": "明日可領取",
+    "english": "Collected tomorrow",
+    "spanish": "Coletado amanhã",
+    "portuguese": "Coletado amanhã",
+    "french": "Coletado amanhã",
+    "indonesian": "Dikumpulkan besok",
+    "malay": "Dikumpulkan besok"
+  },
+  {
+    "id": "214032",
+    "type": "",
+    "chinese": "完成充值可領取",
+    "english": "Collected by recharge",
+    "spanish": "Coletado por recarga",
+    "portuguese": "Coletado por recarga",
+    "french": "Coletado por recarga",
+    "indonesian": "Dikumpulkan dengan mengisi ulang",
+    "malay": "Dikumpulkan dengan mengisi ulang"
+  },
+  {
+    "id": "214033",
+    "type": "",
+    "chinese": "今日在所有遊戲中下注總額達到1000後開啟今日累積。按今日總下注的0.5%計算今日累積值。最低為5（下注低於1000累計值為0），最高為50。今日累積值在下一天登錄後可領取。",
+    "english": "Today's Earnings will start when the total amount of bets placed in all games today reaches 1000. Today's Earnings is calculated at 0.5% of the total bets placed today. The min. is 5 (0 for bets below 1000) and the max. is 50. Today's Earnings will be available on the next day after logging in.",
+    "spanish": "Os ganhos de hoje começarão quando o valor total das apostas feitas em todos os jogos de hoje chegar a 1000. Os ganhos de hoje são calculados em 0,5% do total de apostas feitas hoje. O mínimo é 5 (0 para apostas abaixo de 1.000) e o máximo é 50. Os ganhos de hoje estarão disponíveis no dia seguinte após o login.",
+    "portuguese": "Os ganhos de hoje começarão quando o valor total das apostas feitas em todos os jogos de hoje chegar a 1000. Os ganhos de hoje são calculados em 0,5% do total de apostas feitas hoje. O mínimo é 5 (0 para apostas abaixo de 1.000) e o máximo é 50. Os ganhos de hoje estarão disponíveis no dia seguinte após o login.",
+    "french": "Os ganhos de hoje começarão quando o valor total das apostas feitas em todos os jogos de hoje chegar a 1000. Os ganhos de hoje são calculados em 0,5% do total de apostas feitas hoje. O mínimo é 5 (0 para apostas abaixo de 1.000) e o máximo é 50. Os ganhos de hoje estarão disponíveis no dia seguinte após o login.",
+    "indonesian": "Penghasilan hari ini akan dimulai ketika jumlah total taruhan yang dipasang di semua permainan hari ini mencapai 1000. Penghasilan Hari Ini dihitung sebesar 0.5% dari total taruhan yang dipasang hari ini. Jumlah minimum adalah 5 (0 untuk taruhan di bawah 1000) dan maksimum adalah 50. Penghasilan hari ini akan tersedia pada hari berikutnya setelah login.",
+    "malay": "Penghasilan hari ini akan dimulai ketika jumlah total taruhan yang dipasang di semua permainan hari ini mencapai 1000. Penghasilan Hari Ini dihitung sebesar 0.5% dari total taruhan yang dipasang hari ini. Jumlah minimum adalah 5 (0 untuk taruhan di bawah 1000) dan maksimum adalah 50. Penghasilan hari ini akan tersedia pada hari berikutnya setelah login."
+  },
+  {
+    "id": "214034",
+    "type": "",
+    "chinese": "今日可領取的回饋獎勵為昨日的積累值。具體點擊左側查看積累規則。領取回饋獎勵需要進行充值，充值金額為可領取獎勵*5。且只能通過活動介面進行充值，無法通過其他途徑充值達成領取條件。充值金額按3倍計算打碼量。回饋獎勵按8倍計算打碼量。",
+    "english": "Today's Claims are based on yesterday's Earnings. Click on the left side to see the Earnings rules. To receive the rewards, you need to recharge the amount of the rewards you can receive*5. You can only recharge through the event interface, you cannot recharge through other means to achieve the conditions. The recharge amount will be calculated as 3 x the betting. The rebate reward is calculated by 8 x the betting.",
+    "spanish": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 8 x a aposta.",
+    "portuguese": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 8 x a aposta.",
+    "french": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 8 x a aposta.",
+    "indonesian": "Klaim hari ini didasarkan pada Penghasilan kemarin. Klik di sisi kiri untuk melihat aturan Penghasilan. Untuk menerima hadiah, Anda harus mengisi ulang jumlah hadiah yang dapat Anda terima*5. Anda hanya dapat mengisi ulang melalui antarmuka acara, Anda tidak dapat mengisi ulang melalui cara lain untuk memenuhi ketentuan. Jumlah isi ulang akan dihitung sebagai 3 x taruhan. Hadiah rabat dihitung sebesar 8 x taruhan.",
+    "malay": "Klaim hari ini didasarkan pada Penghasilan kemarin. Klik di sisi kiri untuk melihat aturan Penghasilan. Untuk menerima hadiah, Anda harus mengisi ulang jumlah hadiah yang dapat Anda terima*5. Anda hanya dapat mengisi ulang melalui antarmuka acara, Anda tidak dapat mengisi ulang melalui cara lain untuk memenuhi ketentuan. Jumlah isi ulang akan dihitung sebagai 3 x taruhan. Hadiah rabat dihitung sebesar 8 x taruhan."
+  },
+  {
     "id": "215001",
     "type": "",
     "chinese": "輸入邀請碼 (選填)",
