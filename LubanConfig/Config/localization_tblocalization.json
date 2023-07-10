@@ -10452,7 +10452,7 @@
   {
     "id": "366002",
     "type": "",
-    "chinese": "牛仔赢",
+    "chinese": "牛仔贏",
     "english": "COWBOY WIN",
     "spanish": "Vitória do Cowboy",
     "portuguese": "Vitória do Cowboy",
@@ -10474,7 +10474,7 @@
   {
     "id": "366004",
     "type": "",
-    "chinese": "公牛赢",
+    "chinese": "公牛贏",
     "english": "BULL WIN",
     "spanish": "Vitória do touro",
     "portuguese": "Vitória do touro",
@@ -10485,7 +10485,7 @@
   {
     "id": "366005",
     "type": "",
-    "chinese": "同花/连牌/同花连牌",
+    "chinese": "同花/連牌/同花連牌",
     "english": "SUITED/CONNECTORS/\\n DRAW HAND",
     "spanish": "Suited/Conectores/\\nDraw Hand",
     "portuguese": "Suited/Conectores/\\nDraw Hand",
@@ -10496,7 +10496,7 @@
   {
     "id": "366006",
     "type": "",
-    "chinese": "高牌/一对",
+    "chinese": "高牌/一對",
     "english": "HIGH/PAIR",
     "spanish": "Alto/Par",
     "portuguese": "Alto/Par",
@@ -10507,7 +10507,7 @@
   {
     "id": "366007",
     "type": "",
-    "chinese": "两对",
+    "chinese": "兩對",
     "english": "TWO PAIR",
     "spanish": "Dois pares",
     "portuguese": "Dois pares",
@@ -10518,7 +10518,7 @@
   {
     "id": "366008",
     "type": "",
-    "chinese": "对子",
+    "chinese": "對子",
     "english": "PAIR",
     "spanish": "Par",
     "portuguese": "Par",
@@ -10529,7 +10529,7 @@
   {
     "id": "366009",
     "type": "",
-    "chinese": "对A",
+    "chinese": "對A",
     "english": "AA",
     "spanish": "AA",
     "portuguese": "AA",
@@ -10540,7 +10540,7 @@
   {
     "id": "366010",
     "type": "",
-    "chinese": "三条/顺子/同花",
+    "chinese": "三條/順子/同花",
     "english": "THREE/STRAIGHT/\\n Flush",
     "spanish": "Três/Reta/\\nFlush",
     "portuguese": "Três/Reta/\\nFlush",
@@ -10551,7 +10551,7 @@
   {
     "id": "366011",
     "type": "",
-    "chinese": "葫芦",
+    "chinese": "葫蘆",
     "english": "FULL HOUSE",
     "spanish": "Full House",
     "portuguese": "Full House",
@@ -10562,7 +10562,7 @@
   {
     "id": "366012",
     "type": "",
-    "chinese": "金刚/同花顺/皇同",
+    "chinese": "金剛/同花順/皇同",
     "english": "FOUR/STRAIGHT\\n Flush/ROYAL FLUSH",
     "spanish": "Quatro/ Reta\\nFlush/Royal Flush",
     "portuguese": "Quatro/ Reta\\nFlush/Royal Flush",
@@ -10573,7 +10573,7 @@
   {
     "id": "366013",
     "type": "",
-    "chinese": "续投",
+    "chinese": "續投",
     "english": "Re bet",
     "spanish": "Rebote",
     "portuguese": "Rebote",
@@ -10628,7 +10628,7 @@
   {
     "id": "366018",
     "type": "",
-    "chinese": "同花顺",
+    "chinese": "同花順",
     "english": "STRAIGHT FLUSH",
     "spanish": "Straight Flush",
     "portuguese": "Straight Flush",
@@ -10639,7 +10639,7 @@
   {
     "id": "366019",
     "type": "",
-    "chinese": "金刚",
+    "chinese": "金剛",
     "english": "FOUR OF A KIND",
     "spanish": "Quadra",
     "portuguese": "Quadra",
@@ -10650,7 +10650,7 @@
   {
     "id": "366020",
     "type": "",
-    "chinese": "葫芦",
+    "chinese": "葫蘆",
     "english": "FULL HOUSE",
     "spanish": "Full House",
     "portuguese": "Full House",
@@ -10672,7 +10672,7 @@
   {
     "id": "366022",
     "type": "",
-    "chinese": "顺子",
+    "chinese": "順子",
     "english": "STRAIGHT",
     "spanish": "Straight",
     "portuguese": "Straight",
@@ -10683,7 +10683,7 @@
   {
     "id": "366023",
     "type": "",
-    "chinese": "三条",
+    "chinese": "三條",
     "english": "THREE OF A KIND",
     "spanish": "Trinca",
     "portuguese": "Trinca",
@@ -10694,7 +10694,7 @@
   {
     "id": "366024",
     "type": "",
-    "chinese": "两对",
+    "chinese": "兩對",
     "english": "TWO PAIR",
     "spanish": "Dois pares",
     "portuguese": "Dois pares",
@@ -10705,7 +10705,7 @@
   {
     "id": "366025",
     "type": "",
-    "chinese": "对子",
+    "chinese": "對子",
     "english": "PAIR",
     "spanish": "Par",
     "portuguese": "Par",
@@ -10727,7 +10727,7 @@
   {
     "id": "366027",
     "type": "",
-    "chinese": "对A",
+    "chinese": "對A",
     "english": "AA",
     "spanish": "AA",
     "portuguese": "AA",
@@ -10749,7 +10749,7 @@
   {
     "id": "366029",
     "type": "",
-    "chinese": "大路是一个6行的多列网格状图，记录时红圈代表牛仔胜，蓝圈代表公牛胜，所以大路会是红蓝圈交替的列。",
+    "chinese": "大路是一個6行的多列網格狀圖，記錄時紅圈代表牛仔勝，藍圈代表公牛勝，所以大路會是紅藍圈交替的列。",
     "english": "Road is a multi-column grid-like chart with 6 rows,For the record,the red circle means cowboy wins and the blue circle means bull wins, so Road will be a column with alternating red and blue circles.",
     "spanish": "Road é um gráfico em forma de grade com várias colunas e 6 linhas. Para fins de registro, o círculo vermelho significa que o cowboy vence e o círculo azul significa que o touro vence, portanto Road será uma coluna com círculos vermelhos e azuis alternados.",
     "portuguese": "Road é um gráfico em forma de grade com várias colunas e 6 linhas. Para fins de registro, o círculo vermelho significa que o cowboy vence e o círculo azul significa que o touro vence, portanto Road será uma coluna com círculos vermelhos e azuis alternados.",
@@ -10760,7 +10760,7 @@
   {
     "id": "366030",
     "type": "",
-    "chinese": "珠盘路：",
+    "chinese": "珠盤路：",
     "english": "Pearls:",
     "spanish": "pérolas:",
     "portuguese": "pérolas:",
@@ -10771,7 +10771,7 @@
   {
     "id": "366031",
     "type": "",
-    "chinese": "珠盘路也是一列中有6格的多列网格状图，红圈同样代表牛仔胜，蓝圈代表公牛胜，珠盘使用的标记是实心圆，上面叠加着一个代表结果的文字。",
+    "chinese": "珠盤路也是一列中有6格的多列網格狀圖，紅圈同樣代表牛仔勝，藍圈代表公牛勝，珠盤使用的標記是實心圓，上面疊加著一個代表結果的文字。",
     "english": "Pearls is a multi-column grid with 6 cells in a column, with the red circle representing a Cowboy win and the blue circle representing a Bull win, Pearls uses a solid circle with a text showing the result.",
     "spanish": "Pearls é uma grade de várias colunas com 6 células em uma coluna, com o círculo vermelho representando uma vitória de Cowboy e o círculo azul representando uma vitória de Touro, Pearls usa um círculo sólido com um texto mostrando o resultado.",
     "portuguese": "Pearls é uma grade de várias colunas com 6 células em uma coluna, com o círculo vermelho representando uma vitória de Cowboy e o círculo azul representando uma vitória de Touro, Pearls usa um círculo sólido com um texto mostrando o resultado.",
@@ -10782,7 +10782,7 @@
   {
     "id": "366032",
     "type": "",
-    "chinese": "近1000局数据",
+    "chinese": "近1000局數據",
     "english": "Last 1000 Round Data",
     "spanish": "dados das últimas 1000 rodadas",
     "portuguese": "dados das últimas 1000 rodadas",
@@ -10793,7 +10793,7 @@
   {
     "id": "366033",
     "type": "",
-    "chinese": "近1000局统计",
+    "chinese": "近1000局統計",
     "english": "Last 1000 Round Count",
     "spanish": "contagem das últimas 1000 rodadas",
     "portuguese": "contagem das últimas 1000 rodadas",
@@ -10804,7 +10804,7 @@
   {
     "id": "366034",
     "type": "",
-    "chinese": "胜负",
+    "chinese": "勝負",
     "english": "WIN & LOSS",
     "spanish": "vitórias e derrotas",
     "portuguese": "vitórias e derrotas",
@@ -10826,7 +10826,7 @@
   {
     "id": "366036",
     "type": "",
-    "chinese": "获胜牌型",
+    "chinese": "獲勝牌型",
     "english": "WINNING HAND",
     "spanish": "mão vencedora",
     "portuguese": "mão vencedora",
@@ -10837,7 +10837,7 @@
   {
     "id": "366037",
     "type": "",
-    "chinese": "牛仔赢:",
+    "chinese": "牛仔贏:",
     "english": "COWBOY WIN:",
     "spanish": "vitória do cowboy:",
     "portuguese": "vitória do cowboy:",
@@ -10848,7 +10848,7 @@
   {
     "id": "366038",
     "type": "",
-    "chinese": "公牛赢:",
+    "chinese": "公牛贏:",
     "english": "BULL WIN:",
     "spanish": "vitória do touro:",
     "portuguese": "vitória do touro:",
@@ -10870,7 +10870,7 @@
   {
     "id": "366040",
     "type": "",
-    "chinese": "对子:",
+    "chinese": "對子:",
     "english": "PAIR:",
     "spanish": "par:",
     "portuguese": "par:",
@@ -10881,7 +10881,7 @@
   {
     "id": "366041",
     "type": "",
-    "chinese": "对A:",
+    "chinese": "對A:",
     "english": "AA:",
     "spanish": "aa:",
     "portuguese": "aa:",
@@ -10892,7 +10892,7 @@
   {
     "id": "366042",
     "type": "",
-    "chinese": "同花/连牌/同花连牌:",
+    "chinese": "同花/連牌/同花連牌:",
     "english": "SUITED/CONNECTORS/DRAW HAND:",
     "spanish": "Suited/connectors/draw hand:",
     "portuguese": "Suited/connectors/draw hand:",
@@ -10903,7 +10903,7 @@
   {
     "id": "366043",
     "type": "",
-    "chinese": "高牌/一对:",
+    "chinese": "高牌/一對:",
     "english": "HIGH/PAIR:",
     "spanish": "high/pair:",
     "portuguese": "high/pair:",
@@ -10914,7 +10914,7 @@
   {
     "id": "366044",
     "type": "",
-    "chinese": "葫芦:",
+    "chinese": "葫蘆:",
     "english": "FULL HOUSE:",
     "spanish": "full house:",
     "portuguese": "full house:",
@@ -10925,7 +10925,7 @@
   {
     "id": "366045",
     "type": "",
-    "chinese": "两对:",
+    "chinese": "兩對:",
     "english": "TWO PAIR:",
     "spanish": "dois pares:",
     "portuguese": "dois pares:",
@@ -10936,7 +10936,7 @@
   {
     "id": "366046",
     "type": "",
-    "chinese": "三条/顺子/同花:",
+    "chinese": "三條/順子/同花:",
     "english": "THREE/STRAIGHT/FLUSH:",
     "spanish": "three/straight/flush:",
     "portuguese": "three/straight/flush:",
@@ -10947,7 +10947,7 @@
   {
     "id": "366047",
     "type": "",
-    "chinese": "金刚/同花顺/皇同:",
+    "chinese": "金剛/同花順/皇同:",
     "english": "FOUR/STRAIGHT FLUSH/ROYSL FLUSH:",
     "spanish": "four/straight flush/roysl flush:",
     "portuguese": "four/straight flush/roysl flush:",
@@ -10958,7 +10958,7 @@
   {
     "id": "366048",
     "type": "",
-    "chinese": "统计数据",
+    "chinese": "統計數據",
     "english": "STATISTICS",
     "spanish": "estatísticas",
     "portuguese": "estatísticas",
@@ -10969,7 +10969,7 @@
   {
     "id": "366049",
     "type": "",
-    "chinese": "历史记录",
+    "chinese": "歷史記錄",
     "english": "HISTORY",
     "spanish": "histórico",
     "portuguese": "histórico",
@@ -10980,7 +10980,7 @@
   {
     "id": "366050",
     "type": "",
-    "chinese": "在线玩家:",
+    "chinese": "線上玩家:",
     "english": "ONLINE PLSYERS : ",
     "spanish": "jogadores on-line : ",
     "portuguese": "jogadores on-line : ",
@@ -11002,7 +11002,7 @@
   {
     "id": "366052",
     "type": "",
-    "chinese": "获胜:",
+    "chinese": "獲勝:",
     "english": "Winning",
     "spanish": "vencedoras",
     "portuguese": "vencedoras",
@@ -11024,7 +11024,7 @@
   {
     "id": "366054",
     "type": "",
-    "chinese": "今日输赢榜:",
+    "chinese": "今日輸贏榜:",
     "english": "TODAY'S WIN RANK : ",
     "spanish": "classificação de vitórias de hoje : ",
     "portuguese": "classificação de vitórias de hoje : ",
@@ -11035,7 +11035,7 @@
   {
     "id": "366055",
     "type": "",
-    "chinese": "荣耀榜",
+    "chinese": "榮耀榜",
     "english": "GLORY LIST",
     "spanish": "lista de glória",
     "portuguese": "lista de glória",
@@ -11046,7 +11046,7 @@
   {
     "id": "366056",
     "type": "",
-    "chinese": "今日赢分:",
+    "chinese": "今日贏分:",
     "english": "Total Win:",
     "spanish": "vitória total:",
     "portuguese": "vitória total:",
@@ -11057,7 +11057,7 @@
   {
     "id": "366057",
     "type": "",
-    "chinese": "确认",
+    "chinese": "確認",
     "english": "CONFIRM",
     "spanish": "confirmar",
     "portuguese": "confirmar",
@@ -11079,7 +11079,7 @@
   {
     "id": "366059",
     "type": "",
-    "chinese": "续投设置",
+    "chinese": "續投設置",
     "english": "Rebet Setting",
     "spanish": "Configuração de rebote",
     "portuguese": "Configuração de rebote",
@@ -11090,7 +11090,7 @@
   {
     "id": "366060",
     "type": "",
-    "chinese": "(续投次数可选)",
+    "chinese": "(續投次數可選)",
     "english": "(Rebet times can be set)",
     "spanish": "(Os tempos de rebetagem podem ser definidos)",
     "portuguese": "(Os tempos de rebetagem podem ser definidos)",
@@ -11101,7 +11101,7 @@
   {
     "id": "366061",
     "type": "",
-    "chinese": "下注按钮设置，请选择5个不同的下注按钮",
+    "chinese": "下注按鈕設置，請選擇5個不同的下注按鈕",
     "english": "Bet button setting,please select 5 different bet buttons",
     "spanish": "Configuração do botão de aposta, selecione 5 botões de aposta diferentes",
     "portuguese": "Configuração do botão de aposta, selecione 5 botões de aposta diferentes",
@@ -11145,7 +11145,7 @@
   {
     "id": "366065",
     "type": "",
-    "chinese": "本桌限红",
+    "chinese": "本桌限紅",
     "english": "Win Limit",
     "spanish": "Limite de ganho",
     "portuguese": "Limite de ganho",
@@ -11167,7 +11167,7 @@
   {
     "id": "366067",
     "type": "",
-    "chinese": "使用一副牌，去掉\"大王\"\"小王\"共计52张",
+    "chinese": "使用一副牌，去掉\"大王\"\"小王\"共計52張",
     "english": "1:Use a deck of cards, excluding the \"joker\" for a Total of 52 cards",
     "spanish": "1:Use um baralho de cartas, excluindo o \"coringa\", para um total de 52 cartas",
     "portuguese": "1:Use um baralho de cartas, excluindo o \"coringa\", para um total de 52 cartas",
@@ -11178,7 +11178,7 @@
   {
     "id": "366068",
     "type": "",
-    "chinese": "获胜牌型",
+    "chinese": "獲勝牌型",
     "english": "Winning Hand",
     "spanish": "Mão vencedora",
     "portuguese": "Mão vencedora",
@@ -11189,7 +11189,7 @@
   {
     "id": "366069",
     "type": "",
-    "chinese": "皇家同花顺：相同花色的10,J,Q,K,A;",
+    "chinese": "皇家同花順：相同花色的10,J,Q,K,A;",
     "english": "1:Royal Flush: 10,J,Q,K,A of the same suit;",
     "spanish": "1:Royal Flush: 10, J, Q, K, A do mesmo naipe;",
     "portuguese": "1:Royal Flush: 10, J, Q, K, A do mesmo naipe;",
@@ -11200,7 +11200,7 @@
   {
     "id": "366070",
     "type": "",
-    "chinese": "同花顺：五张相同花色的连续牌；",
+    "chinese": "同花順：五張相同花色的連續牌；",
     "english": "2:Straight Flush: five straight cards of the same suit;",
     "spanish": "2:Straight Flush: cinco cartas seguidas do mesmo naipe;",
     "portuguese": "2:Straight Flush: cinco cartas seguidas do mesmo naipe;",
@@ -11211,7 +11211,7 @@
   {
     "id": "366071",
     "type": "",
-    "chinese": "葫芦：三张相同点数的牌加另外两张相同点数的牌；",
+    "chinese": "葫蘆：三張相同點數的牌加另外兩張相同點數的牌；",
     "english": "4:Full House: three cards of the same number of points with a pair;",
     "spanish": "4:Full House: três cartas do mesmo número de pontos com um par;",
     "portuguese": "4:Full House: três cartas do mesmo número de pontos com um par;",
@@ -11222,7 +11222,7 @@
   {
     "id": "366072",
     "type": "",
-    "chinese": "同花：五张相同花色的非连续牌；",
+    "chinese": "同花：五張相同花色的非連續牌；",
     "english": "5:Flush: five non-consecutive cards of the same suit;",
     "spanish": "5:Flush: cinco cartas não consecutivas do mesmo naipe;",
     "portuguese": "5:Flush: cinco cartas não consecutivas do mesmo naipe;",
@@ -11233,7 +11233,7 @@
   {
     "id": "366073",
     "type": "",
-    "chinese": "顺子：五张不同花色的连续牌；",
+    "chinese": "順子：五張不同花色的連續牌；",
     "english": "6:Straight: five consecutive cards of different suits;",
     "spanish": "6:Straight: cinco cartas consecutivas de naipes diferentes;",
     "portuguese": "6:Straight: cinco cartas consecutivas de naipes diferentes;",
@@ -11244,7 +11244,7 @@
   {
     "id": "366074",
     "type": "",
-    "chinese": "三条：三张相同点数的牌加两张单牌；",
+    "chinese": "三條：三張相同點數的牌加兩張單牌；",
     "english": "7:Three of a kind: three cards of the same number of points plus two single cards;",
     "spanish": "7:Three of a kind: três cartas do mesmo número de pontos mais duas cartas simples;",
     "portuguese": "7:Three of a kind: três cartas do mesmo número de pontos mais duas cartas simples;",
@@ -11255,7 +11255,7 @@
   {
     "id": "366075",
     "type": "",
-    "chinese": "两对：四张两两相同的牌加一张单牌；",
+    "chinese": "兩對：四張兩兩相同的牌加一張單牌；",
     "english": "8:Two pairs: a pair with two different points and a single card;",
     "spanish": "8:Two pairs: um par com dois pontos diferentes e uma única carta;",
     "portuguese": "8:Two pairs: um par com dois pontos diferentes e uma única carta;",
@@ -11266,7 +11266,7 @@
   {
     "id": "366076",
     "type": "",
-    "chinese": "高牌：五张不是同一花色的非连续单牌。",
+    "chinese": "高牌：五張不是同一花色的非連續單牌。",
     "english": "10:High card: Five non-consecutive single cards that are not of the same suit;",
     "spanish": "10:Carta alta: Cinco cartas simples não consecutivas que não sejam do mesmo naipe;",
     "portuguese": "10:Carta alta: Cinco cartas simples não consecutivas que não sejam do mesmo naipe;",
@@ -11277,7 +11277,7 @@
   {
     "id": "366077",
     "type": "",
-    "chinese": "任一人手牌牌型（必须是牛仔或公牛的手牌组成的牌型）",
+    "chinese": "任一人手牌牌型（必須是牛仔或公牛的手牌組成的牌型）",
     "english": "Anyside Hand(Cowboy or Bull's Hand)",
     "spanish": "Mão Anyside (Mão de Cowboy ou de Touro)",
     "portuguese": "Mão Anyside (Mão de Cowboy ou de Touro)",
@@ -11288,7 +11288,7 @@
   {
     "id": "366078",
     "type": "",
-    "chinese": "同花/连牌/同花连牌：两张相同花色/两张连续点数/两张相同花色的连续牌；",
+    "chinese": "同花/連牌/同花連牌：兩張相同花色/兩張連續點數/兩張相同花色的連續牌；",
     "english": "1:Suited/Connectors/Draw Hand：Two cards of the same suit/two straight points/two straight cards of the same suit;",
     "spanish": "1:Suited/Connectors/Draw Hand：Duas cartas do mesmo naipe/dois pontos consecutivos/duas cartas consecutivas do mesmo naipe;",
     "portuguese": "1:Suited/Connectors/Draw Hand：Duas cartas do mesmo naipe/dois pontos consecutivos/duas cartas consecutivas do mesmo naipe;",
@@ -11299,7 +11299,7 @@
   {
     "id": "366079",
     "type": "",
-    "chinese": "对子：两张相同点数的牌（包含对A）；",
+    "chinese": "對子：兩張相同點數的牌（包含對A）；",
     "english": "2:Pair: two cards of the same points (including the pair of Aces);",
     "spanish": "2:Pair: duas cartas com os mesmos pontos (incluindo o par de Ases);",
     "portuguese": "2:Pair: duas cartas com os mesmos pontos (incluindo o par de Ases);",
@@ -11310,7 +11310,7 @@
   {
     "id": "366080",
     "type": "",
-    "chinese": "对A：两张A。",
+    "chinese": "對A：兩張A。",
     "english": "3:AA: two aces.",
     "spanish": "3:AA: dois ases.",
     "portuguese": "3:AA: dois ases.",
@@ -11321,7 +11321,7 @@
   {
     "id": "366081",
     "type": "",
-    "chinese": "牌型大小：皇家同花顺>同花顺>金刚>葫芦>同花>顺子>三条>两对>对子>高牌；",
+    "chinese": "牌型大小：皇家同花順>同花順>金剛>葫蘆>同花>順子>三條>兩對>對子>高牌；",
     "english": "1:Hand：Royal flush > Straight flush > Four of a kind > Full House > Flush > Straight > Three of a kind > Two pairs > Pair > High card;",
     "spanish": "1:Mão：Royal flush > Straight flush > Quadra > Full House > Flush > Straight > Trinca > Dois pares > Par > Carta alta;",
     "portuguese": "1:Mão：Royal flush > Straight flush > Quadra > Full House > Flush > Straight > Trinca > Dois pares > Par > Carta alta;",
@@ -11343,7 +11343,7 @@
   {
     "id": "366083",
     "type": "",
-    "chinese": "相同牌型大小（不分花色）：优先比牌型最大的值，其次\n第二大...直到最小，若5张牌的值一样，则为平局。",
+    "chinese": "相同牌型大小（不分花色）：優先比牌型最大的值，其次\n第二大...直到最小，若5張牌的值一樣，則為平局。",
     "english": "3:Compare：First compare the Hand,then compare the Rank of the cards from big to small, if the Rank is the same on both sides then it is Tie;",
     "spanish": "3:Comparar: Primeiro compare a mão, depois compare a classificação das cartas da maior para a menor, se a classificação for a mesma em ambos os lados, então é empate;",
     "portuguese": "3:Comparar: Primeiro compare a mão, depois compare a classificação das cartas da maior para a menor, se a classificação for a mesma em ambos os lados, então é empate;",
@@ -11354,7 +11354,7 @@
   {
     "id": "366084",
     "type": "",
-    "chinese": "投注区域",
+    "chinese": "投注區域",
     "english": "Betting Area",
     "spanish": "Área de apostas",
     "portuguese": "Área de apostas",
@@ -11365,7 +11365,7 @@
   {
     "id": "366085",
     "type": "",
-    "chinese": "胜负下注区：牛仔胜，平手，公牛胜，三个投注区，投中获得对应倍率的奖励。",
+    "chinese": "勝負下注區：牛仔勝，平手，公牛勝，三個投注區，投中獲得對應倍率的獎勵。",
     "english": "1:Win or lose betting area: Cowboys win, tie, Bulls win, three betting areas, throw in to get the bonus of the corresponding multiplier.",
     "spanish": "1: Área de apostas de vitória ou derrota: Os Cowboys vencem, empatam, os Bulls vencem, três áreas de apostas, jogam para obter o bônus do multiplicador correspondente.",
     "portuguese": "1: Área de apostas de vitória ou derrota: Os Cowboys vencem, empatam, os Bulls vencem, três áreas de apostas, jogam para obter o bônus do multiplicador correspondente.",
@@ -11376,7 +11376,7 @@
   {
     "id": "366086",
     "type": "",
-    "chinese": "任一人手牌区：同花/连牌/同花连牌,对子，对A，三个投注区，投中获得对应倍率的奖励；\n牛仔，公牛两人以相同牌型集中投注区牌型，只算击中一次；\n牛仔，公牛两人以不同牌型击中投注区牌型，两个区域都算击中；",
+    "chinese": "任一人手牌區：同花/連牌/同花連牌,對子，對A，三個投注區，投中獲得對應倍率的獎勵；\n牛仔，公牛兩人以相同牌型集中投注區牌型，只算擊中一次；\n牛仔，公牛兩人以不同牌型擊中投注區牌型，兩個區域都算擊中；",
     "english": "2:Anyside Hand: Suited/Connectors/Draw Hand, Pair, AA, three betting areas, winning to get the bonus of the corresponding multiplier;\nCowboys, bulls hitting the betting area with the same hand, only one hit is counted;\nCowboys, bulls both hitting two betting areas with different hands, both areas counting as hits;",
     "spanish": "2:Mão de qualquer lado: Suited/Connectors/Draw Hand, Pair, AA, três áreas de apostas, ganhando para obter o bônus do multiplicador correspondente;\nCowboys, touros batendo na área de apostas com a mesma mão, apenas uma batida é contada;\nCowboys, touros atingindo duas áreas de apostas com mãos diferentes, ambas as áreas contando como acertos;",
     "portuguese": "2:Mão de qualquer lado: Suited/Connectors/Draw Hand, Pair, AA, três áreas de apostas, ganhando para obter o bônus do multiplicador correspondente;\nCowboys, touros batendo na área de apostas com a mesma mão, apenas uma batida é contada;\nCowboys, touros atingindo duas áreas de apostas com mãos diferentes, ambas as áreas contando como acertos;",
@@ -11387,7 +11387,7 @@
   {
     "id": "366087",
     "type": "",
-    "chinese": "获胜牌型下注区：高牌/一对，两对，三条/顺子/同花，",
+    "chinese": "獲勝牌型下注區：高牌/一對，兩對，三條/順子/同花，",
     "english": "3:Winning betting area: high card/pair, two pair, three/straight/flush.",
     "spanish": "3:Área de apostas vencedora: carta alta/par, dois pares, três/sequência/flush.",
     "portuguese": "3:Área de apostas vencedora: carta alta/par, dois pares, três/sequência/flush.",
@@ -11398,7 +11398,7 @@
   {
     "id": "366088",
     "type": "",
-    "chinese": "葫芦，金刚/同花顺/皇同五个投注区，投中获得对应倍率的奖励。",
+    "chinese": "葫蘆，金剛/同花順/皇同五個投注區，投中獲得對應倍率的獎勵。",
     "english": "Full House, Four/ Straight Flush/ Royal Flush five betting areas, winning bets get the corresponding multiplier rewards.",
     "spanish": "Full House, Four/ Straight Flush/ Royal Flush cinco áreas de apostas, as apostas vencedoras recebem os prêmios multiplicadores correspondentes.",
     "portuguese": "Full House, Four/ Straight Flush/ Royal Flush cinco áreas de apostas, as apostas vencedoras recebem os prêmios multiplicadores correspondentes.",
@@ -11409,7 +11409,7 @@
   {
     "id": "366089",
     "type": "",
-    "chinese": "关",
+    "chinese": "關",
     "english": "OFF",
     "spanish": "DESLIGADO",
     "portuguese": "DESLIGADO",
@@ -11420,7 +11420,7 @@
   {
     "id": "366090",
     "type": "",
-    "chinese": "开",
+    "chinese": "開",
     "english": "ON",
     "spanish": "LIGADO",
     "portuguese": "LIGADO",
@@ -11442,7 +11442,7 @@
   {
     "id": "366092",
     "type": "",
-    "chinese": "获胜牌型",
+    "chinese": "獲勝牌型",
     "english": "WINNING\\nHAND",
     "spanish": "GANHANDO\\nMão",
     "portuguese": "GANHANDO\\nMão",
@@ -11453,7 +11453,7 @@
   {
     "id": "366093",
     "type": "",
-    "chinese": "规则",
+    "chinese": "規則",
     "english": "Rules",
     "spanish": "Regras",
     "portuguese": "Regras",
@@ -11475,7 +11475,7 @@
   {
     "id": "366095",
     "type": "",
-    "chinese": "设置",
+    "chinese": "設置",
     "english": "Setting",
     "spanish": "Cenário",
     "portuguese": "Cenário",
@@ -11486,7 +11486,7 @@
   {
     "id": "366096",
     "type": "",
-    "chinese": "返回大厅",
+    "chinese": "返回大廳",
     "english": "Lobby",
     "spanish": "Lobby",
     "portuguese": "Lobby",
@@ -11497,7 +11497,7 @@
   {
     "id": "366097",
     "type": "",
-    "chinese": "游戏开始",
+    "chinese": "遊戲開始",
     "english": "GAMES STARTING",
     "spanish": "INÍCIO DOS JOGOS",
     "portuguese": "INÍCIO DOS JOGOS",
@@ -11519,7 +11519,7 @@
   {
     "id": "366099",
     "type": "",
-    "chinese": "大赢家 NO.{0}",
+    "chinese": "大贏家 NO.{0}",
     "english": "RICH NO.{0}",
     "spanish": "RICH NO.{0}",
     "portuguese": "RICH NO.{0}",
@@ -11530,7 +11530,7 @@
   {
     "id": "366100",
     "type": "",
-    "chinese": "本局出现",
+    "chinese": "本局出現",
     "english": "This round open",
     "spanish": "Esta rodada está aberta",
     "portuguese": "Esta rodada está aberta",
@@ -11552,7 +11552,7 @@
   {
     "id": "366102",
     "type": "",
-    "chinese": "金刚：四张相同点数的牌加一张单牌；",
+    "chinese": "金剛：四張相同點數的牌加一張單牌；",
     "english": "3:Four Of A Kind: four cards of the same number of points with a single card;",
     "spanish": "3:Quadra: quatro cartas do mesmo número de pontos com uma única carta;",
     "portuguese": "3:Quadra: quatro cartas do mesmo número de pontos com uma única carta;",
@@ -11563,7 +11563,7 @@
   {
     "id": "366103",
     "type": "",
-    "chinese": "对子：两张点数相同的牌加三张单牌；",
+    "chinese": "對子：兩張點數相同的牌加三張單牌；",
     "english": "9:Pair: two cards of the same number of points with three single cards;",
     "spanish": "9:Par: duas cartas do mesmo número de pontos com três cartas únicas;",
     "portuguese": "9:Par: duas cartas do mesmo número de pontos com três cartas únicas;",
@@ -11574,7 +11574,7 @@
   {
     "id": "500001",
     "type": "",
-    "chinese": "欢迎来到GT游戏世界\n通过福利活动和充值获取金币游玩我们的各种赌场经典游戏。积累你的金币，通过PIX快速服务兑换你的奖励，成为GT大赢家！",
+    "chinese": "歡迎來到GT遊戲世界\n通過福利活動和充值獲取金幣遊玩我們的各種賭場經典遊戲。積累你的金幣，通過PIX快速服務兌換你的獎勵，成為GT大贏家！",
     "english": "Welcome to the world of GT games\nPlay our various casino classics with benefits and top-ups for coins. Accumulate your coins and redeem your rewards through PIX Express Service to become a GT winner!",
     "spanish": " Bienvenido al mundo de los juegos GT\nJuegue a nuestros diversos clásicos de casino con ventajas y recargas de monedas. Acumula tus monedas y canjea tus recompensas a través del Servicio PIX Express para convertirte en un ganador GT!",
     "portuguese": "Bem-vindo ao mundo dos jogos GT\nJogue nossos vários clássicos de cassino com benefícios e recargas de moedas. Acumule suas moedas e resgate suas recompensas por meio do serviço PIX Express para se tornar um vencedor GT!",
@@ -11585,7 +11585,7 @@
   {
     "id": "500002",
     "type": "",
-    "chinese": "用户您好：\n为保证服务器的运行稳定和服务质量，服务器将于2小时后进行维护工作，预计维护时间为1小时，请用户留意游戏时间，必免造成不必要的损失，维护期间给您带来的不便，敬请谅解。",
+    "chinese": "用戶您好：\n為保證伺服器的運行穩定和服務品質，伺服器將於2小時後進行維護工作，預計維護時間為1小時，請用戶留意遊戲時間，必免造成不必要的損失，維護期間給您帶來的不便，敬請諒解。",
     "english": "Hello user:\nTo ensure the stability of the server operation and quality of service, the server will be 2 hours after the maintenance work, the maintenance time is expected to be 1 hour, please pay attention to the game time, must not cause unnecessary losses, please forgive me for the maintenance period to bring you trouble.",
     "spanish": "Hola usuario:\nPara garantizar la estabilidad del funcionamiento del servidor y la calidad del servicio, el servidor será de 2 horas después de los trabajos de mantenimiento, el tiempo de mantenimiento se espera que sea de 1 hora, por favor, preste atención a la hora de juego, no debe causar pérdidas innecesarias, por favor perdóname por el período de mantenimiento para traerle problemas.",
     "portuguese": "Olá, usuário:\nPara garantir a estabilidade da operação do servidor e a qualidade do serviço, o servidor estará 2 horas após o trabalho de manutenção, o tempo de manutenção é esperado para ser de 1 hora, por favor, preste atenção ao tempo de jogo, não deve causar perdas desnecessárias, por favor, perdoe-me pelo período de manutenção para lhe trazer problemas.",
