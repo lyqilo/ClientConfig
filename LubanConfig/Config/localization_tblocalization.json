@@ -10487,11 +10487,11 @@
     "type": "",
     "chinese": "同花/連牌/同花連牌",
     "english": "SUITED/CONNECTORS/\\n DRAW HAND",
-    "spanish": "Suited/Conectores/\\nDraw Hand",
-    "portuguese": "Suited/Conectores/\\nDraw Hand",
-    "french": "Suited/Conectores/\\nDraw Hand",
-    "indonesian": "Cocok/Konkuren/\\nGambar Tangan",
-    "malay": "Cocok/Konkuren/\\nGambar Tangan"
+    "spanish": "Suited/Conectores\n/Draw Hand",
+    "portuguese": "Suited/Conectores\n/Draw Hand",
+    "french": "Suited/Conectores\n/Draw Hand",
+    "indonesian": "Cocok/Konkuren\n/Gambar Tangan",
+    "malay": "Cocok/Konkuren\n/Gambar Tangan"
   },
   {
     "id": "366006",
@@ -10541,12 +10541,12 @@
     "id": "366010",
     "type": "",
     "chinese": "三條/順子/同花",
-    "english": "THREE/STRAIGHT/\\n Flush",
-    "spanish": "Três/Reta/\\nFlush",
-    "portuguese": "Três/Reta/\\nFlush",
-    "french": "Três/Reta/\\nFlush",
-    "indonesian": "Tiga/Lurus/\\nFlush",
-    "malay": "Tiga/Lurus/\\nFlush"
+    "english": "THREE/STRAIGHT\n/Flush",
+    "spanish": "Três/Reta\n/Flush",
+    "portuguese": "Três/Reta\n/Flush",
+    "french": "Três/Reta\n/Flush",
+    "indonesian": "Tiga/Lurus\n/Flush",
+    "malay": "Tiga/Lurus\n/Flush"
   },
   {
     "id": "366011",
@@ -10563,12 +10563,12 @@
     "id": "366012",
     "type": "",
     "chinese": "金剛/同花順/皇同",
-    "english": "FOUR/STRAIGHT\\n Flush/ROYAL FLUSH",
-    "spanish": "Quatro/ Reta\\nFlush/Royal Flush",
-    "portuguese": "Quatro/ Reta\\nFlush/Royal Flush",
-    "french": "Quatro/ Reta\\nFlush/Royal Flush",
-    "indonesian": "Empat/Straight Flush/Royal Flush",
-    "malay": "Empat/Straight Flush/ Royal Flush"
+    "english": "FOUR/STRAIGHT Flush\n/ROYAL FLUSH",
+    "spanish": "Quatro/Reta Flush\n/Royal Flush",
+    "portuguese": "Quatro/Reta Flush\n/Royal Flush",
+    "french": "Quatro/Reta Flush\n/Royal Flush",
+    "indonesian": "Empat/Straight Flush\n/Royal Flush",
+    "malay": "Empat/Straight Flush\n/Royal Flush"
   },
   {
     "id": "366013",
@@ -11432,23 +11432,23 @@
     "id": "366091",
     "type": "",
     "chinese": "任一人手牌",
-    "english": "ANYSIDE\\nHAND",
-    "spanish": "LADO A LADO\\nMão",
-    "portuguese": "LADO A LADO\\nMão",
-    "french": "LADO A LADO\\nMão",
-    "indonesian": "SESUATU\\nTANGAN",
-    "malay": "SESUATU\\nTANGAN"
+    "english": "ANYSIDE\nHAND",
+    "spanish": "LADO A \nLADO Mão",
+    "portuguese": "LADO A \nLADO Mão",
+    "french": "LADO A \nLADO Mão",
+    "indonesian": "SESUATU\nTANGAN",
+    "malay": "SESUATU\nTANGAN"
   },
   {
     "id": "366092",
     "type": "",
     "chinese": "獲勝牌型",
-    "english": "WINNING\\nHAND",
-    "spanish": "GANHANDO\\nMão",
-    "portuguese": "GANHANDO\\nMão",
-    "french": "GANHANDO\\nMão",
-    "indonesian": "MENANG\\nTANGAN",
-    "malay": "MENANG\\nTANGAN"
+    "english": "WINNING\nHAND",
+    "spanish": "GANHANDO\nMão",
+    "portuguese": "GANHANDO\nMão",
+    "french": "GANHANDO\nMão",
+    "indonesian": "MENANG\nTANGAN",
+    "malay": "MENANG\nTANGAN"
   },
   {
     "id": "366093",
