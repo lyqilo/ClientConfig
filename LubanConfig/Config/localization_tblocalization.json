@@ -5060,6 +5060,39 @@
     "malay": "Klaim hari ini didasarkan pada Penghasilan kemarin. Klik di sisi kiri untuk melihat aturan Penghasilan. Untuk menerima hadiah, Anda harus mengisi ulang jumlah hadiah yang dapat Anda terima*5. Anda hanya dapat mengisi ulang melalui antarmuka acara, Anda tidak dapat mengisi ulang melalui cara lain untuk memenuhi ketentuan. Jumlah isi ulang akan dihitung sebagai 3 x taruhan. Hadiah rabat dihitung sebesar 8 x taruhan."
   },
   {
+    "id": "214035",
+    "type": "Texture",
+    "chinese": "jrklq_zw",
+    "english": "jrklq_yw",
+    "spanish": "jrklq_bx",
+    "portuguese": "jrklq_bx",
+    "french": "jrklq_bx",
+    "indonesian": "jrklq_yn",
+    "malay": "jrklq_yn"
+  },
+  {
+    "id": "214036",
+    "type": "Texture",
+    "chinese": "jrlj_zw",
+    "english": "jrlj_yw",
+    "spanish": "jrlj_bx",
+    "portuguese": "jrlj_bx",
+    "french": "jrlj_bx",
+    "indonesian": "jrlj_yn",
+    "malay": "jrlj_yn"
+  },
+  {
+    "id": "214037",
+    "type": "Texture",
+    "chinese": "mrhk_zw",
+    "english": "mrhk_yw",
+    "spanish": "mrhk_bx",
+    "portuguese": "mrhk_bx",
+    "french": "mrhk_bx",
+    "indonesian": "mrhk_yn",
+    "malay": "mrhk_yn"
+  },
+  {
     "id": "215001",
     "type": "",
     "chinese": "輸入邀請碼 (選填)",
