@@ -5390,6 +5390,116 @@
     "malay": "WIN"
   },
   {
+    "id": "217001",
+    "type": "",
+    "chinese": "新手任務",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217002",
+    "type": "",
+    "chinese": "去邀請",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217003",
+    "type": "",
+    "chinese": "去充值",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217004",
+    "type": "",
+    "chinese": "去下注",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217005",
+    "type": "",
+    "chinese": "領取",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217006",
+    "type": "",
+    "chinese": "使用邀請碼邀請{0}人",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217007",
+    "type": "",
+    "chinese": "累計充值達到{0}",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217008",
+    "type": "",
+    "chinese": "多福多壽中下注{0}",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217009",
+    "type": "",
+    "chinese": "新手任務說明",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "217010",
+    "type": "",
+    "chinese": "全部任務已完成，敬請期待更多活動",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
     "id": "301001",
     "type": "",
     "chinese": "總押注",
