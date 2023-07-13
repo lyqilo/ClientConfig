@@ -5480,13 +5480,13 @@
   {
     "id": "217008",
     "type": "",
-    "chinese": "{0}下注{1}",
-    "english": "{0}Bet {1}",
-    "spanish": "{0}Aposta {1}",
-    "portuguese": "{0}Aposta {1}",
-    "french": "{0}Aposta {1}",
-    "indonesian": "{0}Bertaruh {1}",
-    "malay": "{0}Bertaruh {1}"
+    "chinese": "下注{0}",
+    "english": "Bet {0}",
+    "spanish": "Aposta {0}",
+    "portuguese": "Aposta {0}",
+    "french": "Aposta {0}",
+    "indonesian": "Bertaruh {0}",
+    "malay": "Bertaruh {0}"
   },
   {
     "id": "217009",
