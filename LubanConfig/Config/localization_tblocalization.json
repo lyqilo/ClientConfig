@@ -12665,11 +12665,11 @@
     "type": "Texture",
     "chinese": "qdicon_zw",
     "english": "qdicon_yw",
-    "spanish": "qdicon_zw",
-    "portuguese": "qdicon_zw",
-    "french": "qdicon_zw",
-    "indonesian": "qdicon_zw",
-    "malay": "qdicon_zw"
+    "spanish": "qdicon_bx",
+    "portuguese": "qdicon_bx",
+    "french": "qdicon_bx",
+    "indonesian": "qdicon_yn",
+    "malay": "qdicon_yn"
   },
   {
     "id": "605002",
@@ -12811,8 +12811,8 @@
     "spanish": "jbbz_bx",
     "portuguese": "jbbz_bx",
     "french": "jbbz_bx",
-    "indonesian": "jbbz_zw",
-    "malay": "jbbz_zw"
+    "indonesian": "jbbz_yn",
+    "malay": "jbbz_yn"
   },
   {
     "id": "608002",
