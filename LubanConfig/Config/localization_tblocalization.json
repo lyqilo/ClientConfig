@@ -2455,13 +2455,13 @@
   {
     "id": "205005",
     "type": "",
-    "chinese": "BRL",
-    "english": "BRL",
-    "spanish": "BRL",
-    "portuguese": "BRL",
-    "french": "BRL",
-    "indonesian": "BRL",
-    "malay": "BRL"
+    "chinese": "PHP",
+    "english": "PHP",
+    "spanish": "PHP",
+    "portuguese": "PHP",
+    "french": "PHP",
+    "indonesian": "PHP",
+    "malay": "PHP"
   },
   {
     "id": "205006",
@@ -2631,30 +2631,30 @@
   {
     "id": "206013",
     "type": "",
-    "chinese": "每日一次機會\\n獲得<color=#FDFF54>??????</color>BRL優惠充值\\n額外獲得金幣<color=#A6F0FD>??????</color>\\n點擊轉動查看獎勵！206013",
-    "english": "One chance per day \\n Get <color=#FDFF54>??????</color>BRL to rechange \\nGetbonus<color=#A6F0FD>??????</color>\\nClick spin! to see your bouns",
-    "spanish": "Una oportunidad al día \\nConsigue <color=#FDFF54>??????</color>BRL para cambiar \\nConsigue un bono<color=#A6F0FD>??????</color>\\n¡Haz clic en girar! para ver tus botes",
-    "portuguese": "Uma chance por dia \\nObtenha <color=#FDFF54>??????</color>BRL para trocar \\nObtenha bônus<color=#A6F0FD>??????</color>\\nClique em girar! para ver seus ganhos",
-    "french": "Une chance par jour \\n Recevez <color=#FDFF54>??????</color>BRL pour échanger \\n Gagnez un bonus<color=#A6F0FD>??????</color>\\n Cliquez sur \"spin !\" pour voir vos gains.",
+    "chinese": "每日一次機會\\n獲得<color=#FDFF54>??????</color>PHP優惠充值\\n額外獲得金幣<color=#A6F0FD>??????</color>\\n點擊轉動查看獎勵！206013",
+    "english": "One chance per day \\n Get <color=#FDFF54>??????</color>PHP to rechange \\nGetbonus<color=#A6F0FD>??????</color>\\nClick spin! to see your bouns",
+    "spanish": "Una oportunidad al día \\nConsigue <color=#FDFF54>??????</color>PHP para cambiar \\nConsigue un bono<color=#A6F0FD>??????</color>\\n¡Haz clic en girar! para ver tus botes",
+    "portuguese": "Uma chance por dia \\nObtenha <color=#FDFF54>??????</color>PHP para trocar \\nObtenha bônus<color=#A6F0FD>??????</color>\\nClique em girar! para ver seus ganhos",
+    "french": "Une chance par jour \\n Recevez <color=#FDFF54>??????</color>PHP pour échanger \\n Gagnez un bonus<color=#A6F0FD>??????</color>\\n Cliquez sur \"spin !\" pour voir vos gains.",
     "indonesian": "Satu kesempatan per hari<\\n>Dapatkan<sprite name=\"g\" tint=1>{0} untuk mengisi ulang<\\n>Dapatkan bonus ekstra<sprite name=\"g\" tint=1>{1}<\\n>Klik spin! untuk melihat pantulan Anda",
     "malay": "Get<sprite name=\"g\" tint=1>{0} to replace<\\n>Get extra bonus<sprite name=\"g\" tint=1>{1}<\\n>Click spin! untuk melihat bouns anda"
   },
   {
     "id": "206014",
     "type": "",
-    "chinese": "獲得<color=#FDFE58>{0}</color> BRL",
-    "english": "Get <color=#FDFE58>{0}</color> BRL",
-    "spanish": "Obtener<color=#FDFE58>{0}</color> BRL",
-    "portuguese": "Obter<color=#FDFE58>{0}</color> BRL",
-    "french": "Obtenez<color=#FDFE58>{0}</color> BRL",
-    "indonesian": "Dapatkan<color=#FDFE58>{0}</color> BRL",
-    "malay": "Dapatkan<color=#FDFE58>{0}</color> BRL"
+    "chinese": "獲得<color=#FDFE58>{0}</color> PHP",
+    "english": "Get <color=#FDFE58>{0}</color> PHP",
+    "spanish": "Obtener<color=#FDFE58>{0}</color> PHP",
+    "portuguese": "Obter<color=#FDFE58>{0}</color> PHP",
+    "french": "Obtenez<color=#FDFE58>{0}</color> PHP",
+    "indonesian": "Dapatkan<color=#FDFE58>{0}</color> PHP",
+    "malay": "Dapatkan<color=#FDFE58>{0}</color> PHP"
   },
   {
     "id": "206015",
     "type": "",
-    "chinese": "只需要{0}BRL",
-    "english": "Only {0}BRL now",
+    "chinese": "只需要{0}PHP",
+    "english": "Only {0}PHP now",
     "spanish": "Sólo {0} ahora",
     "portuguese": "Somente {0} agora",
     "french": "Seulement {0} maintenant",
@@ -3643,13 +3643,13 @@
   {
     "id": "209033",
     "type": "",
-    "chinese": "綁定後你的朋友每充值500BRL,你將會獲得一筆金幣返利。你邀請的朋友每充值500BRL，你會得到3%的金幣返利。總共15金幣。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500BRL，你會得到1.5%的金幣返利。總共7.5金幣。",
-    "english": "For every 500BRL your friend recharges after the bind.You will get 3% gold rebate for every 500BRL you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500BRL recharge of your friend's invited person.Total 7.5 gold.",
-    "spanish": "Por cada 500BRL que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500BRL que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500BRL de la persona invitada por tu amigo.Total 7.5 oro.",
-    "portuguese": "Para cada 500BRL que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500BRL que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 BRL da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
-    "french": "Vous obtiendrez 3% de remise en or pour chaque 500BRL que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500BRL de la personne invitée par votre ami.Total 7,5 gold.",
-    "indonesian": "Untuk setiap 500BRL yang diisi ulang oleh teman Anda setelah pengikatan, Anda akan mendapatkan potongan harga 3% emas untuk setiap 500BRL yang Anda ajak teman Anda isi ulang, total 15 emas, dan teman yang Anda ajak dapat mengundang orang lain. Anda akan mendapatkan potongan harga 1,5% emas untuk setiap isi ulang 500BRL dari orang yang diundang oleh teman Anda, total 7,5 emas.",
-    "malay": "Forever y500BRL recharges rakan anda selepas \nAnda akan mendapat 3% gold rebate for \nEvery 500BRL you inite your friends to top \nup.Total 15 gold.The friends you invite can \nInvite other people. You will get 1.5% gold \nrebate forever y500BRL recharge of your \nfriend's invited person. Total 7.5 gold. \n"
+    "chinese": "綁定後你的朋友每充值500PHP,你將會獲得一筆金幣返利。你邀請的朋友每充值500PHP，你會得到3%的金幣返利。總共15金幣。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500PHP，你會得到1.5%的金幣返利。總共7.5金幣。",
+    "english": "For every 500PHP your friend recharges after the bind.You will get 3% gold rebate for every 500PHP you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500PHP recharge of your friend's invited person.Total 7.5 gold.",
+    "spanish": "Por cada 500PHP que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500PHP que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500PHP de la persona invitada por tu amigo.Total 7.5 oro.",
+    "portuguese": "Para cada 500PHP que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
+    "french": "Vous obtiendrez 3% de remise en or pour chaque 500PHP que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500PHP de la personne invitée par votre ami.Total 7,5 gold.",
+    "indonesian": "Untuk setiap 500PHP yang diisi ulang oleh teman Anda setelah pengikatan, Anda akan mendapatkan potongan harga 3% emas untuk setiap 500PHP yang Anda ajak teman Anda isi ulang, total 15 emas, dan teman yang Anda ajak dapat mengundang orang lain. Anda akan mendapatkan potongan harga 1,5% emas untuk setiap isi ulang 500PHP dari orang yang diundang oleh teman Anda, total 7,5 emas.",
+    "malay": "Forever y500PHP recharges rakan anda selepas \nAnda akan mendapat 3% gold rebate for \nEvery 500PHP you inite your friends to top \nup.Total 15 gold.The friends you invite can \nInvite other people. You will get 1.5% gold \nrebate forever y500PHP recharge of your \nfriend's invited person. Total 7.5 gold. \n"
   },
   {
     "id": "209034",
@@ -4952,13 +4952,13 @@
   {
     "id": "214025",
     "type": "",
-    "chinese": "解鎖後7日登錄可領{0}BRL",
-    "english": "Unlocked 7 days after login to receive {0}BRL",
-    "spanish": "Desbloqueado 7 días después de iniciar sesión para recibir {0}BRL",
-    "portuguese": "Desbloqueado 7 dias após o login para receber {0}BRL",
-    "french": "Débloqué 7 jours après la connexion pour recevoir {0}BRL",
-    "indonesian": "Tidak terkunci 7 hari setelah login untuk menerima {0}BRL",
-    "malay": "Tidak dikunci 7 hari selepas daftar masuk untuk menerima {0}BRL"
+    "chinese": "解鎖後7日登錄可領{0}PHP",
+    "english": "Unlocked 7 days after login to receive {0}PHP",
+    "spanish": "Desbloqueado 7 días después de iniciar sesión para recibir {0}PHP",
+    "portuguese": "Desbloqueado 7 dias após o login para receber {0}PHP",
+    "french": "Débloqué 7 jours après la connexion pour recevoir {0}PHP",
+    "indonesian": "Tidak terkunci 7 hari setelah login untuk menerima {0}PHP",
+    "malay": "Tidak dikunci 7 hari selepas daftar masuk untuk menerima {0}PHP"
   },
   {
     "id": "214026",
@@ -8186,13 +8186,13 @@
   {
     "id": "365060",
     "type": "",
-    "chinese": "收集\\r\\nR${0}",
-    "english": "Collect \\r\\nR${0}",
-    "spanish": "Cobrar \\r\\nR${0}",
-    "portuguese": "Coletar \\r\\nR${0}",
-    "french": "Collecter \\r\\nR${0}",
-    "indonesian": "Kumpulkan \\r\\nR${0}",
-    "malay": "Kumpul \\r\\nR${0}"
+    "chinese": "收集\\r\\n₱{0}",
+    "english": "Collect \\r\\n₱{0}",
+    "spanish": "Cobrar \\r\\n₱{0}",
+    "portuguese": "Coletar \\r\\n₱{0}",
+    "french": "Collecter \\r\\n₱{0}",
+    "indonesian": "Kumpulkan \\r\\n₱{0}",
+    "malay": "Kumpul \\r\\n₱{0}"
   },
   {
     "id": "362001",
