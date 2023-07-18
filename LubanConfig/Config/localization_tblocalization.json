@@ -10815,13 +10815,13 @@
   {
     "id": "366001",
     "type": "",
-    "chinese": "{} 局未出",
-    "english": "{} Round no open",
-    "spanish": "{} Rodada não aberta",
-    "portuguese": "{} Rodada não aberta",
-    "french": "{} Rodada não aberta",
-    "indonesian": "{} Putaran tidak terbuka",
-    "malay": "{} Putaran tidak terbuka"
+    "chinese": "{0}局未出",
+    "english": "{0}Round no open",
+    "spanish": "{0}Rodada não aberta",
+    "portuguese": "{0}Rodada não aberta",
+    "french": "{0}Rodada não aberta",
+    "indonesian": "{0}Putaran tidak terbuka",
+    "malay": "{0}Putaran tidak terbuka"
   },
   {
     "id": "366002",
@@ -11955,6 +11955,50 @@
     "french": "Definição",
     "indonesian": "Mengatur",
     "malay": "Mengatur"
+  },
+  {
+    "id": "366105",
+    "type": "",
+    "chinese": "請選擇下注區域",
+    "english": "Please select the betting area",
+    "spanish": "Por favor, selecione a área de apostas",
+    "portuguese": "Por favor, selecione a área de apostas",
+    "french": "Por favor, selecione a área de apostas",
+    "indonesian": "Silakan pilih area taruhan",
+    "malay": "Silakan pilih area taruhan"
+  },
+  {
+    "id": "366106",
+    "type": "",
+    "chinese": "開始下注",
+    "english": "Start Betting",
+    "spanish": "Iniciar apostas",
+    "portuguese": "Iniciar apostas",
+    "french": "Iniciar apostas",
+    "indonesian": "Mulai Taruhan",
+    "malay": "Mulai Taruhan"
+  },
+  {
+    "id": "366107",
+    "type": "",
+    "chinese": "停止下注",
+    "english": "Stop Betting",
+    "spanish": "Parar de apostar",
+    "portuguese": "Parar de apostar",
+    "french": "Parar de apostar",
+    "indonesian": "Berhenti Bertaruh",
+    "malay": "Berhenti Bertaruh"
+  },
+  {
+    "id": "366108",
+    "type": "",
+    "chinese": "時間到",
+    "english": "Time Up",
+    "spanish": "Aumentar o tempo",
+    "portuguese": "Aumentar o tempo",
+    "french": "Aumentar o tempo",
+    "indonesian": "Waktu habis",
+    "malay": "Waktu habis"
   },
   {
     "id": "400057",
