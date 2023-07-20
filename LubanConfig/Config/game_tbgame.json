@@ -657,11 +657,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.SGXML.UIEntry",
     "rootName": "",
     "luaPath": "Module51.SGXML.SGXMLEntry",
     "luaRootName": "SGXMLEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module51"
     ]
