@@ -1466,12 +1466,12 @@
     "id": "202001",
     "type": "",
     "chinese": "個人中心",
-    "english": "Personal Information",
-    "spanish": "Información Personal",
-    "portuguese": "Informações Pessoais",
-    "french": "Informations Personnelles",
-    "indonesian": "Informasi Pribadi",
-    "malay": "Maklumat Peribadi "
+    "english": "Personal\nInformation",
+    "spanish": "Información\nPersonal",
+    "portuguese": "Informações\nPessoais",
+    "french": "Informations\nPersonnelles",
+    "indonesian": "Informasi\nPribadi",
+    "malay": "Maklumat\nPeribadi "
   },
   {
     "id": "202002",
@@ -11999,6 +11999,17 @@
     "french": "Aumentar o tempo",
     "indonesian": "Waktu habis",
     "malay": "Waktu habis"
+  },
+  {
+    "id": "366109",
+    "type": "",
+    "chinese": "高級",
+    "english": "Pro",
+    "spanish": "Pro",
+    "portuguese": "Pro",
+    "french": "Pro",
+    "indonesian": "Pro",
+    "malay": "Pro"
   },
   {
     "id": "400057",
