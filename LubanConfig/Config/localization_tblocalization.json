@@ -178,13 +178,13 @@
   {
     "id": "100017",
     "type": "",
-    "chinese": "手機號碼應為11位數字",
-    "english": "Cell phone number should be 11 digits",
-    "spanish": "El número de móvil debe tener 11 dígitos",
-    "portuguese": "O número do celular deve ter 11 dígitos",
-    "french": "Le numéro de téléphone portable doit être composé de 11 chiffres",
-    "indonesian": "Nomor ponsel harus terdiri dari 11 digit",
-    "malay": "Nombor telefon bimbit sepatutnya 11 digit"
+    "chinese": "手機號碼應為10位數字",
+    "english": "Cell phone number should be 10 digits",
+    "spanish": "El número de móvil debe tener 10 dígitos",
+    "portuguese": "O número do celular deve ter 10 dígitos",
+    "french": "Le numéro de téléphone portable doit être composé de 10 chiffres",
+    "indonesian": "Nomor ponsel harus terdiri dari 10 digit",
+    "malay": "Nombor telefon bimbit sepatutnya 10 digit"
   },
   {
     "id": "100018",
@@ -1421,8 +1421,8 @@
   {
     "id": "201034",
     "type": "",
-    "chinese": "首充禮包可獲得最高50%免費金幣",
-    "english": "First charge gift can get top 50% free coins",
+    "chinese": "首充禮包可獲得最高30%免費金幣",
+    "english": "First charge gift can get top 30% free coins",
     "spanish": "Primer regalo de carga puede obtener la parte superior 50% monedas gratis",
     "portuguese": "O presente de primeira carga pode obter 50% de moedas grátis",
     "french": "Le cadeau de première charge permet d'obtenir 50 % de pièces gratuites",
@@ -2059,13 +2059,13 @@
   {
     "id": "204034",
     "type": "",
-    "chinese": "在兌換前你需要綁定手機以及完成首充禮包活動。\n你在進行兌換前需要在任意遊戲中進行下注的數額。當該數額為0時，你可以按當前的兌換比例進行兌換。\n你充值獲得的金幣需要3倍的下注數額，活動和充值贈送金幣需要8倍數額。\n例子：當你充值100獲得150，你的下注數額為100*3+50*8=700",
-    "english": "Before redeeming you need to bind your cell phone and complete the first pack activity.\nYou need to bet the amount in any game before redemption. When the amount is 0, you can redeem it at the current redemption rate.\nYou need 3 x the bet amount for the coins you recharge, and 8 x the amount for the event and recharge bonus coins.\nExample: When you recharge 100 and get 150, your bet amount is 100*3+50*8=700",
-    "spanish": " Antes de canjear necesitas vincular tu móvil y completar la actividad del primer pack.\nTienes que apostar la cantidad en cualquier juego antes de canjearlo. Cuando la cantidad sea 0, podrás canjearla al tipo de canje actual.\nNecesitas 3 x la cantidad apostada para las monedas que recargas, y 8 x la cantidad para el evento y las monedas de bonificación de recarga.\nEjemplo: Cuando recargas 100 y obtienes 150, tu importe de apuesta es 100*3+50*8=700",
-    "portuguese": "Antes de resgatar, você precisa vincular seu telefone celular e concluir a atividade do primeiro pacote.\nVocê precisa apostar o valor em qualquer jogo antes do resgate. Quando o valor for 0, você poderá resgatá-lo com a taxa de resgate atual.\nVocê precisa de 3 x o valor da aposta para as moedas que recarregar e 8 x o valor para as moedas de bônus de evento e recarga.\nExemplo: Quando você recarrega 100 e recebe 150, o valor da aposta é 100*3+50*8=700",
-    "french": "Avant d'être remboursé, vous devez lier votre téléphone portable et compléter l'activité du premier pack.\nVous devez miser le montant dans n'importe quel jeu avant de l'échanger. Lorsque le montant est égal à 0, vous pouvez l'échanger au taux d'échange actuel.\nVous avez besoin de 3 x le montant de la mise pour les pièces que vous rechargez, et de 8 x le montant pour les pièces bonus d'événement et de recharge.\nExemple : Lorsque vous rechargez 100 pièces et que vous en obtenez 150, le montant de votre mise est de 100*3+50*8=700",
-    "indonesian": "Sebelum menukarkan, Anda harus mengikat ponsel Anda dan menyelesaikan aktivitas paket pertama.\nAnda harus bertaruh dalam permainan apa pun sebelum penukaran. Jika jumlahnya 0, Anda dapat menukarkannya dengan harga penukaran saat ini.\nAnda perlu 3 x jumlah taruhan untuk koin yang Anda isi ulang, dan 8 x jumlah untuk acara dan mengisi ulang koin bonus.\nContoh: Ketika Anda mengisi ulang 100 dan mendapatkan 150, jumlah taruhan Anda adalah 100*3+50*8=700",
-    "malay": "Sebelum menukarkan, Anda harus mengikat ponsel Anda dan menyelesaikan aktivitas paket pertama.\nAnda harus bertaruh dalam permainan apa pun sebelum penukaran. Jika jumlahnya 0, anda boleh menukarkannya dengan harga penukaran saat ini.\nAnda perlu 3 x jumlah taruhan untuk koin yang anda isi ulang, dan 8 x jumlah untuk acara dan mengisi ulang bonus koin.\nContoh: Ketika anda mengisi ulang 100 dan mendapatkan 150, jumlah taruhan anda adalah 100*3+50*8=700"
+    "chinese": "在兌換前你需要綁定手機以及完成首充禮包活動。\n你在進行兌換前需要在任意遊戲中進行下注的數額。當該數額為0時，你可以按當前的兌換比例進行兌換。\n你充值獲得的金幣需要3倍的下注數額，活動和充值贈送金幣需要5倍數額。\n例子：當你充值100獲得150，你的下注數額為100*3+50*5=550",
+    "english": "Before redeeming you need to bind your cell phone and complete the first pack activity.\nYou need to bet the amount in any game before redemption. When the amount is 0, you can redeem it at the current redemption rate.\nYou need 3 x the bet amount for the coins you recharge, and 5 x the amount for the event and recharge bonus coins.\nExample: When you recharge 100 and get 150, your bet amount is 100*3+50*5=550",
+    "spanish": "Antes de resgatar, você precisa vincular seu telefone celular e concluir a atividade do primeiro pacote.\nVocê precisa apostar o valor em qualquer jogo antes do resgate. Quando o valor for 0, você poderá resgatá-lo com a taxa de resgate atual.\nVocê precisa de 3 x o valor da aposta para as moedas que recarregar e 5 x o valor para as moedas de bônus de evento e recarga.\nExemplo: Quando você recarrega 100 e recebe 150, o valor da aposta é 100*3+50*5=550",
+    "portuguese": "Antes de resgatar, você precisa vincular seu telefone celular e concluir a atividade do primeiro pacote.\nVocê precisa apostar o valor em qualquer jogo antes do resgate. Quando o valor for 0, você poderá resgatá-lo com a taxa de resgate atual.\nVocê precisa de 3 x o valor da aposta para as moedas que recarregar e 5 x o valor para as moedas de bônus de evento e recarga.\nExemplo: Quando você recarrega 100 e recebe 150, o valor da aposta é 100*3+50*5=550",
+    "french": "Antes de resgatar, você precisa vincular seu telefone celular e concluir a atividade do primeiro pacote.\nVocê precisa apostar o valor em qualquer jogo antes do resgate. Quando o valor for 0, você poderá resgatá-lo com a taxa de resgate atual.\nVocê precisa de 3 x o valor da aposta para as moedas que recarregar e 5 x o valor para as moedas de bônus de evento e recarga.\nExemplo: Quando você recarrega 100 e recebe 150, o valor da aposta é 100*3+50*5=550",
+    "indonesian": "Sebelum menukarkan, Anda harus mengikat ponsel Anda dan menyelesaikan aktivitas paket pertama.\nAnda harus bertaruh dalam permainan apa pun sebelum penukaran. Jika jumlahnya 0, Anda dapat menukarkannya dengan harga penukaran saat ini.\nAnda perlu 3 x jumlah taruhan untuk koin yang Anda isi ulang, dan 5 x jumlah untuk acara dan mengisi ulang koin bonus.\nContoh: Ketika Anda mengisi ulang 100 dan mendapatkan 150, jumlah taruhan Anda adalah 100*3+50*5=550",
+    "malay": "Sebelum menukarkan, Anda harus mengikat ponsel Anda dan menyelesaikan aktivitas paket pertama.\nAnda harus bertaruh dalam permainan apa pun sebelum penukaran. Jika jumlahnya 0, Anda dapat menukarkannya dengan harga penukaran saat ini.\nAnda perlu 3 x jumlah taruhan untuk koin yang Anda isi ulang, dan 5 x jumlah untuk acara dan mengisi ulang koin bonus.\nContoh: Ketika Anda mengisi ulang 100 dan mendapatkan 150, jumlah taruhan Anda adalah 100*3+50*5=550"
   },
   {
     "id": "204035",
@@ -2455,13 +2455,13 @@
   {
     "id": "205005",
     "type": "",
-    "chinese": "BRL",
-    "english": "BRL",
-    "spanish": "BRL",
-    "portuguese": "BRL",
-    "french": "BRL",
-    "indonesian": "BRL",
-    "malay": "BRL"
+    "chinese": "PHP",
+    "english": "PHP",
+    "spanish": "PHP",
+    "portuguese": "PHP",
+    "french": "PHP",
+    "indonesian": "PHP",
+    "malay": "PHP"
   },
   {
     "id": "205006",
@@ -2488,8 +2488,8 @@
   {
     "id": "205008",
     "type": "",
-    "chinese": "充值金額需要3倍打碼量，贈送金額需要8倍打碼量。",
-    "english": "The recharge amount requires 3 x the amount of bets, and the gift amount requires 8 x the amount of bets",
+    "chinese": "充值金額需要3倍打碼量，贈送金額需要5倍打碼量。",
+    "english": "The recharge amount requires 3 x the amount of bets, and the gift amount requires 5 x the amount of bets",
     "spanish": "El importe de recarga requiere 3 x la cantidad de apuestas, y el importe de regalo requiere 8 x la cantidad de apuestas",
     "portuguese": "O valor da recarga requer 3 x o valor das apostas, e o valor do presente requer 8 x o valor das apostas",
     "french": "Le montant de la recharge nécessite 3 x le montant des mises, et le montant du cadeau nécessite 8 x le montant des mises.",
@@ -2631,35 +2631,35 @@
   {
     "id": "206013",
     "type": "",
-    "chinese": "每日一次機會\\n獲得<color=#FDFF54>??????</color>BRL優惠充值\\n額外獲得金幣<color=#A6F0FD>??????</color>\\n點擊轉動查看獎勵！206013",
-    "english": "One chance per day \\n Get <color=#FDFF54>??????</color>BRL to rechange \\nGetbonus<color=#A6F0FD>??????</color>\\nClick spin! to see your bouns",
-    "spanish": "Una oportunidad al día \\nConsigue <color=#FDFF54>??????</color>BRL para cambiar \\nConsigue un bono<color=#A6F0FD>??????</color>\\n¡Haz clic en girar! para ver tus botes",
-    "portuguese": "Uma chance por dia \\nObtenha <color=#FDFF54>??????</color>BRL para trocar \\nObtenha bônus<color=#A6F0FD>??????</color>\\nClique em girar! para ver seus ganhos",
-    "french": "Une chance par jour \\n Recevez <color=#FDFF54>??????</color>BRL pour échanger \\n Gagnez un bonus<color=#A6F0FD>??????</color>\\n Cliquez sur \"spin !\" pour voir vos gains.",
+    "chinese": "每日一次機會\\n獲得<color=#FDFF54>??????</color>PHP優惠充值\\n額外獲得金幣<color=#A6F0FD>??????</color>\\n點擊轉動查看獎勵！206013",
+    "english": "One chance per day \\n Get <color=#FDFF54>??????</color>PHP to rechange \\nGetbonus<color=#A6F0FD>??????</color>\\nClick spin! to see your bouns",
+    "spanish": "Una oportunidad al día \\nConsigue <color=#FDFF54>??????</color>PHP para cambiar \\nConsigue un bono<color=#A6F0FD>??????</color>\\n¡Haz clic en girar! para ver tus botes",
+    "portuguese": "Uma chance por dia \\nObtenha <color=#FDFF54>??????</color>PHP para trocar \\nObtenha bônus<color=#A6F0FD>??????</color>\\nClique em girar! para ver seus ganhos",
+    "french": "Une chance par jour \\n Recevez <color=#FDFF54>??????</color>PHP pour échanger \\n Gagnez un bonus<color=#A6F0FD>??????</color>\\n Cliquez sur \"spin !\" pour voir vos gains.",
     "indonesian": "Satu kesempatan per hari<\\n>Dapatkan<sprite name=\"g\" tint=1>{0} untuk mengisi ulang<\\n>Dapatkan bonus ekstra<sprite name=\"g\" tint=1>{1}<\\n>Klik spin! untuk melihat pantulan Anda",
     "malay": "Get<sprite name=\"g\" tint=1>{0} to replace<\\n>Get extra bonus<sprite name=\"g\" tint=1>{1}<\\n>Click spin! untuk melihat bouns anda"
   },
   {
     "id": "206014",
     "type": "",
-    "chinese": "獲得<color=#FDFE58>{0}</color> BRL",
-    "english": "Get <color=#FDFE58>{0}</color> BRL",
-    "spanish": "Obtener<color=#FDFE58>{0}</color> BRL",
-    "portuguese": "Obter<color=#FDFE58>{0}</color> BRL",
-    "french": "Obtenez<color=#FDFE58>{0}</color> BRL",
-    "indonesian": "Dapatkan<color=#FDFE58>{0}</color> BRL",
-    "malay": "Dapatkan<color=#FDFE58>{0}</color> BRL"
+    "chinese": "獲得<color=#FDFE58>{0}</color> PHP",
+    "english": "Get <color=#FDFE58>{0}</color> PHP",
+    "spanish": "Obtener<color=#FDFE58>{0}</color> PHP",
+    "portuguese": "Obter<color=#FDFE58>{0}</color> PHP",
+    "french": "Obtenez<color=#FDFE58>{0}</color> PHP",
+    "indonesian": "Dapatkan<color=#FDFE58>{0}</color> PHP",
+    "malay": "Dapatkan<color=#FDFE58>{0}</color> PHP"
   },
   {
     "id": "206015",
     "type": "",
-    "chinese": "只需要{0}BRL",
-    "english": "Only {0}BRL now",
-    "spanish": "Sólo {0} ahora",
-    "portuguese": "Somente {0} agora",
-    "french": "Seulement {0} maintenant",
-    "indonesian": "Hanya {0} sekarang",
-    "malay": "Hanya {0} sekarang"
+    "chinese": "只需要{0}PHP",
+    "english": "Only {0}PHP now",
+    "spanish": "Sólo {0} PHPahora",
+    "portuguese": "Somente {0} PHPagora",
+    "french": "Somente {0} PHPagora",
+    "indonesian": "Hanya {0} PHPsekarang",
+    "malay": "Hanya {0} PHPsekarang"
   },
   {
     "id": "206016",
@@ -3643,13 +3643,13 @@
   {
     "id": "209033",
     "type": "",
-    "chinese": "綁定後你的朋友每充值500BRL,你將會獲得一筆金幣返利。你邀請的朋友每充值500BRL，你會得到3%的金幣返利。總共15金幣。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500BRL，你會得到1.5%的金幣返利。總共7.5金幣。",
-    "english": "For every 500BRL your friend recharges after the bind.You will get 3% gold rebate for every 500BRL you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500BRL recharge of your friend's invited person.Total 7.5 gold.",
-    "spanish": "Por cada 500BRL que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500BRL que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500BRL de la persona invitada por tu amigo.Total 7.5 oro.",
-    "portuguese": "Para cada 500BRL que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500BRL que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 BRL da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
-    "french": "Vous obtiendrez 3% de remise en or pour chaque 500BRL que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500BRL de la personne invitée par votre ami.Total 7,5 gold.",
-    "indonesian": "Untuk setiap 500BRL yang diisi ulang oleh teman Anda setelah pengikatan, Anda akan mendapatkan potongan harga 3% emas untuk setiap 500BRL yang Anda ajak teman Anda isi ulang, total 15 emas, dan teman yang Anda ajak dapat mengundang orang lain. Anda akan mendapatkan potongan harga 1,5% emas untuk setiap isi ulang 500BRL dari orang yang diundang oleh teman Anda, total 7,5 emas.",
-    "malay": "Forever y500BRL recharges rakan anda selepas \nAnda akan mendapat 3% gold rebate for \nEvery 500BRL you inite your friends to top \nup.Total 15 gold.The friends you invite can \nInvite other people. You will get 1.5% gold \nrebate forever y500BRL recharge of your \nfriend's invited person. Total 7.5 gold. \n"
+    "chinese": "綁定後你的朋友每充值500PHP,你將會獲得一筆金幣返利。你邀請的朋友每充值500PHP，你會得到3%的金幣返利。總共15金幣。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500PHP，你會得到1.5%的金幣返利。總共7.5金幣。",
+    "english": "For every 500PHP your friend recharges after the bind.You will get 3% gold rebate for every 500PHP you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500PHP recharge of your friend's invited person.Total 7.5 gold.",
+    "spanish": "Por cada 500PHP que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500PHP que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500PHP de la persona invitada por tu amigo.Total 7.5 oro.",
+    "portuguese": "Para cada 500PHP que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
+    "french": "Vous obtiendrez 3% de remise en or pour chaque 500PHP que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500PHP de la personne invitée par votre ami.Total 7,5 gold.",
+    "indonesian": "Untuk setiap 500PHP yang diisi ulang oleh teman Anda setelah pengikatan, Anda akan mendapatkan potongan harga 3% emas untuk setiap 500PHP yang Anda ajak teman Anda isi ulang, total 15 emas, dan teman yang Anda ajak dapat mengundang orang lain. Anda akan mendapatkan potongan harga 1,5% emas untuk setiap isi ulang 500PHP dari orang yang diundang oleh teman Anda, total 7,5 emas.",
+    "malay": "Forever y500PHP recharges rakan anda selepas \nAnda akan mendapat 3% gold rebate for \nEvery 500PHP you inite your friends to top \nup.Total 15 gold.The friends you invite can \nInvite other people. You will get 1.5% gold \nrebate forever y500PHP recharge of your \nfriend's invited person. Total 7.5 gold. \n"
   },
   {
     "id": "209034",
@@ -4259,13 +4259,13 @@
   {
     "id": "211019",
     "type": "",
-    "chinese": "轉盤分為3個等級，每個等級每天2次轉動機會，每次轉動根據等級消耗轉盤積分。每日充值金額按一比一獲得轉盤積分。積分會在第二天清零。\n轉盤獎勵會按照8倍計算需求打碼量。",
-    "english": "The wheel is divided into 3 levels, each level has 2 chances to spin every day, and each spin costs the PT according to the level. The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.\nThe wheel rewards will be counted according to 8 x the amount of demand bets.",
-    "spanish": "La rueda está dividida en 3 niveles, cada nivel tiene 2 oportunidades de girar cada día, y cada giro cuesta el PT según el nivel. La cantidad de recarga diaria es de uno a uno para conseguir el PT. Los puntos se recargarán al día siguiente.\nLas recompensas de la rueda se contarán según 8 x la cantidad de apuestas de demanda.",
-    "portuguese": "A roda é dividida em 3 níveis, cada nível tem 2 chances de girar todos os dias, e cada giro custa a PT de acordo com o nível. O valor da recarga diária é de um para um para obter o PT. Os pontos serão liberados no dia seguinte.\nAs recompensas da roda serão contadas de acordo com 8 x a quantidade de apostas de demanda.",
-    "french": "La roue est divisée en 3 niveaux, chaque niveau a 2 chances de tourner chaque jour, et chaque tour coûte le PT en fonction du niveau. Le montant de la recharge quotidienne est de un pour un pour obtenir le PT. Les points seront effacés le jour suivant.\nLes récompenses de la roue seront comptées en fonction de 8 x le montant des mises à la demande.",
-    "indonesian": "Roda ini dibagi menjadi 3 level, setiap level memiliki 2 kesempatan untuk berputar setiap hari, dan setiap putarannya akan dikenakan biaya PT sesuai dengan levelnya. Jumlah isi ulang harian adalah satu banding satu untuk mendapatkan PT. Poin akan dihapus pada hari berikutnya.\nHadiah roda akan dihitung berdasarkan 8 x jumlah taruhan permintaan.",
-    "malay": "Roda dibahagi kepada 3 aras, setiap aras mempunyai 2 peluang untuk berputar setiap hari, dan setiap berputar biaya PT mengikut aras. Jumlah muatan semula sehari adalah satu kepada satu untuk mendapatkan PT. Titik akan dibersihkan pada hari berikutnya.\nHadiah roda akan dihitung mengikut 8 x jumlah taruhan permintaan. "
+    "chinese": "轉盤分為3個等級，每個等級每天2次轉動機會，每次轉動根據等級消耗轉盤積分。每日充值金額按一比一獲得轉盤積分。積分會在第二天清零。\n轉盤獎勵會按照5倍計算需求打碼量。",
+    "english": "The wheel is divided into 3 levels, each level has 2 chances to spin every day, and each spin costs the PT according to the level. The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.\nThe wheel rewards will be counted according to 5 x the amount of demand bets.",
+    "spanish": "La rueda está dividida en 3 niveles, cada nivel tiene 2 oportunidades de girar cada día, y cada giro cuesta el PT según el nivel. La cantidad de recarga diaria es de uno a uno para conseguir el PT. Los puntos se recargarán al día siguiente.\nLas recompensas de la rueda se contarán según 5 x la cantidad de apuestas de demanda.",
+    "portuguese": "A roda é dividida em 3 níveis, cada nível tem 2 chances de girar todos os dias, e cada giro custa a PT de acordo com o nível. O valor da recarga diária é de um para um para obter o PT. Os pontos serão liberados no dia seguinte.\nAs recompensas da roda serão contadas de acordo com 5 x a quantidade de apostas de demanda.",
+    "french": "La roue est divisée en 3 niveaux, chaque niveau a 2 chances de tourner chaque jour, et chaque tour coûte le PT en fonction du niveau. Le montant de la recharge quotidienne est de un pour un pour obtenir le PT. Les points seront effacés le jour suivant.\nLes récompenses de la roue seront comptées en fonction de 5 x le montant des mises à la demande.",
+    "indonesian": "Roda ini dibagi menjadi 3 level, setiap level memiliki 2 kesempatan untuk berputar setiap hari, dan setiap putarannya akan dikenakan biaya PT sesuai dengan levelnya. Jumlah isi ulang harian adalah satu banding satu untuk mendapatkan PT. Poin akan dihapus pada hari berikutnya.\nHadiah roda akan dihitung berdasarkan 5 x jumlah taruhan permintaan.",
+    "malay": "Roda dibahagi kepada 3 aras, setiap aras mempunyai 2 peluang untuk berputar setiap hari, dan setiap berputar biaya PT mengikut aras. Jumlah muatan semula sehari adalah satu kepada satu untuk mendapatkan PT. Titik akan dibersihkan pada hari berikutnya.\nHadiah roda akan dihitung mengikut 5 x jumlah taruhan permintaan. "
   },
   {
     "id": "211020",
@@ -4952,13 +4952,13 @@
   {
     "id": "214025",
     "type": "",
-    "chinese": "解鎖後7日登錄可領{0}BRL",
-    "english": "Unlocked 7 days after login to receive {0}BRL",
-    "spanish": "Desbloqueado 7 días después de iniciar sesión para recibir {0}BRL",
-    "portuguese": "Desbloqueado 7 dias após o login para receber {0}BRL",
-    "french": "Débloqué 7 jours après la connexion pour recevoir {0}BRL",
-    "indonesian": "Tidak terkunci 7 hari setelah login untuk menerima {0}BRL",
-    "malay": "Tidak dikunci 7 hari selepas daftar masuk untuk menerima {0}BRL"
+    "chinese": "解鎖後7日登錄可領{0}PHP",
+    "english": "Unlocked 7 days after login to receive {0}PHP",
+    "spanish": "Desbloqueado 7 días después de iniciar sesión para recibir {0}PHP",
+    "portuguese": "Desbloqueado 7 dias após o login para receber {0}PHP",
+    "french": "Débloqué 7 jours après la connexion pour recevoir {0}PHP",
+    "indonesian": "Tidak terkunci 7 hari setelah login untuk menerima {0}PHP",
+    "malay": "Tidak dikunci 7 hari selepas daftar masuk untuk menerima {0}PHP"
   },
   {
     "id": "214026",
@@ -4985,13 +4985,13 @@
   {
     "id": "214028",
     "type": "",
-    "chinese": "簽到獲得的金幣按8倍計算需求打碼量",
-    "english": "The coins obtained by signing in will be counted as 8 x the required bet",
-    "spanish": "Las monedas obtenidas al iniciar sesión se contarán como 8 x la apuesta requerida",
-    "portuguese": "As moedas obtidas ao fazer login serão contadas como 8 x a aposta necessária",
-    "french": "Les pièces obtenues en vous connectant seront comptées comme 8 x la mise requise.",
-    "indonesian": "Koin yang diperoleh dengan masuk akan dihitung sebagai 8 x taruhan yang diperlukan",
-    "malay": "Koin yang diperoleh dengan menandatangani akan dihitung sebagai 8 x taruhan yang diperlukan"
+    "chinese": "簽到獲得的金幣按5倍計算需求打碼量",
+    "english": "The coins obtained by signing in will be counted as 5 x the required bet",
+    "spanish": "Las monedas obtenidas al iniciar sesión se contarán como 5 x la apuesta requerida",
+    "portuguese": "As moedas obtidas ao fazer login serão contadas como 5 x a aposta necessária",
+    "french": "Les pièces obtenues en vous connectant seront comptées comme 5 x la mise requise.",
+    "indonesian": "Koin yang diperoleh dengan masuk akan dihitung sebagai 5 x taruhan yang diperlukan",
+    "malay": "Koin yang diperoleh dengan menandatangani akan dihitung sebagai 5 x taruhan yang diperlukan"
   },
   {
     "id": "214029",
@@ -5051,13 +5051,13 @@
   {
     "id": "214034",
     "type": "",
-    "chinese": "今日可領取的回饋獎勵為昨日的積累值。具體點擊左側查看積累規則。領取回饋獎勵需要進行充值，充值金額為可領取獎勵*5。且只能通過活動介面進行充值，無法通過其他途徑充值達成領取條件。充值金額按3倍計算打碼量。回饋獎勵按8倍計算打碼量。",
-    "english": "Today's Claims are based on yesterday's Earnings. Click on the left side to see the Earnings rules. To receive the rewards, you need to recharge the amount of the rewards you can receive*5. You can only recharge through the event interface, you cannot recharge through other means to achieve the conditions. The recharge amount will be calculated as 3 x the betting. The rebate reward is calculated by 8 x the betting.",
-    "spanish": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 8 x a aposta.",
-    "portuguese": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 8 x a aposta.",
-    "french": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 8 x a aposta.",
-    "indonesian": "Klaim hari ini didasarkan pada Penghasilan kemarin. Klik di sisi kiri untuk melihat aturan Penghasilan. Untuk menerima hadiah, Anda harus mengisi ulang jumlah hadiah yang dapat Anda terima*5. Anda hanya dapat mengisi ulang melalui antarmuka acara, Anda tidak dapat mengisi ulang melalui cara lain untuk memenuhi ketentuan. Jumlah isi ulang akan dihitung sebagai 3 x taruhan. Hadiah rabat dihitung sebesar 8 x taruhan.",
-    "malay": "Klaim hari ini didasarkan pada Penghasilan kemarin. Klik di sisi kiri untuk melihat aturan Penghasilan. Untuk menerima hadiah, Anda harus mengisi ulang jumlah hadiah yang dapat Anda terima*5. Anda hanya dapat mengisi ulang melalui antarmuka acara, Anda tidak dapat mengisi ulang melalui cara lain untuk memenuhi ketentuan. Jumlah isi ulang akan dihitung sebagai 3 x taruhan. Hadiah rabat dihitung sebesar 8 x taruhan."
+    "chinese": "今日可領取的回饋獎勵為昨日的積累值。具體點擊左側查看積累規則。領取回饋獎勵需要進行充值，充值金額為可領取獎勵*5。且只能通過活動介面進行充值，無法通過其他途徑充值達成領取條件。充值金額按3倍計算打碼量。回饋獎勵按5倍計算打碼量。",
+    "english": "Today's Claims are based on yesterday's Earnings. Click on the left side to see the Earnings rules. To receive the rewards, you need to recharge the amount of the rewards you can receive*5. You can only recharge through the event interface, you cannot recharge through other means to achieve the conditions. The recharge amount will be calculated as 3 x the betting. The rebate reward is calculated by 5 x the betting.",
+    "spanish": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 5 x a aposta.",
+    "portuguese": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 5 x a aposta.",
+    "french": "As reivindicações de hoje são baseadas nos ganhos de ontem. Clique no lado esquerdo para ver as regras dos ganhos. Para receber as recompensas, você precisa recarregar o valor das recompensas que pode receber*5. Você só pode recarregar por meio da interface do evento, não pode recarregar por outros meios para atingir as condições. O valor da recarga será calculado como 3 x a aposta. O prêmio de desconto é calculado como 5 x a aposta.",
+    "indonesian": "Klaim hari ini didasarkan pada Penghasilan kemarin. Klik di sisi kiri untuk melihat aturan Penghasilan. Untuk menerima hadiah, Anda harus mengisi ulang jumlah hadiah yang dapat Anda terima*5. Anda hanya dapat mengisi ulang melalui antarmuka acara, Anda tidak dapat mengisi ulang melalui cara lain untuk memenuhi ketentuan. Jumlah isi ulang akan dihitung sebagai 3 x taruhan. Hadiah rabat dihitung sebesar 5 x taruhan.",
+    "malay": "Klaim hari ini didasarkan pada Penghasilan kemarin. Klik di sisi kiri untuk melihat aturan Penghasilan. Untuk menerima hadiah, Anda harus mengisi ulang jumlah hadiah yang dapat Anda terima*5. Anda hanya dapat mengisi ulang melalui antarmuka acara, Anda tidak dapat mengisi ulang melalui cara lain untuk memenuhi ketentuan. Jumlah isi ulang akan dihitung sebagai 3 x taruhan. Hadiah rabat dihitung sebesar 5 x taruhan."
   },
   {
     "id": "214035",
@@ -12344,13 +12344,13 @@
   {
     "id": "500001",
     "type": "",
-    "chinese": "歡迎來到GT遊戲世界\n通過福利活動和充值獲取金幣遊玩我們的各種賭場經典遊戲。積累你的金幣，通過PIX快速服務兌換你的獎勵，成為GT大贏家！",
-    "english": "Welcome to the world of GT games\nPlay our various casino classics with benefits and top-ups for coins. Accumulate your coins and redeem your rewards through PIX Express Service to become a GT winner!",
-    "spanish": " Bienvenido al mundo de los juegos GT\nJuegue a nuestros diversos clásicos de casino con ventajas y recargas de monedas. Acumula tus monedas y canjea tus recompensas a través del Servicio PIX Express para convertirte en un ganador GT!",
-    "portuguese": "Bem-vindo ao mundo dos jogos GT\nJogue nossos vários clássicos de cassino com benefícios e recargas de moedas. Acumule suas moedas e resgate suas recompensas por meio do serviço PIX Express para se tornar um vencedor GT!",
-    "french": "Bienvenue dans le monde des jeux GT\nJouez à nos différents jeux de casino classiques avec des avantages et des recharges de pièces. Accumulez vos pièces et échangez vos récompenses par le biais du service PIX Express pour devenir un gagnant GT !",
-    "indonesian": "Selamat datang di dunia game GT\nMainkan berbagai permainan kasino klasik kami dengan berbagai keuntungan dan top-up koin. Kumpulkan koin Anda dan tukarkan hadiah Anda melalui Layanan PIX Express untuk menjadi pemenang GT!",
-    "malay": "Selamat datang di dunia game GT\nMainkan berbagai permainan kasino klasik kami dengan berbagai keuntungan dan top-up koin. Kumpulkan koin Anda dan tukarkan hadiah Anda melalui Layanan PIX Express untuk menjadi pemenang GT!"
+    "chinese": "歡迎來到GT遊戲世界\n通過福利活動和充值獲取金幣遊玩我們的各種賭場經典遊戲。積累你的金幣，通過快速服務兌換你的獎勵，成為GT大贏家！",
+    "english": "Welcome to the world of GT games\nPlay our various casino classics with benefits and top-ups for coins. Accumulate your coins and redeem your rewards through  Express Service to become a GT winner!",
+    "spanish": " Bienvenido al mundo de los juegos GT\nJuegue a nuestros diversos clásicos de casino con ventajas y recargas de monedas. Acumula tus monedas y canjea tus recompensas a través del Servicio  Express para convertirte en un ganador GT!",
+    "portuguese": "Bem-vindo ao mundo dos jogos GT\nJogue nossos vários clássicos de cassino com benefícios e recargas de moedas. Acumule suas moedas e resgate suas recompensas por meio do serviço Express para se tornar um vencedor GT!",
+    "french": "Bienvenue dans le monde des jeux GT\nJouez à nos différents jeux de casino classiques avec des avantages et des recharges de pièces. Accumulez vos pièces et échangez vos récompenses par le biais du service  Express pour devenir un gagnant GT !",
+    "indonesian": "Selamat datang di dunia game GT\nMainkan berbagai permainan kasino klasik kami dengan berbagai keuntungan dan top-up koin. Kumpulkan koin Anda dan tukarkan hadiah Anda melalui Layanan  Express untuk menjadi pemenang GT!",
+    "malay": "Selamat datang di dunia game GT\nMainkan berbagai permainan kasino klasik kami dengan berbagai keuntungan dan top-up koin. Kumpulkan koin Anda dan tukarkan hadiah Anda melalui Layanan Express untuk menjadi pemenang GT!"
   },
   {
     "id": "500002",
