@@ -5469,24 +5469,24 @@
   {
     "id": "217007",
     "type": "",
-    "chinese": "累計充值達到{0}",
-    "english": "Recharge up to {0}",
-    "spanish": "Recarga de até {0}",
-    "portuguese": "Recarga de até {0}",
-    "french": "Recarga de até {0}",
-    "indonesian": "Isi ulang hingga {0}",
-    "malay": "Isi ulang hingga {0}"
+    "chinese": "累計充值達到{0}PHP",
+    "english": "Recharge up to {0}PHP",
+    "spanish": "Recarga de até {0}PHP",
+    "portuguese": "Recarga de até {0}PHP",
+    "french": "Recarga de até {0}PHP",
+    "indonesian": "Isi ulang hingga {0}PHP",
+    "malay": "Isi ulang hingga {0}PHP"
   },
   {
     "id": "217008",
     "type": "",
-    "chinese": "下注{0}",
-    "english": "Bet {0}",
-    "spanish": "Aposta {0}",
-    "portuguese": "Aposta {0}",
-    "french": "Aposta {0}",
-    "indonesian": "Bertaruh {0}",
-    "malay": "Bertaruh {0}"
+    "chinese": "下注{0}次",
+    "english": "Bet {0}times",
+    "spanish": "Aposta {0}vezes",
+    "portuguese": "Aposta {0}vezes",
+    "french": "Aposta {0}vezes",
+    "indonesian": "Taruhan {0} kali",
+    "malay": "Taruhan {0} kali"
   },
   {
     "id": "217009",
