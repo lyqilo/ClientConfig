@@ -36,11 +36,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "Hotfix.WPBY.WPBYEntry",
+    "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module06.OneWPBY.OneWPBYEntry",
     "luaRootName": "OneWPBYEntry",
-    "driveType": "ILRuntime",
+    "driveType": "Lua",
     "downFiles": [
       "module06"
     ]
@@ -989,6 +989,29 @@
     "driveType": "ILRuntime",
     "downFiles": [
       "module66"
+    ]
+  },
+  {
+    "ID": 44,
+    "scenName": "module68",
+    "uiName": "",
+    "gameName": "400067",
+    "clientId": 68,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "Hotfix.JDSTB.JDSTB_Enter",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module68"
     ]
   }
 ]
