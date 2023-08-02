@@ -1861,13 +1861,13 @@
   {
     "id": "204016",
     "type": "",
-    "chinese": "我的金幣：",
-    "english": "My Gold:",
-    "spanish": "Mi Oro:",
-    "portuguese": "Meu ouro:",
-    "french": "Mon or :",
-    "indonesian": "Emas Saya",
-    "malay": "Emas saya: "
+    "chinese": "可兌換金幣：",
+    "english": "Exchangeable:",
+    "spanish": "Exchangeable:",
+    "portuguese": "Exchangeable:",
+    "french": "Exchangeable:",
+    "indonesian": "Exchangeable:",
+    "malay": "Exchangeable:"
   },
   {
     "id": "204017",
