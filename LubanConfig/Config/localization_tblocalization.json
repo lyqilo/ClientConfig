@@ -1641,13 +1641,90 @@
   {
     "id": "202017",
     "type": "",
-    "chinese": "昵稱過長請重新輸入",
-    "english": "Nickname is too long, please retype",
-    "spanish": "El apodo es demasiado largo, por favor, escríbalo de nuevo",
-    "portuguese": "O apelido é muito longo, por favor, digite-o novamente",
-    "french": "Le pseudonyme est trop long, veuillez le retaper",
-    "indonesian": "Nama panggilan terlalu panjang, harap ketik ulang",
-    "malay": "Nama panggilan terlalu panjang, sila jenis semula"
+    "chinese": "昵称输入错误",
+    "english": "Nickname input error",
+    "spanish": "Nickname input error",
+    "portuguese": "Nickname input error",
+    "french": "Nickname input error",
+    "indonesian": "Nickname input error",
+    "malay": "Nickname input error"
+  },
+  {
+    "id": "202019",
+    "type": "",
+    "chinese": "修改郵箱失敗",
+    "english": "Email change failed",
+    "spanish": "Email change failed",
+    "portuguese": "Email change failed",
+    "french": "Email change failed",
+    "indonesian": "Email change failed",
+    "malay": "Email change failed"
+  },
+  {
+    "id": "202020",
+    "type": "",
+    "chinese": "修改郵箱成功",
+    "english": "Email change succeeded",
+    "spanish": "Email change succeeded",
+    "portuguese": "Email change succeeded",
+    "french": "Email change succeeded",
+    "indonesian": "Email change succeeded",
+    "malay": "Email change succeeded"
+  },
+  {
+    "id": "202021",
+    "type": "",
+    "chinese": "輸入郵箱錯誤",
+    "english": "Input Email Error",
+    "spanish": "Input Email Error",
+    "portuguese": "Input Email Error",
+    "french": "Input Email Error",
+    "indonesian": "Input Email Error",
+    "malay": "Input Email Error"
+  },
+  {
+    "id": "202022",
+    "type": "",
+    "chinese": "輸入郵箱錯誤",
+    "english": "Input Email Error",
+    "spanish": "Input Email Error",
+    "portuguese": "Input Email Error",
+    "french": "Input Email Error",
+    "indonesian": "Input Email Error",
+    "malay": "Input Email Error"
+  },
+  {
+    "id": "202023",
+    "type": "",
+    "chinese": "昵称输入错误",
+    "english": "Nickname input error",
+    "spanish": "Nickname input error",
+    "portuguese": "Nickname input error",
+    "french": "Nickname input error",
+    "indonesian": "Nickname input error",
+    "malay": "Nickname input error"
+  },
+  {
+    "id": "202024",
+    "type": "",
+    "chinese": "昵称输入错误",
+    "english": "Nickname input error",
+    "spanish": "Nickname input error",
+    "portuguese": "Nickname input error",
+    "french": "Nickname input error",
+    "indonesian": "Nickname input error",
+    "malay": "Nickname input error"
+  },
+  {
+    "id": "202025",
+    "type": "",
+    "chinese": "昵称输入错误",
+    "english": "Nickname input error",
+    "spanish": "Nickname input error",
+    "portuguese": "Nickname input error",
+    "french": "Nickname input error",
+    "indonesian": "Nickname input error",
+    "malay": "Nickname input error"
   },
   {
     "id": "203001",
