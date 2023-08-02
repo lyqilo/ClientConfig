@@ -12397,6 +12397,39 @@
     "malay": "xgmm_yn"
   },
   {
+    "id": "601004",
+    "type": "Texture",
+    "chinese": "xgtx_yw",
+    "english": "xgtx_yw",
+    "spanish": "xgtx_yw",
+    "portuguese": "xgtx_yw",
+    "french": "xgtx_yw",
+    "indonesian": "xgtx_yw",
+    "malay": "xgtx_yw"
+  },
+  {
+    "id": "601005",
+    "type": "Texture",
+    "chinese": "tips_yw",
+    "english": "tips_yw",
+    "spanish": "tips_yw",
+    "portuguese": "tips_yw",
+    "french": "tips_yw",
+    "indonesian": "tips_yw",
+    "malay": "tips_yw"
+  },
+  {
+    "id": "601006",
+    "type": "Texture",
+    "chinese": "kftc_yw",
+    "english": "kftc_yw",
+    "spanish": "kftc_yw",
+    "portuguese": "kftc_yw",
+    "french": "kftc_yw",
+    "indonesian": "kftc_yw",
+    "malay": "kftc_yw"
+  },
+  {
     "id": "602001",
     "type": "Texture",
     "chinese": "czbt_zw",
