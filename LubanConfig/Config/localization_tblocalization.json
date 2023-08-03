@@ -5588,6 +5588,39 @@
     "malay": "Semua tugas telah selesai, nantikan aktivitas selanjutnya!"
   },
   {
+    "id": "217011",
+    "type": "",
+    "chinese": "绑定手机可领取",
+    "english": "Bind  phone to receive",
+    "spanish": "Bind  phone to receive",
+    "portuguese": "Bind  phone to receive",
+    "french": "Bind  phone to receive",
+    "indonesian": "Bind  phone to receive",
+    "malay": "Bind  phone to receive"
+  },
+  {
+    "id": "217012",
+    "type": "",
+    "chinese": "每日可领1次",
+    "english": "Get it once a day",
+    "spanish": "Get it once a day",
+    "portuguese": "Get it once a day",
+    "french": "Get it once a day",
+    "indonesian": "Get it once a day",
+    "malay": "Get it once a day"
+  },
+  {
+    "id": "217013",
+    "type": "",
+    "chinese": "在线{0}可领取",
+    "english": "Get it for {0} minutes online",
+    "spanish": "Get it for {0} minutes online",
+    "portuguese": "Get it for {0} minutes online",
+    "french": "Get it for {0} minutes online",
+    "indonesian": "Get it for {0} minutes online",
+    "malay": "Get it for {0} minutes online"
+  },
+  {
     "id": "301001",
     "type": "",
     "chinese": "總押注",
