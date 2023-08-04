@@ -4081,6 +4081,72 @@
     "malay": "Ketika bawahan Anda memiliki bawahan mereka sendiri dan mendapatkan potongan harga isi ulang, Anda akan menerima potongan harga isi ulang dari mereka. Anda akan menerima potongan harga agen sebesar 1,5% dari jumlah isi ulang. Anda hanya bisa mendapatkan potongan harga ini sekali per isi ulang. Hubungi layanan pelanggan kami untuk meningkatkan status menjadi agen VIP untuk mendapatkan jumlah rabat yang lebih tinggi."
   },
   {
+    "id": "209066",
+    "type": "",
+    "chinese": "給你的朋友分享二維碼或鏈接下載遊戲！",
+    "english": "Share the QR or link to your friends to download and play！ ",
+    "spanish": "Share the QR or link to your friends to download and play！ ",
+    "portuguese": "Share the QR or link to your friends to download and play！ ",
+    "french": "Share the QR or link to your friends to download and play！ ",
+    "indonesian": "Share the QR or link to your friends to download and play！ ",
+    "malay": "Share the QR or link to your friends to download and play！ "
+  },
+  {
+    "id": "209067",
+    "type": "",
+    "chinese": "分享邀請碼給朋友，綁定後將獲得獎勵！",
+    "english": "Friends bind your invite code and you'll get huge rewards!",
+    "spanish": "Friends bind your invite code and you'll get huge rewards!",
+    "portuguese": "Friends bind your invite code and you'll get huge rewards!",
+    "french": "Friends bind your invite code and you'll get huge rewards!",
+    "indonesian": "Friends bind your invite code and you'll get huge rewards!",
+    "malay": "Friends bind your invite code and you'll get huge rewards!"
+  },
+  {
+    "id": "209068",
+    "type": "",
+    "chinese": "複製邀請碼",
+    "english": "Copy Code",
+    "spanish": "Copy Code",
+    "portuguese": "Copy Code",
+    "french": "Copy Code",
+    "indonesian": "Copy Code",
+    "malay": "Copy Code"
+  },
+  {
+    "id": "209069",
+    "type": "",
+    "chinese": "你已綁定邀請人：",
+    "english": "You have bound the invitee:",
+    "spanish": "You have bound the invitee:",
+    "portuguese": "You have bound the invitee:",
+    "french": "You have bound the invitee:",
+    "indonesian": "You have bound the invitee:",
+    "malay": "You have bound the invitee:"
+  },
+  {
+    "id": "209070",
+    "type": "",
+    "chinese": "邀請碼：",
+    "english": "Bind code:",
+    "spanish": "Bind code:",
+    "portuguese": "Bind code:",
+    "french": "Bind code:",
+    "indonesian": "Bind code:",
+    "malay": "Bind code:"
+  },
+  {
+    "id": "209071",
+    "type": "",
+    "chinese": "請輸入邀請碼",
+    "english": "Please enter the invite code",
+    "spanish": "Please enter the invite code",
+    "portuguese": "Please enter the invite code",
+    "french": "Please enter the invite code",
+    "indonesian": "Please enter the invite code",
+    "malay": "Please enter the invite code"
+  },
+  {
     "id": "210001",
     "type": "",
     "chinese": "排行榜",
