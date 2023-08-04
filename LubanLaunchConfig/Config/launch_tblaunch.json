@@ -4,7 +4,7 @@
     "DNS": [
       "https://gamesgt.s3.ap-southeast-1.amazonaws.com"
     ],
-    "CdnDirectoryName": "GTMegaChampionRes",
+    "CdnDirectoryName": "GTCrazySpinRes",
     "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",
     "LaunchPackageName": "Launch",
     "LobbyPackageName": "Lobby",
