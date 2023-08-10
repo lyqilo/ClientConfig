@@ -5687,6 +5687,72 @@
     "malay": "Get it for {0} minutes online"
   },
   {
+    "id": "218001",
+    "type": "",
+    "chinese": "如果你不太熟悉充值通道的功能如何使用\n请点击下方的视频或引导按钮查看支付流程细节",
+    "english": "If you're not familiar with how the recharge channel function works\nPlease click on the video or guide button below to see the details of the payment flow",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "218002",
+    "type": "",
+    "chinese": "直连模式引导",
+    "english": "Normal Connect Tips",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "218003",
+    "type": "",
+    "chinese": "扫码模式引导",
+    "english": "QR Code Connect Tips",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "218004",
+    "type": "",
+    "chinese": "支付通道",
+    "english": "Payment channel",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "218005",
+    "type": "",
+    "chinese": "直连模式",
+    "english": "Normal Connect",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
+    "id": "218006",
+    "type": "",
+    "chinese": "扫码模式",
+    "english": "QR Code Connect",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": ""
+  },
+  {
     "id": "301001",
     "type": "",
     "chinese": "總押注",
