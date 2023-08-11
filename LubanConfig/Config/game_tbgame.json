@@ -990,5 +990,28 @@
     "downFiles": [
       "module66"
     ]
+  },
+  {
+    "ID": 44,
+    "scenName": "module69",
+    "uiName": "",
+    "gameName": "400066",
+    "clientId": 69,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "Hotfix.LHD.LHD_EnterPanel",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module69"
+    ]
   }
 ]
