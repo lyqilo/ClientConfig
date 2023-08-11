@@ -993,6 +993,29 @@
   },
   {
     "ID": 44,
+    "scenName": "module67",
+    "uiName": "",
+    "gameName": "",
+    "clientId": 67,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10001"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "Hotfix.Game.ZombieFish.ZTD",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module67"
+    ]
+  },
+  {
+    "ID": 45,
     "scenName": "module68",
     "uiName": "",
     "gameName": "400067",
