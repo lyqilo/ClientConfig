@@ -726,11 +726,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.Game.AJDMX.AJDMX_Entry",
     "rootName": "",
     "luaPath": "Module54.ajdmx.AJDMXEntry",
     "luaRootName": "AJDMXEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module54"
     ]
