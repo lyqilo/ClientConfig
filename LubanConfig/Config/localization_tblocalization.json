@@ -12760,6 +12760,17 @@
     "malay": "xutou_1_yw"
   },
   {
+    "id": "369046",
+    "type": "",
+    "chinese": "下注已達到限紅",
+    "english": "The bets have reached the limit",
+    "spanish": "The bets have reached the limit",
+    "portuguese": "The bets have reached the limit",
+    "french": "The bets have reached the limit",
+    "indonesian": "The bets have reached the limit",
+    "malay": "The bets have reached the limit"
+  },
+  {
     "id": "400057",
     "type": "",
     "chinese": "冰球突破",
@@ -13092,7 +13103,7 @@
   {
     "id": "400069",
     "type": "",
-    "chinese": "龙虎斗",
+    "chinese": "龍虎鬥",
     "english": "Dragon VS Tiger",
     "spanish": "Dragon VS Tiger",
     "portuguese": "Dragon VS Tiger",
