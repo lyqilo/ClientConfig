@@ -13932,6 +13932,17 @@
     "malay": "The bets have reached the limit"
   },
   {
+    "id": "369047",
+    "type": "",
+    "chinese": "金幣不足",
+    "english": "Not enough coins",
+    "spanish": "Sin monedas suficientes",
+    "portuguese": "Sem moedas suficientes",
+    "french": "Pas assez de pièces",
+    "indonesian": "Tidak cukup koin",
+    "malay": "Tidak cukup koin"
+  },
+  {
     "id": "400057",
     "type": "",
     "locationName": "",
