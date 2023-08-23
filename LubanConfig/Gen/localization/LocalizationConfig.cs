@@ -64,7 +64,7 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// </summary>
     public string Type { get; private set; }
     /// <summary>
-    /// 子游戏图片需要填写图集名字
+    /// 子遊戲圖片需要填寫圖集名字
     /// </summary>
     public string LocationName { get; private set; }
     /// <summary>
