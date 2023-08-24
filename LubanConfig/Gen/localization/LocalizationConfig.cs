@@ -24,6 +24,7 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     {
         { if(!_json["id"].IsString) { throw new SerializationException(); }  Id = _json["id"]; }
         { if(!_json["type"].IsString) { throw new SerializationException(); }  Type = _json["type"]; }
+        { if(!_json["locationName"].IsString) { throw new SerializationException(); }  LocationName = _json["locationName"]; }
         { if(!_json["chinese"].IsString) { throw new SerializationException(); }  Chinese = _json["chinese"]; }
         { if(!_json["english"].IsString) { throw new SerializationException(); }  English = _json["english"]; }
         { if(!_json["spanish"].IsString) { throw new SerializationException(); }  Spanish = _json["spanish"]; }
@@ -34,10 +35,11 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         PostInit();
     }
 
-    public LocalizationConfig(string id, string type, string chinese, string english, string spanish, string portuguese, string french, string indonesian, string malay ) 
+    public LocalizationConfig(string id, string type, string locationName, string chinese, string english, string spanish, string portuguese, string french, string indonesian, string malay ) 
     {
         this.Id = id;
         this.Type = type;
+        this.LocationName = locationName;
         this.Chinese = chinese;
         this.English = english;
         this.Spanish = spanish;
@@ -61,6 +63,10 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// 類型(默認文本，可以添加Audio,Texture)
     /// </summary>
     public string Type { get; private set; }
+    /// <summary>
+    /// 子遊戲圖片需要填寫圖集名字
+    /// </summary>
+    public string LocationName { get; private set; }
     /// <summary>
     /// 中文
     /// </summary>
@@ -107,6 +113,7 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         return "{ "
         + "Id:" + Id + ","
         + "Type:" + Type + ","
+        + "LocationName:" + LocationName + ","
         + "Chinese:" + Chinese + ","
         + "English:" + English + ","
         + "Spanish:" + Spanish + ","

@@ -496,11 +496,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.LGDY.LGDY_Entry",
     "rootName": "",
     "luaPath": "Module44.LGDDY.LGDDYEntry",
     "luaRootName": "LGDDYEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module44"
     ]
@@ -661,7 +661,7 @@
     "rootName": "",
     "luaPath": "Module51.SGXML.SGXMLEntry",
     "luaRootName": "SGXMLEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module51"
     ]
@@ -726,11 +726,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.Game.AJDMX.AJDMX_Entry",
     "rootName": "",
     "luaPath": "Module54.ajdmx.AJDMXEntry",
     "luaRootName": "AJDMXEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module54"
     ]
@@ -989,6 +989,52 @@
     "driveType": "ILRuntime",
     "downFiles": [
       "module66"
+    ]
+  },
+  {
+    "ID": 44,
+    "scenName": "module69",
+    "uiName": "",
+    "gameName": "400069",
+    "clientId": 69,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "Hotfix.LHD.LHD_EnterPanel",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module69"
+    ]
+  },
+  {
+    "ID": 45,
+    "scenName": "module71",
+    "uiName": "",
+    "gameName": "400071",
+    "clientId": 71,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "Hotfix.ZS.ZS_Enter",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module69"
     ]
   }
 ]
