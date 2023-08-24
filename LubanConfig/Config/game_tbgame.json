@@ -995,7 +995,7 @@
     "ID": 44,
     "scenName": "module69",
     "uiName": "",
-    "gameName": "400066",
+    "gameName": "400069",
     "clientId": 69,
     "otherClientId": 0,
     "BL": [
@@ -1006,6 +1006,29 @@
     ],
     "Orientation": "Landscape",
     "StartScriptName": "Hotfix.LHD.LHD_EnterPanel",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module69"
+    ]
+  },
+  {
+    "ID": 45,
+    "scenName": "module71",
+    "uiName": "",
+    "gameName": "400071",
+    "clientId": 71,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "Landscape",
+    "StartScriptName": "Hotfix.ZS.ZS_Enter",
     "rootName": "",
     "luaPath": "",
     "luaRootName": "",
