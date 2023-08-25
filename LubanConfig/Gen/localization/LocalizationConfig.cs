@@ -32,10 +32,14 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         { if(!_json["french"].IsString) { throw new SerializationException(); }  French = _json["french"]; }
         { if(!_json["indonesian"].IsString) { throw new SerializationException(); }  Indonesian = _json["indonesian"]; }
         { if(!_json["malay"].IsString) { throw new SerializationException(); }  Malay = _json["malay"]; }
+        { if(!_json["Hindi"].IsString) { throw new SerializationException(); }  Hindi = _json["Hindi"]; }
+        { if(!_json["Bengali"].IsString) { throw new SerializationException(); }  Bengali = _json["Bengali"]; }
+        { if(!_json["Telugu"].IsString) { throw new SerializationException(); }  Telugu = _json["Telugu"]; }
+        { if(!_json["Tamil"].IsString) { throw new SerializationException(); }  Tamil = _json["Tamil"]; }
         PostInit();
     }
 
-    public LocalizationConfig(string id, string type, string locationName, string chinese, string english, string spanish, string portuguese, string french, string indonesian, string malay ) 
+    public LocalizationConfig(string id, string type, string locationName, string chinese, string english, string spanish, string portuguese, string french, string indonesian, string malay, string Hindi, string Bengali, string Telugu, string Tamil ) 
     {
         this.Id = id;
         this.Type = type;
@@ -47,6 +51,10 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         this.French = french;
         this.Indonesian = indonesian;
         this.Malay = malay;
+        this.Hindi = Hindi;
+        this.Bengali = Bengali;
+        this.Telugu = Telugu;
+        this.Tamil = Tamil;
         PostInit();
     }
 
@@ -95,6 +103,22 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// 馬來語
     /// </summary>
     public string Malay { get; private set; }
+    /// <summary>
+    /// 印地语
+    /// </summary>
+    public string Hindi { get; private set; }
+    /// <summary>
+    /// 孟加拉语
+    /// </summary>
+    public string Bengali { get; private set; }
+    /// <summary>
+    /// 泰卢固语
+    /// </summary>
+    public string Telugu { get; private set; }
+    /// <summary>
+    /// 泰米尔语
+    /// </summary>
+    public string Tamil { get; private set; }
 
     public const int __ID__ = 244974800;
     public override int GetTypeId() => __ID__;
@@ -121,6 +145,10 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
         + "French:" + French + ","
         + "Indonesian:" + Indonesian + ","
         + "Malay:" + Malay + ","
+        + "Hindi:" + Hindi + ","
+        + "Bengali:" + Bengali + ","
+        + "Telugu:" + Telugu + ","
+        + "Tamil:" + Tamil + ","
         + "}";
     }
     

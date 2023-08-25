@@ -26,5 +26,21 @@
   {
     "id": "Malay",
     "show": "Malaysia"
+  },
+  {
+    "id": "Hindi",
+    "show": "हिंदी"
+  },
+  {
+    "id": "Bengali",
+    "show": "বাংলা"
+  },
+  {
+    "id": "Telugu",
+    "show": "తెలుగు"
+  },
+  {
+    "id": "Tamil",
+    "show": "தமிழ்"
   }
 ]
