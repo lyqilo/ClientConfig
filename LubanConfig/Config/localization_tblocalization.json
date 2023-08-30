@@ -4083,13 +4083,13 @@
     "id": "209033",
     "type": "",
     "locationName": "",
-    "chinese": "綁定後你的朋友每充值500PHP,你將會獲得一筆金幣返利。你邀請的朋友每充值500PHP，你會得到3%的金幣返利。總共15金幣。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500PHP，你會得到1.5%的金幣返利。總共7.5金幣。",
-    "english": "For every 500PHP your friend recharges after the bind.You will get 3% gold rebate for every 500PHP you invite your friends to top up.Total 15 gold.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500PHP recharge of your friend's invited person.Total 7.5 gold.",
-    "spanish": "Por cada 500PHP que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500PHP que invites a tus amigos a recargar.Total 15 gold.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500PHP de la persona invitada por tu amigo.Total 7.5 oro.",
-    "portuguese": "Para cada 500PHP que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. Total de 7,5 de ouro.",
-    "french": "Vous obtiendrez 3% de remise en or pour chaque 500PHP que vous invitez vos amis à recharger.Total 15 gold.Les amis que vous invitez peuvent inviter d'autres personnes. Vous obtiendrez 1,5% de remise en or pour chaque recharge de 500PHP de la personne invitée par votre ami.Total 7,5 gold.",
-    "indonesian": "Untuk setiap 500PHP yang diisi ulang oleh teman Anda setelah pengikatan, Anda akan mendapatkan potongan harga 3% emas untuk setiap 500PHP yang Anda ajak teman Anda isi ulang, total 15 emas, dan teman yang Anda ajak dapat mengundang orang lain. Anda akan mendapatkan potongan harga 1,5% emas untuk setiap isi ulang 500PHP dari orang yang diundang oleh teman Anda, total 7,5 emas.",
-    "malay": "Forever y500PHP recharges rakan anda selepas \nAnda akan mendapat 3% gold rebate for \nEvery 500PHP you inite your friends to top \nup.Total 15 gold.The friends you invite can \nInvite other people. You will get 1.5% gold \nrebate forever y500PHP recharge of your \nfriend's invited person. Total 7.5 gold. \n"
+    "chinese": "綁定後你的朋友每充值500PHP,你將會獲得一筆金幣返利。你邀請的朋友每充值500PHP，你會得到3%的金幣返利。你邀請的朋友可以邀請其他人。你朋友邀請的人每充值500PHP，你會得到1.5%的金幣返利。",
+    "english": "For every 500PHP your friend recharges after the bind.You will get 3% gold rebate for every 500PHP you invite your friends to top up.The friends you invite can invite other people. You will get 1.5% gold rebate for every 500PHP recharge of your friend's invited person.",
+    "spanish": "Por cada 500PHP que recargue tu amigo después del bind.Obtendrás 3% de gold rebate por cada 500PHP que invites a tus amigos a recargar.Los amigos que invites pueden invitar a otras personas. Obtendrás 1.5% de oro de reembolso por cada recarga de 500PHP de la persona invitada por tu amigo.",
+    "portuguese": "Para cada 500PHP que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. ",
+    "french": "Para cada 500PHP que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. ",
+    "indonesian": "Para cada 500PHP que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. ",
+    "malay": "Para cada 500PHP que seu amigo recarregar após a vinculação, você receberá 3% de desconto em ouro para cada 500PHP que convidar seus amigos para recarregar. Você receberá um desconto de 1,5% em ouro para cada recarga de 500 PHP da pessoa convidada por seu amigo. "
   },
   {
     "id": "209034",
@@ -4827,13 +4827,13 @@
     "id": "211019",
     "type": "",
     "locationName": "",
-    "chinese": "轉盤分為3個等級，每個等級每天2次轉動機會，每次轉動根據等級消耗轉盤積分。每日充值金額按一比一獲得轉盤積分。積分會在第二天清零。\n轉盤獎勵會按照5倍計算需求打碼量。",
-    "english": "*The wheel is divided into 3 levels, each level has 2 chances to spin every day\n*Each spin costs the PT according to the level. \n*The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.\n*The wheel rewards will be counted according to 5 x the amount of demand bets.",
-    "spanish": "La rueda está dividida en 3 niveles, cada nivel tiene 2 oportunidades de girar cada día, y cada giro cuesta el PT según el nivel. La cantidad de recarga diaria es de uno a uno para conseguir el PT. Los puntos se recargarán al día siguiente.\nLas recompensas de la rueda se contarán según 5 x la cantidad de apuestas de demanda.",
-    "portuguese": "A roda é dividida em 3 níveis, cada nível tem 2 chances de girar todos os dias, e cada giro custa a PT de acordo com o nível. O valor da recarga diária é de um para um para obter o PT. Os pontos serão liberados no dia seguinte.\nAs recompensas da roda serão contadas de acordo com 5 x a quantidade de apostas de demanda.",
-    "french": "La roue est divisée en 3 niveaux, chaque niveau a 2 chances de tourner chaque jour, et chaque tour coûte le PT en fonction du niveau. Le montant de la recharge quotidienne est de un pour un pour obtenir le PT. Les points seront effacés le jour suivant.\nLes récompenses de la roue seront comptées en fonction de 5 x le montant des mises à la demande.",
-    "indonesian": "Roda ini dibagi menjadi 3 level, setiap level memiliki 2 kesempatan untuk berputar setiap hari, dan setiap putarannya akan dikenakan biaya PT sesuai dengan levelnya. Jumlah isi ulang harian adalah satu banding satu untuk mendapatkan PT. Poin akan dihapus pada hari berikutnya.\nHadiah roda akan dihitung berdasarkan 5 x jumlah taruhan permintaan.",
-    "malay": "Roda dibahagi kepada 3 aras, setiap aras mempunyai 2 peluang untuk berputar setiap hari, dan setiap berputar biaya PT mengikut aras. Jumlah muatan semula sehari adalah satu kepada satu untuk mendapatkan PT. Titik akan dibersihkan pada hari berikutnya.\nHadiah roda akan dihitung mengikut 5 x jumlah taruhan permintaan. "
+    "chinese": "轉盤分為3個等級，每個等級每天2次轉動機會，每次轉動根據等級消耗轉盤積分。每日充值金額按一比一獲得轉盤積分。積分會在第二天清零。",
+    "english": "*The wheel is divided into 3 levels, each level has 2 chances to spin every day\n*Each spin costs the PT according to the level. \n*The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.",
+    "spanish": "*The wheel is divided into 3 levels, each level has 2 chances to spin every day\n*Each spin costs the PT according to the level. \n*The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.",
+    "portuguese": "*The wheel is divided into 3 levels, each level has 2 chances to spin every day\n*Each spin costs the PT according to the level. \n*The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.",
+    "french": "*The wheel is divided into 3 levels, each level has 2 chances to spin every day\n*Each spin costs the PT according to the level. \n*The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.",
+    "indonesian": "*The wheel is divided into 3 levels, each level has 2 chances to spin every day\n*Each spin costs the PT according to the level. \n*The daily recharge amount is one to one to get the PT. Points will be cleared on the next day.",
+    "malay": "*The wheel is divided into 3 levels, each level has 2 chances to spin every day\n*Each spin costs the PT according to the level. \n*The daily recharge amount is one to one to get the PT. Points will be cleared on the next day."
   },
   {
     "id": "211020",
@@ -9495,13 +9495,13 @@
     "id": "365060",
     "type": "",
     "locationName": "",
-    "chinese": "收集\\r\\nR${0}",
-    "english": "Collect \\r\\nR${0}",
-    "spanish": "Cobrar \\r\\nR${0}",
-    "portuguese": "Coletar \\r\\nR${0}",
-    "french": "Collecter \\r\\nR${0}",
-    "indonesian": "Kumpulkan \\r\\nR${0}",
-    "malay": "Kumpul \\r\\nR${0}"
+    "chinese": "收集\\r\\n{0}",
+    "english": "Collect \\r\\n{0}",
+    "spanish": "Cobrar \\r\\n{0}",
+    "portuguese": "Coletar \\r\\n{0}",
+    "french": "Collecter \\r\\n{0}",
+    "indonesian": "Kumpulkan \\r\\n{0}",
+    "malay": "Kumpul \\r\\n{0}"
   },
   {
     "id": "362001",
