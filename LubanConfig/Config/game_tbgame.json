@@ -500,7 +500,7 @@
     "rootName": "",
     "luaPath": "Module44.LGDDY.LGDDYEntry",
     "luaRootName": "LGDDYEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module44"
     ]
@@ -661,7 +661,7 @@
     "rootName": "",
     "luaPath": "Module51.SGXML.SGXMLEntry",
     "luaRootName": "SGXMLEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module51"
     ]
@@ -730,7 +730,7 @@
     "rootName": "",
     "luaPath": "Module54.ajdmx.AJDMXEntry",
     "luaRootName": "AJDMXEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module54"
     ]
