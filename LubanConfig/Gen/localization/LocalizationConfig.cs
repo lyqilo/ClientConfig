@@ -108,7 +108,7 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// </summary>
     public string Hindi { get; private set; }
     /// <summary>
-    /// 孟加拉语
+    /// <br/>孟加拉语
     /// </summary>
     public string Bengali { get; private set; }
     /// <summary>
