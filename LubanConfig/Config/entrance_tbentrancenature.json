@@ -1,0 +1,106 @@
+[
+  {
+    "ID": 1,
+    "sort": 1,
+    "entranceName": "VIP",
+    "area": [
+      3
+    ]
+  },
+  {
+    "ID": 2,
+    "sort": 1,
+    "entranceName": "Store",
+    "area": [
+      2
+    ]
+  },
+  {
+    "ID": 3,
+    "sort": 3,
+    "entranceName": "SignIn",
+    "area": [
+      5
+    ]
+  },
+  {
+    "ID": 4,
+    "sort": 1,
+    "entranceName": "BindPhone",
+    "area": [
+      5
+    ]
+  },
+  {
+    "ID": 5,
+    "sort": 5,
+    "entranceName": "Wheel",
+    "area": [
+      5
+    ]
+  },
+  {
+    "ID": 6,
+    "sort": 2,
+    "entranceName": "Sale",
+    "area": [
+      5
+    ]
+  },
+  {
+    "ID": 7,
+    "sort": 4,
+    "entranceName": "FeedBack",
+    "area": [
+      5
+    ]
+  },
+  {
+    "ID": 8,
+    "sort": 3,
+    "entranceName": "Mail",
+    "area": [
+      0
+    ]
+  },
+  {
+    "ID": 9,
+    "sort": 4,
+    "entranceName": "Rank",
+    "area": [
+      0
+    ]
+  },
+  {
+    "ID": 10,
+    "sort": 2,
+    "entranceName": "Share",
+    "area": [
+      0
+    ]
+  },
+  {
+    "ID": 11,
+    "sort": 1,
+    "entranceName": "Customer",
+    "area": [
+      0
+    ]
+  },
+  {
+    "ID": 12,
+    "sort": 5,
+    "entranceName": "Task",
+    "area": [
+      0
+    ]
+  },
+  {
+    "ID": 13,
+    "sort": 6,
+    "entranceName": "StrongBox",
+    "area": [
+      0
+    ]
+  }
+]

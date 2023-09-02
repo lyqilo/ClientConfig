@@ -22,6 +22,8 @@ public sealed partial class Tables
     public localization.TBLocalization TBLocalization {get; }
     public game.TBGame TBGame {get; }
     public global.TBLanguage TBLanguage {get; }
+    public entrance.TBEntrance TBEntrance {get; }
+    public entrance.TBEntranceNature TBEntranceNature {get; }
 
     public Tables(System.Func<string, JSONNode> loader)
     {
@@ -32,11 +34,17 @@ public sealed partial class Tables
         tables.Add("game.TBGame", TBGame);
         TBLanguage = new global.TBLanguage(loader("global_tblanguage")); 
         tables.Add("global.TBLanguage", TBLanguage);
+        TBEntrance = new entrance.TBEntrance(loader("entrance_tbentrance")); 
+        tables.Add("entrance.TBEntrance", TBEntrance);
+        TBEntranceNature = new entrance.TBEntranceNature(loader("entrance_tbentrancenature")); 
+        tables.Add("entrance.TBEntranceNature", TBEntranceNature);
         PostInit();
 
         TBLocalization.Resolve(tables); 
         TBGame.Resolve(tables); 
         TBLanguage.Resolve(tables); 
+        TBEntrance.Resolve(tables); 
+        TBEntranceNature.Resolve(tables); 
         PostResolve();
     }
 
@@ -45,6 +53,8 @@ public sealed partial class Tables
         TBLocalization.TranslateText(translator); 
         TBGame.TranslateText(translator); 
         TBLanguage.TranslateText(translator); 
+        TBEntrance.TranslateText(translator); 
+        TBEntranceNature.TranslateText(translator); 
     }
     
     partial void PostInit();
