@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "DNS": [
-      "https://gamesgt.s3.ap-southeast-1.amazonaws.com"
+      "https://gt-game-india.oss-ap-south-1.aliyuncs.com"
     ],
     "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",
     "LaunchPackageName": "Launch",
