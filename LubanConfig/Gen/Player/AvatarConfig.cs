@@ -27,16 +27,18 @@ public sealed partial class AvatarConfig :  Bright.Config.BeanBase
         { if(!_json["type"].IsNumber) { throw new SerializationException(); }  Type = _json["type"]; }
         { if(!_json["icon"].IsString) { throw new SerializationException(); }  Icon = _json["icon"]; }
         { if(!_json["vip"].IsNumber) { throw new SerializationException(); }  Vip = _json["vip"]; }
+        { if(!_json["describe"].IsString) { throw new SerializationException(); }  Describe = _json["describe"]; }
         PostInit();
     }
 
-    public AvatarConfig(int id, string name, int type, string icon, int vip ) 
+    public AvatarConfig(int id, string name, int type, string icon, int vip, string describe ) 
     {
         this.Id = id;
         this.Name = name;
         this.Type = type;
         this.Icon = icon;
         this.Vip = vip;
+        this.Describe = describe;
         PostInit();
     }
 
@@ -65,6 +67,10 @@ public sealed partial class AvatarConfig :  Bright.Config.BeanBase
     /// vip解锁等级(默认0级解锁)
     /// </summary>
     public int Vip { get; private set; }
+    /// <summary>
+    /// 描述(多语言id)
+    /// </summary>
+    public string Describe { get; private set; }
 
     public const int __ID__ = -53400600;
     public override int GetTypeId() => __ID__;
@@ -86,6 +92,7 @@ public sealed partial class AvatarConfig :  Bright.Config.BeanBase
         + "Type:" + Type + ","
         + "Icon:" + Icon + ","
         + "Vip:" + Vip + ","
+        + "Describe:" + Describe + ","
         + "}";
     }
     
