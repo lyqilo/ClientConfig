@@ -427,11 +427,11 @@
       "10000"
     ],
     "Orientation": "Landscape",
-    "StartScriptName": "",
+    "StartScriptName": "Hotfix.JPM.JPMEntry",
     "rootName": "",
     "luaPath": "Module41.jpm.JPMEntry",
     "luaRootName": "JPMEntry",
-    "driveType": "Lua",
+    "driveType": "ILRuntime",
     "downFiles": [
       "module41"
     ]
