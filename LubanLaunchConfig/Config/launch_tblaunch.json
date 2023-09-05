@@ -2,6 +2,8 @@
   {
     "ID": 1,
     "DNS": [
+      "gt-game-india.oss-accelerate.aliyuncs.com",
+      "oss-accelerate.aliyuncs.com",
       "https://gt-game-india.oss-ap-south-1.aliyuncs.com"
     ],
     "Auth": "SJYT20175638FDUUKNS38393753029039V32f700",
