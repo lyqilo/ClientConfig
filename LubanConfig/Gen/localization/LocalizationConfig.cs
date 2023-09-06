@@ -64,15 +64,15 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     }
 
     /// <summary>
-    /// 這是id
+    /// 这是id
     /// </summary>
     public string Id { get; private set; }
     /// <summary>
-    /// 類型(默認文本，可以添加Audio,Texture)
+    /// 类型(默认文本，可以添加Audio,Texture)
     /// </summary>
     public string Type { get; private set; }
     /// <summary>
-    /// 子遊戲圖片需要填寫圖集名字
+    /// 子游戏图片需要填写图集名字
     /// </summary>
     public string LocationName { get; private set; }
     /// <summary>
@@ -80,27 +80,27 @@ public sealed partial class LocalizationConfig :  Bright.Config.BeanBase
     /// </summary>
     public string Chinese { get; private set; }
     /// <summary>
-    /// 英語
+    /// 英语
     /// </summary>
     public string English { get; private set; }
     /// <summary>
-    /// 西班牙語
+    /// 西班牙语
     /// </summary>
     public string Spanish { get; private set; }
     /// <summary>
-    /// 葡萄牙語
+    /// 葡萄牙语
     /// </summary>
     public string Portuguese { get; private set; }
     /// <summary>
-    /// 法語
+    /// 法语
     /// </summary>
     public string French { get; private set; }
     /// <summary>
-    /// 印尼語
+    /// 印尼语
     /// </summary>
     public string Indonesian { get; private set; }
     /// <summary>
-    /// 馬來語
+    /// 马来语
     /// </summary>
     public string Malay { get; private set; }
     /// <summary>
