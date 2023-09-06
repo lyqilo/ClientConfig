@@ -160,6 +160,62 @@
     "describe": "220026"
   },
   {
+    "id": 1021,
+    "name": "220030",
+    "type": 0,
+    "icon": "vip_1",
+    "vip": 0,
+    "describe": "220054"
+  },
+  {
+    "id": 1022,
+    "name": "220031",
+    "type": 0,
+    "icon": "vip_2",
+    "vip": 0,
+    "describe": "220054"
+  },
+  {
+    "id": 1023,
+    "name": "220032",
+    "type": 0,
+    "icon": "vip_3",
+    "vip": 0,
+    "describe": "220054"
+  },
+  {
+    "id": 1024,
+    "name": "220033",
+    "type": 0,
+    "icon": "vip_4",
+    "vip": 0,
+    "describe": "220054"
+  },
+  {
+    "id": 1025,
+    "name": "220034",
+    "type": 0,
+    "icon": "vip_5",
+    "vip": 0,
+    "describe": "220054"
+  },
+  {
+    "id": 1026,
+    "name": "220035",
+    "type": 0,
+    "icon": "vip_6",
+    "vip": 0,
+    "describe": "220054"
+  },
+  {
+    "id": 1027,
+    "name": "220036",
+    "type": 0,
+    "icon": "vip_7",
+    "vip": 0,
+    "describe": "220054"
+  },
+  {
     "id": 6001,
     "name": "220027",
     "type": 1,
