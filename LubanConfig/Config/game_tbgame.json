@@ -1060,6 +1060,30 @@
   },
   {
     "ID": 45,
+    "scenName": "module70",
+    "gameStatus": 0,
+    "uiName": "",
+    "gameName": "400070",
+    "clientId": 70,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10001"
+    ],
+    "Orientation": "LandscapeLeft",
+    "StartScriptName": "",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module70"
+    ]
+  },
+  {
+    "ID": 46,
     "scenName": "module71",
     "gameStatus": 0,
     "uiName": "",
@@ -1079,7 +1103,7 @@
     "luaRootName": "",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module69"
+      "module71"
     ]
   }
 ]
