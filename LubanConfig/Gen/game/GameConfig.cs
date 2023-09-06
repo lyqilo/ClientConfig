@@ -24,6 +24,7 @@ public sealed partial class GameConfig :  Bright.Config.BeanBase
     {
         { if(!_json["ID"].IsNumber) { throw new SerializationException(); }  ID = _json["ID"]; }
         { if(!_json["scenName"].IsString) { throw new SerializationException(); }  ScenName = _json["scenName"]; }
+        { if(!_json["gameStatus"].IsNumber) { throw new SerializationException(); }  GameStatus = _json["gameStatus"]; }
         { if(!_json["uiName"].IsString) { throw new SerializationException(); }  UiName = _json["uiName"]; }
         { if(!_json["gameName"].IsString) { throw new SerializationException(); }  GameName = _json["gameName"]; }
         { if(!_json["clientId"].IsNumber) { throw new SerializationException(); }  ClientId = _json["clientId"]; }
@@ -39,10 +40,11 @@ public sealed partial class GameConfig :  Bright.Config.BeanBase
         PostInit();
     }
 
-    public GameConfig(int ID, string scenName, string uiName, string gameName, int clientId, int otherClientId, System.Collections.Generic.List<string> BL, string Orientation, string StartScriptName, string rootName, string luaPath, string luaRootName, string driveType, System.Collections.Generic.List<string> downFiles ) 
+    public GameConfig(int ID, string scenName, int gameStatus, string uiName, string gameName, int clientId, int otherClientId, System.Collections.Generic.List<string> BL, string Orientation, string StartScriptName, string rootName, string luaPath, string luaRootName, string driveType, System.Collections.Generic.List<string> downFiles ) 
     {
         this.ID = ID;
         this.ScenName = scenName;
+        this.GameStatus = gameStatus;
         this.UiName = uiName;
         this.GameName = gameName;
         this.ClientId = clientId;
@@ -71,6 +73,10 @@ public sealed partial class GameConfig :  Bright.Config.BeanBase
     /// 场景名
     /// </summary>
     public string ScenName { get; private set; }
+    /// <summary>
+    /// 游戏状态(0：可用，1：制作中，2：不可用)
+    /// </summary>
+    public int GameStatus { get; private set; }
     /// <summary>
     /// 游戏名
     /// </summary>
@@ -137,6 +143,7 @@ public sealed partial class GameConfig :  Bright.Config.BeanBase
         return "{ "
         + "ID:" + ID + ","
         + "ScenName:" + ScenName + ","
+        + "GameStatus:" + GameStatus + ","
         + "UiName:" + UiName + ","
         + "GameName:" + GameName + ","
         + "ClientId:" + ClientId + ","

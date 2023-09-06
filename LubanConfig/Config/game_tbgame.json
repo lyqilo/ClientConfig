@@ -2,6 +2,7 @@
   {
     "ID": 1,
     "scenName": "module03",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207028",
     "clientId": 3,
@@ -12,7 +13,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module03.NiuNiu.Module03Panel",
@@ -25,6 +26,7 @@
   {
     "ID": 2,
     "scenName": "module06",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207029",
     "clientId": 6,
@@ -35,7 +37,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module06.OneWPBY.OneWPBYEntry",
@@ -48,6 +50,7 @@
   {
     "ID": 3,
     "scenName": "module13",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207030",
     "clientId": 13,
@@ -58,7 +61,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module13.gfxm.Module13Entry",
@@ -71,6 +74,7 @@
   {
     "ID": 4,
     "scenName": "module16",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207031",
     "clientId": 16,
@@ -81,7 +85,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module16.ZhiPai.Module16Entry",
@@ -94,6 +98,7 @@
   {
     "ID": 5,
     "scenName": "module17",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207032",
     "clientId": 17,
@@ -104,7 +109,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module17.xiangqi.xiangqi_InitProt",
@@ -117,6 +122,7 @@
   {
     "ID": 6,
     "scenName": "module18",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207033",
     "clientId": 18,
@@ -127,7 +133,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module18.SHZ.shzpanel",
@@ -140,6 +146,7 @@
   {
     "ID": 7,
     "scenName": "module19",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207034",
     "clientId": 19,
@@ -150,7 +157,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module19.Point21_2D.Point21ScenCtrlPanel",
@@ -163,6 +170,7 @@
   {
     "ID": 8,
     "scenName": "module20",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207035",
     "clientId": 20,
@@ -173,7 +181,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module20.Game_Baccara.MainPanel",
@@ -186,6 +194,7 @@
   {
     "ID": 9,
     "scenName": "module22",
+    "gameStatus": 0,
     "uiName": "603014",
     "gameName": "207015",
     "clientId": 22,
@@ -196,7 +205,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.SG777.SG777Entry",
     "rootName": "SG777Entry",
     "luaPath": " ",
@@ -209,6 +218,7 @@
   {
     "ID": 10,
     "scenName": "module24",
+    "gameStatus": 0,
     "uiName": "603015",
     "gameName": "207016",
     "clientId": 8,
@@ -219,7 +229,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module24.SerialIndiana.MainPanel",
@@ -232,6 +242,7 @@
   {
     "ID": 11,
     "scenName": "module25",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207031",
     "clientId": 25,
@@ -242,7 +253,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.CMLHJ.CMLHJEntry",
     "rootName": "CMLHJEntry",
     "luaPath": " ",
@@ -255,6 +266,7 @@
   {
     "ID": 12,
     "scenName": "module27",
+    "gameStatus": 0,
     "uiName": "603011",
     "gameName": "207011",
     "clientId": 27,
@@ -265,7 +277,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.CaiShengDao.UIEntry",
     "rootName": "",
     "luaPath": "Module27.CaiShenDao.Module27Entry",
@@ -278,6 +290,7 @@
   {
     "ID": 13,
     "scenName": "module28",
+    "gameStatus": 0,
     "uiName": "603012",
     "gameName": "207036",
     "clientId": 28,
@@ -288,7 +301,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.Fulinmen.UIEntry",
     "rootName": "",
     "luaPath": " ",
@@ -301,6 +314,7 @@
   {
     "ID": 14,
     "scenName": "module32",
+    "gameStatus": 0,
     "uiName": "603006",
     "gameName": "207037",
     "clientId": 32,
@@ -311,7 +325,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module32.Football.MainPanel",
@@ -324,6 +338,7 @@
   {
     "ID": 15,
     "scenName": "module33",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207038",
     "clientId": 33,
@@ -334,7 +349,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module33.longhudou.longhudou_InitProt",
@@ -347,6 +362,7 @@
   {
     "ID": 16,
     "scenName": "module38",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207039",
     "clientId": 38,
@@ -357,7 +373,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module38.Game.MainPanel",
@@ -370,6 +386,7 @@
   {
     "ID": 17,
     "scenName": "module39",
+    "gameStatus": 0,
     "uiName": "603013",
     "gameName": "207014",
     "clientId": 39,
@@ -380,7 +397,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.TJZ.TJZEntry",
     "rootName": "TJZEntry",
     "luaPath": "",
@@ -393,6 +410,7 @@
   {
     "ID": 18,
     "scenName": "module40",
+    "gameStatus": 0,
     "uiName": "603002",
     "gameName": "207002",
     "clientId": 40,
@@ -403,7 +421,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.TGG.TGGEntry",
     "rootName": "",
     "luaPath": "",
@@ -416,6 +434,7 @@
   {
     "ID": 19,
     "scenName": "module41",
+    "gameStatus": 0,
     "uiName": "603010",
     "gameName": "207010",
     "clientId": 41,
@@ -426,7 +445,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module41.jpm.JPMEntry",
@@ -439,6 +458,7 @@
   {
     "ID": 20,
     "scenName": "module42",
+    "gameStatus": 0,
     "uiName": "603008",
     "gameName": "207008",
     "clientId": 42,
@@ -449,7 +469,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.YGBH.YGBHEntry",
     "rootName": "",
     "luaPath": "",
@@ -462,6 +482,7 @@
   {
     "ID": 21,
     "scenName": "module43",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207040",
     "clientId": 43,
@@ -472,7 +493,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module43.Code.Game71Panel",
@@ -485,6 +506,7 @@
   {
     "ID": 22,
     "scenName": "module44",
+    "gameStatus": 0,
     "uiName": "603009",
     "gameName": "207009",
     "clientId": 44,
@@ -495,7 +517,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.LGDY.LGDY_Entry",
     "rootName": "",
     "luaPath": "Module44.LGDDY.LGDDYEntry",
@@ -508,6 +530,7 @@
   {
     "ID": 23,
     "scenName": "module45",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207041",
     "clientId": 45,
@@ -518,7 +541,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module45.wlzb.WLZBEntry",
@@ -531,6 +554,7 @@
   {
     "ID": 24,
     "scenName": "module46",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207042",
     "clientId": 46,
@@ -541,7 +565,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module46.MCDZZ.MCDZZEntry",
@@ -554,6 +578,7 @@
   {
     "ID": 25,
     "scenName": "module47",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207043",
     "clientId": 47,
@@ -564,7 +589,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module47.XYSGJ.XYSGJEntry",
@@ -577,6 +602,7 @@
   {
     "ID": 26,
     "scenName": "module48",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207044",
     "clientId": 48,
@@ -587,7 +613,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module48.fxgz.FXGZEntry",
@@ -600,6 +626,7 @@
   {
     "ID": 27,
     "scenName": "module49",
+    "gameStatus": 0,
     "uiName": "603005",
     "gameName": "207005",
     "clientId": 49,
@@ -610,7 +637,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.WSZS.UIEntry",
     "rootName": "",
     "luaPath": "Module49.wszs.WSZSEntry",
@@ -623,6 +650,7 @@
   {
     "ID": 28,
     "scenName": "module50",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207045",
     "clientId": 50,
@@ -633,7 +661,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module50.sht.SHTEntry",
@@ -646,6 +674,7 @@
   {
     "ID": 29,
     "scenName": "module51",
+    "gameStatus": 0,
     "uiName": "603004",
     "gameName": "207004",
     "clientId": 21,
@@ -656,7 +685,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.SGXML.UIEntry",
     "rootName": "",
     "luaPath": "Module51.SGXML.SGXMLEntry",
@@ -669,6 +698,7 @@
   {
     "ID": 30,
     "scenName": "module52",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207046",
     "clientId": 52,
@@ -679,7 +709,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module52.SESX.SESXEntry",
@@ -692,6 +722,7 @@
   {
     "ID": 31,
     "scenName": "module53",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207047",
     "clientId": 53,
@@ -702,7 +733,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module53.JJPM.JJPMEntry",
@@ -715,6 +746,7 @@
   {
     "ID": 32,
     "scenName": "module54",
+    "gameStatus": 0,
     "uiName": "603003",
     "gameName": "207003",
     "clientId": 54,
@@ -725,7 +757,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.Game.AJDMX.AJDMX_Entry",
     "rootName": "",
     "luaPath": "Module54.ajdmx.AJDMXEntry",
@@ -738,6 +770,7 @@
   {
     "ID": 33,
     "scenName": "module55",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207048",
     "clientId": 55,
@@ -748,7 +781,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module55.niuniu.Module55Panel",
@@ -761,6 +794,7 @@
   {
     "ID": 34,
     "scenName": "module56",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207049",
     "clientId": 56,
@@ -771,7 +805,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "",
     "rootName": "",
     "luaPath": "Module56.JSYC.JSYCEntry",
@@ -784,6 +818,7 @@
   {
     "ID": 35,
     "scenName": "module57",
+    "gameStatus": 0,
     "uiName": "603001",
     "gameName": "207001",
     "clientId": 57,
@@ -794,7 +829,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.BQTP.UIEntry",
     "rootName": "",
     "luaPath": "Module57.BQTP.BQTPEntry",
@@ -807,6 +842,7 @@
   {
     "ID": 36,
     "scenName": "module58",
+    "gameStatus": 0,
     "uiName": "603016",
     "gameName": "207017",
     "clientId": 58,
@@ -817,7 +853,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.JZSF.UIEntry",
     "rootName": "",
     "luaPath": "Module58.JZSF.JZSFEntry",
@@ -830,6 +866,7 @@
   {
     "ID": 37,
     "scenName": "module59",
+    "gameStatus": 0,
     "uiName": "603007",
     "gameName": "207007",
     "clientId": 59,
@@ -840,7 +877,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.XMZZ.XMZZ_Entry",
     "rootName": "",
     "luaPath": "Module59.XMZZ.XMZZEntry",
@@ -853,6 +890,7 @@
   {
     "ID": 38,
     "scenName": "module60",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "207050",
     "clientId": 60,
@@ -863,7 +901,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.JTJW.JWEntry",
     "rootName": "",
     "luaPath": "Module60.JTJW.JWEntry",
@@ -876,6 +914,7 @@
   {
     "ID": 39,
     "scenName": "module61",
+    "gameStatus": 0,
     "uiName": "603020",
     "gameName": "207027",
     "clientId": 61,
@@ -886,7 +925,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.TouKui.TouKuiEntry",
     "rootName": "Hotfix.TouKui.TouKuiEntry",
     "luaPath": "Module61.TouKui.TouKuiEntry",
@@ -899,6 +938,7 @@
   {
     "ID": 40,
     "scenName": "module62",
+    "gameStatus": 0,
     "uiName": "603018",
     "gameName": "207019",
     "clientId": 62,
@@ -909,7 +949,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.LTBY.LTBYEntry",
     "rootName": "",
     "luaPath": "",
@@ -923,6 +963,7 @@
   {
     "ID": 41,
     "scenName": "module63",
+    "gameStatus": 0,
     "uiName": "603017",
     "gameName": "207018",
     "clientId": 63,
@@ -946,6 +987,7 @@
   {
     "ID": 42,
     "scenName": "module65",
+    "gameStatus": 0,
     "uiName": "603019",
     "gameName": "207020",
     "clientId": 65,
@@ -956,7 +998,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.CrashRocket.UIEntry",
     "rootName": "",
     "luaPath": "",
@@ -971,6 +1013,7 @@
   {
     "ID": 43,
     "scenName": "module66",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "400066",
     "clientId": 66,
@@ -981,7 +1024,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.DZNZ_Model.DZNZ_Enter",
     "rootName": "",
     "luaPath": "",
@@ -994,6 +1037,7 @@
   {
     "ID": 44,
     "scenName": "module69",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "400069",
     "clientId": 69,
@@ -1004,7 +1048,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.LHD.LHD_EnterPanel",
     "rootName": "",
     "luaPath": "",
@@ -1017,6 +1061,7 @@
   {
     "ID": 45,
     "scenName": "module71",
+    "gameStatus": 0,
     "uiName": "",
     "gameName": "400071",
     "clientId": 71,
@@ -1027,7 +1072,7 @@
       "100",
       "10000"
     ],
-    "Orientation": "Landscape",
+    "Orientation": "LandscapeLeft",
     "StartScriptName": "Hotfix.ZS.ZS_Enter",
     "rootName": "",
     "luaPath": "",
