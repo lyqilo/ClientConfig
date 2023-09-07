@@ -1105,5 +1105,77 @@
     "downFiles": [
       "module71"
     ]
+  },
+  {
+    "ID": 47,
+    "scenName": "module72",
+    "gameStatus": 0,
+    "uiName": "",
+    "gameName": "400072",
+    "clientId": 72,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "LandscapeLeft",
+    "StartScriptName": "Hotfix.ZS.ZS_Enter",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module72"
+    ]
+  },
+  {
+    "ID": 48,
+    "scenName": "module73",
+    "gameStatus": 0,
+    "uiName": "",
+    "gameName": "400073",
+    "clientId": 73,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "LandscapeLeft",
+    "StartScriptName": "Hotfix.ZS.ZS_Enter",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module73"
+    ]
+  },
+  {
+    "ID": 49,
+    "scenName": "module74",
+    "gameStatus": 0,
+    "uiName": "",
+    "gameName": "400074",
+    "clientId": 74,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "LandscapeLeft",
+    "StartScriptName": "Hotfix.ZS.ZS_Enter",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module74"
+    ]
   }
 ]
