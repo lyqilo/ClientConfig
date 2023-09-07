@@ -1,31 +1,11 @@
 [
   {
     "id": "Chinese",
-    "show": "繁體中文"
+    "show": "中文"
   },
   {
     "id": "English",
     "show": "English"
-  },
-  {
-    "id": "Spanish",
-    "show": "Español"
-  },
-  {
-    "id": "Portuguese",
-    "show": "Português"
-  },
-  {
-    "id": "French",
-    "show": "Français"
-  },
-  {
-    "id": "Indonesian",
-    "show": "Indonesia"
-  },
-  {
-    "id": "Malay",
-    "show": "Malaysia"
   },
   {
     "id": "Hindi",
