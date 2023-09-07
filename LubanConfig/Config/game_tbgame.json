@@ -1073,7 +1073,7 @@
       "10001"
     ],
     "Orientation": "LandscapeLeft",
-    "StartScriptName": "Hotfix.HH.HH_EnterPanel",
+    "StartScriptName": "Hotfix.HH.HH_EnterPanelUI",
     "rootName": "",
     "luaPath": "",
     "luaRootName": "",
