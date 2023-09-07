@@ -10128,6 +10128,38 @@
     "Tamil": "The transfer was successful, you can see it in the operation history."
   },
   {
+    "id": "221033",
+    "type": "",
+    "locationName": "",
+    "chinese": "银行存款",
+    "english": "Bank",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "Bank",
+    "Bengali": "Bank",
+    "Telugu": "Bank",
+    "Tamil": "Bank"
+  },
+  {
+    "id": "221034",
+    "type": "",
+    "locationName": "",
+    "chinese": "操作记录",
+    "english": "Record",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "Record",
+    "Bengali": "Record",
+    "Telugu": "Record",
+    "Tamil": "Record"
+  },
+  {
     "id": "222001",
     "type": "",
     "locationName": "",
