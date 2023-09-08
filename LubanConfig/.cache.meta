@@ -2,7 +2,7 @@
 E:/Git/ClientConfig/LubanConfig/Config/entrance_tbentrancenature.json,17D2576854386C399A955175D39A5,1342,1694069224149
 E:/Git/ClientConfig/LubanConfig/Config/game_tbgame.json,E7BE9EEAEA0464A2B809BCE6853BA8,23932,1694151496389
 E:/Git/ClientConfig/LubanConfig/Config/global_tblanguage.json,FC7FCAB516AD73F322213682652D7B44,368,1694077270007
-E:/Git/ClientConfig/LubanConfig/Config/localization_tblocalization.json,AC9ABA7E4AB3F56A2CFE33CE8151281A,1017601,1694159276114
+E:/Git/ClientConfig/LubanConfig/Config/localization_tblocalization.json,89F72CDA83B372BB566F25561E4F858,1017595,1694171717508
 E:/Git/ClientConfig/LubanConfig/Config/player_tbavatar.json,4EF86F712C68FE4C1011BC411AE99922,4919,1694069240565
 E:/Git/ClientConfig/LubanConfig/Datas/__beans__.xlsx,2B3D2FA0F3FBC5FF8D9F4C3C5675E089,9189,1684739037635
 E:/Git/ClientConfig/LubanConfig/Datas/__enums__.xlsx,C2C946468ECBB4DDDD695EC8C378CB3C,9318,1684739037635
@@ -12,7 +12,7 @@ E:/Git/ClientConfig/LubanConfig/Datas/EntranceConfig.xlsx,C9ABEC6F93E84C4FE221C5
 E:/Git/ClientConfig/LubanConfig/Datas/EntranceNatureConfig.xlsx,EEEE9511FB2055F37DFA52159621C3D0,15240,1694069224157
 E:/Git/ClientConfig/LubanConfig/Datas/GameConfig.xlsx,9DA7C5C1E14AF325ED78184B818CE,17941,1694151496390
 E:/Git/ClientConfig/LubanConfig/Datas/Language.xlsx,234FD7A30246762E7A42AEA7B534D9,10013,1694076908806
-E:/Git/ClientConfig/LubanConfig/Datas/Localization.xlsx,1B4D65E4A0AB92FBB2275081C1B848B5,264201,1694159245388
+E:/Git/ClientConfig/LubanConfig/Datas/Localization.xlsx,BCB9BB1161FA74F06033B05A3F16256,264250,1694171642117
 E:/Git/ClientConfig/LubanConfig/Gen/entrance/EntranceConfig.cs,139485ED3DC34B982907DEBD022A9E,2759,1693915224140
 E:/Git/ClientConfig/LubanConfig/Gen/entrance/EntranceNatureConfig.cs,115050C0BBF5835633982EDF41FF6753,2799,1693915224137
 E:/Git/ClientConfig/LubanConfig/Gen/entrance/TBEntrance.cs,5A632D9CA64C43D58DC40CB776E351,1925,1693915224215
