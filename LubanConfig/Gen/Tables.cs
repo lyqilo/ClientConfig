@@ -25,6 +25,7 @@ public sealed partial class Tables
     public entrance.TBEntrance TBEntrance {get; }
     public entrance.TBEntranceNature TBEntranceNature {get; }
     public Player.TBAvatar TBAvatar {get; }
+    public Prop.TBProp TBProp {get; }
 
     public Tables(System.Func<string, JSONNode> loader)
     {
@@ -41,6 +42,8 @@ public sealed partial class Tables
         tables.Add("entrance.TBEntranceNature", TBEntranceNature);
         TBAvatar = new Player.TBAvatar(loader("player_tbavatar")); 
         tables.Add("Player.TBAvatar", TBAvatar);
+        TBProp = new Prop.TBProp(loader("prop_tbprop")); 
+        tables.Add("Prop.TBProp", TBProp);
         PostInit();
 
         TBLocalization.Resolve(tables); 
@@ -49,6 +52,7 @@ public sealed partial class Tables
         TBEntrance.Resolve(tables); 
         TBEntranceNature.Resolve(tables); 
         TBAvatar.Resolve(tables); 
+        TBProp.Resolve(tables); 
         PostResolve();
     }
 
@@ -60,6 +64,7 @@ public sealed partial class Tables
         TBEntrance.TranslateText(translator); 
         TBEntranceNature.TranslateText(translator); 
         TBAvatar.TranslateText(translator); 
+        TBProp.TranslateText(translator); 
     }
     
     partial void PostInit();
