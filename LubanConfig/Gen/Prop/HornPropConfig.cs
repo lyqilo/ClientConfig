@@ -23,15 +23,13 @@ public sealed partial class HornPropConfig :  Bright.Config.BeanBase
     public HornPropConfig(JSONNode _json) 
     {
         { if(!_json["id"].IsNumber) { throw new SerializationException(); }  Id = _json["id"]; }
-        { if(!_json["type"].IsNumber) { throw new SerializationException(); }  Type = _json["type"]; }
         { if(!_json["icon"].IsString) { throw new SerializationException(); }  Icon = _json["icon"]; }
         PostInit();
     }
 
-    public HornPropConfig(int id, int type, string icon ) 
+    public HornPropConfig(int id, string icon ) 
     {
         this.Id = id;
-        this.Type = type;
         this.Icon = icon;
         PostInit();
     }
@@ -45,10 +43,6 @@ public sealed partial class HornPropConfig :  Bright.Config.BeanBase
     /// 这是id
     /// </summary>
     public int Id { get; private set; }
-    /// <summary>
-    /// 类型(1 金币，2 喇叭，3头像，4 VIP)
-    /// </summary>
-    public int Type { get; private set; }
     /// <summary>
     /// 资源名
     /// </summary>
@@ -70,7 +64,6 @@ public sealed partial class HornPropConfig :  Bright.Config.BeanBase
     {
         return "{ "
         + "Id:" + Id + ","
-        + "Type:" + Type + ","
         + "Icon:" + Icon + ","
         + "}";
     }

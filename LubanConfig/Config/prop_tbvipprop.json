@@ -1,30 +1,30 @@
 [
   {
     "id": 400001,
-    "icon": "Commmon_12"
+    "icon": "vip_1"
   },
   {
     "id": 400002,
-    "icon": ""
+    "icon": "vip_2"
   },
   {
     "id": 400003,
-    "icon": ""
+    "icon": "vip_3"
   },
   {
     "id": 400004,
-    "icon": ""
+    "icon": "vip_4"
   },
   {
     "id": 400005,
-    "icon": ""
+    "icon": "vip_5"
   },
   {
     "id": 400006,
-    "icon": ""
+    "icon": "vip_6"
   },
   {
     "id": 400007,
-    "icon": ""
+    "icon": "vip_7"
   }
 ]
