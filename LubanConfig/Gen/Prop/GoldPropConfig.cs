@@ -7,7 +7,7 @@
 //------------------------------------------------------------------------------
 
 /*
-PropConfig.cs
+GoldPropConfig.cs
 Create By Ben
 */
 
@@ -18,9 +18,9 @@ using SimpleJSON;
 namespace cfg.Prop
 { 
 
-public sealed partial class PropConfig :  Bright.Config.BeanBase 
+public sealed partial class GoldPropConfig :  Bright.Config.BeanBase 
 {
-    public PropConfig(JSONNode _json) 
+    public GoldPropConfig(JSONNode _json) 
     {
         { if(!_json["id"].IsNumber) { throw new SerializationException(); }  Id = _json["id"]; }
         { if(!_json["type"].IsNumber) { throw new SerializationException(); }  Type = _json["type"]; }
@@ -28,7 +28,7 @@ public sealed partial class PropConfig :  Bright.Config.BeanBase
         PostInit();
     }
 
-    public PropConfig(int id, int type, string icon ) 
+    public GoldPropConfig(int id, int type, string icon ) 
     {
         this.Id = id;
         this.Type = type;
@@ -36,9 +36,9 @@ public sealed partial class PropConfig :  Bright.Config.BeanBase
         PostInit();
     }
 
-    public static PropConfig DeserializePropConfig(JSONNode _json)
+    public static GoldPropConfig DeserializeGoldPropConfig(JSONNode _json)
     {
-        return new Prop.PropConfig(_json);
+        return new Prop.GoldPropConfig(_json);
     }
 
     /// <summary>
@@ -54,7 +54,7 @@ public sealed partial class PropConfig :  Bright.Config.BeanBase
     /// </summary>
     public string Icon { get; private set; }
 
-    public const int __ID__ = 946003952;
+    public const int __ID__ = 438474480;
     public override int GetTypeId() => __ID__;
 
     public  void Resolve(Dictionary<string, object> _tables)

@@ -7,7 +7,7 @@
 //------------------------------------------------------------------------------
 
 /*
-TBProp.cs
+TBGoldProp.cs
 Create By Ben
 */
 
@@ -19,31 +19,31 @@ using SimpleJSON;
 namespace cfg.Prop
 { 
 
-public sealed partial class TBProp
+public sealed partial class TBGoldProp
 {
-    private readonly Dictionary<int, Prop.PropConfig> _dataMap;
-    private readonly List<Prop.PropConfig> _dataList;
+    private readonly Dictionary<int, Prop.GoldPropConfig> _dataMap;
+    private readonly List<Prop.GoldPropConfig> _dataList;
     
-    public TBProp(JSONNode _json)
+    public TBGoldProp(JSONNode _json)
     {
-        _dataMap = new Dictionary<int, Prop.PropConfig>();
-        _dataList = new List<Prop.PropConfig>();
+        _dataMap = new Dictionary<int, Prop.GoldPropConfig>();
+        _dataList = new List<Prop.GoldPropConfig>();
         
         foreach(JSONNode _row in _json.Children)
         {
-            var _v = Prop.PropConfig.DeserializePropConfig(_row);
+            var _v = Prop.GoldPropConfig.DeserializeGoldPropConfig(_row);
             _dataList.Add(_v);
             _dataMap.Add(_v.Id, _v);
         }
         PostInit();
     }
 
-    public Dictionary<int, Prop.PropConfig> DataMap => _dataMap;
-    public List<Prop.PropConfig> DataList => _dataList;
+    public Dictionary<int, Prop.GoldPropConfig> DataMap => _dataMap;
+    public List<Prop.GoldPropConfig> DataList => _dataList;
 
-    public Prop.PropConfig GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : null;
-    public Prop.PropConfig Get(int key) => _dataMap[key];
-    public Prop.PropConfig this[int key] => _dataMap[key];
+    public Prop.GoldPropConfig GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : null;
+    public Prop.GoldPropConfig Get(int key) => _dataMap[key];
+    public Prop.GoldPropConfig this[int key] => _dataMap[key];
 
     public void Resolve(Dictionary<string, object> _tables)
     {
