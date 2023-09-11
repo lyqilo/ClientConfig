@@ -56,7 +56,7 @@ public sealed partial class AvatarFrameConfig :  Bright.Config.BeanBase
     /// </summary>
     public string Name { get; private set; }
     /// <summary>
-    /// 类型（0头像，1头像框）
+    /// 类型（1头像，2头像框）
     /// </summary>
     public int Type { get; private set; }
     /// <summary>
