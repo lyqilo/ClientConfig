@@ -7,7 +7,7 @@
 //------------------------------------------------------------------------------
 
 /*
-TBAvatarFrame.cs
+TBItem.cs
 Create By Ben
 */
 
@@ -16,34 +16,34 @@ using System.Collections.Generic;
 using SimpleJSON;
 
 
-namespace cfg.Player
+namespace cfg.Item
 { 
 
-public sealed partial class TBAvatarFrame
+public sealed partial class TBItem
 {
-    private readonly Dictionary<int, Player.AvatarFrameConfig> _dataMap;
-    private readonly List<Player.AvatarFrameConfig> _dataList;
+    private readonly Dictionary<int, Item.ItemConfig> _dataMap;
+    private readonly List<Item.ItemConfig> _dataList;
     
-    public TBAvatarFrame(JSONNode _json)
+    public TBItem(JSONNode _json)
     {
-        _dataMap = new Dictionary<int, Player.AvatarFrameConfig>();
-        _dataList = new List<Player.AvatarFrameConfig>();
+        _dataMap = new Dictionary<int, Item.ItemConfig>();
+        _dataList = new List<Item.ItemConfig>();
         
         foreach(JSONNode _row in _json.Children)
         {
-            var _v = Player.AvatarFrameConfig.DeserializeAvatarFrameConfig(_row);
+            var _v = Item.ItemConfig.DeserializeItemConfig(_row);
             _dataList.Add(_v);
             _dataMap.Add(_v.Id, _v);
         }
         PostInit();
     }
 
-    public Dictionary<int, Player.AvatarFrameConfig> DataMap => _dataMap;
-    public List<Player.AvatarFrameConfig> DataList => _dataList;
+    public Dictionary<int, Item.ItemConfig> DataMap => _dataMap;
+    public List<Item.ItemConfig> DataList => _dataList;
 
-    public Player.AvatarFrameConfig GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : null;
-    public Player.AvatarFrameConfig Get(int key) => _dataMap[key];
-    public Player.AvatarFrameConfig this[int key] => _dataMap[key];
+    public Item.ItemConfig GetOrDefault(int key) => _dataMap.TryGetValue(key, out var v) ? v : null;
+    public Item.ItemConfig Get(int key) => _dataMap[key];
+    public Item.ItemConfig this[int key] => _dataMap[key];
 
     public void Resolve(Dictionary<string, object> _tables)
     {

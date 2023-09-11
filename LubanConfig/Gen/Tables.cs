@@ -25,9 +25,10 @@ public sealed partial class Tables
     public entrance.TBEntrance TBEntrance {get; }
     public entrance.TBEntranceNature TBEntranceNature {get; }
     public Player.TBAvatar TBAvatar {get; }
+    public Item.TBItem TBItem {get; }
     public Prop.TBGoldProp TBGoldProp {get; }
     public Prop.TBVIPProp TBVIPProp {get; }
-    public Player.TBAvatarFrame TBAvatarFrame {get; }
+    public Prop.TBAvatarFrame TBAvatarFrame {get; }
     public Prop.TBHornProp TBHornProp {get; }
 
     public Tables(System.Func<string, JSONNode> loader)
@@ -45,12 +46,14 @@ public sealed partial class Tables
         tables.Add("entrance.TBEntranceNature", TBEntranceNature);
         TBAvatar = new Player.TBAvatar(loader("player_tbavatar")); 
         tables.Add("Player.TBAvatar", TBAvatar);
+        TBItem = new Item.TBItem(loader("item_tbitem")); 
+        tables.Add("Item.TBItem", TBItem);
         TBGoldProp = new Prop.TBGoldProp(loader("prop_tbgoldprop")); 
         tables.Add("Prop.TBGoldProp", TBGoldProp);
         TBVIPProp = new Prop.TBVIPProp(loader("prop_tbvipprop")); 
         tables.Add("Prop.TBVIPProp", TBVIPProp);
-        TBAvatarFrame = new Player.TBAvatarFrame(loader("player_tbavatarframe")); 
-        tables.Add("Player.TBAvatarFrame", TBAvatarFrame);
+        TBAvatarFrame = new Prop.TBAvatarFrame(loader("prop_tbavatarframe")); 
+        tables.Add("Prop.TBAvatarFrame", TBAvatarFrame);
         TBHornProp = new Prop.TBHornProp(loader("prop_tbhornprop")); 
         tables.Add("Prop.TBHornProp", TBHornProp);
         PostInit();
@@ -61,6 +64,7 @@ public sealed partial class Tables
         TBEntrance.Resolve(tables); 
         TBEntranceNature.Resolve(tables); 
         TBAvatar.Resolve(tables); 
+        TBItem.Resolve(tables); 
         TBGoldProp.Resolve(tables); 
         TBVIPProp.Resolve(tables); 
         TBAvatarFrame.Resolve(tables); 
@@ -76,6 +80,7 @@ public sealed partial class Tables
         TBEntrance.TranslateText(translator); 
         TBEntranceNature.TranslateText(translator); 
         TBAvatar.TranslateText(translator); 
+        TBItem.TranslateText(translator); 
         TBGoldProp.TranslateText(translator); 
         TBVIPProp.TranslateText(translator); 
         TBAvatarFrame.TranslateText(translator); 

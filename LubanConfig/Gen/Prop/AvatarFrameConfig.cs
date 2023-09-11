@@ -15,7 +15,7 @@ using Bright.Serialization;
 using System.Collections.Generic;
 using SimpleJSON;
 
-namespace cfg.Player
+namespace cfg.Prop
 { 
 
 public sealed partial class AvatarFrameConfig :  Bright.Config.BeanBase 
@@ -44,7 +44,7 @@ public sealed partial class AvatarFrameConfig :  Bright.Config.BeanBase
 
     public static AvatarFrameConfig DeserializeAvatarFrameConfig(JSONNode _json)
     {
-        return new Player.AvatarFrameConfig(_json);
+        return new Prop.AvatarFrameConfig(_json);
     }
 
     /// <summary>
@@ -72,7 +72,7 @@ public sealed partial class AvatarFrameConfig :  Bright.Config.BeanBase
     /// </summary>
     public string Describe { get; private set; }
 
-    public const int __ID__ = 714564137;
+    public const int __ID__ = 1192990251;
     public override int GetTypeId() => __ID__;
 
     public  void Resolve(Dictionary<string, object> _tables)
