@@ -9040,6 +9040,38 @@
     "Tamil": "Get it for {0} minutes online"
   },
   {
+    "id": "217014",
+    "type": "",
+    "locationName": "",
+    "chinese": "每日任务",
+    "english": "Daily",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
+  },
+  {
+    "id": "217015",
+    "type": "",
+    "locationName": "",
+    "chinese": "完成前置任务",
+    "english": "",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
+  },
+  {
     "id": "218001",
     "type": "",
     "locationName": "",
