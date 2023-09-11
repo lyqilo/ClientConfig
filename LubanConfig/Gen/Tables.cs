@@ -26,6 +26,9 @@ public sealed partial class Tables
     public entrance.TBEntranceNature TBEntranceNature {get; }
     public Player.TBAvatar TBAvatar {get; }
     public Prop.TBGoldProp TBGoldProp {get; }
+    public Prop.TBVIPProp TBVIPProp {get; }
+    public Player.TBAvatarFrame TBAvatarFrame {get; }
+    public Prop.TBHornProp TBHornProp {get; }
 
     public Tables(System.Func<string, JSONNode> loader)
     {
@@ -44,6 +47,12 @@ public sealed partial class Tables
         tables.Add("Player.TBAvatar", TBAvatar);
         TBGoldProp = new Prop.TBGoldProp(loader("prop_tbgoldprop")); 
         tables.Add("Prop.TBGoldProp", TBGoldProp);
+        TBVIPProp = new Prop.TBVIPProp(loader("prop_tbvipprop")); 
+        tables.Add("Prop.TBVIPProp", TBVIPProp);
+        TBAvatarFrame = new Player.TBAvatarFrame(loader("player_tbavatarframe")); 
+        tables.Add("Player.TBAvatarFrame", TBAvatarFrame);
+        TBHornProp = new Prop.TBHornProp(loader("prop_tbhornprop")); 
+        tables.Add("Prop.TBHornProp", TBHornProp);
         PostInit();
 
         TBLocalization.Resolve(tables); 
@@ -53,6 +62,9 @@ public sealed partial class Tables
         TBEntranceNature.Resolve(tables); 
         TBAvatar.Resolve(tables); 
         TBGoldProp.Resolve(tables); 
+        TBVIPProp.Resolve(tables); 
+        TBAvatarFrame.Resolve(tables); 
+        TBHornProp.Resolve(tables); 
         PostResolve();
     }
 
@@ -65,6 +77,9 @@ public sealed partial class Tables
         TBEntranceNature.TranslateText(translator); 
         TBAvatar.TranslateText(translator); 
         TBGoldProp.TranslateText(translator); 
+        TBVIPProp.TranslateText(translator); 
+        TBAvatarFrame.TranslateText(translator); 
+        TBHornProp.TranslateText(translator); 
     }
     
     partial void PostInit();
