@@ -1840,6 +1840,22 @@
     "Tamil": ""
   },
   {
+    "id": "20002014",
+    "type": "",
+    "locationName": "",
+    "chinese": "该机器码已经绑定了账号",
+    "english": "This machine code is tied to an account",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
+  },
+  {
     "id": "30000001",
     "type": "",
     "locationName": "",
@@ -8148,7 +8164,7 @@
     "type": "",
     "locationName": "",
     "chinese": "未解锁",
-    "english": "Unlocked",
+    "english": "Locked",
     "spanish": "",
     "portuguese": "",
     "french": "",
