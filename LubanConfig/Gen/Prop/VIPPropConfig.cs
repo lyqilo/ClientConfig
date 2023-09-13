@@ -24,13 +24,15 @@ public sealed partial class VIPPropConfig :  Bright.Config.BeanBase
     {
         { if(!_json["id"].IsNumber) { throw new SerializationException(); }  Id = _json["id"]; }
         { if(!_json["icon"].IsString) { throw new SerializationException(); }  Icon = _json["icon"]; }
+        { if(!_json["prefab"].IsString) { throw new SerializationException(); }  Prefab = _json["prefab"]; }
         PostInit();
     }
 
-    public VIPPropConfig(int id, string icon ) 
+    public VIPPropConfig(int id, string icon, string prefab ) 
     {
         this.Id = id;
         this.Icon = icon;
+        this.Prefab = prefab;
         PostInit();
     }
 
@@ -47,6 +49,10 @@ public sealed partial class VIPPropConfig :  Bright.Config.BeanBase
     /// 资源名
     /// </summary>
     public string Icon { get; private set; }
+    /// <summary>
+    /// 预制名
+    /// </summary>
+    public string Prefab { get; private set; }
 
     public const int __ID__ = -337298121;
     public override int GetTypeId() => __ID__;
@@ -65,6 +71,7 @@ public sealed partial class VIPPropConfig :  Bright.Config.BeanBase
         return "{ "
         + "Id:" + Id + ","
         + "Icon:" + Icon + ","
+        + "Prefab:" + Prefab + ","
         + "}";
     }
     

@@ -1,34 +1,42 @@
 [
   {
     "id": 400000,
-    "icon": "vip_0"
+    "icon": "vip_0",
+    "prefab": "VIP_0"
   },
   {
     "id": 400001,
-    "icon": "vip_1"
+    "icon": "vip_1",
+    "prefab": "VIP_1"
   },
   {
     "id": 400002,
-    "icon": "vip_2"
+    "icon": "vip_2",
+    "prefab": "VIP_2"
   },
   {
     "id": 400003,
-    "icon": "vip_3"
+    "icon": "vip_3",
+    "prefab": "VIP_3"
   },
   {
     "id": 400004,
-    "icon": "vip_4"
+    "icon": "vip_4",
+    "prefab": "VIP_4"
   },
   {
     "id": 400005,
-    "icon": "vip_5"
+    "icon": "vip_5",
+    "prefab": "VIP_5"
   },
   {
     "id": 400006,
-    "icon": "vip_6"
+    "icon": "vip_6",
+    "prefab": "VIP_6"
   },
   {
     "id": 400007,
-    "icon": "vip_7"
+    "icon": "vip_7",
+    "prefab": "VIP_7"
   }
 ]
