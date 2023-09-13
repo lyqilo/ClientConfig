@@ -3,12 +3,12 @@ D:/unity/Project/India/ClientConfig/LubanConfig/Config/entrance_tbentrancenature
 D:/unity/Project/India/ClientConfig/LubanConfig/Config/game_tbgame.json,E7BE9EEAEA0464A2B809BCE6853BA8,23932,1694088165075
 D:/unity/Project/India/ClientConfig/LubanConfig/Config/global_tblanguage.json,FC7FCAB516AD73F322213682652D7B44,368,1694088135990
 D:/unity/Project/India/ClientConfig/LubanConfig/Config/item_tbitem.json,121540AC564B9D5EC8B6B7C65C2A7EE,782,1694527406798
-D:/unity/Project/India/ClientConfig/LubanConfig/Config/localization_tblocalization.json,AF784877A25183A874A74E187A02A7,936616,1694527406803
+D:/unity/Project/India/ClientConfig/LubanConfig/Config/localization_tblocalization.json,991425595D384209F80DAB4B49A5173,936620,1694601627760
 D:/unity/Project/India/ClientConfig/LubanConfig/Config/player_tbavatar.json,6EAC8C5F4D1F1FD6663DF1FBADAD596,3612,1694428621951
 D:/unity/Project/India/ClientConfig/LubanConfig/Config/prop_tbavatarframe.json,6869639C36BAF2543ACADEB6ED437,1384,1694490899107
 D:/unity/Project/India/ClientConfig/LubanConfig/Config/prop_tbgoldprop.json,F09CDCE6DACB8661C647CADF79BC90CC,446,1694490970251
 D:/unity/Project/India/ClientConfig/LubanConfig/Config/prop_tbhornprop.json,3A5339ACADA32230B55AB983ED415CFF,65,1694428621952
-D:/unity/Project/India/ClientConfig/LubanConfig/Config/prop_tbvipprop.json,BED7C522E24DC11810EAB1F4AFB9167,411,1694490899108
+D:/unity/Project/India/ClientConfig/LubanConfig/Config/prop_tbvipprop.json,3FBA4EE395C595178C9B3C8D2E64F2,411,1694601627760
 D:/unity/Project/India/ClientConfig/LubanConfig/Datas/__beans__.xlsx,2B3D2FA0F3FBC5FF8D9F4C3C5675E089,9189,1692607019461
 D:/unity/Project/India/ClientConfig/LubanConfig/Datas/__enums__.xlsx,C2C946468ECBB4DDDD695EC8C378CB3C,9318,1692607019462
 D:/unity/Project/India/ClientConfig/LubanConfig/Datas/__tables__.xlsx,EF8B37C9988140EF14ECFB9FB5419,9965,1694490899113
@@ -21,8 +21,8 @@ D:/unity/Project/India/ClientConfig/LubanConfig/Datas/GoldPropConfig.xlsx,18BD2A
 D:/unity/Project/India/ClientConfig/LubanConfig/Datas/HornPropConfig.xlsx,6673D4A4CA14459A8C1CAC124A88727,10431,1694428621954
 D:/unity/Project/India/ClientConfig/LubanConfig/Datas/ItemConfig.xlsx,B4F98091DBD9F33966F53628EC0FFD0,10621,1694527406803
 D:/unity/Project/India/ClientConfig/LubanConfig/Datas/Language.xlsx,234FD7A30246762E7A42AEA7B534D9,10013,1694088135995
-D:/unity/Project/India/ClientConfig/LubanConfig/Datas/Localization.xlsx,C217CBBF6E79FC5F9D9706BE992D965,245796,1694527406805
-D:/unity/Project/India/ClientConfig/LubanConfig/Datas/VIPPropConfig.xlsx,D25A50B2FA1DF01C2B9BEE8C6D4A9,10695,1694490899113
+D:/unity/Project/India/ClientConfig/LubanConfig/Datas/Localization.xlsx,1114519EB69F0587BD1B4CB3D430CE,245740,1694574136818
+D:/unity/Project/India/ClientConfig/LubanConfig/Datas/VIPPropConfig.xlsx,137644A23B44A585F3B7C268D2F098,10644,1694601498312
 D:/unity/Project/India/ClientConfig/LubanConfig/Gen/entrance/EntranceConfig.cs,139485ED3DC34B982907DEBD022A9E,2759,1694070869399
 D:/unity/Project/India/ClientConfig/LubanConfig/Gen/entrance/EntranceNatureConfig.cs,115050C0BBF5835633982EDF41FF6753,2799,1694070869398
 D:/unity/Project/India/ClientConfig/LubanConfig/Gen/entrance/TBEntrance.cs,5A632D9CA64C43D58DC40CB776E351,1925,1694070869410

@@ -1,34 +1,34 @@
 [
   {
     "id": 400000,
-    "icon": "VIP_0"
+    "icon": "vip_0"
   },
   {
     "id": 400001,
-    "icon": "VIP_1"
+    "icon": "vip_1"
   },
   {
     "id": 400002,
-    "icon": "VIP_2"
+    "icon": "vip_2"
   },
   {
     "id": 400003,
-    "icon": "VIP_3"
+    "icon": "vip_3"
   },
   {
     "id": 400004,
-    "icon": "VIP_4"
+    "icon": "vip_4"
   },
   {
     "id": 400005,
-    "icon": "VIP_5"
+    "icon": "vip_5"
   },
   {
     "id": 400006,
-    "icon": "VIP_6"
+    "icon": "vip_6"
   },
   {
     "id": 400007,
-    "icon": "VIP_7"
+    "icon": "vip_7"
   }
 ]
