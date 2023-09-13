@@ -21088,6 +21088,22 @@
     "Tamil": "qd_yw_1"
   },
   {
+    "id": "370055",
+    "type": "Texture",
+    "locationName": "module70Atlas",
+    "chinese": "hh_icon_gzz_zw",
+    "english": "hh_icon_gzz_yw",
+    "spanish": "hh_icon_gzz_yw",
+    "portuguese": "hh_icon_gzz_yw",
+    "french": "hh_icon_gzz_yw",
+    "indonesian": "hh_icon_gzz_yw",
+    "malay": "hh_icon_gzz_yw",
+    "Hindi": "hh_icon_gzz_yw",
+    "Bengali": "hh_icon_gzz_yw",
+    "Telugu": "hh_icon_gzz_yw",
+    "Tamil": "hh_icon_gzz_yw"
+  },
+  {
     "id": "371001",
     "type": "",
     "locationName": "",
