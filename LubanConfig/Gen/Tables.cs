@@ -30,6 +30,7 @@ public sealed partial class Tables
     public Prop.TBVIPProp TBVIPProp {get; }
     public Prop.TBAvatarFrame TBAvatarFrame {get; }
     public Prop.TBHornProp TBHornProp {get; }
+    public Prop.TBEntityProp TBEntityProp {get; }
 
     public Tables(System.Func<string, JSONNode> loader)
     {
@@ -56,6 +57,8 @@ public sealed partial class Tables
         tables.Add("Prop.TBAvatarFrame", TBAvatarFrame);
         TBHornProp = new Prop.TBHornProp(loader("prop_tbhornprop")); 
         tables.Add("Prop.TBHornProp", TBHornProp);
+        TBEntityProp = new Prop.TBEntityProp(loader("prop_tbentityprop")); 
+        tables.Add("Prop.TBEntityProp", TBEntityProp);
         PostInit();
 
         TBLocalization.Resolve(tables); 
@@ -69,6 +72,7 @@ public sealed partial class Tables
         TBVIPProp.Resolve(tables); 
         TBAvatarFrame.Resolve(tables); 
         TBHornProp.Resolve(tables); 
+        TBEntityProp.Resolve(tables); 
         PostResolve();
     }
 
@@ -85,6 +89,7 @@ public sealed partial class Tables
         TBVIPProp.TranslateText(translator); 
         TBAvatarFrame.TranslateText(translator); 
         TBHornProp.TranslateText(translator); 
+        TBEntityProp.TranslateText(translator); 
     }
     
     partial void PostInit();
