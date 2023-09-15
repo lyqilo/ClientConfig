@@ -9600,6 +9600,38 @@
     "Tamil": ""
   },
   {
+    "id": "221048",
+    "type": "",
+    "locationName": "",
+    "chinese": "金币变动",
+    "english": "Gold Change",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "Gold Change",
+    "Bengali": "Gold Change",
+    "Telugu": "Gold Change",
+    "Tamil": "Gold Change"
+  },
+  {
+    "id": "221049",
+    "type": "",
+    "locationName": "",
+    "chinese": "对象",
+    "english": "Targets",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "Targets",
+    "Bengali": "Targets",
+    "Telugu": "Targets",
+    "Tamil": "Targets"
+  },
+  {
     "id": "222001",
     "type": "",
     "locationName": "",
