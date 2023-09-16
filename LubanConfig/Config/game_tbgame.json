@@ -1177,5 +1177,53 @@
     "downFiles": [
       "module74"
     ]
+  },
+  {
+    "ID": 50,
+    "scenName": "module27",
+    "gameStatus": 0,
+    "uiName": "",
+    "gameName": "400075",
+    "clientId": 75,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "LandscapeLeft",
+    "StartScriptName": "Hotfix.CaiShengDao.UIEntry",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module27"
+    ]
+  },
+  {
+    "ID": 51,
+    "scenName": "module28",
+    "gameStatus": 0,
+    "uiName": "",
+    "gameName": "400076",
+    "clientId": 76,
+    "otherClientId": 0,
+    "BL": [
+      "1",
+      "10",
+      "100",
+      "10000"
+    ],
+    "Orientation": "LandscapeLeft",
+    "StartScriptName": "Hotfix.Fulinmen.UIEntry",
+    "rootName": "",
+    "luaPath": "",
+    "luaRootName": "",
+    "driveType": "ILRuntime",
+    "downFiles": [
+      "module28"
+    ]
   }
 ]
