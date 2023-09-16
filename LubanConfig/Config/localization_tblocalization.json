@@ -23710,5 +23710,21 @@
     "Bengali": "tgg_yw",
     "Telugu": "tgg_yw",
     "Tamil": "tgg_yw"
+  },
+  {
+    "id": "710026",
+    "type": "Texture",
+    "locationName": "",
+    "chinese": "phb_wsb_zw",
+    "english": "phb_wsb_yw",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
   }
 ]
