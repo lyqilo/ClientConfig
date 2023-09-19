@@ -2000,6 +2000,22 @@
     "Tamil": "Not enough gold to enter a room"
   },
   {
+    "id": "30000009",
+    "type": "",
+    "locationName": "",
+    "chinese": "你有正在进行的游戏，请稍后重试！",
+    "english": "You have a game in progress, please try again later!",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
+  },
+  {
     "id": "201001",
     "type": "",
     "locationName": "",
