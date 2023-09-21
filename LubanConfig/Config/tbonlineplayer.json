@@ -1,0 +1,4106 @@
+[
+  {
+    "id": 6710000,
+    "clientId": 71,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6710001,
+    "clientId": 71,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6710002,
+    "clientId": 71,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6710003,
+    "clientId": 71,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6710004,
+    "clientId": 71,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6710005,
+    "clientId": 71,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6710006,
+    "clientId": 71,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6710007,
+    "clientId": 71,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6710008,
+    "clientId": 71,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6710009,
+    "clientId": 71,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6710010,
+    "clientId": 71,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6710011,
+    "clientId": 71,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6710012,
+    "clientId": 71,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6710013,
+    "clientId": 71,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6710014,
+    "clientId": 71,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6710015,
+    "clientId": 71,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6710016,
+    "clientId": 71,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6710017,
+    "clientId": 71,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6710018,
+    "clientId": 71,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6710019,
+    "clientId": 71,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6710020,
+    "clientId": 71,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6710021,
+    "clientId": 71,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6710022,
+    "clientId": 71,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6710023,
+    "clientId": 71,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6620000,
+    "clientId": 62,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6620001,
+    "clientId": 62,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6620002,
+    "clientId": 62,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6620003,
+    "clientId": 62,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6620004,
+    "clientId": 62,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6620005,
+    "clientId": 62,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6620006,
+    "clientId": 62,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6620007,
+    "clientId": 62,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6620008,
+    "clientId": 62,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6620009,
+    "clientId": 62,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6620010,
+    "clientId": 62,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6620011,
+    "clientId": 62,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6620012,
+    "clientId": 62,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6620013,
+    "clientId": 62,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6620014,
+    "clientId": 62,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6620015,
+    "clientId": 62,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6620016,
+    "clientId": 62,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6620017,
+    "clientId": 62,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6620018,
+    "clientId": 62,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6620019,
+    "clientId": 62,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6620020,
+    "clientId": 62,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6620021,
+    "clientId": 62,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6620022,
+    "clientId": 62,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6620023,
+    "clientId": 62,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6720000,
+    "clientId": 72,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6720001,
+    "clientId": 72,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6720002,
+    "clientId": 72,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6720003,
+    "clientId": 72,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6720004,
+    "clientId": 72,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6720005,
+    "clientId": 72,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6720006,
+    "clientId": 72,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6720007,
+    "clientId": 72,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6720008,
+    "clientId": 72,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6720009,
+    "clientId": 72,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6720010,
+    "clientId": 72,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6720011,
+    "clientId": 72,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6720012,
+    "clientId": 72,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6720013,
+    "clientId": 72,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6720014,
+    "clientId": 72,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6720015,
+    "clientId": 72,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6720016,
+    "clientId": 72,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6720017,
+    "clientId": 72,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6720018,
+    "clientId": 72,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6720019,
+    "clientId": 72,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6720020,
+    "clientId": 72,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6720021,
+    "clientId": 72,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6720022,
+    "clientId": 72,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6720023,
+    "clientId": 72,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6690000,
+    "clientId": 69,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1350
+  },
+  {
+    "id": 6690001,
+    "clientId": 69,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 1050
+  },
+  {
+    "id": 6690002,
+    "clientId": 69,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 150,
+    "max": 750
+  },
+  {
+    "id": 6690003,
+    "clientId": 69,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 75,
+    "max": 450
+  },
+  {
+    "id": 6690004,
+    "clientId": 69,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 60,
+    "max": 375
+  },
+  {
+    "id": 6690005,
+    "clientId": 69,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 45,
+    "max": 300
+  },
+  {
+    "id": 6690006,
+    "clientId": 69,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 45,
+    "max": 375
+  },
+  {
+    "id": 6690007,
+    "clientId": 69,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 150,
+    "max": 450
+  },
+  {
+    "id": 6690008,
+    "clientId": 69,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 225,
+    "max": 525
+  },
+  {
+    "id": 6690009,
+    "clientId": 69,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 270,
+    "max": 600
+  },
+  {
+    "id": 6690010,
+    "clientId": 69,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 675
+  },
+  {
+    "id": 6690011,
+    "clientId": 69,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 750
+  },
+  {
+    "id": 6690012,
+    "clientId": 69,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 825
+  },
+  {
+    "id": 6690013,
+    "clientId": 69,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 450,
+    "max": 900
+  },
+  {
+    "id": 6690014,
+    "clientId": 69,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 525,
+    "max": 975
+  },
+  {
+    "id": 6690015,
+    "clientId": 69,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 1050
+  },
+  {
+    "id": 6690016,
+    "clientId": 69,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 750,
+    "max": 1125
+  },
+  {
+    "id": 6690017,
+    "clientId": 69,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 825,
+    "max": 1200
+  },
+  {
+    "id": 6690018,
+    "clientId": 69,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1275
+  },
+  {
+    "id": 6690019,
+    "clientId": 69,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 975,
+    "max": 1350
+  },
+  {
+    "id": 6690020,
+    "clientId": 69,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1050,
+    "max": 1425
+  },
+  {
+    "id": 6690021,
+    "clientId": 69,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1125,
+    "max": 1500
+  },
+  {
+    "id": 6690022,
+    "clientId": 69,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1125,
+    "max": 1500
+  },
+  {
+    "id": 6690023,
+    "clientId": 69,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1200,
+    "max": 1500
+  },
+  {
+    "id": 6700000,
+    "clientId": 70,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1350
+  },
+  {
+    "id": 6700001,
+    "clientId": 70,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 1050
+  },
+  {
+    "id": 6700002,
+    "clientId": 70,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 150,
+    "max": 750
+  },
+  {
+    "id": 6700003,
+    "clientId": 70,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 75,
+    "max": 450
+  },
+  {
+    "id": 6700004,
+    "clientId": 70,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 60,
+    "max": 375
+  },
+  {
+    "id": 6700005,
+    "clientId": 70,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 45,
+    "max": 300
+  },
+  {
+    "id": 6700006,
+    "clientId": 70,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 45,
+    "max": 375
+  },
+  {
+    "id": 6700007,
+    "clientId": 70,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 150,
+    "max": 450
+  },
+  {
+    "id": 6700008,
+    "clientId": 70,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 225,
+    "max": 525
+  },
+  {
+    "id": 6700009,
+    "clientId": 70,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 270,
+    "max": 600
+  },
+  {
+    "id": 6700010,
+    "clientId": 70,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 675
+  },
+  {
+    "id": 6700011,
+    "clientId": 70,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 750
+  },
+  {
+    "id": 6700012,
+    "clientId": 70,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 825
+  },
+  {
+    "id": 6700013,
+    "clientId": 70,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 450,
+    "max": 900
+  },
+  {
+    "id": 6700014,
+    "clientId": 70,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 525,
+    "max": 975
+  },
+  {
+    "id": 6700015,
+    "clientId": 70,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 1050
+  },
+  {
+    "id": 6700016,
+    "clientId": 70,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 750,
+    "max": 1125
+  },
+  {
+    "id": 6700017,
+    "clientId": 70,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 825,
+    "max": 1200
+  },
+  {
+    "id": 6700018,
+    "clientId": 70,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1275
+  },
+  {
+    "id": 6700019,
+    "clientId": 70,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 975,
+    "max": 1350
+  },
+  {
+    "id": 6700020,
+    "clientId": 70,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1050,
+    "max": 1425
+  },
+  {
+    "id": 6700021,
+    "clientId": 70,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1125,
+    "max": 1500
+  },
+  {
+    "id": 6700022,
+    "clientId": 70,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1125,
+    "max": 1500
+  },
+  {
+    "id": 6700023,
+    "clientId": 70,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1200,
+    "max": 1500
+  },
+  {
+    "id": 6660000,
+    "clientId": 66,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1350
+  },
+  {
+    "id": 6660001,
+    "clientId": 66,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 1050
+  },
+  {
+    "id": 6660002,
+    "clientId": 66,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 150,
+    "max": 750
+  },
+  {
+    "id": 6660003,
+    "clientId": 66,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 75,
+    "max": 450
+  },
+  {
+    "id": 6660004,
+    "clientId": 66,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 60,
+    "max": 375
+  },
+  {
+    "id": 6660005,
+    "clientId": 66,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 45,
+    "max": 300
+  },
+  {
+    "id": 6660006,
+    "clientId": 66,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 45,
+    "max": 375
+  },
+  {
+    "id": 6660007,
+    "clientId": 66,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 150,
+    "max": 450
+  },
+  {
+    "id": 6660008,
+    "clientId": 66,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 225,
+    "max": 525
+  },
+  {
+    "id": 6660009,
+    "clientId": 66,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 270,
+    "max": 600
+  },
+  {
+    "id": 6660010,
+    "clientId": 66,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 675
+  },
+  {
+    "id": 6660011,
+    "clientId": 66,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 750
+  },
+  {
+    "id": 6660012,
+    "clientId": 66,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 300,
+    "max": 825
+  },
+  {
+    "id": 6660013,
+    "clientId": 66,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 450,
+    "max": 900
+  },
+  {
+    "id": 6660014,
+    "clientId": 66,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 525,
+    "max": 975
+  },
+  {
+    "id": 6660015,
+    "clientId": 66,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 1050
+  },
+  {
+    "id": 6660016,
+    "clientId": 66,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 750,
+    "max": 1125
+  },
+  {
+    "id": 6660017,
+    "clientId": 66,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 825,
+    "max": 1200
+  },
+  {
+    "id": 6660018,
+    "clientId": 66,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1275
+  },
+  {
+    "id": 6660019,
+    "clientId": 66,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 975,
+    "max": 1350
+  },
+  {
+    "id": 6660020,
+    "clientId": 66,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1050,
+    "max": 1425
+  },
+  {
+    "id": 6660021,
+    "clientId": 66,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1125,
+    "max": 1500
+  },
+  {
+    "id": 6660022,
+    "clientId": 66,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1125,
+    "max": 1500
+  },
+  {
+    "id": 6660023,
+    "clientId": 66,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 1200,
+    "max": 1500
+  },
+  {
+    "id": 6650000,
+    "clientId": 65,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6650001,
+    "clientId": 65,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6650002,
+    "clientId": 65,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6650003,
+    "clientId": 65,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6650004,
+    "clientId": 65,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6650005,
+    "clientId": 65,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6650006,
+    "clientId": 65,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6650007,
+    "clientId": 65,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6650008,
+    "clientId": 65,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6650009,
+    "clientId": 65,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6650010,
+    "clientId": 65,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6650011,
+    "clientId": 65,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6650012,
+    "clientId": 65,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6650013,
+    "clientId": 65,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6650014,
+    "clientId": 65,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6650015,
+    "clientId": 65,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6650016,
+    "clientId": 65,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6650017,
+    "clientId": 65,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6650018,
+    "clientId": 65,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6650019,
+    "clientId": 65,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6650020,
+    "clientId": 65,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6650021,
+    "clientId": 65,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6650022,
+    "clientId": 65,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6650023,
+    "clientId": 65,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6390000,
+    "clientId": 39,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6390001,
+    "clientId": 39,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6390002,
+    "clientId": 39,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6390003,
+    "clientId": 39,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6390004,
+    "clientId": 39,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6390005,
+    "clientId": 39,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6390006,
+    "clientId": 39,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6390007,
+    "clientId": 39,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6390008,
+    "clientId": 39,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6390009,
+    "clientId": 39,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6390010,
+    "clientId": 39,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6390011,
+    "clientId": 39,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6390012,
+    "clientId": 39,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6390013,
+    "clientId": 39,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6390014,
+    "clientId": 39,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6390015,
+    "clientId": 39,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6390016,
+    "clientId": 39,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6390017,
+    "clientId": 39,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6390018,
+    "clientId": 39,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6390019,
+    "clientId": 39,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6390020,
+    "clientId": 39,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6390021,
+    "clientId": 39,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6390022,
+    "clientId": 39,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6390023,
+    "clientId": 39,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6220000,
+    "clientId": 22,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6220001,
+    "clientId": 22,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6220002,
+    "clientId": 22,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6220003,
+    "clientId": 22,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6220004,
+    "clientId": 22,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6220005,
+    "clientId": 22,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6220006,
+    "clientId": 22,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6220007,
+    "clientId": 22,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6220008,
+    "clientId": 22,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6220009,
+    "clientId": 22,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6220010,
+    "clientId": 22,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6220011,
+    "clientId": 22,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6220012,
+    "clientId": 22,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6220013,
+    "clientId": 22,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6220014,
+    "clientId": 22,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6220015,
+    "clientId": 22,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6220016,
+    "clientId": 22,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6220017,
+    "clientId": 22,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6220018,
+    "clientId": 22,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6220019,
+    "clientId": 22,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6220020,
+    "clientId": 22,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6220021,
+    "clientId": 22,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6220022,
+    "clientId": 22,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6220023,
+    "clientId": 22,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6570000,
+    "clientId": 57,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6570001,
+    "clientId": 57,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6570002,
+    "clientId": 57,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6570003,
+    "clientId": 57,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6570004,
+    "clientId": 57,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6570005,
+    "clientId": 57,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6570006,
+    "clientId": 57,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6570007,
+    "clientId": 57,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6570008,
+    "clientId": 57,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6570009,
+    "clientId": 57,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6570010,
+    "clientId": 57,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6570011,
+    "clientId": 57,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6570012,
+    "clientId": 57,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6570013,
+    "clientId": 57,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6570014,
+    "clientId": 57,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6570015,
+    "clientId": 57,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6570016,
+    "clientId": 57,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6570017,
+    "clientId": 57,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6570018,
+    "clientId": 57,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6570019,
+    "clientId": 57,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6570020,
+    "clientId": 57,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6570021,
+    "clientId": 57,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6570022,
+    "clientId": 57,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6570023,
+    "clientId": 57,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6760000,
+    "clientId": 76,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6760001,
+    "clientId": 76,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6760002,
+    "clientId": 76,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6760003,
+    "clientId": 76,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6760004,
+    "clientId": 76,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6760005,
+    "clientId": 76,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6760006,
+    "clientId": 76,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6760007,
+    "clientId": 76,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6760008,
+    "clientId": 76,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6760009,
+    "clientId": 76,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6760010,
+    "clientId": 76,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6760011,
+    "clientId": 76,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6760012,
+    "clientId": 76,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6760013,
+    "clientId": 76,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6760014,
+    "clientId": 76,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6760015,
+    "clientId": 76,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6760016,
+    "clientId": 76,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6760017,
+    "clientId": 76,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6760018,
+    "clientId": 76,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6760019,
+    "clientId": 76,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6760020,
+    "clientId": 76,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6760021,
+    "clientId": 76,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6760022,
+    "clientId": 76,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6760023,
+    "clientId": 76,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6440000,
+    "clientId": 44,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6440001,
+    "clientId": 44,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6440002,
+    "clientId": 44,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6440003,
+    "clientId": 44,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6440004,
+    "clientId": 44,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6440005,
+    "clientId": 44,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6440006,
+    "clientId": 44,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6440007,
+    "clientId": 44,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6440008,
+    "clientId": 44,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6440009,
+    "clientId": 44,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6440010,
+    "clientId": 44,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6440011,
+    "clientId": 44,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6440012,
+    "clientId": 44,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6440013,
+    "clientId": 44,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6440014,
+    "clientId": 44,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6440015,
+    "clientId": 44,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6440016,
+    "clientId": 44,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6440017,
+    "clientId": 44,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6440018,
+    "clientId": 44,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6440019,
+    "clientId": 44,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6440020,
+    "clientId": 44,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6440021,
+    "clientId": 44,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6440022,
+    "clientId": 44,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6440023,
+    "clientId": 44,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6400000,
+    "clientId": 40,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6400001,
+    "clientId": 40,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6400002,
+    "clientId": 40,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6400003,
+    "clientId": 40,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6400004,
+    "clientId": 40,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6400005,
+    "clientId": 40,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6400006,
+    "clientId": 40,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6400007,
+    "clientId": 40,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6400008,
+    "clientId": 40,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6400009,
+    "clientId": 40,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6400010,
+    "clientId": 40,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6400011,
+    "clientId": 40,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6400012,
+    "clientId": 40,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6400013,
+    "clientId": 40,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6400014,
+    "clientId": 40,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6400015,
+    "clientId": 40,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6400016,
+    "clientId": 40,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6400017,
+    "clientId": 40,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6400018,
+    "clientId": 40,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6400019,
+    "clientId": 40,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6400020,
+    "clientId": 40,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6400021,
+    "clientId": 40,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6400022,
+    "clientId": 40,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6400023,
+    "clientId": 40,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6610000,
+    "clientId": 61,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6610001,
+    "clientId": 61,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6610002,
+    "clientId": 61,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6610003,
+    "clientId": 61,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6610004,
+    "clientId": 61,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6610005,
+    "clientId": 61,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6610006,
+    "clientId": 61,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6610007,
+    "clientId": 61,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6610008,
+    "clientId": 61,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6610009,
+    "clientId": 61,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6610010,
+    "clientId": 61,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6610011,
+    "clientId": 61,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6610012,
+    "clientId": 61,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6610013,
+    "clientId": 61,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6610014,
+    "clientId": 61,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6610015,
+    "clientId": 61,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6610016,
+    "clientId": 61,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6610017,
+    "clientId": 61,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6610018,
+    "clientId": 61,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6610019,
+    "clientId": 61,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6610020,
+    "clientId": 61,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6610021,
+    "clientId": 61,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6610022,
+    "clientId": 61,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6610023,
+    "clientId": 61,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6210000,
+    "clientId": 21,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6210001,
+    "clientId": 21,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6210002,
+    "clientId": 21,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6210003,
+    "clientId": 21,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6210004,
+    "clientId": 21,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6210005,
+    "clientId": 21,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6210006,
+    "clientId": 21,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6210007,
+    "clientId": 21,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6210008,
+    "clientId": 21,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6210009,
+    "clientId": 21,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6210010,
+    "clientId": 21,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6210011,
+    "clientId": 21,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6210012,
+    "clientId": 21,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6210013,
+    "clientId": 21,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6210014,
+    "clientId": 21,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6210015,
+    "clientId": 21,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6210016,
+    "clientId": 21,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6210017,
+    "clientId": 21,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6210018,
+    "clientId": 21,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6210019,
+    "clientId": 21,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6210020,
+    "clientId": 21,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6210021,
+    "clientId": 21,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6210022,
+    "clientId": 21,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6210023,
+    "clientId": 21,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6540000,
+    "clientId": 54,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6540001,
+    "clientId": 54,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6540002,
+    "clientId": 54,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6540003,
+    "clientId": 54,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6540004,
+    "clientId": 54,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6540005,
+    "clientId": 54,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6540006,
+    "clientId": 54,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6540007,
+    "clientId": 54,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6540008,
+    "clientId": 54,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6540009,
+    "clientId": 54,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6540010,
+    "clientId": 54,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6540011,
+    "clientId": 54,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6540012,
+    "clientId": 54,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6540013,
+    "clientId": 54,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6540014,
+    "clientId": 54,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6540015,
+    "clientId": 54,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6540016,
+    "clientId": 54,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6540017,
+    "clientId": 54,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6540018,
+    "clientId": 54,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6540019,
+    "clientId": 54,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6540020,
+    "clientId": 54,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6540021,
+    "clientId": 54,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6540022,
+    "clientId": 54,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6540023,
+    "clientId": 54,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6750000,
+    "clientId": 75,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 105
+  },
+  {
+    "id": 6750001,
+    "clientId": 75,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 89
+  },
+  {
+    "id": 6750002,
+    "clientId": 75,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 84
+  },
+  {
+    "id": 6750003,
+    "clientId": 75,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 79
+  },
+  {
+    "id": 6750004,
+    "clientId": 75,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 42,
+    "max": 63
+  },
+  {
+    "id": 6750005,
+    "clientId": 75,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 53
+  },
+  {
+    "id": 6750006,
+    "clientId": 75,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 42
+  },
+  {
+    "id": 6750007,
+    "clientId": 75,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 21,
+    "max": 47
+  },
+  {
+    "id": 6750008,
+    "clientId": 75,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 26,
+    "max": 47
+  },
+  {
+    "id": 6750009,
+    "clientId": 75,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 32,
+    "max": 49
+  },
+  {
+    "id": 6750010,
+    "clientId": 75,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 37,
+    "max": 53
+  },
+  {
+    "id": 6750011,
+    "clientId": 75,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 47,
+    "max": 58
+  },
+  {
+    "id": 6750012,
+    "clientId": 75,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 53,
+    "max": 68
+  },
+  {
+    "id": 6750013,
+    "clientId": 75,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 58,
+    "max": 68
+  },
+  {
+    "id": 6750014,
+    "clientId": 75,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 63,
+    "max": 68
+  },
+  {
+    "id": 6750015,
+    "clientId": 75,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 68,
+    "max": 74
+  },
+  {
+    "id": 6750016,
+    "clientId": 75,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 63
+  },
+  {
+    "id": 6750017,
+    "clientId": 75,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 75
+  },
+  {
+    "id": 6750018,
+    "clientId": 75,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 84
+  },
+  {
+    "id": 6750019,
+    "clientId": 75,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 74,
+    "max": 87
+  },
+  {
+    "id": 6750020,
+    "clientId": 75,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 79,
+    "max": 95
+  },
+  {
+    "id": 6750021,
+    "clientId": 75,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 80,
+    "max": 100
+  },
+  {
+    "id": 6750022,
+    "clientId": 75,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6750023,
+    "clientId": 75,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 84,
+    "max": 105
+  },
+  {
+    "id": 6730000,
+    "clientId": 73,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 720,
+    "max": 1080
+  },
+  {
+    "id": 6730001,
+    "clientId": 73,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 480,
+    "max": 840
+  },
+  {
+    "id": 6730002,
+    "clientId": 73,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 120,
+    "max": 600
+  },
+  {
+    "id": 6730003,
+    "clientId": 73,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 60,
+    "max": 360
+  },
+  {
+    "id": 6730004,
+    "clientId": 73,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 48,
+    "max": 300
+  },
+  {
+    "id": 6730005,
+    "clientId": 73,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 36,
+    "max": 240
+  },
+  {
+    "id": 6730006,
+    "clientId": 73,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 36,
+    "max": 300
+  },
+  {
+    "id": 6730007,
+    "clientId": 73,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 120,
+    "max": 360
+  },
+  {
+    "id": 6730008,
+    "clientId": 73,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 180,
+    "max": 420
+  },
+  {
+    "id": 6730009,
+    "clientId": 73,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 216,
+    "max": 480
+  },
+  {
+    "id": 6730010,
+    "clientId": 73,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 240,
+    "max": 540
+  },
+  {
+    "id": 6730011,
+    "clientId": 73,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 240,
+    "max": 600
+  },
+  {
+    "id": 6730012,
+    "clientId": 73,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 240,
+    "max": 660
+  },
+  {
+    "id": 6730013,
+    "clientId": 73,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 360,
+    "max": 720
+  },
+  {
+    "id": 6730014,
+    "clientId": 73,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 420,
+    "max": 780
+  },
+  {
+    "id": 6730015,
+    "clientId": 73,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 480,
+    "max": 840
+  },
+  {
+    "id": 6730016,
+    "clientId": 73,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 900
+  },
+  {
+    "id": 6730017,
+    "clientId": 73,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 660,
+    "max": 960
+  },
+  {
+    "id": 6730018,
+    "clientId": 73,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 720,
+    "max": 1020
+  },
+  {
+    "id": 6730019,
+    "clientId": 73,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 780,
+    "max": 1080
+  },
+  {
+    "id": 6730020,
+    "clientId": 73,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 840,
+    "max": 1140
+  },
+  {
+    "id": 6730021,
+    "clientId": 73,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1200
+  },
+  {
+    "id": 6730022,
+    "clientId": 73,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1200
+  },
+  {
+    "id": 6730023,
+    "clientId": 73,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 960,
+    "max": 1200
+  },
+  {
+    "id": 6740000,
+    "clientId": 74,
+    "timeId": 0,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 720,
+    "max": 1080
+  },
+  {
+    "id": 6740001,
+    "clientId": 74,
+    "timeId": 1,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 480,
+    "max": 840
+  },
+  {
+    "id": 6740002,
+    "clientId": 74,
+    "timeId": 2,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 120,
+    "max": 600
+  },
+  {
+    "id": 6740003,
+    "clientId": 74,
+    "timeId": 3,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 60,
+    "max": 360
+  },
+  {
+    "id": 6740004,
+    "clientId": 74,
+    "timeId": 4,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 48,
+    "max": 300
+  },
+  {
+    "id": 6740005,
+    "clientId": 74,
+    "timeId": 5,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 36,
+    "max": 240
+  },
+  {
+    "id": 6740006,
+    "clientId": 74,
+    "timeId": 6,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 36,
+    "max": 300
+  },
+  {
+    "id": 6740007,
+    "clientId": 74,
+    "timeId": 7,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 120,
+    "max": 360
+  },
+  {
+    "id": 6740008,
+    "clientId": 74,
+    "timeId": 8,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 180,
+    "max": 420
+  },
+  {
+    "id": 6740009,
+    "clientId": 74,
+    "timeId": 9,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 216,
+    "max": 480
+  },
+  {
+    "id": 6740010,
+    "clientId": 74,
+    "timeId": 10,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 240,
+    "max": 540
+  },
+  {
+    "id": 6740011,
+    "clientId": 74,
+    "timeId": 11,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 240,
+    "max": 600
+  },
+  {
+    "id": 6740012,
+    "clientId": 74,
+    "timeId": 12,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 240,
+    "max": 660
+  },
+  {
+    "id": 6740013,
+    "clientId": 74,
+    "timeId": 13,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 360,
+    "max": 720
+  },
+  {
+    "id": 6740014,
+    "clientId": 74,
+    "timeId": 14,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 420,
+    "max": 780
+  },
+  {
+    "id": 6740015,
+    "clientId": 74,
+    "timeId": 15,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 480,
+    "max": 840
+  },
+  {
+    "id": 6740016,
+    "clientId": 74,
+    "timeId": 16,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 600,
+    "max": 900
+  },
+  {
+    "id": 6740017,
+    "clientId": 74,
+    "timeId": 17,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 660,
+    "max": 960
+  },
+  {
+    "id": 6740018,
+    "clientId": 74,
+    "timeId": 18,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 720,
+    "max": 1020
+  },
+  {
+    "id": 6740019,
+    "clientId": 74,
+    "timeId": 19,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 780,
+    "max": 1080
+  },
+  {
+    "id": 6740020,
+    "clientId": 74,
+    "timeId": 20,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 840,
+    "max": 1140
+  },
+  {
+    "id": 6740021,
+    "clientId": 74,
+    "timeId": 21,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1200
+  },
+  {
+    "id": 6740022,
+    "clientId": 74,
+    "timeId": 22,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 900,
+    "max": 1200
+  },
+  {
+    "id": 6740023,
+    "clientId": 74,
+    "timeId": 23,
+    "reTimelimit": 60,
+    "reTimeMax": 300,
+    "limit": 960,
+    "max": 1200
+  }
+]
