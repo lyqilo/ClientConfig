@@ -24368,22 +24368,6 @@
     "Tamil": "zpzd_yw"
   },
   {
-    "id": "700026",
-    "type": "Material",
-    "locationName": "",
-    "chinese": "tgg_m_zw",
-    "english": "tgg_m_yw",
-    "spanish": "",
-    "portuguese": "",
-    "french": "",
-    "indonesian": "",
-    "malay": "",
-    "Hindi": "tgg_yw",
-    "Bengali": "tgg_yw",
-    "Telugu": "tgg_yw",
-    "Tamil": "tgg_yw"
-  },
-  {
     "id": "710026",
     "type": "Texture",
     "locationName": "",
