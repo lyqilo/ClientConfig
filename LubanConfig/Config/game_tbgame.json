@@ -1121,7 +1121,7 @@
       "10000"
     ],
     "Orientation": "LandscapeLeft",
-    "StartScriptName": "Hotfix.ZS.ZS_Enter",
+    "StartScriptName": "Hotfix.TeenPattie_Enter",
     "rootName": "",
     "luaPath": "",
     "luaRootName": "",
@@ -1180,7 +1180,7 @@
   },
   {
     "ID": 50,
-    "scenName": "module27",
+    "scenName": "module75",
     "gameStatus": 0,
     "uiName": "",
     "gameName": "400027",
@@ -1199,12 +1199,12 @@
     "luaRootName": "",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module27"
+      "module75"
     ]
   },
   {
     "ID": 51,
-    "scenName": "module28",
+    "scenName": "module76",
     "gameStatus": 0,
     "uiName": "",
     "gameName": "400072",
@@ -1223,7 +1223,7 @@
     "luaRootName": "",
     "driveType": "ILRuntime",
     "downFiles": [
-      "module28"
+      "module76"
     ]
   }
 ]
