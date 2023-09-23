@@ -1872,6 +1872,38 @@
     "Tamil": ""
   },
   {
+    "id": "20002016",
+    "type": "",
+    "locationName": "",
+    "chinese": "新密码不能与原密码相同",
+    "english": "The new password can not be the same as the original password",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
+  },
+  {
+    "id": "20002017",
+    "type": "",
+    "locationName": "",
+    "chinese": "数据错误，请联系客服",
+    "english": "Data error, please contact customer service",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
+  },
+  {
     "id": "30000001",
     "type": "",
     "locationName": "",
@@ -20654,6 +20686,22 @@
     "Bengali": "Not enough coins",
     "Telugu": "Not enough coins",
     "Tamil": "Not enough coins"
+  },
+  {
+    "id": "369048",
+    "type": "",
+    "locationName": "",
+    "chinese": "相对结果区域不允许同时下注",
+    "english": "No simultaneous bets are allowed on relative result areas",
+    "spanish": "",
+    "portuguese": "",
+    "french": "",
+    "indonesian": "",
+    "malay": "",
+    "Hindi": "",
+    "Bengali": "",
+    "Telugu": "",
+    "Tamil": ""
   },
   {
     "id": "370001",
